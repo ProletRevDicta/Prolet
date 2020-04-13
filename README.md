@@ -6,9 +6,9 @@ Historical documents (in Chinese) about the GPCR（The great proletarian cultura
 ---
 为了方便搜索引擎收录，现将文件名列于下方：
 
-On the Inner-Party Bourgeoisie 论党内资产阶级-江苏人民出版社
+On the Inner-Party Bourgeoisie 论党内资产阶级-江苏人民出版社（报刊文选）
 
-Concise Dictionary of Philosophy 哲学小辞典（辩证唯物主义和历史唯物主义部分
+Concise Dictionary of Philosophy 哲学小辞典（辩证唯物主义和历史唯物主义部分）
 
 Lecture on the history of CPC 1中国共产党历史讲义（上册）old RC
 
@@ -51,3 +51,5 @@ SocialistPoliticalEconomics1976社会主义政治经济学1976年4月
 
 或者在github改用纯文本格式（如md ,html）储存文档。
 
+---
+From PRD:建议保留一份pdf备份。
