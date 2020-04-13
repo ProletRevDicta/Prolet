@@ -52,4 +52,4 @@ SocialistPoliticalEconomics1976社会主义政治经济学1976年4月
 或者在github改用纯文本格式（如md ,html）储存文档。
 
 ---
-From PRD:建议保留一份pdf备份。
+From PRD:建议保留pdf文件的备份，尤其是历史文件。
