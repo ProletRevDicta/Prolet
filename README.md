@@ -4,7 +4,8 @@ Historical documents (in Chinese) about the GPCR（The great proletarian cultura
 文革历史资料。
 
 ---
-现有文档：
+为了方便搜索引擎收录，现将文件名列于下方：
+
 On the Inner-Party Bourgeoisie 论党内资产阶级-江苏人民出版社
 
 Concise Dictionary of Philosophy 哲学小辞典（辩证唯物主义和历史唯物主义部分
