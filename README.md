@@ -9,6 +9,7 @@ Historical documents (in Chinese) about the GPCR（The great proletarian cultura
 链接发布与下方：
 
 [(On Bourgeois Recht)论资产阶级法权.pdf](https://mega.nz/file/4M4DGZ6K#mW5YLapLyYDyl5qpoD_vFKDY0YyQI8uTUiofGHO3JNE)
+
 [(Thoroughly criticize the reactionary theory of the omnipotence of productive forces)彻底批判反动的唯生产力论](https://mega.nz/file/JRpHxAZI#JF_8EbPkyZ8aS47pOuExa9WLTFORo927JHojH6v3wW8)
 
 ---
