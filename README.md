@@ -1,9 +1,13 @@
 # Prolet
 Historical documents (in Chinese) about the GPCR（The great proletarian cultural revolution） (Thanks Comrade RC)
 
-文革历史资料。
+### 文革历史资料。
+
 ---
-2020/04/23 update
+
+---
+
+### 2020/04/23 update
 由于文件过大
 
 链接发布与下方：
