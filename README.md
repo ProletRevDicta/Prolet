@@ -7,8 +7,10 @@ Historical documents (in Chinese) about the GPCR（The great proletarian cultura
 
 ---
 
-### 2020/04/23 update
-由于文件过大
+### 2020/05/13 update
+TXT格式的书籍是PDF中不含可复制的文字信息的书籍
+
+由于文件过大（已扫描为TXT）
 
 链接发布与下方：
 
@@ -29,7 +31,7 @@ Lecture on the history of CPC 2中国共产党历史讲义（下册）old RC
 
 On the Inner-Party Bourgeoisie(Snippet)《谈谈党内资产阶级》(上海市委写作组)辑佚
 
-SocialistPoliticalEconomics1976社会主义政治经济学1976年4月
+SocialistPoliticalEconomics1976社会主义政治经济学1976年9月（更加清晰的版本）
 
 “全国宣传会筹备组”的“四人帮”哲学、政治经济学、科学社会主义、文艺材料_RC
 
@@ -53,6 +55,8 @@ SocialistPoliticalEconomics1976社会主义政治经济学1976年4月
 
 社会主义政治经济学197609版P464-465
 
+社会主义政治经济学 1976年9月版（模糊一些的版本，来自[马列之声电子书小组的书库](https://tieba.baidu.com/p/6212671631)，文字版经百度云高精度含位置信息接口扫描）
+
 陈以梅 在济南市二所对济南工人谈话19740322_RC
 
 陈以梅在山东省工农兵代表批林批孔汇报大会上的讲话19740227_RC
@@ -65,4 +69,4 @@ SocialistPoliticalEconomics1976社会主义政治经济学1976年4月
 或者在github改用纯文本格式（如md ,html）储存文档。
 
 ---
-From PRD:建议保留pdf文件的备份，尤其是历史文件。
+From PRD:建议保留pdf文件的备份，尤其是历史文件。txt文件用以快速检索pdf文件的内容。
