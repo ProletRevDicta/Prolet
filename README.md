@@ -7,7 +7,10 @@ Historical documents (in Chinese) about the GPCR（The great proletarian cultura
 
 ---
 
-### 2020/05/13 update
+### 2020/05/15 update
+
+所有生成TXT的源数据、以及此库内容已经备份到：[文革资料扫描成果（百度大脑）](https://mega.nz/folder/meIWmYxb#0k3RrtPPADtfh-n7vG_Tpw)
+
 TXT格式的书籍是PDF中不含可复制的文字信息的书籍
 
 由于文件过大（已扫描为TXT）
