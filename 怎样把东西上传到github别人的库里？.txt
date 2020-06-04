@@ -1,9 +1,0 @@
-1.Fork（右上角）
-2.在你跳转到的Fork库Clone（下载下来）
-（如果Clone的不是Fork库，而是主库，是不能发出上传请求的，因为那是别的用户的库）
-即命令：git clone <Use Git or checkout with SVN using the web URL.>
-cd 此库的文件夹目录
-git checkout -b AddingFile
-git add .
-git commit -m 'Adding a file'
-git push --set-upstream orgin AddingFile
