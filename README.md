@@ -7,7 +7,7 @@ Historical documents (in Chinese) about the GPCR（The great proletarian cultura
 
 ---
 
-### 2020/05/15 update
+### 2020/06/05 update
 
 所有生成TXT的源数据、以及此库内容已经备份到：[文革资料扫描成果（百度大脑）](https://mega.nz/folder/SDAxhK6L#t6lwA-MQPvKKtjaSEDkb8A)
 
@@ -64,6 +64,38 @@ SocialistPoliticalEconomics1976社会主义政治经济学1976年9月（更加�
 
 陈以梅在山东省工农兵代表批林批孔汇报大会上的讲话19740227_RC
 
+无产阶级文化大革命概述简论
+
+无产阶级文化大革命资料汇编
+
+机密档案中新发现的毛泽东讲话
+
+李达：唯物辩证法大纲
+
+毛远新在学习辽宁朝阳农学院教育革命经验现场会上的讲话（1974年12月23日）
+
+苏联社会帝国主义经济统计资料
+
+马克思主义国家学说讲话 北大哲学系72级工农兵学员
+
+政治经济学基础知识（第二版） 《政治经济学基础知识》编写组编
+
+政治经济学 社会主义部分 南开1976修订本
+
+国际问题学习文件及资料汇编（1974.11）
+
+关于党内资产阶级就问题的意见综述
+
+中央政治局同志在接见全国计划工作座谈会全体代表时的指示 湘
+
+中国共产党历史讲义（复旦1975）上册 扫描 RC
+
+The History of the International Communist Movement Vol I国际共产主义运动史上册PekingUniversality1976
+
+The History of the International Communist Movement Vol III国际共产主义运动史讲义初稿（第三册）PekingUniversality（1972.10）RC
+
+The History of the International Communist Movement Vol IV国际共产主义运动史讲义初稿（第四册）PekingUniversality（1972.10）
+
 ---
 注意到git并不适合用于分发二进制格式的文件，而是适用于分发文本文件。
 
@@ -73,3 +105,43 @@ SocialistPoliticalEconomics1976社会主义政治经济学1976年9月（更加�
 
 ---
 From PRD:建议保留pdf文件的备份，尤其是历史文件。txt文件用以快速检索pdf文件的内容。
+
+---
+需修复的破损文件：
+
+机密档案中新发现的毛泽东讲话.htm（BUG：在Firefox浏览器中不可复制、不可跳转页面）
+
+DOCX文件（BUG：一、工、之等字符有问题，无法搜索；有些在LibreOffice里文字显示不完整；在AbiWord里显示缺乏位置信息；文字大小波动很厉害）
+
+---
+百度云扫描带位置信息的文件，可以用[Reportlab](https://www.reportlab.com/docs/reportlab-userguide.pdf)（仅需加一个坐标系转换，将左下角坐标系转换为左上角坐标系）、Python等来生成一个PDF。
+
+不论是把原PDF的背景换为纯色还是基于一个空白PDF。
+
+可以一个字符一个drawText、也可以一段话一个drawText、也可以一行话一个drawText。
+
+### 在GitHub上怎样把东西上传到别人的库里？
+
+1.Fork（右上角）
+
+2.在你跳转到的Fork库Clone（下载下来）
+
+（如果Clone的不是Fork库，而是主库，是不能发出上传请求的，因为那是别的用户的库）
+
+即命令：git clone \<复制的git文件链接\>
+
+把你想上传的东西复制到里面
+
+cd 此库下载到的文件夹路径
+
+git checkout -b AddingFile
+
+git add .
+
+git commit -m 'Adding a file'
+
+git push --set-upstream orgin AddingFile
+
+当然，你的帐号在浏览器里要在线，最后一条命令执行完后，会弹出要不要Pull Request。
+
+如果你的Pull Request还没被接受，你可以在不上浏览器的同时来上传。
