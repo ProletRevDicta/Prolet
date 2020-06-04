@@ -140,7 +140,7 @@ git add .
 
 git commit -m 'Adding a file'
 
-git push --set-upstream orgin AddingFile
+git push --set-upstream origin AddingFile
 
 当然，你的帐号在浏览器里要在线，最后一条命令执行完后，会弹出要不要Pull Request。
 
