@@ -120,7 +120,7 @@ DOCX文件（BUG：一、工、之等字符有问题，无法搜索；有些在L
 
 可以一个字符一个drawText、也可以一段话一个drawText、也可以一行话一个drawText。
 
-### 在GitHub上怎样修改别人的库？
+### 在GitHub上怎样修改别人的库？（Ubuntu&Linux）
 
 1.Fork（右上角）
 
