@@ -6,6 +6,9 @@ Historical documents (in Chinese) about the GPCR（The great proletarian cultura
 ---
 
 ---
+### 2020/08/30 update
+【湖北"揭批查"】夏邦银、朱鸿霞、胡厚民等人的"罪证材料，"夏朱胡专案组"，1977年4月. RC
+https://mega.nz/file/TsBR3SJS#m9S851K7sW5ZOpuHqIad2KT-0Ungwef1aLIoz9d9W2E
 
 ### 2020/06/05 update
 
