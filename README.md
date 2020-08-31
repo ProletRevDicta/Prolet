@@ -2,8 +2,14 @@
 Historical documents (in Chinese) about the GPCR（The great proletarian cultural revolution） (Thanks Comrade RC)
 
 ### 文革历史资料。
-
 ---
+---
+
+### 2020/08/31 update
+A place for discussion
+https://mlms.xyz
+
+**There is no subordinate relationship or conflict of interest between this repo and the website**
 
 ---
 ### 2020/08/30 update
