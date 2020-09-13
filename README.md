@@ -13,7 +13,7 @@ https://mlms.xyz
 
 ---
 ### 2020/08/30 update
-【湖北"揭批查"】夏邦银、朱鸿霞、胡厚民等人的"罪证材料"，"夏朱胡专案组"，1977年4月. RC
+【湖北"揭批查"】夏邦银、朱鸿霞、胡厚民等人的"罪证材料"，"夏朱胡专案组"，1977年4月. RC 【供参考】
 https://mega.nz/file/TsBR3SJS#m9S851K7sW5ZOpuHqIad2KT-0Ungwef1aLIoz9d9W2E
 
 ### 2020/06/05 update
@@ -45,9 +45,9 @@ On the Inner-Party Bourgeoisie(Snippet)《谈谈党内资产阶级》(上海市�
 
 SocialistPoliticalEconomics1976社会主义政治经济学1976年9月（更加清晰的版本）
 
-“全国宣传会筹备组”的“四人帮”哲学、政治经济学、科学社会主义、文艺材料_RC
+“全国宣传会筹备组”的“四人帮”哲学、政治经济学、科学社会主义、文艺材料_RC 【供参考】
 
-“教育部大批判组”的“四人帮”教育材料_RC
+“教育部大批判组”的“四人帮”教育材料_RC 【供参考】
 
 上海市委写作组《谈谈党内资产阶级》辑佚
 
@@ -79,7 +79,7 @@ SocialistPoliticalEconomics1976社会主义政治经济学1976年9月（更加�
 
 机密档案中新发现的毛泽东讲话
 
-李达：唯物辩证法大纲
+李达：唯物辩证法大纲 【供参考】
 
 毛远新在学习辽宁朝阳农学院教育革命经验现场会上的讲话（1974年12月23日）
 
@@ -93,17 +93,17 @@ SocialistPoliticalEconomics1976社会主义政治经济学1976年9月（更加�
 
 国际问题学习文件及资料汇编（1974.11）
 
-关于党内资产阶级就问题的意见综述
+关于党内资产阶级问题的意见综述
 
 中央政治局同志在接见全国计划工作座谈会全体代表时的指示 湘
 
 中国共产党历史讲义（复旦1975）上册 扫描 RC
 
-The History of the International Communist Movement Vol I国际共产主义运动史上册PekingUniversality1976
+The History of the International Communist Movement Vol ⅠⅡ国际共产主义运动史上册PekingUniversality1976
 
-The History of the International Communist Movement Vol III国际共产主义运动史讲义初稿（第三册）PekingUniversality（1972.10）RC
+The History of the International Communist Movement Vol Ⅲ国际共产主义运动史讲义初稿（第三册）PekingUniversality（1972.10）RC
 
-The History of the International Communist Movement Vol IV国际共产主义运动史讲义初稿（第四册）PekingUniversality（1972.10）
+The History of the International Communist Movement Vol Ⅳ国际共产主义运动史讲义初稿（第四册）PekingUniversality（1972.10）
 
 党的基础知识 旧版
 
