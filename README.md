@@ -2,23 +2,16 @@
 Historical documents (in Chinese) about the GPCR（The great proletarian cultural revolution） (Thanks Comrade RC)
 
 ### 文革历史资料。
----
----
 
-### 2020/08/31 update
+### 2020/09/20 update
 A place for discussion
 https://mlms.xyz
 
 **There is no subordinate relationship or conflict of interest between this repo and the website**
 
 ---
-### 2020/08/30 update
-【湖北"揭批查"】夏邦银、朱鸿霞、胡厚民等人的"罪证材料"，"夏朱胡专案组"，1977年4月. RC 【供参考】
-https://mega.nz/file/TsBR3SJS#m9S851K7sW5ZOpuHqIad2KT-0Ungwef1aLIoz9d9W2E
 
-### 2020/06/05 update
-
-所有生成TXT的源数据、以及此库内容已经备份到：[文革资料扫描成果（百度大脑）](https://mega.nz/folder/SDAxhK6L#t6lwA-MQPvKKtjaSEDkb8A)
+所有生成TXT的源数据、以及此库内容已经备份到：[文革资料扫描成果（百度大脑）](https://mega.nz/folder/BAF1QKYT#sK5uqACKO9jw1dGCKVaXMw)
 
 TXT格式的书籍是PDF中不含可复制的文字信息的书籍
 
@@ -32,6 +25,9 @@ TXT格式的书籍是PDF中不含可复制的文字信息的书籍
 
 ---
 为了方便搜索引擎收录，现将文件名列于下方：
+
+【湖北"揭批查"】夏邦银、朱鸿霞、胡厚民等人的"罪证材料"，"夏朱胡专案组"，1977年4月. RC 【供参考】
+https://mega.nz/file/TsBR3SJS#m9S851K7sW5ZOpuHqIad2KT-0Ungwef1aLIoz9d9W2E
 
 On the Inner-Party Bourgeoisie 论党内资产阶级-江苏人民出版社（报刊文选）
 
