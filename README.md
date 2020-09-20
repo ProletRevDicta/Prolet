@@ -11,6 +11,8 @@ https://mlms.xyz
 
 ---
 
+更新了备份库的内容，揭批过去以金日成为首的朝鲜民主主义人民共和国的朝鲜劳动党时用得上的《金日成著作选集》1-5,7的目录页，配合备份库中的《金日成著作集》即可翻阅(Selected Works of Kim Il Sung(1-5,7))
+
 所有生成TXT的源数据、以及此库内容已经备份到：[文革资料扫描成果（百度大脑）](https://mega.nz/folder/BAF1QKYT#sK5uqACKO9jw1dGCKVaXMw)
 
 TXT格式的书籍是PDF中不含可复制的文字信息的书籍
