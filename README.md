@@ -3,13 +3,7 @@ Historical documents (in Chinese) about the GPCR（The great proletarian cultura
 
 ### 文革历史资料。
 
-### 2020/09/20 update
-A place for discussion
-https://mlms.xyz
-
-**There is no subordinate relationship or conflict of interest between this repo and the website**
-
----
+### 2020/09/25 update
 
 更新了备份库的内容
 
