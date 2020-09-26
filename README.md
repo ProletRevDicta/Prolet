@@ -3,13 +3,17 @@ Historical documents (in Chinese) about the GPCR（The great proletarian cultura
 
 ### 文革历史资料。
 
-### 2020/09/25 update
+
+### 2020/09/26 update
+
 
 更新了备份库的内容
 
 揭批过去以金日成为首的朝鲜民主主义人民共和国的朝鲜劳动党时用得上的《金日成著作选集》1-5,7的目录页，配合备份库中的《金日成著作集》即可翻阅(Selected Works of Kim Il Sung(1-5,7))
 
-在链接内BOOKS目录下的——[金日成著作选集 1-5,7 索引.7z](https://mega.nz/file/NJ9ijQ6L#vbcc3RcLrAnHMk5GzrF2vo7hX_ArIIyJ2EarHwFs6zM)【供参考】
+
+在链接内BOOKS目录下的——[金日成著作选集 1-8 索引.7z](https://mega.nz/file/lYcXyYBJ#oR2Ov3IL6vQb07dzD23nWAyR1XhbVu1CgXJjoJtJeTA)【供参考】
+
 
 所有生成TXT的源数据、以及此库内容已经备份到：[文革资料扫描成果（百度大脑）](https://mega.nz/folder/BAF1QKYT#sK5uqACKO9jw1dGCKVaXMw)
 
