@@ -9,7 +9,7 @@ Historical documents (in Chinese) about the GPCR（The great proletarian cultura
 
 更新了备份库的内容
 
-揭批过去以金日成为首的朝鲜民主主义人民共和国的朝鲜劳动党时用得上的《金日成著作选集》1-5,7的目录页，配合备份库中的《金日成著作集》即可翻阅(Selected Works of Kim Il Sung(1-5,7))
+揭批过去以金日成为首的朝鲜民主主义人民共和国的朝鲜劳动党修正主义时用得上的《金日成著作选集》1-5,7的目录页，配合备份库中的《金日成著作集》即可翻阅(Selected Works of Kim Il Sung)
 
 
 在链接内BOOKS目录下的——[金日成著作选集 1-8 索引.7z](https://mega.nz/file/lYcXyYBJ#oR2Ov3IL6vQb07dzD23nWAyR1XhbVu1CgXJjoJtJeTA)【供参考】
