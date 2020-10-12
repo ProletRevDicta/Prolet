@@ -173,7 +173,7 @@ The History of the International Communist Movement Vol Ⅳ Peking Universality 
 
 苏联社会帝国主义经济统计资料
 
-马克思 恩格斯 列宁 斯大林 论教育革命 1971年 初校
+马克思 恩格斯 列宁 斯大林 论教育革命 1971年
 
 马克思 恩格斯 列宁 斯大林 论辩证唯物主义与历史唯物主义 上册
 
