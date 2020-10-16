@@ -49,7 +49,7 @@ Lecture on the history of CPC 1中国共产党历史讲义（上册，上海复�
 
 Lecture on the history of CPC 2中国共产党历史讲义（下册，上海复旦）RC 录入版
 
-Socialist Political Economics 1976上海版社会主义政治经济学1976年9月（更加清晰的扫描版pdf和录入版doc）
+Political Economics of Socialism 1976上海版社会主义政治经济学1976年9月（更加清晰的扫描版pdf和录入版doc）
 
 社会主义政治经济学（1976.9）录入粗校版 ConRev 
 
