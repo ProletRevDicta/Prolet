@@ -6,10 +6,10 @@ Historical documents (in Chinese) about the GPCR（The great proletarian cultura
 
 ### 2021/01/12 update
 
-有關修鼓TV、PAPER和修翔宇、林偉背叛革命的材料，以及本庫中文本的PDF版本：
+惠赠资料者注:【有關修鼓TV、P×P×R和修╳宇、林╳背叛革命的材料，以及本庫中文本的PDF版本：
 https://mega.nz/folder/SOJ0iZhT#qA0wkp_dJodHBMVCjbq9bQ
 
-馬列之聲電子書小組的500G書籍解壓+整理完文件名的MEGA網盤備份：
+ML之聲電子書小組的500G書籍解壓+整理完文件名的MEGA網盤備份：
 
 總共有第2、4-8、10、12-13、17、19-20、23、25、A、A2批，總計16批。
 
@@ -90,9 +90,9 @@ MEGA-33:https://mega.nz/folder/KYtiDICA#XYtv4E7ToQscW9g41lLVxA
 
 相比馬恩百科資料庫，這些MEGA提供了全部的已解壓完畢的文件，儘管還有部分子集未解壓，但是不主要了。
 
-馬列之聲電子書籍今天起宣布不再受百度網盤、One Drive網盤任意左右了！
+ML之聲電子書籍今天起宣布不再受百度網盤、One Drive網盤任意左右了！
 
-建議各位通過這些鏈接把各個分佈式存儲的文件轉為集中在一個帳號內存儲的文件。 （一般通過Bitcoin並感）
+建議各位通過這些鏈接把各個分佈式存儲的文件轉為集中在一個帳號內存儲的文件。 （一般通過Bitcoin並感）】
 
 更新了备份库的内容
 
