@@ -6,7 +6,7 @@ Historical documents (in Chinese) about the GPCR（The great proletarian cultura
 
 ### 2021/01/12 update
 
-惠赠资料者注:【有關修鼓TV、P×P×R和修╳宇、林╳背叛革命的材料，以及本庫中文本的PDF版本：
+惠赠资料者注:【有關修鼓TV、P×PER和修╳宇、林╳背叛革命的材料，以及本庫中文本的PDF版本：
 https://mega.nz/folder/SOJ0iZhT#qA0wkp_dJodHBMVCjbq9bQ
 
 ML之聲電子書小組的500G書籍解壓+整理完文件名的MEGA網盤備份：
