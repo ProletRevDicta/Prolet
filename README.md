@@ -9,11 +9,9 @@ Historical documents (in Chinese) about the GPCR（The great proletarian cultura
 
 社会主义政治经济学1972年版  
 社会主义政治经济学1973年版  
-社会主义政治经济学1975年版  
+社会主义政治经济学1975年版
 
-### 2021/01/19 update
-
-更新了部分资料，目录将适时更新。
+目录将适时更新。
 
 更新了备份库的内容
 
