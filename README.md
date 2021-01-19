@@ -4,11 +4,32 @@ Historical documents (in Chinese) about the GPCR（The great proletarian cultura
 ### 文革历史资料。
 
 
-### 2021/01/12 update
+### 2021/01/19 update
 
-更新了部分资料。
+更新了部分资料，目录将适时更新。
 
-惠赠资料者作的说明:【有關修鼓TV、P×PER和修╳宇、林╳背叛革命的材料，以及本庫中文本的PDF版本：
+更新了备份库的内容
+
+揭批过去以金日成为首的朝鲜民主主义人民共和国的朝鲜劳动党修正主义时用得上的《金日成著作选集》1-5,7的目录页，配合备份库中的《金日成著作集》即可翻阅(Selected Works of Kim Il Sung)
+
+在链接内BOOKS目录下的——[金日成著作选集 1-8 索引.7z](https://mega.nz/file/lYcXyYBJ#oR2Ov3IL6vQb07dzD23nWAyR1XhbVu1CgXJjoJtJeTA)【仅供参考】
+
+
+所有生成TXT的源数据、以及此库内容已经备份到：[文革资料扫描成果（百度大脑）](https://mega.nz/folder/BAF1QKYT#sK5uqACKO9jw1dGCKVaXMw)
+
+TXT格式的书籍是PDF中不含可复制的文字信息的书籍
+
+由于文件过大（已扫描为TXT）
+
+链接发布与下方：
+
+[(On Bourgeois Recht)论资产阶级法权.pdf](https://mega.nz/file/4M4DGZ6K#mW5YLapLyYDyl5qpoD_vFKDY0YyQI8uTUiofGHO3JNE)
+
+[(Thoroughly criticize the reactionary theory of the omnipotence of productive forces)彻底批判反动的唯生产力论](https://mega.nz/file/JRpHxAZI#JF_8EbPkyZ8aS47pOuExa9WLTFORo927JHojH6v3wW8)
+
+---
+
+某惠赠资料者作的声明:【有關修╳TV、P×PER和修╳宇、林╳背叛geming的材料，以及本庫中文本的PDF版本：
 https://mega.nz/folder/SOJ0iZhT#qA0wkp_dJodHBMVCjbq9bQ
 
 ML之聲電子書小組的500G書籍解壓+整理完文件名的MEGA網盤備份：
@@ -95,25 +116,6 @@ MEGA-33:https://mega.nz/folder/KYtiDICA#XYtv4E7ToQscW9g41lLVxA
 ML之聲電子書籍今天起宣布不再受百度網盤、One Drive網盤任意左右了！
 
 建議各位通過這些鏈接把各個分佈式存儲的文件轉為集中在一個帳號內存儲的文件。 （一般通過Bitcoin並感）】
-
-更新了备份库的内容
-
-揭批过去以金日成为首的朝鲜民主主义人民共和国的朝鲜劳动党修正主义时用得上的《金日成著作选集》1-5,7的目录页，配合备份库中的《金日成著作集》即可翻阅(Selected Works of Kim Il Sung)
-
-在链接内BOOKS目录下的——[金日成著作选集 1-8 索引.7z](https://mega.nz/file/lYcXyYBJ#oR2Ov3IL6vQb07dzD23nWAyR1XhbVu1CgXJjoJtJeTA)【仅供参考】
-
-
-所有生成TXT的源数据、以及此库内容已经备份到：[文革资料扫描成果（百度大脑）](https://mega.nz/folder/BAF1QKYT#sK5uqACKO9jw1dGCKVaXMw)
-
-TXT格式的书籍是PDF中不含可复制的文字信息的书籍
-
-由于文件过大（已扫描为TXT）
-
-链接发布与下方：
-
-[(On Bourgeois Recht)论资产阶级法权.pdf](https://mega.nz/file/4M4DGZ6K#mW5YLapLyYDyl5qpoD_vFKDY0YyQI8uTUiofGHO3JNE)
-
-[(Thoroughly criticize the reactionary theory of the omnipotence of productive forces)彻底批判反动的唯生产力论](https://mega.nz/file/JRpHxAZI#JF_8EbPkyZ8aS47pOuExa9WLTFORo927JHojH6v3wW8)
 
 ---
 为了方便搜索引擎收录，现将文件名列于下方：
