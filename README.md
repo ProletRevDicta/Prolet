@@ -11,6 +11,8 @@ Historical documents (in Chinese) about the GPCR（The great proletarian cultura
 社会主义政治经济学1973年版  
 社会主义政治经济学1975年版
 
+上传了湖南哲学社会科学研究所图书资料组从北京、辽宁等地理论讨论会以及报刊文章中编选的理论问题资料《关于资产阶级#就在共产党内的问题》
+
 目录将适时更新。
 
 ---
