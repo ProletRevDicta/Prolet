@@ -15,6 +15,9 @@ Historical documents (in Chinese) about the GPCR（The great proletarian cultura
 
 ---
 
+【湖北"揭批查"】夏邦银、朱鸿霞、胡厚民等人的"罪证材料"，"夏朱胡专案组"，1977年4月. RC 【供参考】
+https://mega.nz/file/TsBR3SJS#m9S851K7sW5ZOpuHqIad2KT-0Ungwef1aLIoz9d9W2E
+
 生成TXT的源数据、以及此库内容已经备份到：[文革资料扫描成果（百度大脑）](https://mega.nz/folder/BAF1QKYT#sK5uqACKO9jw1dGCKVaXMw)
 
 TXT格式的书籍是PDF中不含可复制的文字信息的书籍
@@ -125,9 +128,6 @@ ML之聲電子書籍今天起宣布不再受百度網盤、One Drive網盤任意
 
 ---
 为了方便搜索引擎收录，现将文件名列于下方：
-
-【湖北"揭批查"】夏邦银、朱鸿霞、胡厚民等人的"罪证材料"，"夏朱胡专案组"，1977年4月. RC 【供参考】
-https://mega.nz/file/TsBR3SJS#m9S851K7sW5ZOpuHqIad2KT-0Ungwef1aLIoz9d9W2E
 
 On the Inner-Party Bourgeoisie(Snippet) Shanghai 1976《谈谈党内资产阶级》(上海市委写作组编著)辑佚
 
