@@ -3,6 +3,13 @@ Historical documents (in Chinese) about the GPCR（The great proletarian cultura
 
 ### 文革历史资料。
 
+### 2021/01/19 update
+
+上传三本《社会主义政治经济学》
+
+社会主义政治经济学1972年版  
+社会主义政治经济学1973年版  
+社会主义政治经济学1975年版  
 
 ### 2021/01/19 update
 
