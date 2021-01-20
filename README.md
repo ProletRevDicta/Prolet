@@ -9,20 +9,18 @@ Historical documents (in Chinese) about the GPCR（The great proletarian cultura
 
 社会主义政治经济学1972年版  
 社会主义政治经济学1973年版  
-社会主义政治经济学1975年版  
+社会主义政治经济学1975年版
 
-### 2021/01/19 update
+上传了湖南哲学社会科学研究所图书资料组从北京、辽宁等地理论讨论会以及报刊文章中编选的理论问题资料《关于资产阶级#就在共产党内的问题》
 
-更新了部分资料，目录将适时更新。
+目录将适时更新。
 
-更新了备份库的内容
+---
 
-揭批过去以金日成为首的朝鲜民主主义人民共和国的朝鲜劳动党修正主义时用得上的《金日成著作选集》1-5,7的目录页，配合备份库中的《金日成著作集》即可翻阅(Selected Works of Kim Il Sung)
+【湖北"揭批查"】夏邦银、朱鸿霞、胡厚民等人的"罪证材料"，"夏朱胡专案组"，1977年4月. RC 【供参考】
+https://mega.nz/file/TsBR3SJS#m9S851K7sW5ZOpuHqIad2KT-0Ungwef1aLIoz9d9W2E
 
-在链接内BOOKS目录下的——[金日成著作选集 1-8 索引.7z](https://mega.nz/file/lYcXyYBJ#oR2Ov3IL6vQb07dzD23nWAyR1XhbVu1CgXJjoJtJeTA)【仅供参考】
-
-
-所有生成TXT的源数据、以及此库内容已经备份到：[文革资料扫描成果（百度大脑）](https://mega.nz/folder/BAF1QKYT#sK5uqACKO9jw1dGCKVaXMw)
+生成TXT的源数据、以及此库内容已经备份到：[文革资料扫描成果（百度大脑）](https://mega.nz/folder/BAF1QKYT#sK5uqACKO9jw1dGCKVaXMw)
 
 TXT格式的书籍是PDF中不含可复制的文字信息的书籍
 
@@ -36,7 +34,13 @@ TXT格式的书籍是PDF中不含可复制的文字信息的书籍
 
 ---
 
-某惠赠资料者作的声明:【有關修╳TV、P×PER和修╳宇、林╳背叛geming的材料，以及本庫中文本的PDF版本：
+供揭批过去以金日成为首的朝鲜劳动党修正主义参考的《金日成著作选集》1-5,7的目录页，配合备份库中的《金日成著作集》即可翻阅(Selected Works of Kim Il Sung)
+
+在链接内BOOKS目录下的——[金日成著作选集 1-8 索引.7z](https://mega.nz/file/lYcXyYBJ#oR2Ov3IL6vQb07dzD23nWAyR1XhbVu1CgXJjoJtJeTA)【仅供参考】
+
+本库01/12日受赠的《金CR简史》有一些错讹和不完全不准确的地方，但是其中金日成之流活动记事，对揭露金日成资反路线的面目，无疑是很有益的，也可供参考。
+
+惠赠资料者作的声明:【有關修╳TV、P×PER和修╳宇、林╳背叛geming的材料，以及本庫中文本的PDF版本：
 https://mega.nz/folder/SOJ0iZhT#qA0wkp_dJodHBMVCjbq9bQ
 
 ML之聲電子書小組的500G書籍解壓+整理完文件名的MEGA網盤備份：
@@ -126,9 +130,6 @@ ML之聲電子書籍今天起宣布不再受百度網盤、One Drive網盤任意
 
 ---
 为了方便搜索引擎收录，现将文件名列于下方：
-
-【湖北"揭批查"】夏邦银、朱鸿霞、胡厚民等人的"罪证材料"，"夏朱胡专案组"，1977年4月. RC 【供参考】
-https://mega.nz/file/TsBR3SJS#m9S851K7sW5ZOpuHqIad2KT-0Ungwef1aLIoz9d9W2E
 
 On the Inner-Party Bourgeoisie(Snippet) Shanghai 1976《谈谈党内资产阶级》(上海市委写作组编著)辑佚
 
