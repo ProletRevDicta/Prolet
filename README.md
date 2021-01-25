@@ -1,7 +1,45 @@
 # Prolet
 Historical documents (in Chinese) about the GPCR（The great proletarian cultural revolution） (Thanks Comrade RC)
 
-### 文革历史资料。
+**仓库内所有文件存放地址：https://mega.nz/folder/RKoWRZbR#9MiDE0QddknzeQ1ORjMj_A**
+
+## 文革历史资料。
+
+### 在GitHub上怎样修改别人的库？（Ubuntu&Linux）
+
+1.Fork（右上角）
+
+2.在你跳转到的Fork库Clone（下载下来，右上角下边的绿按钮）
+
+（如果Clone的不是Fork库，而是主库，是不能发出上传请求的，因为那是别的用户的库）
+
+即命令：git clone \<复制的git文件链接\>
+
+修改此文件夹里的内容
+
+cd 此库下载到的文件夹路径
+
+git checkout -b AddingFile
+
+git add .
+
+git commit -m 'Adding a file'
+
+git push --set-upstream origin AddingFile
+
+当然，你的帐号在浏览器里要在线，最后一条命令执行完后，会弹出要不要Pull Request。
+
+如果你的Pull Request还没被接受，你可以在不上浏览器的同时来上传。
+
+### 在GitHub上怎样修改别人的库？（网页版方式）
+
+1.点击右上角的fork；
+
+2.在自己fork内的库点击下面第三个按钮pull requests；
+
+3.点击右下方的new pull requests；
+
+4.撰写标题后提交，待主库所有者同意后即修改成功。
 
 ### 2021/01/20 update
 
@@ -356,29 +394,3 @@ DOCX文件（BUG：一、工、之等字符有问题，无法搜索；有些在L
 不论是把原PDF的背景换为纯色还是基于一个空白PDF。
 
 可以一个字符一个drawText、也可以一段话一个drawText、也可以一行话一个drawText。
-
-### 在GitHub上怎样修改别人的库？（Ubuntu&Linux）
-
-1.Fork（右上角）
-
-2.在你跳转到的Fork库Clone（下载下来，右上角下边的绿按钮）
-
-（如果Clone的不是Fork库，而是主库，是不能发出上传请求的，因为那是别的用户的库）
-
-即命令：git clone \<复制的git文件链接\>
-
-修改此文件夹里的内容
-
-cd 此库下载到的文件夹路径
-
-git checkout -b AddingFile
-
-git add .
-
-git commit -m 'Adding a file'
-
-git push --set-upstream origin AddingFile
-
-当然，你的帐号在浏览器里要在线，最后一条命令执行完后，会弹出要不要Pull Request。
-
-如果你的Pull Request还没被接受，你可以在不上浏览器的同时来上传。
