@@ -5,6 +5,8 @@ Historical documents (in Chinese) about the GPCR（The great proletarian cultura
 
 ## 文革历史资料。
 
+### 2021/03/01 - 更新了《PAPER 21年三月上》、《中華巴黎公社 2021年2月15日-2月28日新聞全集》和《2月28日新聞》。
+
 ### 在GitHub上怎样修改别人的库？（Ubuntu&Linux）
 
 1.Fork（右上角）
