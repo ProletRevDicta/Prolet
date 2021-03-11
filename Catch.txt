@@ -1,0 +1,9 @@
+新聞爬取器是以GNU/GPL發行的自由軟件
+
+內容以CC BY- SA 3.0 - GNU/GPL投放到公有領域。
+向着100%自動化的偉大目標而前進！
+https://mega.nz/folder/WCp2zITA#0Ye_49aSlw6a2YEMlIGEzQ
+https://mega.nz/folder/SOJ0iZhT#qA0wkp_dJodHBMVCjbq9bQ
+選擇好百度翻譯平臺的免費版接口後，替換baidu_trans2.py中的[CI]/[CS]後，用pip安裝好requirements.txt後，在Python 3.9.2下輸入pyth pyrun，即可運行。
+
+以上，PAPER編輯組。
