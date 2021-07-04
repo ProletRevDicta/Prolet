@@ -1,7 +1,7 @@
 # Prolet
 Historical documents (in Chinese) about the GPCR（The great proletarian cultural revolution） (Thanks Comrade RC)
 
-**仓库内所有文件存放地址：https://mega.nz/folder/RKoWRZbR#9MiDE0QddknzeQ1ORjMj_A**
+**仓库内所有文件存放地址1：https://mega.nz/file/DEMFwIza#sfmoshyPb3FgijokxdPa04NGWnqi3HsOub8mPSUgVO8**
 
 ## 文革历史资料。
 
