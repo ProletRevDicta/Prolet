@@ -3,6 +3,8 @@ Historical documents (in Chinese) about the GPCR（The great proletarian cultura
 
 **仓库内所有文件存放地址1：https://mega.nz/file/DEMFwIza#sfmoshyPb3FgijokxdPa04NGWnqi3HsOub8mPSUgVO8**
 
+**馬列之聲純粹TXT資料（不定期更新）：https://github.com/nmsl-cyber/MLVoice**
+
 ## 文革历史资料。
 
 ### 在GitHub上怎样修改别人的库？（Ubuntu&Linux）
