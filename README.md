@@ -7,7 +7,7 @@ Historical documents (in Chinese) about the GPCR（The great proletarian cultura
 
 ## 文革历史资料。
 
-### 在GitHub上怎样修改别人的库？（Ubuntu&Linux）
+### 在GitHub上怎样修改别人的库？（GNU/Linux）
 
 1.Fork（右上角）
 
