@@ -2,14 +2,18 @@
 Historical documents (in Chinese) about the GPCR（The great proletarian cultural revolution） (Thanks Comrade RC)
 
 **仓库内所有文件存放地址1：https://mega.nz/file/DEMFwIza#sfmoshyPb3FgijokxdPa04NGWnqi3HsOub8mPSUgVO8**
+
 **惠贈庫内所有文件存放地址2（包括馬列之聲分類TXT全部，OCR包括批數不變）：https://mega.nz/folder/SOJ0iZhT#qA0wkp_dJodHBMVCjbq9bQ
 
 本库01/12日受赠的《金CR简史》有一些错讹和不完全不准确的地方，但是其中金日成之流活动记事，对揭露金日成资反路线的面目，无疑是很有益的，也可供参考。
 惠赠资料者作的声明:【有關修╳TV、P×PER和修╳宇、林╳背叛geming的材料，以及本庫中文本的PDF版本。
 
 **馬列之聲純粹TXT資料（不定期更新）：https://github.com/nmsl-cyber/MLVoice**
+
 **馬列之聲分類TXT資料（不定期更新）：https://github.com/nmsl-cyber/category-MLVoice**
+
 **PDF已備份的The Banned Thought：https://github.com/nmsl-cyber/The-Banned-Thought**
+
 **供廣大工農兵、革命幹部、革命知識分子重命名、整理、收集、轉發、批判。**
 
 ## 文革历史资料。
