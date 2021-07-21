@@ -2,8 +2,15 @@
 Historical documents (in Chinese) about the GPCR（The great proletarian cultural revolution） (Thanks Comrade RC)
 
 **仓库内所有文件存放地址1：https://mega.nz/file/DEMFwIza#sfmoshyPb3FgijokxdPa04NGWnqi3HsOub8mPSUgVO8**
+**惠贈庫内所有文件存放地址2（包括馬列之聲分類TXT全部，OCR包括批數不變）：https://mega.nz/folder/SOJ0iZhT#qA0wkp_dJodHBMVCjbq9bQ
+
+本库01/12日受赠的《金CR简史》有一些错讹和不完全不准确的地方，但是其中金日成之流活动记事，对揭露金日成资反路线的面目，无疑是很有益的，也可供参考。
+惠赠资料者作的声明:【有關修╳TV、P×PER和修╳宇、林╳背叛geming的材料，以及本庫中文本的PDF版本。
 
 **馬列之聲純粹TXT資料（不定期更新）：https://github.com/nmsl-cyber/MLVoice**
+**馬列之聲分類TXT資料（不定期更新）：https://github.com/nmsl-cyber/category-MLVoice**
+**PDF已備份的The Banned Thought：https://github.com/nmsl-cyber/The-Banned-Thought**
+**供廣大工農兵、革命幹部、革命知識分子重命名、整理、收集、轉發、批判。**
 
 ## 文革历史资料。
 
@@ -128,12 +135,7 @@ TXT格式的书籍是PDF中不含可复制的文字信息的书籍
 
 在链接内BOOKS目录下的——[金日成著作选集 1-8 索引.7z](https://mega.nz/file/lYcXyYBJ#oR2Ov3IL6vQb07dzD23nWAyR1XhbVu1CgXJjoJtJeTA)【仅供参考】
 
-本库01/12日受赠的《金CR简史》有一些错讹和不完全不准确的地方，但是其中金日成之流活动记事，对揭露金日成资反路线的面目，无疑是很有益的，也可供参考。
-
-惠赠资料者作的声明:【有關修╳TV、P×PER和修╳宇、林╳背叛geming的材料，以及本庫中文本的PDF版本：
-https://mega.nz/folder/SOJ0iZhT#qA0wkp_dJodHBMVCjbq9bQ
-
-ML之聲電子書小組的500G書籍解壓+整理完文件名的MEGA網盤備份：
+ML之聲電子書小組的500G書籍解壓+整理完文件名的MEGA網盤備份（已過期）：
 
 總共有第2、4-8、10、12-13、17、19-20、23、25、A、A2批，總計16批。
 
@@ -211,12 +213,6 @@ MEGA-28:https://mega.nz/folder/2E1WWaiJ#3ZqeaV-q0USMYTmg1AqNSQ
 MEGA-33:https://mega.nz/folder/KYtiDICA#XYtv4E7ToQscW9g41lLVxA
 
 供廣大工農兵、革命幹部、革命知識分子重命名、整理、收集、轉發、批判。
-
-相比馬恩百科資料庫，這些MEGA提供了全部的已解壓完畢的文件，儘管還有部分子集未解壓，但是不主要了。
-
-ML之聲電子書籍今天起宣布不再受百度網盤、One Drive網盤任意左右了！
-
-建議各位通過這些鏈接把各個分佈式存儲的文件轉為集中在一個帳號內存儲的文件。 （一般通過Bitcoin並感）】
 
 ---
 为了方便搜索引擎收录，现将文件名列于下方：
