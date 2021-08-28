@@ -12,6 +12,8 @@ Historical documents (in Chinese) about the GPCR（The great proletarian cultura
 
 **PDF已備份的The Banned Thought：http://it7otdanqu7ktntxzm427cba6i53w6wlanlh23v5i3siqmos47pzhvyd.onion/JeSMLCD7pO5rt0e/The-Banned-Thought**
 
+**《反擊》1976.05：https://mega.nz/file/eTxxAA6a#UHQGj-0WRWK0ANYd4tJycZJQB-9OBw0hYr736_avwq4**
+
 **供廣大工農兵、革命幹部、革命知識分子重命名、整理、收集、轉發、批判。**
 
 ## 文革历史资料。
