@@ -1,16 +1,16 @@
 # Prolet
 Historical documents (in Chinese) about the GPCR（The great proletarian cultural revolution） (Thanks Comrade RC)
 
-**仓库内所有文件存放地址1：http://it7otdanqu7ktntxzm427cba6i53w6wlanlh23v5i3siqmos47pzhvyd.onion/JeSMLCD7pO5rt0e/ebooks**
+**仓库内所有文件存放地址1：【已失效】**
 
 **ML之聲EBOOK 800G數據：https://mega.nz/folder/Tb5yTLza#HdahKp3RTVVX3GBTcRTJNw**
 
 本库01/12日受赠的《金CR简史》有一些错讹和不完全不准确的地方，但是其中金日成之流活动记事，对揭露金日成资反路线的面目，无疑是很有益的，也可供参考。
 惠赠资料者作的声明:【有關修╳TV、P×PER和修╳宇、林╳背叛geming的材料，以及本庫中文本的PDF版本。
 
-**ML之聲分類TXT資料（不定期更新）：http://it7otdanqu7ktntxzm427cba6i53w6wlanlh23v5i3siqmos47pzhvyd.onion/JeSMLCD7pO5rt0e/ebooks/src/branch/master/TXT**
+**ML之聲分類TXT資料（不定期更新）：【已失效】**
 
-**PDF已備份的The Banned Thought：http://it7otdanqu7ktntxzm427cba6i53w6wlanlh23v5i3siqmos47pzhvyd.onion/JeSMLCD7pO5rt0e/The-Banned-Thought**
+**PDF已備份的The Banned Thought：【已失效】**
 
 **《反擊》1976.05：https://mega.nz/file/eTxxAA6a#UHQGj-0WRWK0ANYd4tJycZJQB-9OBw0hYr736_avwq4**
 
