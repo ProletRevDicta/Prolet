@@ -1,7 +1,12 @@
 # Prolet
 Historical documents (in Chinese) about the GPCR（The great proletarian cultural revolution） (Thanks Comrade RC)
 
+**伟大的领袖和导师贡萨罗主席永垂不朽！
+
 **《毛澤東全集》全52卷，7.84GB：https://mega.nz/folder/6CwjTIib#wlYLoZLFfmazXNVtKYwiPg**
+
+【湖北"揭批查"】夏邦银、朱鸿霞、胡厚民等人的"罪证材料"，"夏朱胡专案组"，1977年4月. RC 【供参考】
+https://mega.nz/file/TsBR3SJS#m9S851K7sW5ZOpuHqIad2KT-0Ungwef1aLIoz9d9W2E
 
 **ML之聲EBOOK 800G數據：https://mega.nz/folder/Tb5yTLza#HdahKp3RTVVX3GBTcRTJNw**
 
