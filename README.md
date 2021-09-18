@@ -1,7 +1,7 @@
 # Prolet
 Historical documents (in Chinese) about the GPCR（The great proletarian cultural revolution） (Thanks Comrade RC)
 
-**伟大的领袖和导师贡萨罗主席永垂不朽！
+**伟大的领袖和导师贡萨罗主席永垂不朽！**
 
 **《毛澤東全集》全52卷，7.84GB：https://mega.nz/folder/6CwjTIib#wlYLoZLFfmazXNVtKYwiPg**
 
