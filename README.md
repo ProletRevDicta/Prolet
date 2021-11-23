@@ -23,6 +23,8 @@ https://mega.nz/file/TsBR3SJS#m9S851K7sW5ZOpuHqIad2KT-0Ungwef1aLIoz9d9W2E
 
 **供廣大工農兵、革命幹部、革命知識分子重命名、整理、收集、轉發、批判。**
 
+![Image](https://github.com/Yu4HOU2/Prolet/raw/c341ccb082844ce4ce20b848b89bfbb3219d3899/PES.png)
+
 ## 文革历史资料。
 
 ### 在GitHub上怎样修改别人的库？（GNU/Linux）
