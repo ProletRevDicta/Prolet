@@ -23,8 +23,8 @@ https://mega.nz/file/TsBR3SJS#m9S851K7sW5ZOpuHqIad2KT-0Ungwef1aLIoz9d9W2E
 
 **供廣大工農兵、革命幹部、革命知識分子重命名、整理、收集、轉發、批判。**
 
-![Image](https://github.com/Yu4HOU2/Prolet/raw/c341ccb082844ce4ce20b848b89bfbb3219d3899/PES.png)
-![Image](https://github.com/Yu4HOU2/Prolet/raw/cd4fc08a158f4ca42d151a2a621d04ffdd8912fa/PES%20English.png)
+![Image](PES.png)
+![Image](PES%20English.png)
 
 ## 文革历史资料。
 
@@ -327,7 +327,7 @@ From PRD:建议保留pdf文件的备份，尤其是历史文件。txt文件用�
 可以一个字符一个drawText、也可以一段话一个drawText、也可以一行话一个drawText。
 
 ---
-![Image](https://github.com/Yu4HOU2/Prolet/raw/cd4fc08a158f4ca42d151a2a621d04ffdd8912fa/Gonzalo%20Volume%201%201968-1987%20Collected%20Works%20of%20Communist%20Party%20of%20Peru.png)
-![Image](https://github.com/Yu4HOU2/Prolet/raw/cd4fc08a158f4ca42d151a2a621d04ffdd8912fa/Gonzalo%20Volume%202%201988-1990%20Collected%20Works%20of%20Communist%20Party%20of%20Peru.png)
-![Image](https://github.com/Yu4HOU2/Prolet/raw/cd4fc08a158f4ca42d151a2a621d04ffdd8912fa/Gonzalo%20Volume%203%201991-1992%20Collected%20Works%20of%20Communist%20Party%20of%20Peru.png)
-![Image](https://github.com/Yu4HOU2/Prolet/raw/cd4fc08a158f4ca42d151a2a621d04ffdd8912fa/Gonzalo%20Volume%204%201993-1999%20Collected%20Works%20of%20Communist%20Party%20of%20Peru.png)
+![Image](Gonzalo%20Volume%201%201968-1987%20Collected%20Works%20of%20Communist%20Party%20of%20Peru.png)
+![Image](Gonzalo%20Volume%202%201988-1990%20Collected%20Works%20of%20Communist%20Party%20of%20Peru.png)
+![Image](Gonzalo%20Volume%203%201991-1992%20Collected%20Works%20of%20Communist%20Party%20of%20Peru.png)
+![Image](Gonzalo%20Volume%204%201993-1999%20Collected%20Works%20of%20Communist%20Party%20of%20Peru.png)
