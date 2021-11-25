@@ -46,9 +46,17 @@ https://mega.nz/file/TsBR3SJS#m9S851K7sW5ZOpuHqIad2KT-0Ungwef1aLIoz9d9W2E
 
 ### 在GitHub上怎样修改别人的库？（GNU/Linux）
 
+# GitHub需要有repo权限的Token作为push密码。
+
+官方教程：https://docs.github.com/en/authentication/keeping-your-account-and-data-secure/creating-a-personal-access-token
+
 1.Fork（右上角）
 
 2.在你跳转到的Fork库Clone（下载下来，右上角下边的绿按钮）
+
+3.cd \<此库下载到的文件夹路径\>
+
+4.git checkout -f HEAD
 
 （如果Clone的不是Fork库，而是主库，是不能发出上传请求的，因为那是别的用户的库）
 
@@ -58,13 +66,11 @@ https://mega.nz/file/TsBR3SJS#m9S851K7sW5ZOpuHqIad2KT-0Ungwef1aLIoz9d9W2E
 
 cd 此库下载到的文件夹路径
 
-git checkout -b AddingFile
-
 git add .
 
-git commit -m 'Adding a file'
+git commit -m '\<describe text\>'
 
-git push --set-upstream origin AddingFile
+git push
 
 当然，你的帐号在浏览器里要在线，最后一条命令执行完后，会弹出要不要Pull Request。
 
