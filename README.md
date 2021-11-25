@@ -15,8 +15,6 @@ https://newepochnews.wixsite.com/newepochnews/post/china-long-live-chairman-mao-
 
 **“中國的進步分子需要積極學習和加深對馬克思、列宁、毛澤東主義，主要是毛澤東主義以及贡萨罗主席的普遍有效貢獻的理解。”——https://tribuneofthepeople.news/2021/08/02/communist-international-the-campaign-for-the-defense-of-chairman-gonzalo-deepens-and-broadens/**
 
-![Image](MEBK.png)
-
 **《毛澤東全集》全52卷，7.84GB：https://mega.nz/folder/6CwjTIib#wlYLoZLFfmazXNVtKYwiPg**
 
 ![Image](Hu%20Houmin.jpg)
