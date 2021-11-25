@@ -3,6 +3,8 @@ Historical documents (in Chinese) about the GPCR（The great proletarian cultura
 
 **伟大的领袖和导师贡萨罗主席永垂不朽！**
 
+**“面對馬克思、列寧、毛澤東主義作為無產階級的科學思想在中國特別是青年中的興起，中國社會帝國主義國家在絕望中審查了有關這個問題的信息和討論小組。”——https://anovademocracia.com.br/noticias/16163-pichacoes-na-china-viva-o-presidente-mao-viva-o-presidente-gonzalo**
+
 **《毛澤東全集》全52卷，7.84GB：https://mega.nz/folder/6CwjTIib#wlYLoZLFfmazXNVtKYwiPg**
 
 【湖北"揭批查"】夏邦银、朱鸿霞、胡厚民等人的"罪证材料"，"夏朱胡专案组"，1977年4月. RC 【供参考】
