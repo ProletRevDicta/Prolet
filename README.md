@@ -7,7 +7,11 @@ Historical documents (in Chinese) about the GPCR（The great proletarian cultura
 
 **“面對馬克思、列寧、毛澤東主義作為無產階級的科學思想在中國特別是青年中的興起，中國社會帝國主義國家在絕望中審查了有關這個問題的信息和討論小組。”——https://anovademocracia.com.br/noticias/16163-pichacoes-na-china-viva-o-presidente-mao-viva-o-presidente-gonzalo**
 
-**“毛澤東主義者在中國的日益活躍應該受到全世界革命者的歡迎。資本主義復辟以來,中國社會法西斯政府殘酷鎮壓一切共產主義組織。中國毛主義在這些困難條件下的行動和組織,顯示了他們的勇敢,應該成為高舉毛主義旗幟、為革命而戰的一種鼓舞。”——https://tribuneofthepeople.news/2021/07/16/china-long-live-chairman-mao-long-live-chairman-gonzalo-graffiti-seen-in-northeast/**
+**“毛澤東主義者在中國的日益活躍應該受到全世界革命者的歡迎。資本主義復辟以來，中國社會法西斯政府殘酷鎮壓一切共產主義組織。中國毛主義在這些困難條件下的行動和組織，顯示了他們的勇敢，應該成為高舉毛主義旗幟、為革命而戰的一種鼓舞。”——
+https://tribuneofthepeople.news/2021/07/16/china-long-live-chairman-mao-long-live-chairman-gonzalo-graffiti-seen-in-northeast/
+https://newepochnews.wixsite.com/newepochnews/post/china-long-live-chairman-mao-long-live-chairman-gonzalo-graffiti-seen-in-northeast**
+
+**“此時，我們想出版一幅中國畫，它出現在中國東北一家工廠附近的建黨100週年紀念月。這幅畫說：‘毛主席萬歲！贡萨罗主席萬歲！’”——https://www.demvolkedienen.org/index.php/de/40-nachrichten/asien/5581-china-malung-zum-100-jahrestag-der-gruendung-der-kommunistischen-partei-chinas**
 
 **《毛澤東全集》全52卷，7.84GB：https://mega.nz/folder/6CwjTIib#wlYLoZLFfmazXNVtKYwiPg**
 
