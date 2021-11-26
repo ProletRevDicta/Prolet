@@ -3,19 +3,33 @@ Historical documents (in Chinese) about the GPCR（The great proletarian cultura
 
 **伟大的领袖和导师贡萨罗主席永垂不朽！**
 
+![Image](Head_Image.jpg)
+
+**“面對馬克思、列寧、毛澤東主義作為無產階級的科學思想在中國特別是青年中的興起，中國社會帝國主義國家在絕望中審查了有關這個問題的信息和討論小組。”——https://anovademocracia.com.br/noticias/16163-pichacoes-na-china-viva-o-presidente-mao-viva-o-presidente-gonzalo**
+
+**“毛澤東主義者在中國的日益活躍應該受到全世界革命者的歡迎。資本主義復辟以來，中國社會法西斯政府殘酷鎮壓一切共產主義組織。中國毛主義在這些困難條件下的行動和組織，顯示了他們的勇敢，應該成為高舉毛主義旗幟、為革命而戰的一種鼓舞。”——
+https://tribuneofthepeople.news/2021/07/16/china-long-live-chairman-mao-long-live-chairman-gonzalo-graffiti-seen-in-northeast/
+https://newepochnews.wixsite.com/newepochnews/post/china-long-live-chairman-mao-long-live-chairman-gonzalo-graffiti-seen-in-northeast**
+
+**“此時，我們想出版一幅中國畫，它出現在中國東北一家工廠附近的建黨100週年紀念月。這幅畫說：‘毛主席萬歲！贡萨罗主席萬歲！’”——https://www.demvolkedienen.org/index.php/de/40-nachrichten/asien/5581-china-malung-zum-100-jahrestag-der-gruendung-der-kommunistischen-partei-chinas**
+
+**“中國的進步分子需要積極學習和加深對馬克思、列宁、毛澤東主義，主要是毛澤東主義以及贡萨罗主席的普遍有效貢獻的理解。”——https://tribuneofthepeople.news/2021/08/02/communist-international-the-campaign-for-the-defense-of-chairman-gonzalo-deepens-and-broadens/**
+
 **《毛澤東全集》全52卷，7.84GB：https://mega.nz/folder/6CwjTIib#wlYLoZLFfmazXNVtKYwiPg**
+
+![Image](Hu%20Houmin.jpg)
 
 【湖北"揭批查"】夏邦银、朱鸿霞、胡厚民等人的"罪证材料"，"夏朱胡专案组"，1977年4月. RC 【供参考】
 https://mega.nz/file/TsBR3SJS#m9S851K7sW5ZOpuHqIad2KT-0Ungwef1aLIoz9d9W2E
+
+![Image](MLZS.jpg)
 
 **ML之聲EBOOK 800G數據：https://mega.nz/folder/Tb5yTLza#HdahKp3RTVVX3GBTcRTJNw**
 
 本库01/12日受赠的《金CR简史》有一些错讹和不完全不准确的地方，但是其中金日成之流活动记事，对揭露金日成资反路线的面目，无疑是很有益的，也可供参考。
 惠赠资料者作的声明:【有關修╳TV、P×PER和修╳宇、林╳背叛geming的材料，以及本庫中文本的PDF版本。
 
-**ML之聲分類TXT資料（不定期更新）：【已失效】**
-
-**PDF已備份的The Banned Thought：【已失效】**
+![Image](The%20Counterattack.jpg)
 
 **《反擊》1976.05：https://mega.nz/file/eTxxAA6a#UHQGj-0WRWK0ANYd4tJycZJQB-9OBw0hYr736_avwq4**
 
@@ -23,16 +37,24 @@ https://mega.nz/file/TsBR3SJS#m9S851K7sW5ZOpuHqIad2KT-0Ungwef1aLIoz9d9W2E
 
 **供廣大工農兵、革命幹部、革命知識分子重命名、整理、收集、轉發、批判。**
 
-![Image](https://github.com/Yu4HOU2/Prolet/raw/c341ccb082844ce4ce20b848b89bfbb3219d3899/PES.png)
-![Image](https://github.com/Yu4HOU2/Prolet/raw/cd4fc08a158f4ca42d151a2a621d04ffdd8912fa/PES%20English.png)
+![Image](PES.png)
+![Image](PES%20English.png)
 
 ## 文革历史资料。
 
 ### 在GitHub上怎样修改别人的库？（GNU/Linux）
 
+# GitHub需要有repo权限的Token作为push密码。
+
+官方教程：https://docs.github.com/en/authentication/keeping-your-account-and-data-secure/creating-a-personal-access-token
+
 1.Fork（右上角）
 
 2.在你跳转到的Fork库Clone（下载下来，右上角下边的绿按钮）
+
+3.cd \<此库下载到的文件夹路径\>
+
+4.git checkout -f HEAD
 
 （如果Clone的不是Fork库，而是主库，是不能发出上传请求的，因为那是别的用户的库）
 
@@ -42,13 +64,11 @@ https://mega.nz/file/TsBR3SJS#m9S851K7sW5ZOpuHqIad2KT-0Ungwef1aLIoz9d9W2E
 
 cd 此库下载到的文件夹路径
 
-git checkout -b AddingFile
-
 git add .
 
-git commit -m 'Adding a file'
+git commit -m '\<describe text\>'
 
-git push --set-upstream origin AddingFile
+git push
 
 当然，你的帐号在浏览器里要在线，最后一条命令执行完后，会弹出要不要Pull Request。
 
@@ -327,7 +347,7 @@ From PRD:建议保留pdf文件的备份，尤其是历史文件。txt文件用�
 可以一个字符一个drawText、也可以一段话一个drawText、也可以一行话一个drawText。
 
 ---
-![Image](https://github.com/Yu4HOU2/Prolet/raw/cd4fc08a158f4ca42d151a2a621d04ffdd8912fa/Gonzalo%20Volume%201%201968-1987%20Collected%20Works%20of%20Communist%20Party%20of%20Peru.png)
-![Image](https://github.com/Yu4HOU2/Prolet/raw/cd4fc08a158f4ca42d151a2a621d04ffdd8912fa/Gonzalo%20Volume%202%201988-1990%20Collected%20Works%20of%20Communist%20Party%20of%20Peru.png)
-![Image](https://github.com/Yu4HOU2/Prolet/raw/cd4fc08a158f4ca42d151a2a621d04ffdd8912fa/Gonzalo%20Volume%203%201991-1992%20Collected%20Works%20of%20Communist%20Party%20of%20Peru.png)
-![Image](https://github.com/Yu4HOU2/Prolet/raw/cd4fc08a158f4ca42d151a2a621d04ffdd8912fa/Gonzalo%20Volume%204%201993-1999%20Collected%20Works%20of%20Communist%20Party%20of%20Peru.png)
+![Image](Gonzalo%20Volume%201%201968-1987%20Collected%20Works%20of%20Communist%20Party%20of%20Peru.png)
+![Image](Gonzalo%20Volume%202%201988-1990%20Collected%20Works%20of%20Communist%20Party%20of%20Peru.png)
+![Image](Gonzalo%20Volume%203%201991-1992%20Collected%20Works%20of%20Communist%20Party%20of%20Peru.png)
+![Image](Gonzalo%20Volume%204%201993-1999%20Collected%20Works%20of%20Communist%20Party%20of%20Peru.png)
