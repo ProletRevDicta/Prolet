@@ -1,7 +1,9 @@
 # Prolet
 Historical documents (in Chinese) about the GPCR（The great proletarian cultural revolution） (Thanks Comrade RC)
 
-**伟大的领袖和导师贡萨罗主席永垂不朽！**
+# **伟大的领袖和导师贡萨罗主席永垂不朽！**
+
+# Repo.刊物《PAPER》——https://github.com/Yu4HOU2/PAPER-Daily
 
 ![Image](Head_Image.jpg)
 
