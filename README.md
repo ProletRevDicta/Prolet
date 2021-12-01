@@ -3,19 +3,7 @@ Historical documents (in Chinese) about the GPCR（The great proletarian cultura
 
 # **伟大的领袖和导师贡萨罗主席永垂不朽！**
 
-# Repo.刊物《PAPER》——https://github.com/Yu4HOU2/PAPER-Daily
-
 ![Image](Head_Image.jpg)
-
-**“面對馬克思、列寧、毛澤東主義作為無產階級的科學思想在中國特別是青年中的興起，中國社會帝國主義國家在絕望中審查了有關這個問題的信息和討論小組。”——https://anovademocracia.com.br/noticias/16163-pichacoes-na-china-viva-o-presidente-mao-viva-o-presidente-gonzalo**
-
-**“毛澤東主義者在中國的日益活躍應該受到全世界革命者的歡迎。資本主義復辟以來，中國社會法西斯政府殘酷鎮壓一切共產主義組織。中國毛主義在這些困難條件下的行動和組織，顯示了他們的勇敢，應該成為高舉毛主義旗幟、為革命而戰的一種鼓舞。”——
-https://tribuneofthepeople.news/2021/07/16/china-long-live-chairman-mao-long-live-chairman-gonzalo-graffiti-seen-in-northeast/
-https://newepochnews.wixsite.com/newepochnews/post/china-long-live-chairman-mao-long-live-chairman-gonzalo-graffiti-seen-in-northeast**
-
-**“此時，我們想出版一幅中國畫，它出現在中國東北一家工廠附近的建黨100週年紀念月。這幅畫說：‘毛主席萬歲！贡萨罗主席萬歲！’”——https://www.demvolkedienen.org/index.php/de/40-nachrichten/asien/5581-china-malung-zum-100-jahrestag-der-gruendung-der-kommunistischen-partei-chinas**
-
-**“中國的進步分子需要積極學習和加深對馬克思、列宁、毛澤東主義，主要是毛澤東主義以及贡萨罗主席的普遍有效貢獻的理解。”——https://tribuneofthepeople.news/2021/08/02/communist-international-the-campaign-for-the-defense-of-chairman-gonzalo-deepens-and-broadens/**
 
 **《毛澤東全集》全52卷，7.84GB：https://mega.nz/folder/6CwjTIib#wlYLoZLFfmazXNVtKYwiPg**
 
@@ -24,7 +12,17 @@ https://newepochnews.wixsite.com/newepochnews/post/china-long-live-chairman-mao-
 【湖北"揭批查"】夏邦银、朱鸿霞、胡厚民等人的"罪证材料"，"夏朱胡专案组"，1977年4月. RC 【供参考】
 https://mega.nz/file/TsBR3SJS#m9S851K7sW5ZOpuHqIad2KT-0Ungwef1aLIoz9d9W2E
 
-![Image](MLZS.jpg)
+**“面對馬克思、列寧、毛澤東主義作為無產階級的科學思想在sina特別是青年中的興起，sino社帝在絕望中審查了有關這個問題的信息和討論小組。”——https://anovademocracia.com.br/noticias/16163-pichacoes-na-china-viva-o-presidente-mao-viva-o-presidente-gonzalo**
+
+**“毛澤東主義者在sina的日益活躍應該受到全世界革命者的歡迎。資本主義復辟以來，sino社會束棒正甫殘酷鎮壓一切共產主義組織。sino毛主義在這些困難條件下的行動和組織，顯示了他們的勇敢，應該成為高舉毛主義旗幟、為革命而戰的一種鼓舞。”——
+https://tribuneofthepeople.news/2021/07/16/china-long-live-chairman-mao-long-live-chairman-gonzalo-graffiti-seen-in-northeast/
+https://newepochnews.wixsite.com/newepochnews/post/china-long-live-chairman-mao-long-live-chairman-gonzalo-graffiti-seen-in-northeast**
+
+**“此時，我們想出版一幅sino畫，它出現在sina東北一家工廠附近的建黨100週年紀念月。這幅畫說：‘毛主席萬歲！贡萨罗主席萬歲！’”——https://www.demvolkedienen.org/index.php/de/40-nachrichten/asien/5581-china-malung-zum-100-jahrestag-der-gruendung-der-kommunistischen-partei-chinas**
+
+**“sino進步分子需要積極學習和加深對馬克思、列宁、毛澤東主義，主要是毛澤東主義以及贡萨罗主席的普遍有效貢獻的理解。”——https://tribuneofthepeople.news/2021/08/02/communist-international-the-campaign-for-the-defense-of-chairman-gonzalo-deepens-and-broadens/**
+
+![Image](MLZS. jpg)
 
 **ML之聲EBOOK 800G數據：https://mega.nz/folder/Tb5yTLza#HdahKp3RTVVX3GBTcRTJNw**
 
@@ -35,7 +33,9 @@ https://mega.nz/file/TsBR3SJS#m9S851K7sW5ZOpuHqIad2KT-0Ungwef1aLIoz9d9W2E
 
 **《反擊》1976.05：https://mega.nz/file/eTxxAA6a#UHQGj-0WRWK0ANYd4tJycZJQB-9OBw0hYr736_avwq4**
 
-**原創旋律《反擊》組曲：https://mega.nz/folder/WeI3lCbA#KHFSs0RgCFGOSbSVyZI6yg**
+**惠赠资料者原創旋律《反擊》組曲：https://mega.nz/folder/WeI3lCbA#KHFSs0RgCFGOSbSVyZI6yg**
+
+# Repo.惠赠资料者刋物——https://github.com/Yu4HOU2/PAPER-Daily
 
 **供廣大工農兵、革命幹部、革命知識分子重命名、整理、收集、轉發、批判。**
 
