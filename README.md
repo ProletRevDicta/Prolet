@@ -5,6 +5,16 @@ Historical documents (in Chinese) about the GPCR（The great proletarian cultura
 
 **《毛澤東全集》全52卷，7.84GB：https://mega.nz/folder/6CwjTIib#wlYLoZLFfmazXNVtKYwiPg**
 
+https://bannedthought.net/RecentPostings.htm
+
+2021 November 21 — Added “The Complete Works of Mao Zedong” in Chinese: [《毛泽东全集》 “Mao Ze Dong Quan Ji”], Zhang Dijie, editor-in-chief, (Hong Kong: 2013), 52 volumes. This is an unofficial, though carefully prepared edition, by an admirer of Mao.
+China/Individuals, Mao Zedong section
+
+2021 November 24 — Added “《张春桥狱中家书》 张春桥著”   [“Zhang Chunqiao: Letters from Prison, 1985-2003”], 334 pages, in Chinese.
+China/Individuals, Zhang Chunqiao section
+
+etc.
+
 ![Image](Hu%20Houmin.jpg)
 
 【湖北"揭批查"】夏邦银、朱鸿霞、胡厚民等人的"罪证材料"，"夏朱胡专案组"，1977年4月. RC 【供参考】
