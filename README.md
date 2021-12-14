@@ -43,31 +43,18 @@ MEBK（笑脸锯鳐）：https://www.bilibili.com/read/cv11100587
 電子書計劃涉及的電子書的MD5列表如下：
 
 ![第1批MD5](MD5s/MEGA1-PDFMD5.txt)
-
 ![第2批MD5](MD5s/MEGA2-PDFMD5.txt)
-
 ![第3批MD5](MD5s/MEGA3-PDFMD5.txt)
-
 ![第4批MD5](MD5s/MEGA4-PDFMD5.txt)
-
 ![第5批MD5](MD5s/MEGA5-PDFMD5.txt)
-
 ![第6批MD5](MD5s/MEGA6-PDFMD5.txt)
-
 ![第7批MD5](MD5s/MEGA7-PDFMD5.txt)
-
 ![第8批MD5](MD5s/MEGA8-PDFMD5.txt)
-
 ![第9批MD5](MD5s/MEGA9-PDFMD5.txt)
-
 ![第10批MD5](MD5s/MEGA10-PDFMD5.txt)
-
 ![第11批MD5](MD5s/MEGA11-PDFMD5.txt)
-
 ![第12批MD5](MD5s/MEGA12-PDFMD5.txt)
-
 ![第12批惠贈書籍MD5](MD5s/MEGA12-single-PDFMD5.txt)
-
 ![第13批及惠贈書籍MD5](MD5s/MEGA13-PDFMD5.txt)
 
 **ML之聲EBOOK TXT數據：https://github.com/Yu4HOU2/The-Voice-of-Marxism-Leninism**
