@@ -26,7 +26,7 @@ https://mega.nz/file/TsBR3SJS#m9S851K7sW5ZOpuHqIad2KT-0Ungwef1aLIoz9d9W2E
 https://tribuneofthepeople.news/2021/07/16/china-long-live-chairman-mao-long-live-chairman-gonzalo-graffiti-seen-in-northeast/
 https://newepochnews.wixsite.com/newepochnews/post/china-long-live-chairman-mao-long-live-chairman-gonzalo-graffiti-seen-in-northeast**
 
-**“此時，我們想出版一幅sino畫，它出現在sina東北一家工廠附近的建黨100週年紀念月。這幅畫說：‘毛主席萬歲！贡萨罗主席萬歲！’”——https://www.demvolkedienen.org/index.php/de/40-nachrichten/asien/5581-china-malung-zum-100-jahrestag-der-gruendung-der-kommunistischen-partei-chinas**
+**“此時，Dem Volke Dienen們想出版一幅sino畫，它出現在sina東北一家工廠附近的建黨100週年紀念月。這幅畫說：‘毛主席萬歲！贡萨罗主席萬歲！’”——https://www.demvolkedienen.org/index.php/de/40-nachrichten/asien/5581-china-malung-zum-100-jahrestag-der-gruendung-der-kommunistischen-partei-chinas**
 
 **“sino進步分子需要積極學習和加深對馬克思、列宁、毛澤東主義，主要是毛澤東主義以及贡萨罗主席的普遍有效貢獻的理解。”——https://tribuneofthepeople.news/2021/08/02/communist-international-the-campaign-for-the-defense-of-chairman-gonzalo-deepens-and-broadens/**
 
@@ -34,7 +34,7 @@ https://newepochnews.wixsite.com/newepochnews/post/china-long-live-chairman-mao-
 
 ![Image](Head_Image_2.jpg)
 
-**註：圖一是在我家，圖二是在清華南路。**
+**註：圖一是在東北，圖二是在清華南路。**
 
 參考資料：
 
@@ -46,7 +46,7 @@ MEBK（笑脸锯鳐）：https://www.bilibili.com/read/cv11100587
 
 郭XX（前“阶斗史动”、“介斗史动”）：https://space.bilibili.com/1276888
 
-故事是這樣的：闲者与米拉使用了平臺私信大量傳播百毒網盤鏈接，之後佢向阶斗史动推送溫XX的視頻，而介斗史动的命名法來自郭XX，接著我的阿希在百毒貼吧用平臺私信大量傳播上一個百毒網盤鏈接，最後是MEBK，資源可能已經轉入BitTorrent。
+闲者与米拉使用了平臺私信大量傳播百毒網盤鏈接，之後佢向阶斗史动推送溫XX的視頻，而介斗史动的命名法來自郭XX，接著我的阿希在百毒貼吧用平臺私信大量傳播上一個百毒網盤鏈接，最後是MEBK，資源可能已經轉入BitTorrent。
 
 電子書計劃涉及的電子書的MD5列表如下：
 
