@@ -26,7 +26,7 @@ https://newepochnews.wixsite.com/newepochnews/post/china-long-live-chairman-mao-
 
 **註：圖一是在我家，圖二是在清華南路。**
 
-**警告！**下述資源含有大量楊獻珍、胡適的思想，請謹慎閱讀。
+**警告！ **下述資源含有大量楊獻珍、胡適的思想，請謹慎閱讀。
 
 參考資料：
 
