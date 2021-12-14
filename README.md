@@ -22,7 +22,7 @@ https://mega.nz/file/TsBR3SJS#m9S851K7sW5ZOpuHqIad2KT-0Ungwef1aLIoz9d9W2E
 
 **“面對馬克思、列寧、毛澤東主義作為無產階級的科學思想在sina特別是青年中的興起，sino社帝在絕望中審查了有關這個問題的信息和討論小組。”——https://anovademocracia.com.br/noticias/16163-pichacoes-na-china-viva-o-presidente-mao-viva-o-presidente-gonzalo**
 
-**“毛澤東主義者在sina的日益活躍應該受到全世界革命者的歡迎。資本主義復辟以來，sino社會束棒正甫殘酷鎮壓一切共產主義組織。sino毛主義在這些困難條件下的行動和組織，顯示了他們的勇敢，應該成為高舉毛主義旗幟、為革命而戰的一種鼓舞。”——
+**“毛澤東主義者在sina的日益活躍應該受到全世界革命者的歡迎。資本主義復辟以來，sino社會束棒正甫殘酷鎮壓一切共產主義組織。sino毛主義在這些困難條件下的行動和組織，顯示了佢們的勇敢，應該成為高舉毛主義旗幟、為革命而戰的一種鼓舞。”——
 https://tribuneofthepeople.news/2021/07/16/china-long-live-chairman-mao-long-live-chairman-gonzalo-graffiti-seen-in-northeast/
 https://newepochnews.wixsite.com/newepochnews/post/china-long-live-chairman-mao-long-live-chairman-gonzalo-graffiti-seen-in-northeast**
 
@@ -48,7 +48,7 @@ MEBK（笑脸锯鳐）：https://www.bilibili.com/read/cv11100587
 
 郭XX（前“阶斗史动”、“介斗史动”）：https://space.bilibili.com/1276888
 
-故事是這樣的：闲者与米拉使用了平臺私信大量傳播百毒網盤鏈接，之後他向阶斗史动推送溫XX的視頻，而介斗史动的命名法來自郭XX，接著我的阿希在百毒貼吧用平臺私信大量傳播上一個百毒網盤鏈接，最後是MEBK，資源可能已經轉入BitTorrent。
+故事是這樣的：闲者与米拉使用了平臺私信大量傳播百毒網盤鏈接，之後佢向阶斗史动推送溫XX的視頻，而介斗史动的命名法來自郭XX，接著我的阿希在百毒貼吧用平臺私信大量傳播上一個百毒網盤鏈接，最後是MEBK，資源可能已經轉入BitTorrent。
 
 電子書計劃涉及的電子書的MD5列表如下：
 
