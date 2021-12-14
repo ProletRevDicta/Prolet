@@ -244,7 +244,7 @@ Political Economics of Socialism 1976上海版社会主义政治经济学1976年
 
 社会主义政治经济学197609版P464-465
 
-社会主义政治经济学 1976年9月版（模糊一些的版本，来自[马列之声电子书小组的书库](https://tieba.baidu.com/p/6212671631)（https://www.bilibili.com/read/cv11100587 https://space.bilibili.com/6404653 https://tieba.baidu.com/home/main?id=tb.1.c20422c2.Fhrl7a2Ij23XUGj-_yvbbQ），文字版经百度云高精度含位置信息接口扫描）
+社会主义政治经济学 1976年9月版（模糊一些的版本，来自[马列之声电子书小组的书库](https://tieba.baidu.com/p/6212671631)（https://www.bilibili.com/read/cv11100587 https://space.bilibili.com/6404653 https://tieba.baidu.com/home/main?id=tb.1.c20422c2.Fhrl7a2Ij23XUGj-_yvbbQ https://space.bilibili.com/1276888 ），文字版经百度云高精度含位置信息接口扫描）
 
 The History of the International Communist Movement Vol 1 of 2 Peking Universality 1976 version 国际共产主义运动史 上册 北京大学国际政治系 1976年版
 
