@@ -28,6 +28,18 @@ https://newepochnews.wixsite.com/newepochnews/post/china-long-live-chairman-mao-
 
 長期以來，這項工作受到劉少奇內外有別路線的嚴重干擾，凡數十年，這種影響，惠贈者也沒有擺脫，這主要是因為ML之聲本身就有內外有別因素的緣故。
 
+參考資料：
+
+MEBK（笑脸锯鳐）：https://www.bilibili.com/read/cv11100587
+
+溫XX（闲者与米拉）：https://space.bilibili.com/6404653
+
+希XX（我的阿希）：https://tieba.baidu.com/home/main?id=tb.1.c20422c2.Fhrl7a2Ij23XUGj-_yvbbQ
+
+郭XX（前“阶斗史动”、“介斗史动”）：https://space.bilibili.com/1276888
+
+故事是這樣的：闲者与米拉使用了平臺私信大量傳播百毒網盤鏈接，之後他向阶斗史动推送溫XX的視頻，而介斗史动的命名法來自郭XX，接著我的阿希在百毒貼吧用平臺私信大量傳播上一個百毒網盤鏈接，最後是MEBK，資源可能已經轉入BitTorrent。
+
 電子書計劃涉及的電子書的MD5列表如下：
 
 ![第1批MD5](MD5s/MEGA1-PDFMD5.txt)
@@ -232,7 +244,7 @@ Political Economics of Socialism 1976上海版社会主义政治经济学1976年
 
 社会主义政治经济学197609版P464-465
 
-社会主义政治经济学 1976年9月版（模糊一些的版本，来自[马列之声电子书小组的书库](https://tieba.baidu.com/p/6212671631)（https://www.bilibili.com/read/cv11100587 ），文字版经百度云高精度含位置信息接口扫描）
+社会主义政治经济学 1976年9月版（模糊一些的版本，来自[马列之声电子书小组的书库](https://tieba.baidu.com/p/6212671631)（https://www.bilibili.com/read/cv11100587 https://space.bilibili.com/6404653 https://tieba.baidu.com/home/main?id=tb.1.c20422c2.Fhrl7a2Ij23XUGj-_yvbbQ），文字版经百度云高精度含位置信息接口扫描）
 
 The History of the International Communist Movement Vol 1 of 2 Peking Universality 1976 version 国际共产主义运动史 上册 北京大学国际政治系 1976年版
 
