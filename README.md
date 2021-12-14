@@ -8,10 +8,10 @@ Historical documents (in Chinese) about the GPCR（The great proletarian cultura
 https://bannedthought.net/RecentPostings.htm
 
 2021 November 21 — Added “The Complete Works of Mao Zedong” in Chinese: [《毛泽东全集》 “Mao Ze Dong Quan Ji”], Zhang Dijie, editor-in-chief, (Hong Kong: 2013), 52 volumes. This is an unofficial, though carefully prepared edition, by an admirer of Mao.
-![China/Individuals, Mao Zedong section](https://bannedthought.net/China/Individuals/index.htm#Mao)
+[China/Individuals, Mao Zedong section](https://bannedthought.net/China/Individuals/index.htm#Mao)
 
 2021 November 24 — Added “《张春桥狱中家书》 张春桥著”   [“Zhang Chunqiao: Letters from Prison, 1985-2003”], 334 pages, in Chinese.
-![China/Individuals, Zhang Chunqiao section](https://bannedthought.net/China/Individuals/index.htm#ZhangChunqiao)
+[China/Individuals, Zhang Chunqiao section](https://bannedthought.net/China/Individuals/index.htm#ZhangChunqiao)
 
 etc.
 
