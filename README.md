@@ -22,8 +22,6 @@ https://newepochnews.wixsite.com/newepochnews/post/china-long-live-chairman-mao-
 
 ![Image](Head_Image.jpg)
 
-![Image](MLZS.jpg)
-
 **ML之聲EBOOK TXT數據：https://github.com/Yu4HOU2/The-Voice-of-Marxism-Leninism**
 
 **ML之聲EBOOK 800G數據：https://mega.nz/folder/Tb5yTLza#HdahKp3RTVVX3GBTcRTJNw**
