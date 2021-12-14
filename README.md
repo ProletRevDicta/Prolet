@@ -22,6 +22,10 @@ https://newepochnews.wixsite.com/newepochnews/post/china-long-live-chairman-mao-
 
 ![Image](Head_Image.jpg)
 
+![Image](Head_Image_2.jpg)
+
+**註：圖一是在我家，圖二是在清華南路。**
+
 長期以來，這項工作受到劉少奇內外有別路線的嚴重干擾，凡數十年，這種影響，惠贈者也沒有擺脫，這主要是因為ML之聲本身就有內外有別因素的緣故。
 
 電子書計劃涉及的電子書的MD5列表如下：
