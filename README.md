@@ -3,22 +3,16 @@ Historical documents (in Chinese) about the GPCR（The great proletarian cultura
 
 # **伟大的领袖和导师贡萨罗主席永垂不朽！**
 
-**《毛澤東全集》全52卷，7.84GB：https://mega.nz/folder/6CwjTIib#wlYLoZLFfmazXNVtKYwiPg**
+**网版“毛澤東全集”全52卷，较不全，部分文稿有严重删节，仅供研究参照，7.84GB：https://mega.nz/folder/6CwjTIib#wlYLoZLFfmazXNVtKYwiPg**
 
-https://bannedthought.net/RecentPostings.htm
-
-2021 November 21 — Added “The Complete Works of Mao Zedong” in Chinese: [《毛泽东全集》 “Mao Ze Dong Quan Ji”], Zhang Dijie, editor-in-chief, (Hong Kong: 2013), 52 volumes. This is an unofficial, though carefully prepared edition, by an admirer of Mao.
-[China/Individuals, Mao Zedong section](https://bannedthought.net/China/Individuals/index.htm#Mao)
-
-2021 November 24 — Added “《张春桥狱中家书》 张春桥著”   [“Zhang Chunqiao: Letters from Prison, 1985-2003”], 334 pages, in Chinese.
-[China/Individuals, Zhang Chunqiao section](https://bannedthought.net/China/Individuals/index.htm#ZhangChunqiao)
-
-etc.
+网传“张春桥狱中家书”，部分较可信，部分可能有变造甚至伪造 https://bannedthought.net/China/Individuals/index.htm#ZhangChunqiao)
 
 ![Image](Hu%20Houmin.jpg)
 
 【湖北"揭批查"】夏邦银、朱鸿霞、胡厚民等人的"罪证材料"，"夏朱胡专案组"，1977年4月. RC 【供参考】
 https://mega.nz/file/TsBR3SJS#m9S851K7sW5ZOpuHqIad2KT-0Ungwef1aLIoz9d9W2E
+
+————某惠赠资料者注————
 
 **“面對馬克思、列寧、毛澤東主義作為無產階級的科學思想在sina特別是青年中的興起，sino社帝在絕望中審查了有關這個問題的信息和討論小組。”——https://anovademocracia.com.br/noticias/16163-pichacoes-na-china-viva-o-presidente-mao-viva-o-presidente-gonzalo**
 
@@ -34,7 +28,7 @@ https://newepochnews.wixsite.com/newepochnews/post/china-long-live-chairman-mao-
 
 ![Image](Head_Image_2.jpg)
 
-**註：圖一是在東北，圖二是在清華南路。**
+**註：圖一是在NorthEastern，圖二是在Tsinghua Southern Road。**
 
 參考資料：
 
@@ -68,6 +62,8 @@ MEBK（笑脸锯鳐）：https://www.bilibili.com/read/cv11100587
 **ML之聲EBOOK TXT數據：https://github.com/Yu4HOU2/The-Voice-of-Marxism-Leninism**
 
 **ML之聲EBOOK 800G數據：https://mega.nz/folder/Tb5yTLza#HdahKp3RTVVX3GBTcRTJNw**
+
+————————
 
 本库01/12日受赠的《金CR简史》有一些错讹和不完全不准确的地方，但是其中金日成之流活动记事，对揭露金日成资反路线的面目，无疑是很有益的，也可供参考。
 惠赠资料者作的声明:【有關修╳TV、P×PER和修╳宇、林╳背叛geming的材料，以及本庫中文本的PDF版本。
