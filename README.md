@@ -5,6 +5,16 @@ Historical documents (in Chinese) about the GPCR（The great proletarian cultura
 
 **《毛澤東全集》全52卷，7.84GB：https://mega.nz/folder/6CwjTIib#wlYLoZLFfmazXNVtKYwiPg**
 
+https://bannedthought.net/RecentPostings.htm
+
+2021 November 21 — Added “The Complete Works of Mao Zedong” in Chinese: [《毛泽东全集》 “Mao Ze Dong Quan Ji”], Zhang Dijie, editor-in-chief, (Hong Kong: 2013), 52 volumes. This is an unofficial, though carefully prepared edition, by an admirer of Mao.
+[China/Individuals, Mao Zedong section](https://bannedthought.net/China/Individuals/index.htm#Mao)
+
+2021 November 24 — Added “《张春桥狱中家书》 张春桥著”   [“Zhang Chunqiao: Letters from Prison, 1985-2003”], 334 pages, in Chinese.
+[China/Individuals, Zhang Chunqiao section](https://bannedthought.net/China/Individuals/index.htm#ZhangChunqiao)
+
+etc.
+
 ![Image](Hu%20Houmin.jpg)
 
 【湖北"揭批查"】夏邦银、朱鸿霞、胡厚民等人的"罪证材料"，"夏朱胡专案组"，1977年4月. RC 【供参考】
@@ -12,17 +22,48 @@ https://mega.nz/file/TsBR3SJS#m9S851K7sW5ZOpuHqIad2KT-0Ungwef1aLIoz9d9W2E
 
 **“面對馬克思、列寧、毛澤東主義作為無產階級的科學思想在sina特別是青年中的興起，sino社帝在絕望中審查了有關這個問題的信息和討論小組。”——https://anovademocracia.com.br/noticias/16163-pichacoes-na-china-viva-o-presidente-mao-viva-o-presidente-gonzalo**
 
-**“毛澤東主義者在sina的日益活躍應該受到全世界革命者的歡迎。資本主義復辟以來，sino社會束棒正甫殘酷鎮壓一切共產主義組織。sino毛主義在這些困難條件下的行動和組織，顯示了他們的勇敢，應該成為高舉毛主義旗幟、為革命而戰的一種鼓舞。”——
+**“毛澤東主義者在sina的日益活躍應該受到全世界革命者的歡迎。資本主義復辟以來，sino社會束棒正甫殘酷鎮壓一切共產主義組織。sino毛主義在這些困難條件下的行動和組織，顯示了佢們的勇敢，應該成為高舉毛主義旗幟、為革命而戰的一種鼓舞。”——
 https://tribuneofthepeople.news/2021/07/16/china-long-live-chairman-mao-long-live-chairman-gonzalo-graffiti-seen-in-northeast/
 https://newepochnews.wixsite.com/newepochnews/post/china-long-live-chairman-mao-long-live-chairman-gonzalo-graffiti-seen-in-northeast**
 
-**“此時，我們想出版一幅sino畫，它出現在sina東北一家工廠附近的建黨100週年紀念月。這幅畫說：‘毛主席萬歲！贡萨罗主席萬歲！’”——https://www.demvolkedienen.org/index.php/de/40-nachrichten/asien/5581-china-malung-zum-100-jahrestag-der-gruendung-der-kommunistischen-partei-chinas**
+**“此時，Dem Volke Dienen們想出版一幅sino畫，它出現在sina東北一家工廠附近的建黨100週年紀念月。這幅畫說：‘毛主席萬歲！贡萨罗主席萬歲！’”——https://www.demvolkedienen.org/index.php/de/40-nachrichten/asien/5581-china-malung-zum-100-jahrestag-der-gruendung-der-kommunistischen-partei-chinas**
 
 **“sino進步分子需要積極學習和加深對馬克思、列宁、毛澤東主義，主要是毛澤東主義以及贡萨罗主席的普遍有效貢獻的理解。”——https://tribuneofthepeople.news/2021/08/02/communist-international-the-campaign-for-the-defense-of-chairman-gonzalo-deepens-and-broadens/**
 
 ![Image](Head_Image.jpg)
 
-![Image](MLZS.jpg)
+![Image](Head_Image_2.jpg)
+
+**註：圖一是在東北，圖二是在清華南路。**
+
+參考資料：
+
+MEBK（笑脸锯鳐）：https://www.bilibili.com/read/cv11100587
+
+溫XX（闲者与米拉）：https://space.bilibili.com/6404653
+
+希XX（我的阿希）：https://tieba.baidu.com/home/main?id=tb.1.c20422c2.Fhrl7a2Ij23XUGj-_yvbbQ
+
+郭XX（前“阶斗史动”、“介斗史动”）：https://space.bilibili.com/1276888
+
+闲者与米拉使用了平臺私信大量傳播百毒網盤鏈接，之後佢向阶斗史动推送溫XX的視頻，而介斗史动的命名法來自郭XX，接著我的阿希在百毒貼吧用平臺私信大量傳播上一個百毒網盤鏈接，最後是MEBK，資源可能已經轉入BitTorrent。
+
+電子書計劃涉及的電子書的MD5列表如下：
+
+![第1批MD5](MD5s/MEGA1-PDFMD5.txt)
+![第2批MD5](MD5s/MEGA2-PDFMD5.txt)
+![第3批MD5](MD5s/MEGA3-PDFMD5.txt)
+![第4批MD5](MD5s/MEGA4-PDFMD5.txt)
+![第5批MD5](MD5s/MEGA5-PDFMD5.txt)
+![第6批MD5](MD5s/MEGA6-PDFMD5.txt)
+![第7批MD5](MD5s/MEGA7-PDFMD5.txt)
+![第8批MD5](MD5s/MEGA8-PDFMD5.txt)
+![第9批MD5](MD5s/MEGA9-PDFMD5.txt)
+![第10批MD5](MD5s/MEGA10-PDFMD5.txt)
+![第11批MD5](MD5s/MEGA11-PDFMD5.txt)
+![第12批MD5](MD5s/MEGA12-PDFMD5.txt)
+![第12批惠贈書籍MD5](MD5s/MEGA12-single-PDFMD5.txt)
+![第13批及惠贈書籍MD5](MD5s/MEGA13-PDFMD5.txt)
 
 **ML之聲EBOOK TXT數據：https://github.com/Yu4HOU2/The-Voice-of-Marxism-Leninism**
 
@@ -198,7 +239,7 @@ Political Economics of Socialism 1976上海版社会主义政治经济学1976年
 
 社会主义政治经济学197609版P464-465
 
-社会主义政治经济学 1976年9月版（模糊一些的版本，来自[马列之声电子书小组的书库](https://tieba.baidu.com/p/6212671631)（https://www.bilibili.com/read/cv11100587 ），文字版经百度云高精度含位置信息接口扫描）
+社会主义政治经济学 1976年9月版（模糊一些的版本，来自[马列之声电子书小组的书库](https://tieba.baidu.com/p/6212671631)（https://www.bilibili.com/read/cv11100587 https://space.bilibili.com/6404653 https://tieba.baidu.com/home/main?id=tb.1.c20422c2.Fhrl7a2Ij23XUGj-_yvbbQ https://space.bilibili.com/1276888 ），文字版经百度云高精度含位置信息接口扫描）
 
 The History of the International Communist Movement Vol 1 of 2 Peking Universality 1976 version 国际共产主义运动史 上册 北京大学国际政治系 1976年版
 
