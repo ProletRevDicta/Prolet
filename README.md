@@ -32,17 +32,7 @@ https://newepochnews.wixsite.com/newepochnews/post/china-long-live-chairman-mao-
 
 參考資料：
 
-MEBK（笑脸锯鳐）：https://www.bilibili.com/read/cv11100587
-
-溫XX（闲者与米拉）：https://space.bilibili.com/6404653
-
-希XX（我的阿希）：https://tieba.baidu.com/home/main?id=tb.1.c20422c2.Fhrl7a2Ij23XUGj-_yvbbQ
-
-郭XX（前“阶斗史动”、“介斗史动”）：https://space.bilibili.com/1276888
-
-闲者与米拉使用了平臺私信大量傳播百毒網盤鏈接，之後佢向阶斗史动推送溫XX的視頻，而介斗史动的命名法來自郭XX，接著我的阿希在百毒貼吧用平臺私信大量傳播上一個百毒網盤鏈接，最後是MEBK，資源可能已經轉入BitTorrent。
-
-電子書計劃涉及的電子書的MD5列表如下：
+MRBK電子書計劃涉及的電子書的MD5列表如下：
 
 ![第1批MD5](MD5s/MEGA1-PDFMD5.txt)
 ![第2批MD5](MD5s/MEGA2-PDFMD5.txt)
