@@ -32,7 +32,7 @@ https://newepochnews.wixsite.com/newepochnews/post/china-long-live-chairman-mao-
 
 參考資料：
 
-MRBK電子書計劃涉及的電子書的MD5列表如下：
+MEBK電子書計劃涉及的電子書的MD5列表如下：
 
 ![第1批MD5](MD5s/MEGA1-PDFMD5.txt)
 ![第2批MD5](MD5s/MEGA2-PDFMD5.txt)
