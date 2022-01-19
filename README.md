@@ -53,6 +53,15 @@ MEBK電子書計劃涉及的電子書的MD5列表如下：
 
 **ML之聲EBOOK 800G數據：https://mega.nz/folder/Tb5yTLza#HdahKp3RTVVX3GBTcRTJNw**
 
+GNU/Linux Rime、M$Android Trime使用臺灣正體的方法：
+![Image](Trime.jpg)
+
+![Image](Rime.png)
+
+M$Android Time請將![luna_pinyin.schema.yaml](luna_pinyin.schema.yaml)放入Root/storage/emulated/0/rime。
+
+GNU/Linux Rime請將![default.yaml](default.yaml)、![luna_pinyin_tw.custom.yaml](luna_pinyin_tw.custom.yaml)、![luna_pinyin_tw.schema.yaml](luna_pinyin_tw.schema.yaml)放入/home/a/.config/ibus/rime或fcitx其配置路徑。隨後在使用輸入法時按下F4切換為「朙月拼音·臺灣正體」。
+
 ————————
 
 本库01/12日受赠的《金CR简史》有一些错讹和不完全不准确的地方，但是其中金日成之流活动记事，对揭露金日成资反路线的面目，无疑是很有益的，也可供参考。
