@@ -55,6 +55,8 @@ MEBK電子書計劃涉及的電子書的MD5列表如下：
 
 GNU/Linux Rime、M$Android Trime使用臺灣正體的方法：
 
+![Image](M$Rime.jpg)
+
 ![Image](Rime.png)
 
 M$Android Time請將![luna_pinyin.schema.yaml](luna_pinyin.schema.yaml)放入Root/storage/emulated/0/rime。點擊Trime app圖標，再點擊「部署」。使用輸入法，在輸入法彈出後卡噸等待一段時間即部署完成。便可以點擊「標準字」、「傳承字」來切換臺灣正體和北洋繁體。
