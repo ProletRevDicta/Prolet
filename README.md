@@ -3,6 +3,8 @@ Historical documents (in Chinese) about the GPCR（The great proletarian cultura
 
 # **伟大的领袖和导师贡萨罗主席永垂不朽！**
 
+![Image](Gonzalo.png)
+
 ![Gonzalo Volume 1 1968-1987 Collected Works of Communist Party of Peru.txt](Gonzalo%20Volume%201%201968-1987%20Collected%20Works%20of%20Communist%20Party%20of%20Peru.txt)
 
 ![Gonzalo Volume 2 1988-1990 Collected Works of Communist Party of Peru.txt](Gonzalo%20Volume%202%201988-1990%20Collected%20Works%20of%20Communist%20Party%20of%20Peru.txt)
