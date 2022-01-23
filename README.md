@@ -116,7 +116,7 @@ GNU/Linux Rime請將![default.yaml](default.yaml)、![luna_pinyin_tw.custom.yaml
 
 **惠赠资料者原創旋律《反擊》組曲：https://mega.nz/folder/WeI3lCbA#KHFSs0RgCFGOSbSVyZI6yg**
 
-# Repo.惠赠资料者刋物——永不停更：https://mega.nz/folder/rWRHWIoC#6qCHgyh3DLwXpEJ9O54cfA https://mastodon.online/@Gonzalo
+# Repo.惠赠资料者刋物——永不停更：https://mega.nz/folder/rWRHWIoC#6qCHgyh3DLwXpEJ9O54cfA https://mastodon.online/@NKRao
 
 **供廣大工農兵、革命幹部、革命知識分子重命名、整理、收集、轉發、批判。**
 
