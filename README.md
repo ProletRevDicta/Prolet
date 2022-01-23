@@ -3,6 +3,46 @@ Historical documents (in Chinese) about the GPCR（The great proletarian cultura
 
 # **伟大的领袖和导师贡萨罗主席永垂不朽！**
 
+![Gonzalo Volume 1 1968-1987 Collected Works of Communist Party of Peru.txt](Gonzalo%20Volume%201%201968-1987%20Collected%20Works%20of%20Communist%20Party%20of%20Peru.txt)
+
+![Gonzalo Volume 2 1988-1990 Collected Works of Communist Party of Peru.txt](Gonzalo%20Volume%202%201988-1990%20Collected%20Works%20of%20Communist%20Party%20of%20Peru.txt)
+
+![Gonzalo Volume 3 1991-1992 Collected Works of Communist Party of Peru.txt](Gonzalo%20Volume%203%201991-1992%20Collected%20Works%20of%20Communist%20Party%20of%20Peru.txt)
+
+![Gonzalo Volume 4 1993-1999 Collected Works of Communist Party of Peru.txt](Gonzalo%20Volume%204%201993-1999%20Collected%20Works%20of%20Communist%20Party%20of%20Peru.txt)
+
+![BL Gonzalo Volume 1 1968-1987 Collected Works of Communist Party of Peru.txt](BL%20Gonzalo%20Volume%201%201968-1987%20Collected%20Works%20of%20Communist%20Party%20of%20Peru.txt)
+
+![BL Gonzalo Volume 2 1988-1990 Collected Works of Communist Party of Peru.txt](BL%20Gonzalo%20Volume%202%201988-1990%20Collected%20Works%20of%20Communist%20Party%20of%20Peru.txt)
+
+![BL Gonzalo Volume 3 1991-1992 Collected Works of Communist Party of Peru.txt](BL%20Gonzalo%20Volume%203%201991-1992%20Collected%20Works%20of%20Communist%20Party%20of%20Peru.txt)
+
+![BL Gonzalo Volume 4 1993-1999 Collected Works of Communist Party of Peru.txt](BL%20Gonzalo%20Volume%204%201993-1999%20Collected%20Works%20of%20Communist%20Party%20of%20Peru.txt)
+
+![GT Gonzalo Volume 1 1968-1987 Collected Works of Communist Party of Peru.txt](GT%20Gonzalo%20Volume%201%201968-1987%20Collected%20Works%20of%20Communist%20Party%20of%20Peru.txt)
+
+![GT Gonzalo Volume 2 1988-1990 Collected Works of Communist Party of Peru.txt](GT%20Gonzalo%20Volume%202%201988-1990%20Collected%20Works%20of%20Communist%20Party%20of%20Peru.txt)
+
+![GT Gonzalo Volume 3 1991-1992 Collected Works of Communist Party of Peru.txt](GT%20Gonzalo%20Volume%203%201991-1992%20Collected%20Works%20of%20Communist%20Party%20of%20Peru.txt)
+
+![GT Gonzalo Volume 4 1993-1999 Collected Works of Communist Party of Peru.txt](GT%20Gonzalo%20Volume%204%201993-1999%20Collected%20Works%20of%20Communist%20Party%20of%20Peru.txt)
+
+![SD BL Gonzalo Volume 1 1968-1987 Collected Works of Communist Party of Peru.txt](SD%20BL%20Gonzalo%20Volume%201%201968-1987%20Collected%20Works%20of%20Communist%20Party%20of%20Peru.txt)
+
+![SD BL Gonzalo Volume 2 1988-1990 Collected Works of Communist Party of Peru.txt](SD%20BL%20Gonzalo%20Volume%202%201988-1990%20Collected%20Works%20of%20Communist%20Party%20of%20Peru.txt)
+
+![SD BL Gonzalo Volume 3 1991-1992 Collected Works of Communist Party of Peru.txt](SD%20BL%20Gonzalo%20Volume%203%201991-1992%20Collected%20Works%20of%20Communist%20Party%20of%20Peru.txt)
+
+![SD BL Gonzalo Volume 4 1993-1999 Collected Works of Communist Party of Peru.txt](SD%20BL%20Gonzalo%20Volume%204%201993-1999%20Collected%20Works%20of%20Communist%20Party%20of%20Peru.txt)
+
+![SD GT Gonzalo Volume 1 1968-1987 Collected Works of Communist Party of Peru.txt](SD%20GT%20Gonzalo%20Volume%201%201968-1987%20Collected%20Works%20of%20Communist%20Party%20of%20Peru.txt)
+
+![SD GT Gonzalo Volume 2 1988-1990 Collected Works of Communist Party of Peru.txt](SD%20GT%20Gonzalo%20Volume%202%201988-1990%20Collected%20Works%20of%20Communist%20Party%20of%20Peru.txt)
+
+![SD GT Gonzalo Volume 3 1991-1992 Collected Works of Communist Party of Peru.txt](SD%20GT%20Gonzalo%20Volume%203%201991-1992%20Collected%20Works%20of%20Communist%20Party%20of%20Peru.txt)
+
+![SD GT Gonzalo Volume 4 1993-1999 Collected Works of Communist Party of Peru.txt](SD%20GT%20Gonzalo%20Volume%204%201993-1999%20Collected%20Works%20of%20Communist%20Party%20of%20Peru.txt)
+
 **网版“毛澤東全集”全52卷，较不全，部分文稿有严重删节，仅供研究参照，7.84GB：https://mega.nz/folder/6CwjTIib#wlYLoZLFfmazXNVtKYwiPg**
 
 网传“张春桥狱中家书”，部分较可信，部分可能有变造甚至伪造 https://bannedthought.net/China/Individuals/index.htm#ZhangChunqiao)
