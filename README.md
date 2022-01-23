@@ -91,7 +91,7 @@ MEBK電子書計劃涉及的電子書的MD5列表如下：
 ![第12批惠贈書籍MD5](MD5s/MEGA12-single-PDFMD5.txt)
 ![第13批及惠贈書籍MD5](MD5s/MEGA13-PDFMD5.txt)
 
-**ML之聲EBOOK TXT數據：https://github.com/Yu4HOU2/The-Voice-of-Marxism-Leninism**
+**ML之聲EBOOK TXT數據：https://mega.nz/folder/raAFma5R#BeD2qTjxwol47G6jrzdPmQ**
 
 **ML之聲EBOOK 800G數據：https://mega.nz/folder/Tb5yTLza#HdahKp3RTVVX3GBTcRTJNw**
 
@@ -116,7 +116,7 @@ GNU/Linux Rime請將![default.yaml](default.yaml)、![luna_pinyin_tw.custom.yaml
 
 **惠赠资料者原創旋律《反擊》組曲：https://mega.nz/folder/WeI3lCbA#KHFSs0RgCFGOSbSVyZI6yg**
 
-# Repo.惠赠资料者刋物——永不停更：https://github.com/Yu4HOU2/aPAPER [歷史存檔](https://github.com/Yu4HOU2/PAPER-Daily)
+# Repo.惠赠资料者刋物——永不停更：https://mega.nz/folder/rWRHWIoC#6qCHgyh3DLwXpEJ9O54cfA https://mastodon.online/@Gonzalo
 
 **供廣大工農兵、革命幹部、革命知識分子重命名、整理、收集、轉發、批判。**
 
