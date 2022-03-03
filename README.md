@@ -3,6 +3,48 @@ Historical documents (in Chinese) about the GPCR（The great proletarian cultura
 
 # **伟大的领袖和导师贡萨罗主席永垂不朽！**
 
+![Image](Gonzalo.png)
+
+![Gonzalo Volume 1 1968-1987 Collected Works of Communist Party of Peru.txt](Gonzalo%20Volume%201%201968-1987%20Collected%20Works%20of%20Communist%20Party%20of%20Peru.txt)
+
+![Gonzalo Volume 2 1988-1990 Collected Works of Communist Party of Peru.txt](Gonzalo%20Volume%202%201988-1990%20Collected%20Works%20of%20Communist%20Party%20of%20Peru.txt)
+
+![Gonzalo Volume 3 1991-1992 Collected Works of Communist Party of Peru.txt](Gonzalo%20Volume%203%201991-1992%20Collected%20Works%20of%20Communist%20Party%20of%20Peru.txt)
+
+![Gonzalo Volume 4 1993-1999 Collected Works of Communist Party of Peru.txt](Gonzalo%20Volume%204%201993-1999%20Collected%20Works%20of%20Communist%20Party%20of%20Peru.txt)
+
+![BL Gonzalo Volume 1 1968-1987 Collected Works of Communist Party of Peru.txt](BL%20Gonzalo%20Volume%201%201968-1987%20Collected%20Works%20of%20Communist%20Party%20of%20Peru.txt)
+
+![BL Gonzalo Volume 2 1988-1990 Collected Works of Communist Party of Peru.txt](BL%20Gonzalo%20Volume%202%201988-1990%20Collected%20Works%20of%20Communist%20Party%20of%20Peru.txt)
+
+![BL Gonzalo Volume 3 1991-1992 Collected Works of Communist Party of Peru.txt](BL%20Gonzalo%20Volume%203%201991-1992%20Collected%20Works%20of%20Communist%20Party%20of%20Peru.txt)
+
+![BL Gonzalo Volume 4 1993-1999 Collected Works of Communist Party of Peru.txt](BL%20Gonzalo%20Volume%204%201993-1999%20Collected%20Works%20of%20Communist%20Party%20of%20Peru.txt)
+
+![GT Gonzalo Volume 1 1968-1987 Collected Works of Communist Party of Peru.txt](GT%20Gonzalo%20Volume%201%201968-1987%20Collected%20Works%20of%20Communist%20Party%20of%20Peru.txt)
+
+![GT Gonzalo Volume 2 1988-1990 Collected Works of Communist Party of Peru.txt](GT%20Gonzalo%20Volume%202%201988-1990%20Collected%20Works%20of%20Communist%20Party%20of%20Peru.txt)
+
+![GT Gonzalo Volume 3 1991-1992 Collected Works of Communist Party of Peru.txt](GT%20Gonzalo%20Volume%203%201991-1992%20Collected%20Works%20of%20Communist%20Party%20of%20Peru.txt)
+
+![GT Gonzalo Volume 4 1993-1999 Collected Works of Communist Party of Peru.txt](GT%20Gonzalo%20Volume%204%201993-1999%20Collected%20Works%20of%20Communist%20Party%20of%20Peru.txt)
+
+![SD BL Gonzalo Volume 1 1968-1987 Collected Works of Communist Party of Peru.txt](SD%20BL%20Gonzalo%20Volume%201%201968-1987%20Collected%20Works%20of%20Communist%20Party%20of%20Peru.txt)
+
+![SD BL Gonzalo Volume 2 1988-1990 Collected Works of Communist Party of Peru.txt](SD%20BL%20Gonzalo%20Volume%202%201988-1990%20Collected%20Works%20of%20Communist%20Party%20of%20Peru.txt)
+
+![SD BL Gonzalo Volume 3 1991-1992 Collected Works of Communist Party of Peru.txt](SD%20BL%20Gonzalo%20Volume%203%201991-1992%20Collected%20Works%20of%20Communist%20Party%20of%20Peru.txt)
+
+![SD BL Gonzalo Volume 4 1993-1999 Collected Works of Communist Party of Peru.txt](SD%20BL%20Gonzalo%20Volume%204%201993-1999%20Collected%20Works%20of%20Communist%20Party%20of%20Peru.txt)
+
+![SD GT Gonzalo Volume 1 1968-1987 Collected Works of Communist Party of Peru.txt](SD%20GT%20Gonzalo%20Volume%201%201968-1987%20Collected%20Works%20of%20Communist%20Party%20of%20Peru.txt)
+
+![SD GT Gonzalo Volume 2 1988-1990 Collected Works of Communist Party of Peru.txt](SD%20GT%20Gonzalo%20Volume%202%201988-1990%20Collected%20Works%20of%20Communist%20Party%20of%20Peru.txt)
+
+![SD GT Gonzalo Volume 3 1991-1992 Collected Works of Communist Party of Peru.txt](SD%20GT%20Gonzalo%20Volume%203%201991-1992%20Collected%20Works%20of%20Communist%20Party%20of%20Peru.txt)
+
+![SD GT Gonzalo Volume 4 1993-1999 Collected Works of Communist Party of Peru.txt](SD%20GT%20Gonzalo%20Volume%204%201993-1999%20Collected%20Works%20of%20Communist%20Party%20of%20Peru.txt)
+
 **网版“毛澤東全集”全52卷，较不全，部分文稿有严重删节，仅供研究参照，7.84GB：https://mega.nz/folder/6CwjTIib#wlYLoZLFfmazXNVtKYwiPg**
 
 网传“张春桥狱中家书”，部分较可信，部分可能有变造甚至伪造 https://bannedthought.net/China/Individuals/index.htm#ZhangChunqiao)
@@ -49,9 +91,19 @@ MEBK電子書計劃涉及的電子書的MD5列表如下：
 ![第12批惠贈書籍MD5](MD5s/MEGA12-single-PDFMD5.txt)
 ![第13批及惠贈書籍MD5](MD5s/MEGA13-PDFMD5.txt)
 
-**ML之聲EBOOK TXT數據：https://github.com/Yu4HOU2/The-Voice-of-Marxism-Leninism**
+**ML之聲EBOOK TXT數據：https://mega.nz/folder/raAFma5R#BeD2qTjxwol47G6jrzdPmQ**
 
 **ML之聲EBOOK 800G數據：https://mega.nz/folder/Tb5yTLza#HdahKp3RTVVX3GBTcRTJNw**
+
+GNU/Linux Rime、M$Android Trime使用臺灣正體的方法：
+
+![Image](M$Rime.jpg)
+
+![Image](Rime.png)
+
+M$Android Time請將![luna_pinyin.schema.yaml](luna_pinyin.schema.yaml)放入Root/storage/emulated/0/rime。點擊Trime app圖標，再點擊「部署」。使用輸入法，在輸入法彈出後卡噸等待一段時間即部署完成。便可以點擊「標準字」、「傳承字」來切換臺灣正體和北洋繁體。
+
+GNU/Linux Rime請將![default.yaml](default.yaml)、![luna_pinyin_tw.custom.yaml](luna_pinyin_tw.custom.yaml)、![luna_pinyin_tw.schema.yaml](luna_pinyin_tw.schema.yaml)放入/home/a/.config/ibus/rime或fcitx其配置路徑。點擊切換輸入法的菜單，點擊「部署」，在使用輸入法時按下F4切換為「朙月拼音·臺灣正體」即可。
 
 ————————
 
@@ -64,7 +116,7 @@ MEBK電子書計劃涉及的電子書的MD5列表如下：
 
 **惠赠资料者原創旋律《反擊》組曲：https://mega.nz/folder/WeI3lCbA#KHFSs0RgCFGOSbSVyZI6yg**
 
-# Repo.惠赠资料者刋物——永不停更：https://github.com/Yu4HOU2/aPAPER [歷史存檔](https://github.com/Yu4HOU2/PAPER-Daily)
+# Repo.惠赠资料者刋物——永不停更：https://mega.nz/folder/rWRHWIoC#6qCHgyh3DLwXpEJ9O54cfA https://mastodon.online/@NKRao
 
 **供廣大工農兵、革命幹部、革命知識分子重命名、整理、收集、轉發、批判。**
 
