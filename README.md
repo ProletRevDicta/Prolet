@@ -430,6 +430,13 @@ From PRD:建议保留pdf文件的备份，尤其是历史文件。txt文件用�
 可以一个字符一个drawText、也可以一段话一个drawText、也可以一行话一个drawText。
 
 ---
+
+### Mirror images that have not been blocked by GFW until August 16, 2022, except for Quanzhou area.
+![image](https://user-images.githubusercontent.com/77351633/184828111-7caa4338-6c35-41c5-977d-d54ca85cc514.png)
+
+`data:text/html,<script>window.location.href="https%3A%2F%2Frevorevo.gitlab.io%2Fmlmmlm-icu-2022"</script>`
+
+
 ![Image](Gonzalo%20Volume%201%201968-1987%20Collected%20Works%20of%20Communist%20Party%20of%20Peru.png)
 ![Image](Gonzalo%20Volume%202%201988-1990%20Collected%20Works%20of%20Communist%20Party%20of%20Peru.png)
 ![Image](Gonzalo%20Volume%203%201991-1992%20Collected%20Works%20of%20Communist%20Party%20of%20Peru.png)
