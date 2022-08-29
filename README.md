@@ -5,45 +5,45 @@ Historical documents (in Chinese) about the GPCR（The great proletarian cultura
 
 ![Image](Gonzalo.png)
 
-![Gonzalo Volume 1 1968-1987 Collected Works of Communist Party of Peru.txt](Gonzalo%20Volume%201%201968-1987%20Collected%20Works%20of%20Communist%20Party%20of%20Peru.txt)
+![Gonzalo Volume 1 1968-1987 Collected Works of Communist Party of Peru.txt](A5%20%E8%B4%A1%E8%90%A8%E7%BD%97%E9%80%89%E9%9B%86/Gonzalo%20Volume%201%201968-1987%20Collected%20Works%20of%20Communist%20Party%20of%20Peru.txt)
 
-![Gonzalo Volume 2 1988-1990 Collected Works of Communist Party of Peru.txt](Gonzalo%20Volume%202%201988-1990%20Collected%20Works%20of%20Communist%20Party%20of%20Peru.txt)
+![Gonzalo Volume 2 1988-1990 Collected Works of Communist Party of Peru.txt](A5%20%E8%B4%A1%E8%90%A8%E7%BD%97%E9%80%89%E9%9B%86/Gonzalo%20Volume%202%201988-1990%20Collected%20Works%20of%20Communist%20Party%20of%20Peru.txt)
 
-![Gonzalo Volume 3 1991-1992 Collected Works of Communist Party of Peru.txt](Gonzalo%20Volume%203%201991-1992%20Collected%20Works%20of%20Communist%20Party%20of%20Peru.txt)
+![Gonzalo Volume 3 1991-1992 Collected Works of Communist Party of Peru.txt](A5%20%E8%B4%A1%E8%90%A8%E7%BD%97%E9%80%89%E9%9B%86/Gonzalo%20Volume%203%201991-1992%20Collected%20Works%20of%20Communist%20Party%20of%20Peru.txt)
 
-![Gonzalo Volume 4 1993-1999 Collected Works of Communist Party of Peru.txt](Gonzalo%20Volume%204%201993-1999%20Collected%20Works%20of%20Communist%20Party%20of%20Peru.txt)
+![Gonzalo Volume 4 1993-1999 Collected Works of Communist Party of Peru.txt](A5%20%E8%B4%A1%E8%90%A8%E7%BD%97%E9%80%89%E9%9B%86/Gonzalo%20Volume%204%201993-1999%20Collected%20Works%20of%20Communist%20Party%20of%20Peru.txt)
 
-![BL Gonzalo Volume 1 1968-1987 Collected Works of Communist Party of Peru.txt](BL%20Gonzalo%20Volume%201%201968-1987%20Collected%20Works%20of%20Communist%20Party%20of%20Peru.txt)
+![BL Gonzalo Volume 1 1968-1987 Collected Works of Communist Party of Peru.txt](A5%20%E8%B4%A1%E8%90%A8%E7%BD%97%E9%80%89%E9%9B%86/BL%20Gonzalo%20Volume%201%201968-1987%20Collected%20Works%20of%20Communist%20Party%20of%20Peru.txt)
 
-![BL Gonzalo Volume 2 1988-1990 Collected Works of Communist Party of Peru.txt](BL%20Gonzalo%20Volume%202%201988-1990%20Collected%20Works%20of%20Communist%20Party%20of%20Peru.txt)
+![BL Gonzalo Volume 2 1988-1990 Collected Works of Communist Party of Peru.txt](A5%20%E8%B4%A1%E8%90%A8%E7%BD%97%E9%80%89%E9%9B%86/BL%20Gonzalo%20Volume%202%201988-1990%20Collected%20Works%20of%20Communist%20Party%20of%20Peru.txt)
 
-![BL Gonzalo Volume 3 1991-1992 Collected Works of Communist Party of Peru.txt](BL%20Gonzalo%20Volume%203%201991-1992%20Collected%20Works%20of%20Communist%20Party%20of%20Peru.txt)
+![BL Gonzalo Volume 3 1991-1992 Collected Works of Communist Party of Peru.txt](A5%20%E8%B4%A1%E8%90%A8%E7%BD%97%E9%80%89%E9%9B%86/BL%20Gonzalo%20Volume%203%201991-1992%20Collected%20Works%20of%20Communist%20Party%20of%20Peru.txt)
 
-![BL Gonzalo Volume 4 1993-1999 Collected Works of Communist Party of Peru.txt](BL%20Gonzalo%20Volume%204%201993-1999%20Collected%20Works%20of%20Communist%20Party%20of%20Peru.txt)
+![BL Gonzalo Volume 4 1993-1999 Collected Works of Communist Party of Peru.txt](A5%20%E8%B4%A1%E8%90%A8%E7%BD%97%E9%80%89%E9%9B%86/BL%20Gonzalo%20Volume%204%201993-1999%20Collected%20Works%20of%20Communist%20Party%20of%20Peru.txt)
 
-![GT Gonzalo Volume 1 1968-1987 Collected Works of Communist Party of Peru.txt](GT%20Gonzalo%20Volume%201%201968-1987%20Collected%20Works%20of%20Communist%20Party%20of%20Peru.txt)
+![GT Gonzalo Volume 1 1968-1987 Collected Works of Communist Party of Peru.txt](A5%20%E8%B4%A1%E8%90%A8%E7%BD%97%E9%80%89%E9%9B%86/GT%20Gonzalo%20Volume%201%201968-1987%20Collected%20Works%20of%20Communist%20Party%20of%20Peru.txt)
 
-![GT Gonzalo Volume 2 1988-1990 Collected Works of Communist Party of Peru.txt](GT%20Gonzalo%20Volume%202%201988-1990%20Collected%20Works%20of%20Communist%20Party%20of%20Peru.txt)
+![GT Gonzalo Volume 2 1988-1990 Collected Works of Communist Party of Peru.txt](A5%20%E8%B4%A1%E8%90%A8%E7%BD%97%E9%80%89%E9%9B%86/GT%20Gonzalo%20Volume%202%201988-1990%20Collected%20Works%20of%20Communist%20Party%20of%20Peru.txt)
 
-![GT Gonzalo Volume 3 1991-1992 Collected Works of Communist Party of Peru.txt](GT%20Gonzalo%20Volume%203%201991-1992%20Collected%20Works%20of%20Communist%20Party%20of%20Peru.txt)
+![GT Gonzalo Volume 3 1991-1992 Collected Works of Communist Party of Peru.txt](A5%20%E8%B4%A1%E8%90%A8%E7%BD%97%E9%80%89%E9%9B%86/GT%20Gonzalo%20Volume%203%201991-1992%20Collected%20Works%20of%20Communist%20Party%20of%20Peru.txt)
 
-![GT Gonzalo Volume 4 1993-1999 Collected Works of Communist Party of Peru.txt](GT%20Gonzalo%20Volume%204%201993-1999%20Collected%20Works%20of%20Communist%20Party%20of%20Peru.txt)
+![GT Gonzalo Volume 4 1993-1999 Collected Works of Communist Party of Peru.txt](A5%20%E8%B4%A1%E8%90%A8%E7%BD%97%E9%80%89%E9%9B%86/GT%20Gonzalo%20Volume%204%201993-1999%20Collected%20Works%20of%20Communist%20Party%20of%20Peru.txt)
 
-![SD BL Gonzalo Volume 1 1968-1987 Collected Works of Communist Party of Peru.txt](SD%20BL%20Gonzalo%20Volume%201%201968-1987%20Collected%20Works%20of%20Communist%20Party%20of%20Peru.txt)
+![SD BL Gonzalo Volume 1 1968-1987 Collected Works of Communist Party of Peru.txt](A5%20%E8%B4%A1%E8%90%A8%E7%BD%97%E9%80%89%E9%9B%86/SD%20BL%20Gonzalo%20Volume%201%201968-1987%20Collected%20Works%20of%20Communist%20Party%20of%20Peru.txt)
 
-![SD BL Gonzalo Volume 2 1988-1990 Collected Works of Communist Party of Peru.txt](SD%20BL%20Gonzalo%20Volume%202%201988-1990%20Collected%20Works%20of%20Communist%20Party%20of%20Peru.txt)
+![SD BL Gonzalo Volume 2 1988-1990 Collected Works of Communist Party of Peru.txt](A5%20%E8%B4%A1%E8%90%A8%E7%BD%97%E9%80%89%E9%9B%86/SD%20BL%20Gonzalo%20Volume%202%201988-1990%20Collected%20Works%20of%20Communist%20Party%20of%20Peru.txt)
 
-![SD BL Gonzalo Volume 3 1991-1992 Collected Works of Communist Party of Peru.txt](SD%20BL%20Gonzalo%20Volume%203%201991-1992%20Collected%20Works%20of%20Communist%20Party%20of%20Peru.txt)
+![SD BL Gonzalo Volume 3 1991-1992 Collected Works of Communist Party of Peru.txt](A5%20%E8%B4%A1%E8%90%A8%E7%BD%97%E9%80%89%E9%9B%86/SD%20BL%20Gonzalo%20Volume%203%201991-1992%20Collected%20Works%20of%20Communist%20Party%20of%20Peru.txt)
 
-![SD BL Gonzalo Volume 4 1993-1999 Collected Works of Communist Party of Peru.txt](SD%20BL%20Gonzalo%20Volume%204%201993-1999%20Collected%20Works%20of%20Communist%20Party%20of%20Peru.txt)
+![SD BL Gonzalo Volume 4 1993-1999 Collected Works of Communist Party of Peru.txt](A5%20%E8%B4%A1%E8%90%A8%E7%BD%97%E9%80%89%E9%9B%86/SD%20BL%20Gonzalo%20Volume%204%201993-1999%20Collected%20Works%20of%20Communist%20Party%20of%20Peru.txt)
 
-![SD GT Gonzalo Volume 1 1968-1987 Collected Works of Communist Party of Peru.txt](SD%20GT%20Gonzalo%20Volume%201%201968-1987%20Collected%20Works%20of%20Communist%20Party%20of%20Peru.txt)
+![SD GT Gonzalo Volume 1 1968-1987 Collected Works of Communist Party of Peru.txt](A5%20%E8%B4%A1%E8%90%A8%E7%BD%97%E9%80%89%E9%9B%86/SD%20GT%20Gonzalo%20Volume%201%201968-1987%20Collected%20Works%20of%20Communist%20Party%20of%20Peru.txt)
 
-![SD GT Gonzalo Volume 2 1988-1990 Collected Works of Communist Party of Peru.txt](SD%20GT%20Gonzalo%20Volume%202%201988-1990%20Collected%20Works%20of%20Communist%20Party%20of%20Peru.txt)
+![SD GT Gonzalo Volume 2 1988-1990 Collected Works of Communist Party of Peru.txt](A5%20%E8%B4%A1%E8%90%A8%E7%BD%97%E9%80%89%E9%9B%86/SD%20GT%20Gonzalo%20Volume%202%201988-1990%20Collected%20Works%20of%20Communist%20Party%20of%20Peru.txt)
 
-![SD GT Gonzalo Volume 3 1991-1992 Collected Works of Communist Party of Peru.txt](SD%20GT%20Gonzalo%20Volume%203%201991-1992%20Collected%20Works%20of%20Communist%20Party%20of%20Peru.txt)
+![SD GT Gonzalo Volume 3 1991-1992 Collected Works of Communist Party of Peru.txt](A5%20%E8%B4%A1%E8%90%A8%E7%BD%97%E9%80%89%E9%9B%86/SD%20GT%20Gonzalo%20Volume%203%201991-1992%20Collected%20Works%20of%20Communist%20Party%20of%20Peru.txt)
 
-![SD GT Gonzalo Volume 4 1993-1999 Collected Works of Communist Party of Peru.txt](SD%20GT%20Gonzalo%20Volume%204%201993-1999%20Collected%20Works%20of%20Communist%20Party%20of%20Peru.txt)
+![SD GT Gonzalo Volume 4 1993-1999 Collected Works of Communist Party of Peru.txt](A5%20%E8%B4%A1%E8%90%A8%E7%BD%97%E9%80%89%E9%9B%86/SD%20GT%20Gonzalo%20Volume%204%201993-1999%20Collected%20Works%20of%20Communist%20Party%20of%20Peru.txt)
 
 **网版“毛澤東全集”全52卷，较不全，部分文稿有严重删节，仅供研究参照，7.84GB：https://mega.nz/folder/6CwjTIib#wlYLoZLFfmazXNVtKYwiPg**
 
@@ -407,7 +407,28 @@ The History of the International Communist Movement Vol Ⅳ Peking Universality 
 
 马克思恩格斯列宁毛主席 关于社会主义政治经济学的部分论述 复旦 197603
 
-（精加工ing）1976·9社会主义政治经济学.pdf
+---
+华修总参谋部政治部材料：
+
+[张春桥1973年1月30日在作战部关于处理于会泳、浩亮、刘庆棠等人参观问题的检查报告上的批注，“总参谋部政治部”1976年12月“‘四人帮’罪行材料”(6).7z.001](A5%20%E5%BC%A0%E6%98%A5%E6%A1%A5/%E5%BC%A0%E6%98%A5%E6%A1%A51973%E5%B9%B41%E6%9C%8830%E6%97%A5%E5%9C%A8%E4%BD%9C%E6%88%98%E9%83%A8%E5%85%B3%E4%BA%8E%E5%A4%84%E7%90%86%E4%BA%8E%E4%BC%9A%E6%B3%B3%E3%80%81%E6%B5%A9%E4%BA%AE%E3%80%81%E5%88%98%E5%BA%86%E6%A3%A0%E7%AD%89%E4%BA%BA%E5%8F%82%E8%A7%82%E9%97%AE%E9%A2%98%E7%9A%84%E6%A3%80%E6%9F%A5%E6%8A%A5%E5%91%8A%E4%B8%8A%E7%9A%84%E6%89%B9%E6%B3%A8%EF%BC%8C%E2%80%9C%E6%80%BB%E5%8F%82%E8%B0%8B%E9%83%A8%E6%94%BF%E6%B2%BB%E9%83%A8%E2%80%9D1976%E5%B9%B412%E6%9C%88%E2%80%9C%E2%80%98%E5%9B%9B%E4%BA%BA%E5%B8%AE%E2%80%99%E7%BD%AA%E8%A1%8C%E6%9D%90%E6%96%99%E2%80%9D(6).7z.001)
+
+[张春桥1973年3月15日在总参党委扩大会第一次会议上的讲话，“总参谋部政治部”1976年12月“‘四人帮’罪行材料”(2).7z.001](A5%20%E5%BC%A0%E6%98%A5%E6%A1%A5/%E5%BC%A0%E6%98%A5%E6%A1%A51973%E5%B9%B43%E6%9C%8815%E6%97%A5%E5%9C%A8%E6%80%BB%E5%8F%82%E5%85%9A%E5%A7%94%E6%89%A9%E5%A4%A7%E4%BC%9A%E7%AC%AC%E4%B8%80%E6%AC%A1%E4%BC%9A%E8%AE%AE%E4%B8%8A%E7%9A%84%E8%AE%B2%E8%AF%9D%EF%BC%8C%E2%80%9C%E6%80%BB%E5%8F%82%E8%B0%8B%E9%83%A8%E6%94%BF%E6%B2%BB%E9%83%A8%E2%80%9D1976%E5%B9%B412%E6%9C%88%E2%80%9C%E2%80%98%E5%9B%9B%E4%BA%BA%E5%B8%AE%E2%80%99%E7%BD%AA%E8%A1%8C%E6%9D%90%E6%96%99%E2%80%9D(2).7z.001)
+
+[江青1974年1月24日各中央军委的信；迟群、谢静宜1974年1月24日在军委直属单位批林批孔报告会上的讲话，“总参谋部政治部”1976年12月“‘四人帮’罪行材料”(1).7z.001](A5%20%E6%B1%9F%E9%9D%92/%E6%B1%9F%E9%9D%921974%E5%B9%B41%E6%9C%8824%E6%97%A5%E5%90%84%E4%B8%AD%E5%A4%AE%E5%86%9B%E5%A7%94%E7%9A%84%E4%BF%A1%EF%BC%9B%E8%BF%9F%E7%BE%A4%E3%80%81%E8%B0%A2%E9%9D%99%E5%AE%9C1974%E5%B9%B41%E6%9C%8824%E6%97%A5%E5%9C%A8%E5%86%9B%E5%A7%94%E7%9B%B4%E5%B1%9E%E5%8D%95%E4%BD%8D%E6%89%B9%E6%9E%97%E6%89%B9%E5%AD%94%E6%8A%A5%E5%91%8A%E4%BC%9A%E4%B8%8A%E7%9A%84%E8%AE%B2%E8%AF%9D%EF%BC%8C%E2%80%9C%E6%80%BB%E5%8F%82%E8%B0%8B%E9%83%A8%E6%94%BF%E6%B2%BB%E9%83%A8%E2%80%9D1976%E5%B9%B412%E6%9C%88%E2%80%9C%E2%80%98%E5%9B%9B%E4%BA%BA%E5%B8%AE%E2%80%99%E7%BD%AA%E8%A1%8C%E6%9D%90%E6%96%99%E2%80%9D(1).7z.001)
+
+[江青1974年1月24日各中央军委的信；迟群、谢静宜1974年1月24日在军委直属单位批林批孔报告会上的讲话，“总参谋部政治部”1976年12月“‘四人帮’罪行材料”(1).7z.002](A5%20%E6%B1%9F%E9%9D%92/%E6%B1%9F%E9%9D%921974%E5%B9%B41%E6%9C%8824%E6%97%A5%E5%90%84%E4%B8%AD%E5%A4%AE%E5%86%9B%E5%A7%94%E7%9A%84%E4%BF%A1%EF%BC%9B%E8%BF%9F%E7%BE%A4%E3%80%81%E8%B0%A2%E9%9D%99%E5%AE%9C1974%E5%B9%B41%E6%9C%8824%E6%97%A5%E5%9C%A8%E5%86%9B%E5%A7%94%E7%9B%B4%E5%B1%9E%E5%8D%95%E4%BD%8D%E6%89%B9%E6%9E%97%E6%89%B9%E5%AD%94%E6%8A%A5%E5%91%8A%E4%BC%9A%E4%B8%8A%E7%9A%84%E8%AE%B2%E8%AF%9D%EF%BC%8C%E2%80%9C%E6%80%BB%E5%8F%82%E8%B0%8B%E9%83%A8%E6%94%BF%E6%B2%BB%E9%83%A8%E2%80%9D1976%E5%B9%B412%E6%9C%88%E2%80%9C%E2%80%98%E5%9B%9B%E4%BA%BA%E5%B8%AE%E2%80%99%E7%BD%AA%E8%A1%8C%E6%9D%90%E6%96%99%E2%80%9D(1).7z.002)
+
+[王洪文1974年5月4日对作战部领导同志的讲话，“总参谋部政治部”1977年1月“‘四人帮’罪行材料”(8).7z.001](A5%20%E7%8E%8B%E6%B4%AA%E6%96%87/%E7%8E%8B%E6%B4%AA%E6%96%871974%E5%B9%B45%E6%9C%884%E6%97%A5%E5%AF%B9%E4%BD%9C%E6%88%98%E9%83%A8%E9%A2%86%E5%AF%BC%E5%90%8C%E5%BF%97%E7%9A%84%E8%AE%B2%E8%AF%9D%EF%BC%8C%E2%80%9C%E6%80%BB%E5%8F%82%E8%B0%8B%E9%83%A8%E6%94%BF%E6%B2%BB%E9%83%A8%E2%80%9D1977%E5%B9%B41%E6%9C%88%E2%80%9C%E2%80%98%E5%9B%9B%E4%BA%BA%E5%B8%AE%E2%80%99%E7%BD%AA%E8%A1%8C%E6%9D%90%E6%96%99%E2%80%9D(8).7z.001)
+
+[王洪文、张春桥1974年2月8日在军委办公会议听取三总部汇报批林批孔运动情况时的插话（摘录），“总参谋部政治部”1977年1月“‘四人帮’罪行材料”(9).7z.001](A5%20%E7%8E%8B%E6%B4%AA%E6%96%87/%E7%8E%8B%E6%B4%AA%E6%96%87%E3%80%81%E5%BC%A0%E6%98%A5%E6%A1%A51974%E5%B9%B42%E6%9C%888%E6%97%A5%E5%9C%A8%E5%86%9B%E5%A7%94%E5%8A%9E%E5%85%AC%E4%BC%9A%E8%AE%AE%E5%90%AC%E5%8F%96%E4%B8%89%E6%80%BB%E9%83%A8%E6%B1%87%E6%8A%A5%E6%89%B9%E6%9E%97%E6%89%B9%E5%AD%94%E8%BF%90%E5%8A%A8%E6%83%85%E5%86%B5%E6%97%B6%E7%9A%84%E6%8F%92%E8%AF%9D%EF%BC%88%E6%91%98%E5%BD%95%EF%BC%89%EF%BC%8C%E2%80%9C%E6%80%BB%E5%8F%82%E8%B0%8B%E9%83%A8%E6%94%BF%E6%B2%BB%E9%83%A8%E2%80%9D1977%E5%B9%B41%E6%9C%88%E2%80%9C%E2%80%98%E5%9B%9B%E4%BA%BA%E5%B8%AE%E2%80%99%E7%BD%AA%E8%A1%8C%E6%9D%90%E6%96%99%E2%80%9D(9).7z.001)
+
+[王洪文、张春桥1974年3月15日在作战部汇报批林批孔运动时的插话，“总参谋部政治部”1976年12月“‘四人帮’罪行材料”(4).7z.001](A5%20%E7%8E%8B%E6%B4%AA%E6%96%87/%E7%8E%8B%E6%B4%AA%E6%96%87%E3%80%81%E5%BC%A0%E6%98%A5%E6%A1%A51974%E5%B9%B43%E6%9C%8815%E6%97%A5%E5%9C%A8%E4%BD%9C%E6%88%98%E9%83%A8%E6%B1%87%E6%8A%A5%E6%89%B9%E6%9E%97%E6%89%B9%E5%AD%94%E8%BF%90%E5%8A%A8%E6%97%B6%E7%9A%84%E6%8F%92%E8%AF%9D%EF%BC%8C%E2%80%9C%E6%80%BB%E5%8F%82%E8%B0%8B%E9%83%A8%E6%94%BF%E6%B2%BB%E9%83%A8%E2%80%9D1976%E5%B9%B412%E6%9C%88%E2%80%9C%E2%80%98%E5%9B%9B%E4%BA%BA%E5%B8%AE%E2%80%99%E7%BD%AA%E8%A1%8C%E6%9D%90%E6%96%99%E2%80%9D(4).7z.001)
+
+[王洪文、张春桥1974年3月18日在中央军委领导同志听取通讯兵批林批孔运动情况汇报时的插话，“总参谋部政治部”1977年1月“‘四人帮’罪行材料”(10).7z.001](A5%20%E7%8E%8B%E6%B4%AA%E6%96%87/%E7%8E%8B%E6%B4%AA%E6%96%87%E3%80%81%E5%BC%A0%E6%98%A5%E6%A1%A51974%E5%B9%B43%E6%9C%8818%E6%97%A5%E5%9C%A8%E4%B8%AD%E5%A4%AE%E5%86%9B%E5%A7%94%E9%A2%86%E5%AF%BC%E5%90%8C%E5%BF%97%E5%90%AC%E5%8F%96%E9%80%9A%E8%AE%AF%E5%85%B5%E6%89%B9%E6%9E%97%E6%89%B9%E5%AD%94%E8%BF%90%E5%8A%A8%E6%83%85%E5%86%B5%E6%B1%87%E6%8A%A5%E6%97%B6%E7%9A%84%E6%8F%92%E8%AF%9D%EF%BC%8C%E2%80%9C%E6%80%BB%E5%8F%82%E8%B0%8B%E9%83%A8%E6%94%BF%E6%B2%BB%E9%83%A8%E2%80%9D1977%E5%B9%B41%E6%9C%88%E2%80%9C%E2%80%98%E5%9B%9B%E4%BA%BA%E5%B8%AE%E2%80%99%E7%BD%AA%E8%A1%8C%E6%9D%90%E6%96%99%E2%80%9D(10).7z.001)
+
+[王洪文、张春桥1974年3月6日在在听取三部批林批孔运动情况汇报时的插话，“总参谋部政治部”1976年12月“‘四人帮’罪行材料”(5).7z.001](A5%20%E7%8E%8B%E6%B4%AA%E6%96%87/%E7%8E%8B%E6%B4%AA%E6%96%87%E3%80%81%E5%BC%A0%E6%98%A5%E6%A1%A51974%E5%B9%B43%E6%9C%886%E6%97%A5%E5%9C%A8%E5%9C%A8%E5%90%AC%E5%8F%96%E4%B8%89%E9%83%A8%E6%89%B9%E6%9E%97%E6%89%B9%E5%AD%94%E8%BF%90%E5%8A%A8%E6%83%85%E5%86%B5%E6%B1%87%E6%8A%A5%E6%97%B6%E7%9A%84%E6%8F%92%E8%AF%9D%EF%BC%8C%E2%80%9C%E6%80%BB%E5%8F%82%E8%B0%8B%E9%83%A8%E6%94%BF%E6%B2%BB%E9%83%A8%E2%80%9D1976%E5%B9%B412%E6%9C%88%E2%80%9C%E2%80%98%E5%9B%9B%E4%BA%BA%E5%B8%AE%E2%80%99%E7%BD%AA%E8%A1%8C%E6%9D%90%E6%96%99%E2%80%9D(5).7z.001)
+
+[三总部关于民兵指挥部问题调查组与上海民兵指挥部座谈记录，“总参谋部政治部”1976年12月“‘四人帮’罪行材料”(7).7z.001](E%20%E4%B8%8A%E6%B5%B7%E6%B0%91%E5%85%B5%E6%AD%A6%E8%A3%85/%E4%B8%89%E6%80%BB%E9%83%A8%E5%85%B3%E4%BA%8E%E6%B0%91%E5%85%B5%E6%8C%87%E6%8C%A5%E9%83%A8%E9%97%AE%E9%A2%98%E8%B0%83%E6%9F%A5%E7%BB%84%E4%B8%8E%E4%B8%8A%E6%B5%B7%E6%B0%91%E5%85%B5%E6%8C%87%E6%8C%A5%E9%83%A8%E5%BA%A7%E8%B0%88%E8%AE%B0%E5%BD%95%EF%BC%8C%E2%80%9C%E6%80%BB%E5%8F%82%E8%B0%8B%E9%83%A8%E6%94%BF%E6%B2%BB%E9%83%A8%E2%80%9D1976%E5%B9%B412%E6%9C%88%E2%80%9C%E2%80%98%E5%9B%9B%E4%BA%BA%E5%B8%AE%E2%80%99%E7%BD%AA%E8%A1%8C%E6%9D%90%E6%96%99%E2%80%9D(7).7z.001)
 
 ---
 注意到git并不适合用于分发二进制格式的文件，而是适用于分发文本文件。
@@ -418,9 +439,6 @@ The History of the International Communist Movement Vol Ⅳ Peking Universality 
 
 ---
 From PRD:建议保留pdf文件的备份，尤其是历史文件。txt文件用以快速检索pdf文件的内容。
-
----
-需改造的破损文件——DOCX文件
 
 ---
 百度云扫描带位置信息的文件，可以用[Reportlab](https://www.reportlab.com/docs/reportlab-userguide.pdf)（仅需加一个坐标系转换，将左下角坐标系转换为左上角坐标系）、Python等来生成一个PDF。
@@ -434,10 +452,8 @@ From PRD:建议保留pdf文件的备份，尤其是历史文件。txt文件用�
 ### Mirror images that have not been blocked by GFW until August 16, 2022, except for Quanzhou area.
 ![image](https://user-images.githubusercontent.com/77351633/184828111-7caa4338-6c35-41c5-977d-d54ca85cc514.png)
 
-`data:text/html,<script>window.location.href="https%3A%2F%2Frevorevo.gitlab.io%2Fmlmmlm-icu-2022"</script>`
 
-
-![Image](Gonzalo%20Volume%201%201968-1987%20Collected%20Works%20of%20Communist%20Party%20of%20Peru.png)
-![Image](Gonzalo%20Volume%202%201988-1990%20Collected%20Works%20of%20Communist%20Party%20of%20Peru.png)
-![Image](Gonzalo%20Volume%203%201991-1992%20Collected%20Works%20of%20Communist%20Party%20of%20Peru.png)
-![Image](Gonzalo%20Volume%204%201993-1999%20Collected%20Works%20of%20Communist%20Party%20of%20Peru.png)
+![Image](A5%20%E8%B4%A1%E8%90%A8%E7%BD%97%E9%80%89%E9%9B%86/Gonzalo%20Volume%201%201968-1987%20Collected%20Works%20of%20Communist%20Party%20of%20Peru.png)
+![Image](A5%20%E8%B4%A1%E8%90%A8%E7%BD%97%E9%80%89%E9%9B%86/Gonzalo%20Volume%202%201988-1990%20Collected%20Works%20of%20Communist%20Party%20of%20Peru.png)
+![Image](A5%20%E8%B4%A1%E8%90%A8%E7%BD%97%E9%80%89%E9%9B%86/Gonzalo%20Volume%203%201991-1992%20Collected%20Works%20of%20Communist%20Party%20of%20Peru.png)
+![Image](A5%20%E8%B4%A1%E8%90%A8%E7%BD%97%E9%80%89%E9%9B%86/Gonzalo%20Volume%204%201993-1999%20Collected%20Works%20of%20Communist%20Party%20of%20Peru.png)
