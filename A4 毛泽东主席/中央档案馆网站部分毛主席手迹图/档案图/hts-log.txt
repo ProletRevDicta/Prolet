@@ -1,0 +1,12 @@
+HTTrack3.49-2+htsswf+htsjava launched on Sun, 28 Aug 2022 08:07:26 at https://www.saac.gov.cn/zt/mzd.htm +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qir6%e0C1%Ps2u1%s%uN5%I0p3DaK0H0%kf2A250000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "zh, en, *" https://www.saac.gov.cn/zt/mzd.htm -O1 "D:\劳动人民文化宫\工人图书馆\3毛泽东选集\毛泽东手稿图 中央档案馆网站\档案图" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+08:07:47	Error: 	"Not Found" (404) at link https://www.saac.gov.cn/style/style.css (from https://www.saac.gov.cn/zt/2013-12/31/content_30802.htm)
+
+HTTrack Website Copier/3.49-2 mirror complete in 2 minutes 39 seconds : 1504 links scanned, 1502 files written (82446671 bytes overall), 262 files updated [26411611 bytes received at 166110 bytes/sec], 52.4 requests per connection
+(1 errors, 0 warnings, 0 messages)

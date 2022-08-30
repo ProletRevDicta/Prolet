@@ -1,0 +1,8 @@
+-qir6%e0C1%Ps2u1%s%uN5%I0p3DaK0H0%kf2A250000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "zh, en, *" https://www.saac.gov.cn/zt/mzd.htm -O1 "D:\劳动人民文化宫\工人图书馆\3毛泽东选集\毛泽东手稿图 中央档案馆网站\档案图" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+File generated automatically on Sun, 28 Aug 2022 08:07:26, do NOT edit
+
+To update a mirror, just launch httrack without any parameters
+The existing cache will be used (and modified)
+To have other options, retype all parameters and launch HTTrack
+To continue an interrupted mirror, just launch httrack without any parameters
+
