@@ -54,6 +54,11 @@ Historical documents (in Chinese) about the GPCR（The great proletarian cultura
 【湖北"揭批查"】夏邦银、朱鸿霞、胡厚民等人的"罪证材料"，"夏朱胡专案组"，1977年4月. RC 【供参考】
 https://mega.nz/file/TsBR3SJS#m9S851K7sW5ZOpuHqIad2KT-0Ungwef1aLIoz9d9W2E
 
+除了毛主席1973年12月指示外，我们从文革时期材料、“揭批查”材料和之后的其他书籍中查到的毛主席指示将在《* Some of Chairman Mao ‘s Instructions 毛主席1975-1976年部分指示补遗【待修改】.txt》中更新，我们将不重复摘录已经在流行的静火版《毛选6-7卷》和《年谱》《建国以来文稿》《建国以来军事文稿》等中已有的材料。各省“揭批查”的材料正在整理中。
+
+关于毛主席的著作，还可以查阅水陆洲同志编选的《无产阶级文化大革命资料汇编》，参照资产阶级材料如宋永毅《中国文化大革命文库》（注意鉴别）。此外，可以参看资产阶级编选的几种《批注》《手书》和专题文集。
+
+
 ————某惠赠资料者注————
 
 **“面對馬克思、列寧、毛澤東主義作為無產階級的科學思想在sina特別是青年中的興起，sino社帝在絕望中審查了有關這個問題的信息和討論小組。”——https://anovademocracia.com.br/noticias/16163-pichacoes-na-china-viva-o-presidente-mao-viva-o-presidente-gonzalo**
