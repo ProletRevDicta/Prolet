@@ -1,6 +1,8 @@
 # Prolet
 Historical documents (in Chinese) about the GPCR（The great proletarian cultural revolution） (Thanks Comrade RC)
 
+# **[ProletRevDicta/Prolet直链下载网站](https://hubred-rev.github.io/index.htm)**
+
 # **伟大的领袖和导师贡萨罗主席永垂不朽！**
 
 ![Image](Gonzalo.png)
