@@ -2,7 +2,7 @@
 | ------- | ------- |
 | [NL Kim Jong Un Doctor 金正恩 博士 The Study of the Introduction of Ming Dynasty Historical Novel in Korea 明代历史演义小说在韩国的传播研究](I%20%E6%96%87%E5%AD%A6/NL%20Kim%20Jong%20Un%20Doctor%20%E9%87%91%E6%AD%A3%E6%81%A9%20%E5%8D%9A%E5%A3%AB%20The%20Study%20of%20the%20Introduction%20of%20Ming%20Dynasty%20Historical%20Novel%20in%20Korea%20%E6%98%8E%E4%BB%A3%E5%8E%86%E5%8F%B2%E6%BC%94%E4%B9%89%E5%B0%8F%E8%AF%B4%E5%9C%A8%E9%9F%A9%E5%9B%BD%E7%9A%84%E4%BC%A0%E6%92%AD%E7%A0%94%E7%A9%B6.txt) | 暂无 |
 
-“J 建国后及文革期间电影音乐剧本”下的复现文件：
+“[J 建国后及文革期间电影音乐剧本](../J%20%E5%BB%BA%E5%9B%BD%E5%90%8E%E5%8F%8A%E6%96%87%E9%9D%A9%E6%9C%9F%E9%97%B4%E7%94%B5%E5%BD%B1%E9%9F%B3%E4%B9%90%E5%89%A7%E6%9C%AC)”下的复现文件：
 
 | 复现TXT文件 | 复现PDF文件 |
 | ------- | ------- |

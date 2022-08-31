@@ -43,8 +43,8 @@ for z in range(len(fo2)):
     fo=[a for a in fo if a.find(fo2[z])==-1 and a.find(fo2[z].split('/')[-1:][0])==-1 and a]
     fl=fo3[z]
     for d in fo:
-        t='''“%s”下的复现文件：\n\n| 复现TXT文件 | 复现PDF文件 |
-| ------- | ------- |\n'''%(d.replace('/home/a/Prolet/','').replace('/home/a/Prolet',''))
+        t='''“[%s](%s)”下的复现文件：\n\n| 复现TXT文件 | 复现PDF文件 |
+| ------- | ------- |\n'''%(d.replace('/home/a/Prolet/','').replace('/home/a/Prolet',''),'../%s'%quote(d.replace('/home/a/Prolet/','').replace('/home/a/Prolet','')))
         tk=False
         for a in os.walk(d):
             for b in a[2]:
