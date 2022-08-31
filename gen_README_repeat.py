@@ -26,6 +26,7 @@ for a in fo3:
         elif'华修'in b:ap='华修'
         elif'电影'in b:ap='电影'
         elif'哲学'in b:ap='哲学'
+        elif'马列毛'in b:ap=['马克思','恩格斯','列宁','斯大林','毛泽东']
         else:ap=b
         if ap not in fo4[len(fo4)-1]:
             if isinstance(ap,list):
