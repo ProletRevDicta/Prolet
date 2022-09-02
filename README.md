@@ -47,9 +47,19 @@ Historical documents (in Chinese) about the GPCR（The great proletarian cultura
 
 ![SD GT Gonzalo Volume 4 1993-1999 Collected Works of Communist Party of Peru.txt](A5%20%E8%B4%A1%E8%90%A8%E7%BD%97%E9%80%89%E9%9B%86/SD%20GT%20Gonzalo%20Volume%204%201993-1999%20Collected%20Works%20of%20Communist%20Party%20of%20Peru.txt)
 
-**镇库之宝：**
+# 以阶级斗争为纲，纲举目张，继续革命！
+
+![Image](The%20Counterattack.jpg)
+
+**《反擊》1976.05：https://mega.nz/file/eTxxAA6a#UHQGj-0WRWK0ANYd4tJycZJQB-9OBw0hYr736_avwq4**
+
+**惠赠资料者原創旋律《反擊》組曲：https://mega.nz/folder/WeI3lCbA#KHFSs0RgCFGOSbSVyZI6yg**
+
 [反击 开头部分影片流出.flv](J%20%E5%BB%BA%E5%9B%BD%E5%90%8E%E5%8F%8A%E6%96%87%E9%9D%A9%E6%9C%9F%E9%97%B4%E7%94%B5%E5%BD%B1%E9%9F%B3%E4%B9%90%E5%89%A7%E6%9C%AC/%E5%8F%8D%E5%87%BB%20%E5%BC%80%E5%A4%B4%E9%83%A8%E5%88%86%E5%BD%B1%E7%89%87%E6%B5%81%E5%87%BA.flv)
+
 [反击 剧照](J%20%E5%BB%BA%E5%9B%BD%E5%90%8E%E5%8F%8A%E6%96%87%E9%9D%A9%E6%9C%9F%E9%97%B4%E7%94%B5%E5%BD%B1%E9%9F%B3%E4%B9%90%E5%89%A7%E6%9C%AC/%E5%8F%8D%E5%87%BB%20%E5%89%A7%E7%85%A7)
+
+# Repo.惠赠资料者刋物——永不停更：https://mega.nz/folder/rWRHWIoC#6qCHgyh3DLwXpEJ9O54cfA https://mastodon.online/@NKRao
 
 **网版“毛澤東全集”全52卷，较不全，部分文稿有严重删节，仅供研究参照，7.84GB：https://mega.nz/folder/6CwjTIib#wlYLoZLFfmazXNVtKYwiPg**
 
@@ -120,14 +130,6 @@ GNU/Linux Rime請將![default.yaml](default.yaml)、![luna_pinyin_tw.custom.yaml
 
 本库01/12日受赠的《金CR简史》有一些错讹和不完全不准确的地方，但是其中金日成之流活动记事，对揭露金日成资反路线的面目，无疑是很有益的，也可供参考。
 惠赠资料者作的声明:【有關修╳TV、P×PER和修╳宇、林╳背叛geming的材料，以及本庫中文本的PDF版本。
-
-![Image](The%20Counterattack.jpg)
-
-**《反擊》1976.05：https://mega.nz/file/eTxxAA6a#UHQGj-0WRWK0ANYd4tJycZJQB-9OBw0hYr736_avwq4**
-
-**惠赠资料者原創旋律《反擊》組曲：https://mega.nz/folder/WeI3lCbA#KHFSs0RgCFGOSbSVyZI6yg**
-
-# Repo.惠赠资料者刋物——永不停更：https://mega.nz/folder/rWRHWIoC#6qCHgyh3DLwXpEJ9O54cfA https://mastodon.online/@NKRao
 
 **供廣大工農兵、革命幹部、革命知識分子重命名、整理、收集、轉發、批判。**
 
