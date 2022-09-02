@@ -47,6 +47,10 @@ Historical documents (in Chinese) about the GPCR（The great proletarian cultura
 
 ![SD GT Gonzalo Volume 4 1993-1999 Collected Works of Communist Party of Peru.txt](A5%20%E8%B4%A1%E8%90%A8%E7%BD%97%E9%80%89%E9%9B%86/SD%20GT%20Gonzalo%20Volume%204%201993-1999%20Collected%20Works%20of%20Communist%20Party%20of%20Peru.txt)
 
+**镇库之宝：**
+[反击 开头部分影片流出.flv](J%20%E5%BB%BA%E5%9B%BD%E5%90%8E%E5%8F%8A%E6%96%87%E9%9D%A9%E6%9C%9F%E9%97%B4%E7%94%B5%E5%BD%B1%E9%9F%B3%E4%B9%90%E5%89%A7%E6%9C%AC/%E5%8F%8D%E5%87%BB%20%E5%BC%80%E5%A4%B4%E9%83%A8%E5%88%86%E5%BD%B1%E7%89%87%E6%B5%81%E5%87%BA.flv)
+[反击 剧照](J%20%E5%BB%BA%E5%9B%BD%E5%90%8E%E5%8F%8A%E6%96%87%E9%9D%A9%E6%9C%9F%E9%97%B4%E7%94%B5%E5%BD%B1%E9%9F%B3%E4%B9%90%E5%89%A7%E6%9C%AC/%E5%8F%8D%E5%87%BB%20%E5%89%A7%E7%85%A7)
+
 **网版“毛澤東全集”全52卷，较不全，部分文稿有严重删节，仅供研究参照，7.84GB：https://mega.nz/folder/6CwjTIib#wlYLoZLFfmazXNVtKYwiPg**
 
 网传“张春桥狱中家书”，部分较可信，部分可能有变造甚至伪造 https://bannedthought.net/China/Individuals/index.htm#ZhangChunqiao)
