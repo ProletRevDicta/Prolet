@@ -12,6 +12,7 @@ for a in fo3:
     fo4.append([])
     for b in a:
         if'上海'in b:ap='上海'
+        elif('自然'in b)and('姚文元'not in b):ap='自然'
         elif'毛泽东'in b or '모택동선집'in b:ap='毛泽东'
         elif'国际共产主义运动'in b:ap='共产主义'
         elif'党'in b:ap='党'
@@ -27,6 +28,7 @@ for a in fo3:
         elif'电影'in b:ap='电影'
         elif'哲学'in b:ap='哲学'
         elif'马列毛'in b:ap=['马克思','恩格斯','列宁','斯大林','毛泽东']
+        elif'自学'in b:ap=['自学','自然']
         else:ap=b
         if ap not in fo4[len(fo4)-1]:
             if isinstance(ap,list):
