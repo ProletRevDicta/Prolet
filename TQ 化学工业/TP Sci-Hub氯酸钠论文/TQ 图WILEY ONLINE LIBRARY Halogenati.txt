@@ -1,0 +1,81 @@
+    图WILEY
+    ONLINE LIBRARY
+    Halogenation
+    00235
+    DOL:10.1002/chin.201126034
+    26-034
+    The Use of Sodium Chlorate/Hydrochloric Acid Mixtures as a Novel and Selective
+    Chlorination Agent.-The title mixtures are employed to chlorinate activated arenesand the o-position of ketones.Mono-,di-,and trichlorinated products can be selectivelyobtained by adding appropriate amounts of sodium chlorate.The real chlorinating mol-ecules are presumably HOCl,Ac-O-Cl,and chlorine,formed by disproportion reac-tions.-(MOON,B.S.;CHOI,H.Y.;KOH,H.Y.;CHI*,D.Y.;Bull.Korean Chem.
+    Soc.32(2011)2,472-476,http:/dk.doi.org/10.5012/bkcs.2011.32.2.472;Dep.
+    Chem.,Sogang Univ.,Seoul 121-742,S.Korea;Eng.)-H.Hoennerscheid
+    NH-Ac
+    NH-Ac
+    NH-Ac1 equiv.NaClO
+    C
+    C
+    CI
+    A),25C,[1h]
+    IΠ88%
+    7%
+    IV 4%
+    A):conc.aq.HCI,AcOH,H2O
+    NH-Ac
+    NH2
+    NH2
+    0.35 equiv.NoCIO3
+    IV+C
+    1.4 equiv.NaCIO3
+    CI
+    ci1A0.250.81
+    A).25C,[40h]
+    N02
+    N02
+    64%
+    V32%
+    VII 72%
+    OH
+    OH
+    equiv.NaCIO3
+    -C1
+    A).25C,[26h]
+    CI
+    VII
+    IX60%
+    X6%
+    0-Me
+    0-Me
+    2 equiv.NaClO3
+    C
+    C
+    CI
+    A),25C,[1h]
+    C
+    XII 51%
+    II129%
+    3 equiv.NaClO3
+    へ
+    0.5 equiv.NaCIO3
+    NMe0
+    A八.120℃，1h台
+    0
+    0-Me
+    A),25℃，[2h令
+    NMe
+    0-Me
+    XIII
+    XIV 95%
+    xV
+    XVI 67%
+    CH30.7 equiv.NaCIO
+    、C
+    A),60C,[15h]
+    NO>
+    N02
+    N02
+    XVII
+    XVIII 87%
+    XIX 11%
+    ChemInform 2011,42,issue 26
+    2011 Wiley-VCH Verlag GmbH Co.KGaA,Weinheim
+
+==========第1页==========

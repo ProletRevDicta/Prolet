@@ -1,0 +1,1127 @@
+    Environmental Pathology
+    TOXICOLOGIC PATHOLOGY,vol 29,no 2,pp 250-259,2001
+    Copyright 2001 by the Society of Toxicologic Pathology
+    Subchronic Sodium Chlorate Exposure in Drinking Water Resultsin a Concentration-Dependent Increase in Rat Thyroid Follicular
+    Cell Hyperplasia
+    MICHELLE J.HOOTH,ANTHONY B.DEANGELO,MICHAEL H.GEORGE,ELIAS T.GAILLARD,3
+    GREGORY S.TRAVLOS,2 GARY A.BOORMAN,2 AND DOUGLAS C.WOLF
+    Environmental Carcinogenesis Division,National Health and Environmental Effects Research Laboratory,Office of Research
+    and Development,US Environmental Protection Agency,Research Triangle Park,North Carolina 27711,
+    2National Toxicology Program,National Institute of Environmental Health Sciences,Research Triangle Park,North Carolina 27709,and
+    3Boehringer Ingelheim Pharmaceuticals,Ridgefield,Connecticut 06877
+    ABSTRACT
+    Chlorine dioxide (C1O2)is an effective drinking water disinfectant,but sodium chlorate (NaClO3)has been identified as a potentially harmfuldisinfection by-product.Studies were performed to describe the development of thyroid lesions in animals exposed to NaClO3 in the drinking water.
+    Male and female F344 rats and B6C3F mice were exposed to 0,0.125,0.25,0.5,1.0,or 2.0 g/L NaClO3 for 21 days.Additional male F344 rats wereexposed to 0,0.001,0.01,0.1,1.0,or 2.0 g/L NaC1O3 for 90 days.Female F344 rats were exposed to 0,0.5,1.0,2.0,4.0,or 6.0 g/L of NaClO3 for105 days.Thyroid tissues were processed by routine methods for light microscopic examination,and follicular cell hyperplasia was diagnosed using anovel method.Thyroid hormone levels were altered significantly after 4 and 21 days.NaClO3 treatment induced a concentration-dependen t increasein the incidence and severity of thyroid follicular cell hyperplasia.Male rats are more sensitive to the effects of NaClO3 treatment than females.
+    Follicular cell hyperplasia was not present in male or female B6C3F1 mice.These data can be used to estimate the human health risk that would beassociated with using ClO2,rather than chlorine,to disinfect drinking water
+    Keywords.Colloid depletion;disinfection by-products;drinking water;follicular cell hyperplasia;hormones;sodium chlorate;thyroid.
+    INTRODUCTION
+    in finished water and free chlorine in the distribution system
+    Under the Safe Drinking Water Act of 1996,the US Envi-
+    (13).Chlorate may be found at levels as high as 2.0 mg/L in
+    ronmental Protection Agency(EPA)is mandated by Congress
+    finished drinking water (22).Commercially,NaC1O3 is used
+    to ensure the quality of drinking water in the United States by
+    as an oxidizing agent in the tanning and leather industry,in
+    setting standards for the control of pathogens and disinfec-
+    the manufacture of dyes,explosives,and matches,and as a
+    tion by-products (DBPs).Special emphasis has been placed
+    herbicide (31).
+    on the toxicity and carcinogenicity of chlorine disinfection
+    The toxicity data for NaClO3 are limited and come primar-
+    by-products.Chlorination is the most common water disin-
+    ily from subchronic studies involving administration of chlo-
+    fection method in the United States,but a variety of carcino-
+    rate to rats and mice orally,either by gavage,or in the drinking
+    genic compounds including the trihalomethanes (THMs)and
+    water.Most of the potential adverse health effects of NaClO3
+    the haloacetic acids are formed when humic material reacts
+    exposure are associated with blood oxidation including in-
+    with chlorine.Alternative disinfection methods have been
+    creased methemoglobin formation,decreased hematocrit,red
+    utilized to limit the production of these potentially harmful
+    blood cell (RBC)membrane damage,and reduction in RBC
+    DBPs.Chlorine dioxide (C1O2)is more effective than chlo-
+    glutathione levels (1,2,6,19,45).Other subchronic toxicity
+    rine for killing most microorganisms,produces fewer chlo-
+    tests have identified the rat thyroid as the primary target organ.
+    rinated by-products,and does not produce significant levels
+    Bercz et al (4)reported a concentration-dependent decrease
+    of THMs (38).However,compounds such as sodium chlo-
+    in thyroxine (T4)levels in African green monkeys exposed
+    rate (NaC1O3)have been identified as by-products from C1O2
+    to C1O2 in drinking water.A statistically significant decrease
+    disinfection.NaClO3 may be formed by inefficient C1O2 gen-
+    in T4 levels occurred after 4 weeks of exposure to 0.1 g/L
+    eration or as a result of the reaction between residual chlorite
+    (9 mg/kg/day)C1O2,but changes in T4 levels did not occurwhen the animals were exposed to 0.4 g/L (60 mg/kg/day)of
+    NaclO.
+    Address correspondenc e to:Dr Douglas C.Wolf,U.S.EPA,MD-68.
+    More recently,McCauley et al (31)conducted a sub-
+    86 TW Alexander Drive,Research Triangle Park,North Carolina 27711;
+    chronic (90-day)study on NaC1O3 in male and female
+    e-mail:wolf.doug @epamail.epa.go v.
+    Downloaded trom tpx.sagepub.com at UNIV Ne.Animals were exposed to 250,1,001,
+    250
+    0192-6233/01$3.00+$0.00
+
+==========第1页==========
+    Vol.29,No.2,2001
+    THYROID EFFECTS OF Nacio EXPOSURE
+    251
+    TABLE 1.-Experimental study design to characterize the development of thyroid lesions in rodents exposed to NaClO3 in the drinking water.
+    Length of
+    Number of
+    Concentrations of NaClO in the
+    Study
+    Sponsor
+    Species
+    Sex
+    exposure
+    animals/group
+    drinking water(g/L)
+    NTP
+    B6C3FI Mice
+    M/F
+    21 Days
+    10
+    0,0.125,0.25,0.5,1.0,2.0
+    F344 Rats
+    B
+    21 Days
+    10
+    0.0.125,0.25,0.5,1.0,2.0
+    NTP
+    F344 Rats
+    M/F
+    4,21,or 90 Days
+    10
+    0,0.125,1.0,2.0
+    3
+    EPA
+    F344 Rats
+    M
+    90 Days
+    10
+    0.0.001.0.01,0.1.1.0.2.0
+    EPA
+    B6C3FI Mice
+    105 Days
+    6
+    0,0.5,1.02.0,4.0,6.0
+    F344 Rats
+    105 Days
+    6
+    0,0.5,1.0,2.0,4.0,6.0
+    or 4,005 mg/L(3.0,12.0 or 48.0 mM,respectively)NaClO3
+    MATERIALS AND METHODS
+    in the drinking water resulting in doses of 30-512 mg/kg/day
+    Animal Dosing.Thyroid tissues from four studies de-
+    for males and 42-801 mg/kg/day for females.There were
+    scribed in Table 1 were evaluated to characterize the devel-
+    no compound-related deaths,but males and females in the
+    opment of thyroid lesions in rodents exposed to NaC1O3 in
+    high exposure groups had significant weight loss.Pituitary
+    the drinking water.A detailed presentation of the NTP stud-
+    gland vacuolization and thyroid gland colloid depletion were
+    ies (1 and 2,Table 1)will be presented in a subsequent re-
+    present in both sexes,suggesting impaired physiological
+    port.Male and female Fischer-344(F344)rats and B6C3F
+    function of these endocrine glands.The incidence and sever-
+    mice were exposed to drinking water solutions containing 0,
+    ity of thyroid colloid depletion was greatest in rats in the mid-
+    0.125,0.25,0.5,1.0,or 2.0 g/L sodium chlorate for 21 days.
+    and high-dose treatment groups.A "no observed adverse ef-
+    Animals were obtained from Taconic Farms (Germantown,
+    fect level"(NOAEL)of 30 mg/kg/day and 42 mg/kg/day was
+    NY),were acclimated to the environment for 1 week and
+    established in male and female Sprague-Dawley rats,respec-
+    then assigned randomly to treatment groups of 10 animals/
+    tively.Chronic toxicity results have not been reported to date.
+    sex/specie.Male mice were housed individually and rats and
+    but one study is in progress.
+    female mice were housed 5 per cage.
+    Concern about the acute toxicity of NaClO3 to humans
+    For the EPA studies (3 and 4,Table 1),sodium chlo-
+    stemmed from reports of fatality or illness resulting from
+    rate (NaC1O3;>99%,CAS 7775-09-9;Aldrich Chemical
+    accidental or intentional ingestion of large amounts of her-
+    Co,Milwaukee,WI)was dissolved in deionized water and
+    bicides containing NaClO3 (18,43,45).Reported effects
+    was administered to male F344 rats and female F344 rats
+    of NaC1O3 poisoning in humans include cyanosis,methe-
+    and B6C3F mice as the sole water source for 90 days or
+    moglobinemia,renal failure,and renal congestion.Human
+    105 days,respectively.A detailed presentation of the entire
+    epidemiology studies investigating doses of NaC1O3 more
+    study will be published elsewhere (DeAngelo et al,in prepa-
+    relevant to those found in drinking water have not identi-
+    ration).Briefly,animals(28-30 days old)were obtained from
+    fied any significant exposure related effects (27-30,33).A
+    Charles River Breeding Laboratory (Raleigh,NC).Animals
+    prospective epidemiology study was conducted on 197 vol-
+    were acclimated to the environment for 1 week and then as-
+    unteers during a 12-week period when the primary water
+    signed randomly to treatment groups of 6 mice or 10 rats.The
+    disinfectant in the community was changed from chlorine to
+    treatment rooms were maintained at 20-22C and 40-60%
+    C1O2.Total concentrations of C1O2,chlorite,and chlorate av-
+    humidity on a 12-hour light-dark cycle.Animals were housed
+    eraged 5-7 mg/L (33),and NaC1O3 exposure was estimated
+    3-5 per cage on wood chips and provided food and drinking
+    to be 0.010 to 0.032 mg/kg/day (45).Thyroid function,as
+    water solutions ad libitum.Drinking water solutions were
+    measured by serum T4 levels,did not appear to be altered
+    changed every 5-7 days.
+    in the human population (4).C1O2 and its by-products werealso administered to normal healthy adult male volunteers
+    Pathology.Animals were observed daily and moribund
+    in controlled clinical studies to determine the physiological
+    animals were euthanized and necropsied.Animals were eu-
+    effects of chronic ingestion of these compounds(29).Water
+    thanized by CO2 asphyxiation after 4-105 days of treatment
+    disinfectant solutions containing 5 mg/L NaC1O3 were ad-
+    with NaC1O3.Prior to necropsy,a blood sample was collected
+    ministered daily (500 ml,5 ppm)for 12 weeks to 60 volun-
+    from animals treated for 4,21,or 90 days with NaClO3,and
+    teers,and various biochemical and physiological parameters
+    the serum was separated and frozen (NTP Study 2,Table 1).
+    were evaluated including serum chemistry,blood counts,and
+    Complete necropsies were performed on all animals and tis-
+    thyroid function.No clinically significant physiological ef-
+    sues of interest were removed,examined macroscopically,
+    fects accompanied the chronic administration of chlorate at
+    and fixed in 10%neutral buffered formalin.Fixed thyroid
+    concentrations as high as 24 mg/L.
+    tissues were processed by routine methods to 5-um paraffin
+    Because the limited toxicity data for NaClO3 suggests in-
+    sections and stained with hematoxylin and eosin for histo-
+    duction of a thyroid effect,the present studies were performed
+    logical examination by light microscopy.All aspects of these
+    to describe the concentration-dependent development of thy-
+    studies were conducted in facilities certified by the American
+    roid lesions in rodents exposed to NaC1O3 in the drinking
+    Association for the Accreditation of Laboratory Animal Care
+    water at concentrations relevant to human exposure.Using
+    in compliance with the guidelines of that association.
+    a novel method for diagnosing thyroid follicular cell hyper-
+    Serum Chemistry.Total serum triiodothyronine (T3)and
+    plasia described in this study,it was possible to define more
+    thyroxine (T4)concentrations from animals euthanized af-
+    clearly the shape of the dose-response curve at the highest
+    ter 4,21,or 90 days of study were determined by ra-
+    doses of NaClO3 exposure.
+    dioimmunoassay using a kit supplied by Diagnostic Products
+    Downloaded from tpx.sagepub.com at UNIV NEBRASKA LIBRARIES on April 4,2015
+
+==========第2页==========
+    252
+    HOOTH ET AL
+    TOXICOLOGIC PATHOLOGY
+    Corporation (Los Angeles,CA)according to manufacturer's
+    rank-sum test (mean area affected or mean severity).D<
+    instructions.Thyroid stimulating hormone (TSH concen-
+    0.05 was considered significant.
+    trations were measured by a double-antibody radioim-
+    The above method of diagnosis is more detailed than the
+    munoassay using species-specific reagents obtained from the
+    method generally used (15).Typically,thyroid follicular hy-
+    National Hormone and Pituitary Program (Harbor-UCLA
+    perplasia is classified as focal or diffuse.Focal hyperplasia is
+    Medical Center,Torrance,CA).T3 and T4 values were ana-
+    characterized by individual follicles that are often enlarged
+    lyzed statistically by Dunnett's test with p<0.05 considered
+    and lined by an increased number of flattened or cuboidal ep
+    significant.As the variance of TSH increased with the mean,
+    ithelial cells that may form papillary infoldings or multiple
+    a log transformation was used to stabilize the variance and
+    epithelial cell layers.Diffuse hyperplasia generally involves
+    then Dunnett's test was applied.
+    the entire gland and results in enlargement of the thyroid
+    Histopathology.In this study,a novel method was estab-
+    gland.Diffuse hyperplasia is often accompanied by hyper-
+    lished and utilized to diagnose thyroid follicular cell hyper-
+    trophy of the follicular epithelium with a change in the mor-
+    plasia in animals treated with NaClO3 in the drinking wa-
+    phology of the epithelial cells from cuboidal to columnar.Fol-
+    ter.The thyroids were examined for the presence of colloid
+    licular hyperplasia is usually graded for severity based on the
+    depletion,follicular cell hypertrophy,and follicular cell hy-
+    percentage of the thyroid tissue involved and the morpholog-
+    perplasia.Colloid depletion was diagnosed when there was
+    ical complexity of the follicular hyperplasia.This traditional
+    either a reduction or absence of colloid in the follicular lumen
+    method of diagnosis was not sensitive enough to differentiate
+    or when there was pale,lacy,and/or granular material in the
+    a dose-response for this subtle lesion.Therefore,the overall
+    follicular lumen.
+    severity and greatest severity parameters were also utilized
+    Follicular cell hypertrophy was considered present when
+    in this study.
+    thyroid follicles were uniformly lined by tall cuboidal to
+    RESULTS
+    columnar epithelium.The cytoplasm was typically more ba-
+    Serum Hormone Levels
+    sophilic than nonhypertrophic cells and had a lacy,some-times vacuolated,appearance.There was an increase in cyto-
+    Serum T3 and T4 levels decreased significantly and TSH
+    plasm to nuclear ratio along with an increased cell width and
+    levels increased significantly in male and female F344 rats
+    height.
+    after 4 days of treatment with 1.0 or 2.0 g/L NaClO3 and
+    Follicular cell hyperplasia was evaluated using three sepa-
+    after 21 days of treatment with 2.0 g/L NaClO3 (Figures 1
+    rate but related factors-area of the thyroid affected,overall
+    and 2).TSH levels also increased significantly in male
+    severity,and greatest severity-as follows:
+    rats after 21 days of treatment with 1.0 g/L NaClO3.TSHlevels were higher in males than in females after 21 days of
+    Area of the thyroid affected:1 1-10%of the follicles af-
+    treatment.Although serum T3 and T4 levels were not differ-
+    fected:2=11-50%;3=51-100%
+    ent from controls in male or female rats after 90 days,TSH
+    Overall severity:The average severity of all of the affected
+    levels were increased at 2.0 g/L NaClO3 (Figures 1 and 2).
+    follicles.
+    Greatest severity:The severity grade given to the follicle with
+    Histopathology
+    the greatest degree of follicular cell hyperplasia based on
+    Thyroid alterations were not present in male or female
+    the following criteria:
+    B6C3FI mice (data not shown).In the 21-day NTP rat study(Study 1,Table 1),thyroid alterations were initially diag-
+    0-Follicles lined by simple squamous to short cubo-
+    nosed using the standard method described by Hardisty and
+    idal epithelium with eosinophilic cytoplasm and nor-
+    Boorman (15).Follicular cell hyperplasia was diagnosed as
+    mochromic nuclei.
+    increased cellularity of the thyroid gland,depletion of col-
+    1-Scattered individual or two adjacent follicles that have
+    loid,and irregularities in the shape of the follicles including
+    focal hyperplasia characterized by multiple layers of
+    invaginations or protrusions of the epithelial layer.Follicular
+    cuboidal follicular epithelium,usually 2-3 cells thick,
+    cell hyperplasia was graded for severity as either"minimal'
+    protruding into the lumen of the follicles.Two or more
+    or"mild"based on the percentage of the thyroid involved.Us-
+    hyperplastic follicles needed to be present for this clas-
+    ing this method,thyroid follicular cell hyperplasia and colloid
+    sification.Follicles on the peripheral rim of the thyroid
+    depletion were not present in any male or female F344 rats
+    gland section were not counted.
+    following 21 days of treatment with 0 or 0.125 g/L NaClO3
+    2-A greater number of scattered individual affected folli-
+    in the drinking water (Table 2).Thyroid follicular cell hy-
+    cles or foci of more than 2 hyperplastic follicles,which
+    perplasia and significant colloid depletion were present in all
+    were characterized by multiple layers of cuboidal fol-
+    male and female F344 rats at 1.0 g/L or greater of NaClO3
+    licular epithelium,usually more than 3 cell layers thick,
+    (Table 2).In addition,the severity of the lesions was the same
+    protruding into the lumen of the follicles.Mild micro-
+    in males and females at 1.0 and 2.0 g/L NaC1O3.In the present
+    follicular formation could also be present within the
+    study,the thyroid lesions were diagnosed using the novel
+    follicles.
+    method described above.In contrast to the previous results.
+    3-Complex papillary infolding or branching and promi-
+    colloid depletion and hypertrophy were present in male and
+    nent microfollicular formation.
+    female rats treated with 0.125 g/L NaClO3 (Tables 3 and 4)
+    In males,the incidence and severity of thyroid alterations was
+    These variables were analyzed statistically by a 1-sided
+    greater at 1.0 g/L NaClO3 than 2.0 g/L (Table 3).In females
+    Fisher's exact test(decreased colloid,incidence of follicular
+    the incidence and severity of thyroid alterations was greater
+    cell hyperplasia or hypertrophy)or by asided wil ua than 1.0 g/L (Table 4).
+
+==========第3页==========
+    Vol.29,No.2,2001
+    THYROID EFFECTS OF Nacio EXPOSURE
+    253
+    ☐Control
+    图0.125g/
+    180
+    T3
+    ☐1.0gL
+    160
+    ■2.0L
+    140
+    120
+    米
+    t00
+    80
+    60
+    Day 4
+    Day 21
+    Day 90
+    T4
+    米
+    米
+    2
+    Day 4
+    Day 21
+    Day 90
+    45
+    TSH
+    米
+    3503
+    米
+    10
+    米
+    米
+    米
+    5
+    s
+    Day 4
+    Day 21
+    Day 90
+    FIGURE 1.-Effects of 0,0.125,1.0,or 2.0 g/L NaClO3 on total serum T3,T4,and TSH concentrations from male F344 rats euthanized after 4,21,or 90 days ofstudy.Each bar represents the meanSE of the mean for 10 rats.Asterisks indicate means that are significantly different from the corresponding control mean by
+    Dunnett's test (p 0.05).
+    Downloaded from tpx.sagepub.com at UNIV NEBRASKA LIBRARIES on April 4,2015
+
+==========第4页==========
+    254
+    HOOTH ET AL
+    TOXICOLOGIC PATHOLOGY
+    180
+    □Control
+    T3
+    ✉0.125g/L
+    160
+    口1.0gL
+    ■2.0L
+    40
+    120
+    米
+    100
+    %
+    40
+    20
+    Day 4
+    Day 21
+    Day 90
+    T4
+    5
+    米
+    3
+    米
+    米
+    0
+    Day 4
+    Day 21
+    Day 90
+    TSH
+    45
+    05
+    (TP/n)uogequou unS HSI
+    30
+    23
+    2015
+    米
+    米
+    10
+    米
+    5
+    0
+    Day 4
+    Day 21
+    Day 90
+    FIGURE 2.-Effects of 0,0.125,1.0,or 2.0 g/L NaClO3 on total serum T3,T4,and TSH concentrations from female F344 rats euthanized after 4,21,or 90 daysof study.Each bar represents the mean+SE of the mean for 10 rats.Asterisks indicate means that are significantly different from the corresponding control meanby Dunnett's test (p<0.05).
+    Downloaded from tpx.sagepub.com at UNIV NEBRASKA LIBRARIES on April 4,2015
+
+==========第5页==========
+    Vol.29,No.2,2001
+    THYROID EFFECTS OF Nacio EXPOSURE
+    255
+    TABLE 2.-Incidence and severity of thyroid follicular cell hyperplasia in
+    increased in a generally concentration-dependent manner in
+    F344 rats
+    male and female F344 rats treated with NaClO3 for 21 days(Tables 3 and 4).After 90 days,significant colloid depletion
+    NTP 21-Day Necropsy
+    Concentration
+    was diagnosed in most treated male F344 rats but the inci-
+    of NaCIO3,g/L
+    Males
+    Females
+    dences were similar in all groups(Table 5).Colloid depletion
+    Control (0)
+    0/10
+    0/10
+    was more significant in female rats treated with 1.0 or 2.0 g/L
+    0.125
+    0/10
+    0/10
+    NaClO3 for 21 days than for 105 days (Tables 4 and 6).Sig-
+    1.0
+    10/10(2.0)b
+    10/10(2.0)
+    2.0
+    10/10(2.0)
+    10/10(2.0)
+    nificant colloid depletion was diagnosed in female F344 rats
+    a Number of rats affected/Number of rats examined.
+    treated for 105 days at NaCIO3 concentrations of 2.0 g/L or
+    Numbers in parentheses indicate mean severity of lesions,where
+    minimal severity
+    greater (Table 6).
+    and 2 =mild severity.
+    Follicular cell hypertrophy was present in most male ratsafter 21 or 90 days of NaC1O3 exposure (Figure 4,Tables 3and 5)but the incidence did not increase in a concentration-
+    Thyroid follicles in control male and female F344 rats
+    dependent manner.The incidence of follicular cell hypertro-
+    were lined by a single uniform layer of short cuboidal ep-
+    phy was higher in female rats treated with 1.0 or 2.0 g/L
+    ithelial cells and contained abundant thyroglobulin colloid
+    NaClO3 for 21 days than for 105 days.At 105 days,6.0 g/L
+    within the lumen (Figure 3).In contrast,thyroids from ani-
+    of NaClO3 caused a significant increase in the incidence of
+    mals treated with NaClO3 in the drinking water had signifi-
+    follicular cell hypertrophy (Table 6).
+    cantly decreased colloid with some follicles containing pale,
+    In general,the incidence and severity of thyroid follicular
+    pink,lacy proteinaceous material.Other follicles were com-
+    cell hyperplasia increased in a concentration-dependent man-
+    pletely empty (Figure 4).The incidence of colloid depletion
+    ner in male F344 rats (Tables 3 and 5,Figure 5).Complex
+    TABLE 3.-Incidence and severity of thyroid alterations in male F344 rats after 21 days of treatment with NaClO3
+    Concentration
+    Number of
+    Decreased
+    Follicular cell
+    Mean area
+    Mean
+    Greatest
+    of NaC1O3,g/L
+    animals
+    colloida
+    Hypertrophy
+    hyperplasia
+    affected
+    severity
+    severity
+    10
+    0/10(0%)
+    4/10(40%)
+    0/10(0%)
+    0.00±(0.00)
+    0.00±(0.00
+    0
+    0.125
+    0
+    3/9(33%)
+    4/9(44%)
+    0/9(0%)
+    0.00±(0.00)
+    0.00±(0.00)
+    0
+    0.25
+    9
+    2/9(22%)
+    719(78%)
+    2/9(22%)
+    0.22±(0.15)
+    0.22±(0.15)
+    05
+    10
+    9/10(90%)*
+    9/10(90%)*
+    6/10(60%)*
+    0.60±(0.16)*
+    0.60±(0.16)*
+    1.0
+    10
+    10/10(100%)*
+    9/10(90%)*
+    9/10(90%)*
+    1.50±(0.22)*
+    1.20±(0.20)*
+    2.0
+    10
+    9/10(90%)*
+    6/10(60%)
+    5/10(50%)*
+    0.80±(0.29)*
+    0.70±(0.26)*
+    aNumber of rats affected/Number of rats examined
+    Values represent the mean of the grade numbers for each criterion for all animals standard error of the mean.
+    *Significantly different from the corresponding control mean by a one-sided Fisher's exact test (p 0.05;Decreased Colloid,Hypertrophy,Follicular Cell Hyperplasia)or a 1-sided
+    Wilcoxon rank-sum test (p 0.05;Mean Area Affected,Mean Severity).
+    TABLE 4.-Incidence and severityof thyroid alterations in female F344 rats after 21 days of treatment with NaClO3
+    Concentration
+    Number of
+    Decreased
+    Follicular cell
+    het
+    Mean
+    Greatest
+    of NaClO3,g/L
+    animals
+    colloid"
+    Hypertrophy
+    hyperplasia“
+    severity
+    severity
+    0
+    10
+    0/10(0%)
+    0/10(0%)
+    0/10(0%)
+    0.00±(0.00)
+    0.00±(0.00)
+    0
+    0.125
+    9
+    2/9(22%)
+    1/9(11%)
+    0/9(0%)
+    0.00±(0.00)
+    0.00±(0.00
+    0
+    0.25
+    10
+    1/10(10%)
+    4/10(40%)*
+    0/10(0%)
+    0.00±(0.00)
+    0.00±(0.00)
+    0.5
+    9
+    3/9(33%)
+    3/9(33%)
+    1/9(11%)
+    0.11±(0.11)
+    0.11±(0.11)
+    1.0
+    9/10(90%)*
+    9/10(90%)*
+    6/10(60%)*
+    0.70士(0.21)*
+    0.70±(0.21)*
+    10
+    3
+    2.0
+    10/10(100%)
+    10/10(100%)*
+    8/10(80%)*
+    1.20±(0.25)
+    0.80±(0.13)*
+    Number of rats affected/Number of rats examined.
+    bValues represent the mean of the grade numbers for each criterion for all animals+standard error of the mean.
+    *Significantly different from the corresponding control mean by a one-sided Fisher's exact test (p 0.05;Decreased Colloid,Hypertrophy,Follicular Cell Hyperplasia)or a 1-sided
+    Wilcoxon rank-sum test(p<0.05;Mean Area Affected,Mean Severity)
+    TABLE 5.-Incidence and severity of thyroid alterations in male F344 rats after 90 days of treatment with NaClO3
+    Concentration
+    Number of
+    Decreased
+    Follicular cell
+    Mean area
+    Mean
+    Greatest
+    of NaC1O3,g/I
+    animals
+    colloid
+    Hypertrophy
+    hyperplasia
+    affected
+    severity
+    severity
+    0
+    10
+    1/10(10%)
+    0/10(0%)
+    1/10(10%)
+    0.10±0.10
+    0.10±0.10
+    0.001
+    10
+    9/10(90%)*
+    5/10(50%)*
+    3/10(30%)
+    0.30±0.15
+    0.30±0.15
+    0.01
+    10
+    9/10(90%)*
+    6/10(60%)*
+    4/10(40%)
+    0.40±0.16
+    0.40士0.16
+    0.1
+    1
+    9/10(90%)*
+    7/10(70%)*
+    4/10(40%)
+    0.40±0.16
+    0.40±0.16
+    1.0
+    10
+    9/10(90%)*
+    3/10(30%)
+    10/10(100%)*
+    1.00±0.00
+    1.00±0.00*
+    2.0
+    10
+    10/10(100%)*
+    9/10(90%)*
+    10/10(100%)*
+    1.40±0.16*
+    1.20±0.13*
+    Number of rats affected/Number of rats examined
+    Values represent the mean of the grade numbers for each criterion for all animals+standard error of the mean
+    *Significantly different from the corresponding control mean by a one-sided Fisher's exact test(p<0.05;Decreased Colloid,Hypertrophy.Follicular Cell Hyperplasia)or a 1-sided
+    test(p0.05;Mean Area Affected,UNIV NEBRASKA
+
+==========第6页==========
+    256
+    HOOTH ET AL
+    TOXICOLOGIC PATHOLOGY
+    FIGURE 3.-Thyroid from a control male F344 rat on study for 90 days.The
+    FIGURE 5.-Thyroid from a male F344 rat treated with 2.0 g/L sodium chlorate
+    normal follicle is lined by a single uniform layer of cuboidal epithelium and the
+    in the drinking water for 90 days.Colloid depletion and grade 1 hyperplasia
+    lumen is filled with densely stained thyroglobulin colloid.x 100.
+    are present.Follicular cell hyperplasia is characterized by multiple layers offollicular epithelial cells protruding into the lumen.x 100
+    papillary infolding or branching (grade 3)was more frequent
+    DISCUSSION
+    in thyroid tissue from male rats at the two highest concen-
+    NaClO3 treatment induced a concentration-dependent in-
+    trations of NaClO3 (1.0 or 2.0 g/L).The area of the thyroid
+    crease in the incidence and severity of thyroid follicular cell
+    tissue affected in male rats also increased in a concentration.
+    hyperplasia.Colloid depletion and hypertrophy were the most
+    dependent manner following 90 days of treatment(Table 5).
+    sensitive histopathological indicators of NaC1O3 exposure in
+    Significant colloid depletion and follicular cell hyperplasia
+    male F344 rats at 21 and 90 days,although the hypertrophy
+    were present in male rats at NaClO3 concentrations of 0.5 g/L
+    response was variable when concentration dependency was
+    or greater after 21 days.After 90 days,significant follicular
+    evaluated.Male F344 rats were more sensitive to the effects
+    cell hyperplasia was present in male rats at NaClO3 concen-
+    of NaClO3 treatment than female rats.Adult male rats typi-
+    trations of 1.0 g/L or greater.The severity of thyroid follicular
+    cally have higher serum TSH levels than females and are often
+    cell hyperplasia was greater in males than in females.Sig-
+    more sensitive to thyroid stimulatory agents (9).The results
+    nificant follicular cell hyperplasia was present in female rats
+    of the pathology evaluation suggest that the concentrations of
+    at NaClO3 concentrations of 1.0 g/L or greater after 21 days
+    NaClO3 administered in this study do not induce any signifi-
+    and at NaClO3 concentrations of 2.0 g/L or greater after 105
+    cant changes in the thyroid glands of male or female B6C3F
+    days (Tables 4 and 6.Figure 6).
+    mice after 21 or 90 days of exposure.
+    In the 21-day NTP study,follicular cell hyperplasia wasinitially diagnosed with the method described by Hardisty and
+    FIGURE 4.-Thyroid from a male F344 rat treated with 0.1 g/L sodium chloratein the drinking water for 90 days.The follicular epithelium is hypertrophic and is
+    FIGURE 6.-Thyroid from a female F344 rat treated with 6.0 g/L sodium
+    characterized by tall cuboidal to short columnar epithelial cells with basophilic
+    chlorate in the drinking water for 105 days.Colloid depletion,hypertrophy,and
+    lacy cytoplasm.The thyroid has depletion of the colloid with follicles containing
+    grade 2 hyperplasia are present.Follicular cell hyperplasia in adjacent follicles is
+    pale lacy proteinaceous material.Other follicular lumens are devoid of colloid.
+    characterized by masses of follicular epithelial cells filling the lumens (arrows).
+    ×100.
+
+==========第7页==========
+    Vol.29,No.2,2001
+    THYROID EFFECTS OF Nacio EXPOSURE
+    257
+    TABLE 6.-Incidence and severity of thyroid alterations in female F344 rats after 105 days of treatment with NaClO3
+    Concentration
+    Number of
+    Decreased
+    Follicular cell
+    Mean area
+    Mean
+    Greatest
+    of NaCIO3,g/L
+    animals
+    colloida
+    Hypertrophy
+    hyperplasia"
+    affectedb
+    severityb
+    severity
+    0
+    0/6(0%)
+    0/6(0%)
+    0/6(0%)
+    0.00±0.00
+    0.00±0.00
+    0
+    0.5
+    6
+    0/6(0%)
+    0/6(0%)
+    0/600阿)
+    000000
+    0.00±0.00
+    0
+    1.0
+    6
+    0/6(0%)
+    0/6(0%)
+    1/6(17%)
+    0.17±0.17
+    0.17±0.17
+    2.0
+    6
+    5/6(83%)*
+    3/6(50%)
+    6/6(100%)*
+    1.33±0.21*
+    1.00±0.00*
+    4.0
+    5/5(100%)*
+    2/5(40%)
+    5/5(100%)*
+    1.00±0.00*
+    1.40±0.24*
+    6.0
+    6
+    6/6(100%)*
+    6/6(100%)*
+    6/6(100%)*
+    1.00士0.00*
+    1.30士0.21*
+    3
+    a Number of rats affected/Number of rats examined.
+    Values represent the mean of the grade numbers for each criterion for all animals+standard error of the mean.
+    *Significantly different from the corresponding control mean by a one-sided Fisher's exact test (p<0.05;Decreased Colloid,Hypertrophy,Follicular Cell Hyperplasia)or a 1-sided
+    Wilcoxon rank-sum test(p<0.05;Mean Area Affected,Mean Severity)
+    Boorman (15).This analysis resulted in a similar incidence
+    homeostatic compensatory increase in cell proliferation with
+    and severity of thyroid follicular cell hyperplasia in male and
+    subsequent thyroid hormone production.Hood et al(20)have
+    female rats treated with 1.0 or 2.0 g/L NaClO3 (Table 2).The
+    demonstrated that small increases in serum TSH(between 10
+    method used to diagnose thyroid follicular cell hyperplasia
+    and 20 ng/ml)can be sufficient to stimulate thyroid cell prolif-
+    in the present study allowed a more detailed determination
+    eration and thyroid gland growth.In fact,several animals had
+    of the shape of the dose-response curve at higher concentra-
+    enlarged thyroid glands at the 90-day NTP necropsy (data not
+    tions of NaClO3.For example.it was concluded that 2.0 g/L
+    shown)indicating increased cellular growth.However,thy-
+    had a greater effect on the development of thyroid lesions
+    roid follicular cell proliferation,measured by proliferating
+    than 1.0 g/L in female rats after 21 days.Furthermore,males
+    nuclear cell antigen immunoreactivity,was not elevated in
+    were more sensitive than females to the effects of NaC1O3
+    male and female rats at 90 days (data not shown).These ob-
+    at 21 days allowing a more accurate determination of the
+    servations are consistent with other reports that demonstrate
+    dose-response for each sex.
+    that maximal cell proliferation occurs 7 days after treatment
+    Significant changes in serum hormone levels were ob-
+    with antithyroid agents.Increased cell proliferation is not
+    served within a few days of exposure providing early evidence
+    sustained,but rather,returns to control levels by 90 days of
+    that NaClO3 disrupts the hypothalamic-thyroid-pituitary
+    treatment(21).Interestingly,female rats appeared to be more
+    axis.Bercz et al (4)reported that exposure of monkeys to
+    sensitive to the effects of NaClO3 exposure after 21 days than
+    C1O2,but not C1O3,resulted in decreased serum T4 levels.
+    after 90 days.It is not known whether the histological effects
+    In a subsequent study,Harrington,Shertzer,and Bercz(17)
+    of NaClO3 are reversible following cessation of chemical ex-
+    noted a decrease in T4 levels in both rats and monkeys ex-
+    posure.Alternatively,the concentration-dependent increase
+    posed to drinking water containing 0.1 g/L C1O2.Decreased
+    in incidence and severity of thyroid follicular cell hyperpla-
+    T4 levels are associated with increased binding of dietary io-
+    sia may indicate an increased likelihood of the lesions pro-
+    dide to gastrointestinal tissue and contents (5,10,16).These
+    gressing to cancer.A 2-year NTP bioassay is in progress to
+    observations led to the hypothesis that C1O2 oxidizes iodine
+    determine the potential of NaC1O3 to induce thyroid tumors
+    in food to a reactive species that binds to tissues of the diges-
+    in laboratory animals.
+    tive tract preventing absorption of dietary iodide.This effect
+    Rodents and humans share qualitative similarities in the
+    produces a functional state of iodine deficiency that promotes
+    histopathology of thyroid lesions.However,rodents appear
+    increased iodide uptake by the thyroid.
+    to be more sensitive to the development of thyroid tumors
+    Since thyroid hormone is critical to normal brain and phys-
+    following exposure to chemical agents that cause disruption
+    ical development,a number of studies have addressed the
+    of the hypothalamic-thyroid-pituitary hormonal axis.The rat
+    neurodevelopmental effects of C1O2 exposure.Decreases in
+    model is considered relevant,yet conservative,for human
+    serum T4 levels were observed in rat pups exposed to C1O2
+    health risk assessment of potential thyroid neoplasia (46).
+    indirectly through nursing females administered C1O2 in the
+    Risk assessment based on rat thyroid responses may overes-
+    drinking water or directly by oral gavage (7,34,36,42).Al-
+    timate the risk to humans because of species differences in
+    terations in brain development (decreased brain weight and
+    thyroid physiology.The serum half-life of T4 and T3 is much
+    cell number;42)and behavior (delayed locomotor activity
+    shorter in rats (0.5-1 day,0.25 day,respectively)than in hu-
+    and decreased exploratory behavior;34)were observed high-
+    mans(5-9 days,1 day,respectively)(12,26,35).Significant
+    lighting the impact of hypothyroidism on neurobehavioral
+    differences in the circulating half-life of the thyroid hormones
+    development.At low doses,there will be minimal human ex-
+    are attributed to differences in plasma protein binding be-
+    posure to C1O2 because it is rapidly converted to chlorite ion,
+    tween the species.Rodents lack thyroxine-binding globulin,
+    chlorate ion,or chloride ion.However,few studies have as-
+    a high-affinity binding protein,making T4 in these species
+    sessed the effects of NaC1O3 on these biological parameters.
+    more susceptible to removal from the blood by metabolism.
+    Decreases in serum hormone levels observed in the present
+    and through excretion than in humans.Morphologic differ-
+    study may suggest that NaClO3 has the potential to induce
+    ences in thyroid structure are apparent and also contribute to
+    acute detrimental neurodevelopmental effects.
+    the increased turnover of thyroid hormones in rodents com-
+    Hormone and histological alterations may reflect a tran-
+    pared to humans(32).Thus,it appears that TSH continuously
+    sient physiological response of the thyroid to exposure to
+    stimulates the rodent thyroid gland to compensate for the in-
+    NaC1O3.Hormone levels may return to normal because of a
+    creased turnover of thyroid hormone.Therefore,the rodent
+    Downloaded from tpx.sagepub.com at UNIV NEBRASKA LIBRARIES on April 4,2015
+
+==========第8页==========
+    258
+    HOOTH ET AL
+    TOXICOLOGIC PATHOLOGY
+    thyroid may be more responsive to increases of TSH above
+    This is the first report describing the concentration-
+    basal levels.These slight increases can result in increased
+    dependent development of thyroid lesions in rodents exposed
+    gland growth and progression to neoplasia.Nonetheless,EPA
+    to NaClO3 in the drinking water.The novel method estab-
+    science policy states that adverse thyroid effects such as thy-
+    lished and utilized in this study to diagnose follicular cell hy-
+    roid gland enlargement and the presence of proliferative le-
+    perplasia provided a valuable tool to define more clearly the
+    sions are presumed to pose a potential human health hazard
+    shape of the dose-response curve at the highest concentrations
+    (46).
+    of NaC1O3 exposure.The specific mechanism of NaC1O3-
+    Chlorate is similar in structure to bromate and perchlo-
+    induced thyroid follicular cell hyperplasia needs to be elu-
+    rate,both are thyroid toxicants and chemical oxidants.
+    cidated by identifying the key biochemical and molecular
+    Bromate is one of the most prevalent water disinfection by-
+    events that drive the development of these lesions in order to
+    products associated with ozonation (8,14).Potassium bro-
+    assess the potential risk to human populations
+    mate (KBrO3)is carcinogenic in the rat thyroid producingthyroid follicular adenomas and carcinomas at water con-
+    ACKNOWLEDGMENTS
+    centrations as low as 0.02 g/L (20 ppm;1.5 mg/kg/day;
+    We thank George Houston and Tanya Moore for the prepa-
+    11,47).In contrast to animals treated with NaClO3,thy-
+    ration of drinking water solutions and dosing of animals for
+    roid follicular cell hyperplasia was not a prominent find-
+    the EPA studies.We thank Judith Schmid and Dr Joseph
+    ing in rats treated with KBrO3.The mechanism by which
+    Haseman for the statistical analysis of data.The NTP pathol-
+    KBrO3 induces thyroid tumors is not known but may in-
+    ogy report and serum hormone analyses were completed un-
+    volve a genotoxic mechanism through direct oxidant dam-
+    der a NIEHS/NTP contract to Southern Research Institute.
+    age as KBrO3 was found to be mutagenic in the Ames test
+    Birmingham,AL.The EPA pathology report was completed
+    and to cause chromosomal aberrations in Chinese hamster fi-
+    under EPA contract #68-D-99-005 to Experimental Pathol-
+    broblasts (23).After 12 weeks (84 days)of treatment,serum
+    ogy Laboratories,Inc,Research Triangle Park,NC.Thyroid
+    T3 concentrations were decreased in a treatment-dependent
+    tissue sections were submitted to Integrated Laboratory Sys-
+    manner but serum T4 concentrations were unaffected (47).
+    tems,Research Triangle Park,NC for PCNA staining for cell
+    Serum TSH levels were not measured,so it is difficult to
+    proliferation analysis.This manuscript has been reviewed
+    ascertain from this study if KBrO3 induces thyroid tumors
+    and approved for publication by the Environmental Protec-
+    by a nonhormonal mechanism.The development of tumors
+    tion Agency and does not necessarily reflect the views of the
+    from chronic exposure to KBrO3 in the drinking water isthought to result from oxidative DNA damage following bro-
+    agency.Mention of trade names or commercial products doesnot constitute endorsements or recommendations for use.
+    mate metabolism and subsequent lipid peroxidation(25,39
+    40.44).
+    REFERENCES
+    Perchlorate (C1O)is an anion that originates as a contami-nant in ground water and surface waters from the dissolution
+    1.Abdel-Raham MS,Couri D,Bull RJ(1980).Kinetics of C1O2 and C1O3 in
+    of its ammonium,potassium,magnesium,or sodium salt.
+    drinking water on blood glutathione and hemolysis in rats and chicken.J
+    Environ Pathol Toxicol 3:431-449.
+    The primary target tissue for perchlorate toxicity is the thy-
+    2.Abdel-Raham MS,Couri D,Bull RJ(1984).Toxicity of chlorine dioxide
+    roid gland as indicated by perturbations of T3,T4,and TSH
+    in drinking water.J Am Coll Toxicol 3:277-284.
+    hormones and by thyroid histopathology.Benign tumors and
+    3.Atterwill CK,Collins P,Brown CG,Harland RF(1987).The perchlorate
+    follicular cell carcinomas have been reported in the thyroid
+    discharge test for examining thyroid function in rats.J Pharmacol Methods
+    of male Wistar rats and female BALB/c mice treated with re-
+    18:199-203.
+    peated,high dose exposures (2 years at 1,339 and 46 weeks
+    4.Bercz JP,Jones L,Garner L,Murray D,Ludwig DA,Boston J (1982).
+    at 2,147 mg/kg/day,respectively)of potassium perchlorate in
+    Subchronic toxicity of chlorine dioxide and related compounds in drinking
+    drinking water(24,37).The majority of human data are clin-
+    water in the nonhuman primate.Environ Health Perspect 46:47-55
+    ical reports of patients treated with potassium perchlorate for
+    5.Bercz JP,Jones LL,Harrington RM,Bawa R,Condie L(1986).Mechanistic
+    hyperthyroidism resulting from Graves disease,an autoim-
+    aspects of ingested chlorine dioxide on thyroid function:Impact of oxidants
+    mune condition.The mode-of-action for perchlorate toxicity
+    on iodide metabolism.Environ Health Perspect 69:249-255.
+    6.Bio/dynamics Inc (1987).A subchronic (3 month)oral toxicity study
+    is the competitive inhibition of iodide anion uptake by the
+    of sodium chlorate in the rat by gavage.Chlorate Task Group,Project
+    sodium-iodide symporter,a carrier protein responsible for the
+    86-3112(Dec.4,1987).
+    active transport of iodide across the basolateral membrane of
+    7.Carlton BD,Basaran AH,Mezza LE,George EL,Smith MK (1991).Re-
+    the thyroid epithelial cells(48).Thyroid hormone synthesis is
+    productive effects in Long-Evans rats exposed to chlorine dioxide.Environ
+    inhibited resulting in deceased levels of T3 and Ta,increased
+    Res56:170-177.
+    TSH levels,and stimulation of thyroid cell proliferation.In
+    8.Cavanagh JE,Weinberg HS,Gold A,Sangalah R,Marbury D,Glaze WH,
+    addition,some data suggest that perchlorate causes a release
+    Collette TW,Richardson SD,Thruston AD (1992).Ozonation byproducts
+    of accumulated iodide from the gland (3,41).Similarities
+    Identification of bromohydrins from the ozonation of natural waters with
+    in thyroid histopathology between perchlorate and chlorate
+    enhanced bromide levels.Environ Sci Technol 26:1658-1662
+    9.Chen,HJ (1984).Age and sex difference in serum and pituitary thyrotropin
+    exposure suggest that chlorate may interfere with iodide up-
+    concentrations in the rat:influence by pituitary adenoma.Exper Gerontol
+    take as well,resulting in stimulation of thyroid follicular cell
+    19:1-6.
+    proliferation mediated by TSH secondary to decreases in T3
+    10.Condie LW,Bercz JP (1985).Target organ effects of disinfectants and their
+    and T4.This hypothesis needs to be investigated to determine
+    by-products.In:Water Chlorination:Chemistry:Environmental Impact and
+    if the mechanism of chlorate-induced thyroid follicular cell
+    Health Effects.Vol.5,Jolley RL,Bull RJ,Davis WP,Katz S,Roberts MH,
+    hyperplasia is indeed the same as perchlorate.
+    Jr.,Jacobs VA (eds).Lewis Publishers,Chelsea,MI,pp 345-353.
+    Downloaded from tpx.sagepub.com at UNIV NE
+    SKA LIBRARIES on April 4,2015
+
+==========第9页==========
+    Vol.29,No.2,2001
+    THYROID EFFECTS OF NacIo EXPOSURE
+    259
+    11.DeAngelo AB,George MH,Kilburn SR,Moore TM,Wolf DC (1998).
+    (G6PD)-deficient healthy adult male volunteers.J Environ Path Toxicol
+    Carcinogenicity of potassium bromate administered in the drinking water
+    0ncol5:239-242.
+    to male B6C3F mice and F344/N rats.Toxicol Pathol 26:587-594.
+    31.McCauley PT,Robinson M,Daniel FB,Olson GR (1995).The effects of
+    12.Dohler KD,Wong CC,von zur Muhlen A(1979).The rat as a model for the
+    subchronic chlorate exposure in Sprague-Dawley rats.Drug Chem Toxicol
+    study of drug effects on thyroid function:Consideration of methodological
+    18(2&3):185-199.
+    problems.Pharmacol Therap 5:305-318.
+    32.McClain RM(1992).Thyroid gland neoplasia:Non-genotoxic mechanisms.
+    13.Gallagher DL,Hoehn RC,Dietrich AM (1994).Executive Summary.In:
+    Toxicol Lett 64/65:397-408.
+    Sources,Occurrence,and Control of Chlorine Dioxide By-Product Residu-
+    33.Michael GE,Miday RK,Bercz JP,Miller RG,Greathouse DG,Kraemer
+    als in Drinking Water.American Water Works Association Research Foun-
+    DF,Lucas JB (1981).Chlorine dioxide water disinfection:A prospective
+    dation and American Water Works Association,Denver,CO,pp xxi-xxii.
+    epidemiology study.Arch Environ Health 36:20-27.
+    14.Glaze WH (1986).Reaction products of ozone:A review.Environ Health
+    34.Mobley SA,Taylor DH,Laurie RD,Pfohl RJ(1990).Chlorine dioxide
+    Perspect 69:151-157.
+    depresses T3 uptake and delays development of locomotor activity in young
+    15.Hardisty JF,Boorman GA (1990).Thyroid gland.In:Pathology of the
+    rats.In:Water Chlorination:Chemistry,Environmental Impact and Health
+    Fischer Rat Reference and Atlas,Boorman GA,Eustis SL,Elwell MR,
+    Effects,Vol 6,Jolley RL,et al (ed).Lewis Publishers,Chelsea,MI,pp 347-
+    Montgomery CA,Jr.MacKenzie WF (eds).Academic Press,San Diego,CA,
+    358.
+    pp520-525.
+    35.Oppenheimer JH (1979).Thyroid hormone action at the cellular level
+    16.Harrington RM,Shertzer HG,Bercz JP (1985).Effects of ClO2 on the
+    Science203:971-979.
+    absorption and distribution of dietary iodide in the rat.Fund Appl Toxicol
+    36.Orme J,Taylor DH,Laurie RD,Bull RJ (1985).Effects of chlorine dioxide
+    5:672-678.
+    on thyroid function in neonatal rats.J Toxicol Environ Health 15:315-322.
+    17.Harrington RM,Shertzer HG,Bercz JP(1986).Effects of chlorine dioxide
+    37.Pajer Z,Kalisnik M(1991).The effect of sodium perchlorate and ioniz-
+    on thyroid functions in the African green monkey and the rat.J Toxicol
+    ing radiation on the thyroid parenchymal and pituitary thyrotropic cells.
+    Environ Health 19:235-242.
+    Oncology 48:317-320.
+    18.Helliwell M.Nunn J (1979).Mortality in sodium chlorate poisoning.
+    38.Richardson SD (1998).Drinking water disinfection by-products.In:En-
+    Br Med J,April 28:1(6171).
+    cyclopedia of Environmental Analysis and Remediation,Meyers RA (ed)
+    19.Heywood R,Sortwell RJ,Kelly PJ,Street AE (1972).Toxicity of sodium
+    Wiley,New York,pp 1398-1421.
+    chlorate to the dog.Vet Rec 90:416-418.
+    39.Sai K,Takagi A,Umemura T,Hasegawa R,Kurokawa Y (1991).Relation
+    20.Hood A,Liu J,Klaassen CD(1999).Effects of phenobarbital,pregnenolone-
+    of 8-hydroxydeoxyguanosin e formation in rat kidney to lipid peroxidation,
+    16a-carbonitrile,and propylthiouracil on thyroid follicular cell prolifera-
+    glutathione level and relative organ weight after a single administration of
+    tion.Toxicol Sciences 50:45-53.
+    potassium bromate.Jpn J Cancer Res 2:165-169.
+    21.Hood A,Liu YP,Gattone VHII,Klaassen CD(1999).Sensitivity of thyroid
+    40.Sai K,Uchiyama T,Ohno Y,Hasegawa R,Kurokawa Y(1992).Generation
+    gland growth to thyroid stimulating hormone (TSH)in rats treated with
+    of active oxygen species in vitro by the interaction of potassium bromate
+    antithyroid drugs.Toxicol Sciences 49:263-271.
+    with rat kidney cell.Carcinogenesis 13:333-339.
+    22.International Life Sciences Institute (1999).Mechanistic research on
+    41.Stanbury JB,Wyngaarden JB(1952).Effect ot perchlorate on the human
+    disinfection by-products.Report from an ILSI workshop.ILSI Press,
+    thyroid gland.Metabolism 1:533-539
+    Washington,DC,pp 24-27.
+    42.Taylor DH,Pfohl RJ(1985).Effects of chlorine dioxide on the neurobe-
+    23.Ishidate M,Sofuni T,Yoshikawa K,Hayashi M,Nohmi T,Sawada M,
+    havioral development or rats.In:Water Chlorination:Chemistry,Environ-
+    Matsuoka A(1984).Primary mutagenicity screening of food additives cur-
+    mental Impact and Health Effects,Vol 6,Jolley RL,Bull RJ,Davis WP
+    rently used in Japan.Food Chem Toxicol 22:623-636.
+    Katz S,Roberts MH,Jr.,Jacobs VA (ed).Lewis Publishers,Chelsea,MI
+    24.Kessler FJ,Krunkemper HJ(1966).Experimental thyroid tumors caused by
+    pp355-364.
+    many years of potassium perchlorate administration.Klin Wochenschr 44:
+    43.Timperman J,Maes R (1966).Suicidal poisoning by sodium chlorate:A
+    1154-1156.
+    report of three cases.J Forensic Med 13:123-129.
+    25.Kurokawa Y,Maekawa A,Takahashi M,Hayashi Y (1990).Toxicity and
+    44.Umemura T,Sai K,Takagi A,Hasegawa R,Kurokaw a Y(1995).A possible
+    carcinogenicity of potassium bromate-A new renal carcinogen.Emviron
+    role for oxidative stress in potassium bromate (KBrO3)carcinogenesis
+    Health Perspect 87:309-335.
+    Carcinogenesis 16:593-597.
+    26.Larsen PR (1982).The thyroid.In:Cecil Textbook of Medicine,16th ed,
+    45.US Environmental Protection Agency (1994).External review draft for the
+    Wyngaarden JB,Smith LH (eds).Saunders,Philadelphia,pp 1201-1225.
+    drinking water criteria document on chlorine dioxide,chlorite and chlorate.
+    27.Lubbers JR,Bianchine JR(1984).Effects of acute rising dose administration
+    Prepared for the Health and Ecological Criteria Division,Office of Science
+    of chlorine dioxide,chlorate and chlorite to normal healthy male volunteers.
+    and Technology,Office of Water.USEPA.
+    J Environ Path Toxicol Oncol 5:215-228.
+    46.US Environmental Protection Agency (1998).Assessment of thyroid fol-
+    28.Lubbers JR,Chauhan S,Bianchine JR (1982).Controlled clinical evalu-
+    licular cell tumors.Office of Research and Development;Report no
+    ations of chlorine dioxide,chlorite and chlorate in man.Environ Health
+    EPS/630/R-97/002,Washington,DC.
+    Perspect 46:57-62.
+    47.Wolf DC,Crosby LM,George MH,Kilburn SR,Moore TM,Miller RT,
+    29.Lubbers JR,Chauhan S,Miller JK,Bianchine JR (1984).The effects of
+    DeAngelo AB(1998).Time-and dose-dependen t development of potassium
+    chronic administration of chlorine dioxide,chlorite and chlorate to normal
+    bromate-induced tumors in male Fischer 344 rats.Toxicol Pathol 26:724-
+    healthy adult male volunteers.J Environ Path Toxicol Oncol 5:229-238.
+    729.
+    30.Lubbers JR,Chauhan S,Miller JK,Bianchine JR (1984).The effects of
+    48.Wolff J (1998).Perchlorate and the thyroid gland,Pharmacol Rev 50:89-
+    chronic administration of chlorite to glucose-6-phosphate dehydrogenase
+    105.
+    Downloaded from tpx.sagepub.com at UNIV NEBRASKA LIBRARIES on April 4,2015
+
+==========第10页==========

@@ -1,0 +1,8146 @@
+    24
+    Sodium Chlorate
+    COMPONENTS:
+    EVALUATOR:
+    (1)Sodium chlorate;NaC103;[7757-82-6]
+    Hiroshi Miyamoto
+    Department of Chemistry
+    Niigata University
+    (2)Water;H20;[7732-18-5]
+    Niigata,Japan
+    June,1984
+    CRITICAL EVALUATION:
+    THE BINARY SYSTEM
+    Data for the solubility of sodium chlorate in water have been reported in 22 publications(1-21,30).Many of these studies deal with ternary systems,and the solubility in thebinary NaC10-H20 system is given as one point on a phase diagram.Many investigators(4,6-8,10-20)reported that the stable solid in equilibrium with the saturated solu-tions over the temperature range between 273 K and 373 K was anhydrous sodium chlorate.
+    Nabiev,Tukhtaev,Musaev,Kuchrov and Shimmasov (21)measured the solubility for thebinary NaC103-H20 system at 254.7 K,and the stable phases were Nacl03 and ice.
+    Blanc and Schmandt (1),Bell (3)and Treadwell and Ammann (9)reported solubilities inthe binary NaC103-H20 system only.Bittler (2),Bell (3)and Nies and Hulbert (18)reported solubilities over a wide temperature range.
+    A summary of solubility studies for the binary NaC103-H20 system is given in Table 1.
+    1.Evaluation for the solubility based on mol kg1 units.
+    Solubility at 273.2 K.The solubility has been reported in 3 publications (3,7,18).
+    The value by Babaeva (7)is very distinctly larger than that of two other investigators.
+    The arithmetic mean of two results (7,18)is 7.465 mol kg-.The mean is designated asa tentative value.
+    Solubility at 283.2 K.The solubility has been reported in 2 publications (3,18).
+    The value recommended for the solubility at this temperature is taken as 8.220 mol kg-1,which is the arithmetic mean of the two results,
+    Solubility at 293.2K.The solubility has been reported in 6 publications (3,5-7,9,18)at 293.2 K,and in one article (1)at 293.0 K.The value of 8.994 mol kg-1 by Blancand Schmandt (1)is larger than that of Nies and Hulbert (18).The reported solubilitiesat this temperature are widely distributed from 8.976 to 9.282 mol kg-1.The tentativevalue was obtained as the arithmetic mean of 7 results (1,3,5-7,9,18).The value is
+    9.14 mol kg-1,and the standard deviation is 0.14 mol kg-
+    Solubility at 298.2 K.The solubility at this temperature has been reported in 10 publica-tions (3,8,10-13,17,19,20,30).The value of Vlasov and Shishkina (2)is distinctlylower than that of the other investigators,and the study of Arkhipo,Kashina and Kuzina(17)reported the highest value.Therefore,these two values are rejected.The arith-metic mean of the remaining 7 results (3,8,10-13,19,30)is 9.43 mol kg-1,and the standard
+    deviation is 0.02 mol kg.
+    The mean is designated as a recommended value.
+    Solubility at 303.2 K.The value has been reported in 3 publications (1,3,18).Thearithmetic mean of 3 results is 9.86 mol kgand the standard deviation is 0.04 mol kg-1
+    The mean is designated as a recommended value.
+    Solubility at 308.2 K.The solubility has been reported in one publication (3)at 308.2 Kand in one publication (1)at 308.3 K.Both values are identical.The estimated errorin temperature measurement is t0.02 K by Bell (1)and nothing specified by Blanc and
+    Schmandt (1).The tentative value at 308.2 K is taken as 10.33 mol kg-1.
+    Solubility at 313.2 K.The solubility has been reported in 4 publications (3,4,7,18).
+    The value of Babaeba (18)was markedly higher than those of the other researchers (3,4,7)and is therefore rejected.The arithmetic mean of the remaining 3 results (3,4,7)is 10.86 mol kg--and the standard deviation is 0.07 mol kg-1.The mean is designatedas a recommended value.
+    Solubility at 318.2 K.The recommended value for the solubility at this temperature istaken as 11.27 mol kg-l which is the arithmetic mean of two results (8,18).
+
+==========第1页==========
+    Sodium Chlorate
+    25
+    COMPONENTS
+    EVALUATOR:
+    (1)Sodium chlorate;NaC103;[7757-82-6]
+    Hiroshi Miyamoto
+    Department of Chemistry
+    (2)Water;H20;[7732-18-5]
+    Niigata University
+    Niigata,Japan
+    June,1984
+    CRITICAL EVALUATION:
+    Table 1.
+    Summary of Solubility Data for the Binary NaC103-H20 System
+    T/K
+    m1/mol kg-1
+    Reference
+    268.2
+    7.096
+    (18)Nies;Hulbert
+    273.2
+    7.451
+    (18)Nies;Hulbert
+    273.2
+    7.478
+    (3)Be11
+    273.2
+    7.690
+    (7)Babaeva
+    277.9
+    7.834
+    (1)Blanc;Schmandt
+    283.2
+    8.208
+    (18)Nies;Hulbert
+    283.2
+    8.232
+    (3)Be11
+    288.2
+    8.641
+    (8)Ricci;Yenick
+    291.2
+    8.976
+    (14)Windmaisser;Stockl
+    292.2
+    8.770
+    (11)Ricci;Weltman
+    293.0
+    8.994
+    (1)Blanc;Schmandt
+    293.2
+    8.976
+    (18)Nies;Hulbert
+    293.2
+    9.008
+    (3)
+    Bell
+    293.2
+    9.20
+    (9)
+    Treadwell;Ammann
+    293.2
+    9.231
+    (5)
+    Di Capua;Scaletti
+    293.2
+    9.28
+    (6)
+    Di Capua;Bertoni
+    293.2
+    9.282
+    (7)
+    Babaeva
+    297.4
+    9.26
+    (4)
+    Il'inskli
+    298.2
+    9.410
+    (30)Ricci;Offenbach
+    298.2
+    9.352
+    (20)Vlasov;Shishkina
+    298.2
+    9.402
+    (13)Ricci:Linke
+    298.2
+    9.417
+    (11)Ricci;Weltman
+    298.2
+    9.421
+    (10)Swenson;Ricci
+    298.2
+    9.433
+    (12)Ricci
+    298.2
+    9.444
+    (3)
+    Bell
+    298.2
+    9.448
+    (8)
+    Ricci;Yanick
+    298.2
+    9.470
+    (19)Arkhipov;Kashina
+    298.2
+    9.504
+    (17)Arkhipov;Kashina;Kuzina
+    303.2
+    9.818
+    (18)Nies;Hulbert
+    303.2
+    9.865
+    (1)Blanc;Schmandt
+    303.2
+    9.896
+    (3)Bell
+    308.2
+    10.33
+    (3)Be11
+    308.3
+    10.33
+    (1)Blanc;Schmandt
+    313.2
+    10.81
+    (18)Nies;Hulbert
+    313.2
+    10.83
+    (3)Bell
+    313.2
+    10.94
+    (4)
+    Il'inskii
+    313.2
+    12.13
+    (7)
+    Babaeva
+    317.9
+    11.25
+    (1)
+    Blanc;Schmandt
+    318.2
+    11.25
+    (18)Nies;Hulbert
+    318.2
+    11.29
+    (8)Ricci;Yenick
+    323.2
+    11.71
+    (11)Ricci;Weltman
+    323.2
+    11.74
+    (10)Swenson;Ricci
+    323.2
+    11.76
+    (18)Nies;Hulbert
+    333.2
+    12.88
+    (18)Nies;Hulbert
+    348.2
+    14.79
+    (18)Nies;Hulbert
+    348.2
+    14.94
+    (8)Ricci;Yenick
+    371.2
+    18.47
+    (18)Nies;Hulbert
+    373.2
+    19.16
+    (3)Bell
+
+==========第2页==========
+    26
+    Sodium Chlorate
+    COMPONENTS:
+    EVALUATOR:
+    (1)Sodium chlorate;NaCl03;[7757-82-6]
+    Hiroshi Miyamoto
+    Department of Chemistry
+    (2)Water;H20;[7732-18-5]
+    Niigata University
+    Niigata,Japan
+    June,1984
+    CRITICAL EVALUATION:
+    Solubility at 323.2K.The solubility has been reported in 3 publications (10,11,18).
+    The arithmetic mean of 3 results is 11.74 mol kg-1,and the standard deviation is 0.03mol kg-1.The mean is designated as a recommended value.
+    Solubility at 348.2 K.The recommended value for the solubility at this temperature istaken as 14.87 mol kg-1 which is the arithmetic mean of two results (8,18).
+    Solubility at other temperatures.The solubilities at 277.9 K (1),288.2 K (8),292.2 K(11),297.4K(4),317.9K(1),333.2K(18),371.2K(18)and373.2K(3)are singu1arvalues,and are designated as tentative solubilities.A summary of all solubility datain the binary for which anhydrous NaCl03 is the sole solid phase is given in Table 1.
+    The recommended and tentative solubilities for the binary NaC103-H20 system for whichthe solid phase is the anhydrous salt is given in Table 2.The experimental mol kg-1solubilities were fitted to the following smoothing equation:
+    1n(m1/mo1kg-1)=34.97670-48.488690/(T/100K)-31.26105in(T/100K)
+    +5.929873(T/100K)
+    0=0.08
+    The mole fraction solubilities calculated by the evaluator was fitted to the generalsolubility equation (see the PREFACE and eqs.[1]and [2]in the critical evaluationfor the binary LiC103-H20 system):
+    Y=-4838.039/(T/K)-27.76682n(T/K)+156.124+0.0521925(T/0
+    0y=0.0108
+    cx=0.00099
+    The tentative solubilities in the binary system based on mol dm-3 based on the resultsof Billiter (2)were fitted by the evaluator to the following equation:
+    1n(c1/mo1dm-3)=2.456277-3.660476/(T/100K)+0.65670051n(T/100K)
+    0=0.03
+
+==========第3页==========
+    Sodium Chlorate
+    27
+    COMPONENTS
+    EVALUATOR:
+    (1)Sodium chlorate;NaC103;[7757-82-6]
+    Hiroshi Miyamoto
+    Department of Chemistry
+    (2)Water;H20;[7732-18-5]
+    Niigata University
+    Niigata,Japan
+    June,1984
+    CRITICAL EVALUATION:
+    Table 2.Recommended and Tentative Solubilities in the Binary
+    System Based on mol kg-1 and mole fraction units.a
+    T/K
+    m/mol kg-1
+    X/mole fraction
+    R or Tb
+    268.2
+    7.096
+    0.1133
+    273.2
+    7.465
+    0.1185
+    T
+    277.9
+    7.834
+    0.1237
+    T
+    283.2
+    8.220
+    0.1290
+    R
+    288.2
+    8.641
+    0.1347
+    T
+    292.2
+    8.770
+    0.1364
+    293.2
+    9.14
+    0.1414
+    个
+    297.4
+    9.26
+    0.1430
+    298.2
+    9.43
+    0.1452
+    R
+    303.2
+    9.86
+    0.1508
+    수
+    308.2
+    10.33
+    0.1569
+    2
+    313.2
+    10.86
+    0.1636
+    수
+    317.9
+    11.25
+    0.1685
+    318.2
+    11.27
+    0.1688
+    수
+    323.2
+    11.74
+    0.1746
+    333.2
+    12.88
+    0.1833
+    348.2
+    14.87
+    0.2133
+    371.2
+    18.47
+    0.2497
+    T
+    373.2
+    19.16
+    0.2566
+    T
+    aMole fractions calculated by the evaluator.bR (recommended)and T (tentative solubility values.
+
+==========第4页==========
+    28
+    Sodium Chlorate
+    COMPONENTS:
+    EVALUATOR:
+    (1)Sodium chlorate;NaC103;[7757-82-6]
+    Hiroshi Miyamoto
+    Department of Chemistry
+    (2)Water;H20;【7732-18-5]
+    Niigata University
+    Niigata,Japan
+    June,1984
+    CRITICAL EVALUATION:
+    TERNARY SYSTEMS
+    Many studies for the solubility of the aqueous ternary system with two saturating com-ponents have been reported.A summary of the studies is given in Tables 3-6.
+    Systems with alkali halides.Solubility studies of the ternary systems containing sodiumchlorate and alkali halides have been reported in 11 publications (2,5,12,16,17,20,22,24,28).A summary of these studies with that of the ternary NaC103-Bacl2-H20system is given in Table 3.
+    Table 3.Summary of Solubility Studies in Ternary Systems
+    with Alkali Metal and Barium Halides.
+    Ternary System
+    T/K
+    Solid phase
+    Reference
+    NaC103-NaC1-H20
+    293,303,333,
+    Not given
+    2
+    353,373
+    NaC103-NaC1 -H20
+    293
+    Not given
+    5
+    NaC103 NaC1 -H20
+    298,308,318
+    NaC103;NaCl
+    16
+    NaC103-NaCl-H20
+    298
+    NaC103;NaCl
+    17
+    NaC103-NaCl -H20
+    293
+    Not given
+    32
+    NaC103 -NaCl-H20
+    247-373
+    NaC103;NaC1.2H20
+    24
+    NaCl;Ice
+    NaC103-NaCl-H20
+    298
+    Not given
+    28
+    NaC103 NaBr H20
+    298
+    NaC103;NaBr.2H20
+    12
+    NaC103-NaI-H20
+    298
+    NaC103;NaI.2H20
+    12
+    NaC103 NaF-H20
+    298
+    NaC103;NaF
+    20
+    NaC103-KC1 H20
+    298
+    Not given
+    5
+    NaC103 -BaC12 -H20
+    293
+    Not given
+    6
+    Solubilities in the ternary NaC103-NaCl-H20 system have been reported in 7 publications(5,7,16,17,22,24,28).Di Capua and Scaletti (5)and Arkhipov,Kashina and Kuzina(17)measured solubilities (mass units)of the two saturating components (Nac103 and
+    Nacl)over a wide concentration range at 293 and 298 K,respectively.No double saltsare formed in this system.
+    Nallet and Paris (24)reported only one value (mass units)at each temperature between246 and 373 K.The details of solid phases are described on the compilation sheets.Nodouble salts formed.
+    Solubilities in the aqueous ternary system based on g cm-3 units have been reported by
+    Winteler (22),and by Billiter (2).Because of insufficient experimental information,it was not possible to compare these two studies.
+    The paper by Perel'man and Korzenyak (28)contained only a phase diagram,and was there-fore not compiled.
+    The solubilities in ternary systems NaC103-NaBr-H20 and NaC103-NaI-H20 at 298 K werestudied by Ricci (2)and the system Nac103-NaF-H20 at 298 was studied by Vlasov and
+    Shishkina (20).These salt pairs formed neither double salts nor solid solutions atthis temperature.The ternary NaC103-NaF-H20 system was of simple eutonic type.
+
+==========第5页==========
+    Sodium Chlorate
+    29
+    COMPONENTS
+    EVALUATOR:
+    Sodium chlorate;NaC103;[7757-82-6]
+    Hiroshi Miyamoto(1)
+    Department of Chemistry
+    Niigata University(2)
+    Water;H20;[7732-18-5]
+    Niigata,Japan
+    June,1984
+    CRITICAL EVALUATION:
+    Only one result in the Nac103-KC1-H20 system was reported by Di Capua and Scaletti (5),and solubilities in the NaC103-BaCl2-H20 were reported by Di Capua and Bertoni (6).
+    The solid phases in both papers were not reported.
+    Systems with other halates.Solubility studies of ternary systems containing sodiumchiorate and other halates have been reported in 8 publications (4-6,10,17,19,23,24).A summary of these studies with that of the ternary system NaC103-NaC102-H20 isgiven in Table 4.
+    Table 4.Summary of Solubility Studies in Ternary
+    Systems with other Halates
+    Ternary System
+    T/K
+    Solid Phase
+    Reference
+    Nac103-KC103-H20
+    297,313
+    NaC103;KC103
+    NaC103-KC103-H20
+    293
+    Not given
+    5
+    NaC103-KC103-H20
+    273,313
+    Not given
+    23
+    NaC103-KC103-H20
+    291
+    NaC103;KC103;Ice
+    24
+    NaC103 RbC103 -H20
+    298
+    NaC103;RbC103
+    17
+    NaC103-CsC103-H20
+    298
+    NaC103;CsC103
+    19
+    NaC103-Ba(C103)2-H20
+    298
+    NaC103;Ba(C103)2
+    6
+    NaC103-NaBr03-H20
+    298,373
+    NaC103;NaBr03
+    10
+    Solid Solution
+    NaC103-NaC102-H20
+    288,298,308
+    NaC103;NaC103.3H20
+    15
+    318
+    NaC102
+    NaC103-NaC102 -H20
+    298
+    Not given
+    28
+    Solubilities in the NaC103-KC103-H20 system were studied by Il'inskii (4)at 297.4 and313 K,and by Di Capua and Scaletti (5)at 293 K.No double salts were formed.Theresults for the composition at the isothermally invariant point were reported by Munterand Brown (23).
+    Nallet and Paris (24)reported only one solubility at each temperature between 255.3 Kand 373 K.The details of solid phases are described in the compilation.No doublesalts were formed.
+    Solubilities in the ternary NaC103-RbC103-H20 and NaC103-CsC103-H20 systems have beenreported by Arkhipov,Kashina and Kuzina (17),and Arkhipov and Kashina (19),respectively
+    Solubilities in the ternary Nac103-Ba(C103)2-H20 system have been reported by Di Capuaand Bertoni (6).All systems were simple eutonic,and no double salts were formed.
+    Solubilities in the ternary Nac103-NaBr03-H20 system were measured by Swenson and Ricci(10).The salts studied at 298 K formed a series of solid solutions which is apparentlydiscontinuous.The solubility curve at 298 K appears to be divided into three portionscorresponding to the following solid phases:(1)pure sodium bromate,(2)a sodiumbromate solid solution containing up to about 5-10 mass sodium chlorate,(3)a sodiumchlorate solid solution containing from 0 to 60-65 mass sodium bromate.
+    Cunningham and Oey (15)have reported solubilities in the ternary system NaC103-NaC102-
+    H20.The system is simple and the solid phases were sodium chlorate and sodium chloritetrihydrate.No hydrate of sodium chlorate was formed.
+
+==========第6页==========
+    30
+    Sodium Chlorate
+    COMPONENTS:
+    EVALUATOR:
+    (1)Sodium chlorate;NaC103;[7757-82-6]
+    Hiroshi Miyamoto
+    Department of Chemistry
+    (2)Water;H20;[7732-18-5]
+    Niigata University
+    Niigata,Japan
+    June,1984
+    CRITICAL EVALUATION:
+    The system with sodium sulfate.Solubilities in the ternary NaC103-Na2S04-H20 systemhave been reported in 3 publications (7,8,14).A summary of the studies is given in
+    Table 5.
+    Table 5.A Summary of Solubility Studies in the
+    Ternary System NaC103-Na2S04-H20
+    T/K
+    Solid Phase
+    Reference
+    273
+    NaC103;Na2S04,10H20
+    7
+    288
+    NaC103;Na2s0410H20
+    8
+    291
+    NaC103;Na2s04.10H20;Na2s04
+    14
+    293
+    NaC103;Na2S04.10H20
+    7
+    298
+    NaC103;Na2s04.10H20;Na2S04
+    8
+    NaC103.3Na2SO (double salt)
+    313
+    NaC103;Na2S04
+    7
+    318
+    NaC103;Na2S04;NaC103-3Na2S04
+    8
+    348
+    NaC103;Na2S04;NaC103.3Na2S04
+    8
+    Solubilities in this system were determined over a wide temperature range.Ricci and
+    Yanick (8)reported the existence of stable double salt with the formula Nac103.3Na2804.
+    The double salt was formed at 298 K and above,having always a very short range of stableexistence,and persisting in metastable equilibrium over a very considerable range ofconcentrations.Although Babaeva (7)measured solubilities in this system at 313 K,the existence of the double salt was not found.Below 298 K no double salts were formed.
+    The solid phases in the binary systems NaC103-H20 and Na2S04-H20 were Nac103 and
+    Na2S04.10H20 at 298 K and below,respectively,and NaC103 and Na2S04 at 313 K and above,respectively.The composition of the solid phase between 298 and 313 K was not studied,
+    Systems with the other compounds.A summary of solubility studies in the system contain-ing the other compounds except the salts discussed above is given in Table 6.
+    Table 6.Summary of Solubility Studies in Miscellaneous
+    Ternary Systems
+    Ternary System
+    T/K
+    Solid Phase
+    Reference
+    NaC103-Na2C03 -H20
+    297,313
+    NaC103;Na2c0310H20;
+    Na2C03.7H20;Na2C03
+    NaC103 Na2Cr04-H20
+    292
+    NaC103;Na2Cr04.6H20;
+    11
+    Na2Cr04.10H20
+    NaC103 NaCr04 -H20
+    298
+    NaC103;Na2Cr04.4H20;
+    11
+    Na2Cr04.6H20
+    NaC103 NaCr04-H20
+    323
+    NaC103;Na2Cr04.4H20
+    11
+    NaC104-NaN03 -H20
+    298
+    NaC103;NaNO3
+    12
+    NaC103 Na2Mo04-H20
+    298
+    NaC103;Na2Mo04.2H20
+    13
+    NaC103-NaOH -H20
+    291
+    NaC103;NaOH.H20
+    14
+    NaC103-BaB02-H20
+    254
+    NaC103;NaB02.4H20 ice
+    18
+    NaC103-NaB02-H20
+    268,273,
+    NaC103;NaB02.4H20
+    293,303
+    18
+    NaC103-NaB02 -H20
+    318,323
+    NaC103;NaB02.4H20;
+    18
+    NaB04.2H20
+    NaC103 NaB02 -H20
+    333,348
+    NaC103;NaB02.2H20
+    18
+
+==========第7页==========
+    Sodium Chlorate
+    31
+    COMPONENTS:
+    EVALUATOR:
+    (1)Sodium chlorate;NaC103;[7757-82-6]
+    Hiroshi Miyamoto
+    Department of Chemistry
+    (2)Water;H20;[7732-18-5]
+    Niigata University
+    Niigata,Japan
+    June,1984
+    CRITICAL EVALUATION:
+    Solubilities in the NaC103-Na2C03-H20 system by Il'inskii (4),in the NaC103-Na2Cr04-H20system by Ricci and Weltmann (11),in the NaC103-NaN03-H20 system by Ricci (12)and inthe Nac103-Na2Mo04-H20 system by Ricci and Linke (13)have been reported.Neithercompound formation nor solid solution between any two salts were reported.Solubilitiesin the ternary NaC103-NaOH-H20 system were reported by Windmaisser and Stockl (14),andno double salts were formed.Solubility isotherms at temperature between 353.9 and 348 Kwere determined for the NaC102-NaB03-H20 system by Nies and Hulbert (18).The solidphases were NaB02.4H20,NaB02.2H20 and NaC103.No double salts formed.
+    OTHER MULTICOMPONENT SYSTEMS
+    A summary of solubility studies in other multicomponent systems is given in Table 7.
+    Table 7.Summary of Solubility Studies in Multicomponent Systems
+    Multicomponent System
+    T/K
+    Reference
+    NaC103-KC103-NaC1-H20
+    293
+    5
+    NaC103-NaC102-NaCl H20
+    283,293,303
+    26
+    NaC103 -NaC102 -NaC1 H20
+    298,303,318
+    27
+    NaC103-NaC102 -NaCl H20
+    298
+    28
+    NaC103-NaC1-RbC103-RbC1-H20
+    298
+    17
+    NaC103-NaCl-CsC103-CsC1-H20
+    298
+    19
+    NaC103-NaCl-KC103 -KC1 -H20
+    273,313
+    23
+    NaC103-NaCl-KC103 -KC1 -H20
+    247-373
+    25
+    NaC103-NaC102-NaCl-Na2C03 -H20
+    298
+    29
+    Only one solubility value in the NaC103-KC103-NaCl-KC1-H20 system at 293 K was reportedby Di Capua and Scoletti (5).No other information was given.
+    Solubilities in the NaC103-NaC102-NaC1-H20 system were measured by Nakamori,Nagino,
+    Hideshima and Hirai (26)at 283,293 and 303 K,and by Oey and Cunningham (27)at 298,303 and 318 K.No double salts formed within the temperature interval 283-318 K.
+    Perel'man and Korgenyak (28)reported only a phase diagram,aand the paper was thereforenot compiled.
+    The NaC103-NaCl-RbC103-RbC1-H20 system was studied by Arkhipov,Kashina and Kuzina (17).
+    Solubilities in the quaternary systems NaC103-NaCl-RbC103-H20 and RbC103-NaCl-RbC1-H20,have been reported,but the solubility data in five component systems were not reported.
+    There were four salt crystallization regions in the system:NaCl,RbCl,NaC103 and RbC103.
+    Two ternary points were obtained corresponding to solutions saturated with:(i)
+    NaCl+NaC103+RbC103;(ii)NaC1+RbC1+RbC103.The main part of the diagram is occupied bythe crystallization field of rubidium chlorate (95%),followed in area by the sodiumchloride field (3.5 %)The four salts did not form either double salts or solidsolutions.
+    The NaC103-NaCl-CsC103-CsC1-H20 system was studied by Arkhipov and Kashina (19).Solu-bilities in the quaternary systems NaCl03-CsC103-NaC1-H20 and CsC103-CsCl-NaCl-H20 havebeen reported,but the solubility data for five component systems were not reported.
+    The crystallization field of cesium chlorate occupies the greatest area on the diagram,and this is followed by the field of sodium chloride.The crystallization fields ofsodium chlorate and of solid solutions of cesium and sodium chlorides are small.
+
+==========第8页==========
+    32
+    Sodium Chlorate
+    COMPONENTS:
+    EVALUATOR:
+    (1)Sodium chlorate;NaC103;[7757-82-6]
+    Hiroshi Miyamoto
+    Department of Chemistry
+    (2)Water;H20;[7732-18-5]
+    Niigata University
+    Niigata,Japan
+    June,1984
+    CRITICAL EVALUATION:
+    Munter and Brown (23)measured solubilities in the Nac103-NaCl-KC103-KCI-H20 system atthe isothermal invariant point.The solid phase at this point is simple:no doublesalts were formed.
+    Nallet and Paris (25)also measured solubilities in the NaC103-NaCl-KC103-KC1-H20 systemover a wide temperature range,but only one value at each temperature was reported.
+    No double salts or solid solutions were reported.
+    The NaC103-NaC102-Na2C03-NaC1-H20 system was studied by Perel'man and Korzhenyak (29).
+    The compositions of the eutectic points of the ternary and quaternary systems weredetermined.
+    REFERENCES
+    1.Blanc,M.Le.Schmandt,w.Z.Physik.Chem.1911,77,614.
+    2.Billiter,J.Monatsh.Chem.1920,41,287.
+    3。Be11,H.C.J.Chem.S0c.1923,123,2712.
+    4.I1'inskii,V1.P.J.Rus6.Phys.-Chem.Soc.1923,54,29.
+    5.Di Capua,C.;Scaletti,U.Gazz.Chim.Itae.1927,27,391.
+    6。Di Capua,C.;Bertoni,A.Gazz.Chim.Itae.1928,58,249.
+    7.Babaeva,A.V.Zh.Obshch.Khim.1936,6,1144.
+    8.Ricci,J.E.;Yanick,N.'S.J.Am.Chem.Soc.1937,59,491.
+    9。Treadwell,W.D.;Ammann,A.Helv.Chim.Acta 1938,21,1249.
+    10.Swenson,T.;Ricci,J.E.J.Am.Chem.Soc.1961,61,1974.
+    11.Ricci,J.E.;Weltman,C.J.Am.Chem.Soc.1942,64,2746.
+    12.Ricci,J.E.J.Am.Chem.Soc.1944,66;1015.
+    13.Ricci,J.E.;Linke,W.F.J.Am.Chem.Soc.1947,69,1080.
+    14.Windmaisser,F.;Stockl,F.Monatsh.Chem.1951,82,287.
+    15.Cunningham,G.I.;Oey,T.S.J.Am.Chem.Soc.1955,77,4498.
+    16.Oey,T.S.;Koopman,D.E.J.Phys.Chem.1958,62,755.
+    17.Arkhipov,S.M.;Kashina,N.I.;Kuzina,V.A.Zh.Neong.Khim.1968,13,2872;
+    Russ.J.Inong.Chem.(Enge.Transe.)1968,13,1476.
+    18.Nies,N.D.;Hulbert,R.W.J.Chem.Eng.Data 1969,14,14.19,
+    Akhipov,S.M.;Kashina,N.I.Zh.Neong.Khim.1970,15,760;Russ.J.Inong.Chem,(Enge.T九ans2.】1970,15,391.
+    20.
+    Vlasov,G.A.;Shishkina,L.A.Zh.Neong.Khim.1977,22,2309;Rus6,J.Inong.
+    Chem.(Enge.T九an62.】1977,22,1250.
+
+==========第9页==========
+    Sodium Chlorate
+    33
+    COMPONENTS
+    EVALUATOR:
+    (1)Sodium chlorate;NaC103;[7757-82-6]
+    Hiroshi Miyamoto
+    Department of Chemistry
+    (2)Water;H20;[7732-18-5]
+    Niigata University
+    Niigata,Japan
+    June,1984
+    CRITICAL EVALUATION:
+    REFERENCES,continued
+    21.Nabiev,M.N,;Tukhtaev,S.;Mussaev,N.Yu.;Kushrov,Kh.;Shammasov,R.E.
+    Zh.Neong.Khim.1982,27,2704;Russ.J.Inong.Chem.(Enge.Transe.]1982,27
+    22.winteler,F.Z.Eeectrochim.1900,2,360.
+    23.Munter,P.A.;Brown,R.L.J.Am.Chem.Soc.1943,65,2456.
+    24.Nallet,A.;Paris,R.A.Buee.Soc.Chim.Fr.1956,488.
+    25.Nallet,A.;Paris,R.A.Buee.Soc.Chim.Fr.1956,494.
+    26.Nakamori,I.;Nagino,Y.;Hideshima,K.;Hirai,T.Kogyo Kagaku Zasshi 1958,61,
+    147.
+    27.Oey,T.S.;Cunningham,G.I.;Koopman,D.E.J.Chem.Eng.Data 1960,5,248.
+    28.Perel'man,F.M.;Korzhenyak,I.G.Zh.Neong.Khim.1968,13,277;Rus6.J.Inong
+    Chem.{Eng2.T九anw2.】1968,13,143.
+    29.Perel'man,F.M.;Korzhenyak,N.G.Zh.Neorg.Khim.1968,13,2861;Rus6,J.
+    Inong.Chem.(Enge.Transe.)1968,13,1471.
+    30.Ricci,J.E.;Offenbach,J.A.J.Am.Chem.Soc.1951,73,1597.
+
+==========第10页==========
+    34
+    Sodium Chlorate
+    COMPONENTS:
+    ORIGINAL MEASUREMENTS:
+    (1)Sodium chlorate;Nac103;[7775-09-9]
+    Blanc,M,L.;Schmandt,W.
+    (2)Water:;H,0;[7732-18-5]
+    Z.Pgik.ch2m.1911,77,614-638.
+    VARIABLES:
+    PREPARED BY:
+    T/K=277.93,293.00,303.18,308.25
+    Hiroshi Miyamoto
+    and317.87
+    EXPERIMENTAL VALUES:
+    Solubility of Nac103a
+    t/°C
+    mass
+    mo1kg】
+    4.78
+    45.47
+    7.834
+    19.85
+    48.91
+    8.994
+    30.05
+    51.22
+    9.865
+    35.10
+    52.36
+    10.33
+    44.72
+    54.50
+    11.25
+    a Molalities calculated by the compiler.
+    AUXILIARY INFORMATION
+    METHOD/APPARATUS /PROCEDURE
+    SOURCE AND PURITY OF MATERIALS:
+    Nothing specified.
+    Nothing specified.
+    ESTIMATED ERROR:
+    Nothing specified.
+    REFERENCES
+
+==========第11页==========
+    Sodium Chlorate
+    35
+    COMPONENTS:
+    ORIGINAL MEASUREMENTS
+    (1)Sodium chlorate;NaC103;[7775-09-9]
+    Bell,H.C.
+    (2)Water;H20;[7732-18-5]
+    J.Chem.S0c.1923,123,2712-3.
+    VARIABLES:
+    PREPARED BY:
+    T/K=273-373
+    Hiroshi Miyamoto
+    EXPERIMENTAL VALUES:
+    Solubility of NaC1033
+    t/°C
+    mass
+    mol
+    mol kg-1
+    (compiler)
+    (compiler):
+    0
+    44.32
+    11.87
+    7.478
+    0
+    46.70
+    12,91
+    8.232
+    20
+    48.95
+    13.96
+    9.008
+    5
+    50.13
+    14.54
+    9.444
+    30
+    51.30
+    15.13
+    9.896
+    35
+    52.38
+    15.69
+    10.33
+    40
+    53.54
+    16.32
+    10.83
+    100
+    67.10
+    25.66
+    19.16
+    a Nature of the solid phase not specified.
+    AUXILIARY INFORMATION
+    METHOD/APPARATUS/PROCEDURE
+    SOURCE AND PURITY OF MATERIALS:
+    A solution of sodium chlorate,saturated at
+    Nothing specified.
+    the boiling point,was stirred vigorously inan electrically controlled thermostat at therequired temperature for about three hours.
+    A weighed sample was evaporated in a conicalflask by immersing this in a bath at 100Cand gently distilling benzene on to thesurface of the liquid.In about fifteenminutes the salt was obtained in a thincrust over the bottom of the flask.A shal-low layer of benzene was then poured intothe flask,which was heated in an air ovenat 120C until its weight was constant.The
+    ESTIMATED ERROR:
+    necessary buoyancy corrections were made tothe observed weighings.
+    Soly:nothing specified.
+    Temp:precision+0.02 K.
+    REFERENCES:
+
+==========第12页==========
+    36
+    Sodium Chlorate
+    COMPONENTS:
+    ORIGINAL MEASUREMENTS:
+    (1)Sodium chlorate;NaC103;[7775-09-9]
+    Treadwell,W.D.;Ammann,A.
+    (2)Water;H20;[7732-18-5]
+    Hev.Chim.Acta.1938,21,1249-56.
+    VARIABLES:
+    PREPARED BY:
+    One temperature:293 K
+    Hiroshi Miyamoto
+    EXPERIMENTAL VALUES:
+    The solubility of sodium chlorate in water at 20C was given as:'
+    9.20mo1kg1
+    The concentration solubility product was also given simply as the square of thesolubility:
+    8.46×102m012kg2
+    AUXILIARY INFORMATION
+    METHOD /APPARATUS/PROCEDURE:
+    SOURCE AND PURITY OF MATERIALS:
+    No information was given.
+    No information was given.
+    ESTIMATED ERROR:
+    Nothing specified.
+    REFERENCES:
+
+==========第13页==========
+    Sodium Chlorate
+    37
+    COMPONENTS
+    ORIGINAL MEASUREMENTS:
+    (1)Sodium metaborate;NaB02;[7775-19-1]
+    Nies,N.P.;Hulbert,R.W.
+    (2)Sodium chlorate;NaC103;[7775-09-9]
+    J.Chem.Eng.Data 1969,14,14-6.
+    (3)Water;H20;[7732-18-5]
+    VARIABLES:
+    PREPARED BY:
+    Composition
+    Hiroshi Miyamoto
+    T/K=254t0371K
+    EXPERIMENTAL VALUES:
+    Composition of saturated solutions
+    NaB02
+    NaC103
+    Nature of
+    t/°C
+    mass
+    mol
+    mass
+    mol
+    the solid
+    (compiler)
+    (compiler)
+    phasec
+    -19.3
+    5.01
+    2.03
+    34.73
+    8.707
+    Ice+A+C
+    -5
+    13.2a
+    3.997
+    0.00
+    0.00
+    A
+    9.99
+    3.31
+    12.08
+    2.471
+    7.57
+    2.80
+    24.61
+    5.624
+    5.72
+    2.42
+    37.36
+    9.757
+    A+C
+    0.00
+    0.00
+    43.03d
+    11.33
+    0
+    14.5
+    4.44
+    0.00
+    0.00
+    A
+    10.92
+    3.632
+    11.74
+    2.414
+    8.37
+    3.087
+    23.70
+    5.404
+    6.12
+    2.618
+    37.98
+    10.04
+    A+C
+    1.12
+    0.484
+    43.12
+    11.52
+    0.00
+    0.000
+    44.23d
+    11.83
+    10
+    0.00
+    0.000
+    46.63d
+    12.88
+    20
+    20.0
+    6.41
+    0.00
+    0.00
+    16.46
+    5.604
+    9.18
+    A
+    1.93
+    13.02
+    4.847
+    20.47
+    4.711
+    n
+    9.06
+    4.112
+    39.83
+    11.17
+    A+C
+    0.00
+    0.000
+    48.86d
+    13.92
+    C
+    continued....
+    AUXILIARYINFORMATION
+    SOURCE AND PURITY
+    200g containing NaB02 and
+    Photographic
+    sodium metaborate dihy-
+    Nac103 were prepd in polypropylene bottles,
+    drate and tetrahydrate (United States Borax
+    brought to the operating temp,usually seeded&Chem.Corp.)were used.The results of
+    with about 50 g of the solid phases desired,
+    typical analysis were given in the follow-
+    and agitated for several hours to several
+    ing:0.007and0.002%s04,0.05and0.04%
+    days in a water or brine bath.
+    C1,0.003 and 0.002 Ca,1 and 1.5 ppm Fe,
+    At least three samples from each mixture wererespectively,and 10 ppm Al.Reagent gradeanalyzed,and the averages are shown in the
+    NaC103 (J.T.Baker Chem Co)was used,assay
+    table and the figure.In some experiments
+    100.0 %analysis 0.01 Br03 and 0.003 or
+    the solid phases were detd by X-ray
+    less Ca,Mg and NH4OH precipitate,C1,N,
+    diffraction.
+    S04 and Fe.
+    Distilled water was used.
+    Na20 and B203 were detd by titrn with 0.5mol dm-3 HC1 using methyl red followed byaddition of mannitol and titration to pheno-
+    ESTIMATED ERROR:
+    1phthalain with 0.5 mol dm-3 NaOH which had
+    Soly:nothing specified.
+    been standardized against recrystd dry boric
+    Temp:precision 0.1 K.
+    acid.
+    NaB03 mass calcd:from the percent of B203.
+    Chlorate was detd either by boiling with
+    REFERENCES:
+    S02 followed by analysis of the resultingchloride by the Volhard method,or by addi-tion of excess Fes0 with H2S04,boiling,andback-titrating with Na2Cr207 using bariumdiphenylamine sulfonate indicator.The
+    FeSO4 solution was standardized with
+    K2Cr207 in the presence of H3P04.
+
+==========第14页==========
+    38
+    Sodium Chlorate
+    COMPONENTS:
+    ORIGINAL MEASUREMENTS:
+    (1)Sodium metaborate;NaB02;[7775-19-1]
+    Nies,N.P.:Hulbert,R.W.
+    (2)Sodium chlorate;NaC103;[7775-09-9]
+    J.Chem.Eng.Data 1969,14,14-6.
+    (3)ater;H20;[7732-18-5]
+    EXPERIMENTAL VALUES(Continued)
+    Composition of saturated solutions
+    NaB02
+    NaC103
+    Nature of
+    t/°C
+    mass
+    mol
+    mass
+    mol
+    the solid
+    (compiler)
+    (compiler)
+    phasec
+    30
+    23.6
+    7.80
+    0.00
+    0.00
+    A
+    18.77
+    6.746
+    12.26
+    2.724
+    14.78
+    5.931
+    25.33
+    6.284
+    12.02
+    5.567
+    33.70
+    11.08
+    A+C
+    5.76
+    2.707
+    45.22
+    13.14
+    G
+    0.00
+    0.000
+    51.10d
+    15.03
+    40
+    27.9
+    9.59
+    0.00
+    0.00
+    22.97
+    8.610
+    12.37
+    2.866
+    19.09
+    8.004
+    25.08
+    6.500
+    A
+    16.90
+    8.042
+    36.34
+    10.69
+    A+Cb
+    7.64
+    3.71
+    45.79
+    13.74
+    0.00
+    0.00
+    53.5a,d
+    16.30
+    g
+    41.6
+    18.43
+    8.747
+    34.82
+    10.22
+    A+B+C
+    45
+    30.8a
+    10.36
+    0.00
+    0.00
+    26.62
+    10.10
+    10.24
+    2.402
+    24.12
+    9.750
+    17.76
+    4.438
+    21.81
+    9.791
+    27.89
+    7.739
+    A+Bb
+    21.04
+    9.576
+    29.57
+    8.320
+    18.44
+    8.900
+    35.97
+    10.73
+    B
+    8.56
+    4.216
+    45.97
+    14.00
+    0.00
+    0.00
+    54.5d
+    16.86
+    continued.....
+
+==========第15页==========
+    Sodium Chlorate
+    39
+    COMPONENTS
+    ORIGINAL MEASUREMENTS
+    (1)
+    Sodium metaborate;NaB02;[7775-19-1]
+    Nies,N.P.;Hulbert,R.W
+    (2)
+    Sodium chlorate;NaC103;[7775-09-9]
+    J.Chem.Eng.7ata1969,14,14-6.
+    (3)Water;H,0;[7732-18-5]
+    EXPERIMENTAL VALUES
+    (Continued)
+    Composition of saturated solutions
+    NaB02
+    NaC103
+    Nature of
+    t/°C
+    mass
+    mol
+    mass
+    mol%
+    the solid
+    (compiler)
+    (compiler)
+    phasec
+    50
+    34.1
+    12.41
+    0.00
+    0.00
+    30.04
+    11.92
+    11.06
+    2.713
+    b
+    29.65
+    11.99
+    12.97
+    3.243
+    A+Bb
+    29.18
+    11.86
+    13.79
+    3.465
+    25.22
+    10.86
+    21.76
+    5.790
+    23.99
+    10.55
+    24.45
+    6.646
+    B
+    18.67
+    9.172
+    36.97
+    11.23
+    B+C
+    9,78
+    4.89
+    45.87
+    14.17
+    0.00
+    0.00
+    55.6a,d
+    17.49
+    g
+    60
+    38.3
+    14.53
+    0.00
+    0.00
+    29.58
+    12.52
+    16.65
+    4.356
+    B
+    19.74
+    10.03
+    38.28
+    12.03
+    B+C
+    11.07
+    5.704
+    46.74
+    14.89
+    0.00
+    0.00
+    57.82d
+    18.83
+    O:
+    75
+    42.2
+    16.7
+    0.00
+    0.00
+    B
+    33.90
+    14.74
+    14.93
+    4.012
+    26.56
+    13.01
+    29.86
+    9.040
+    22.99
+    12.30
+    33.66
+    12.78
+    B+C
+    10.03
+    5.510
+    51.61
+    17.53
+    0.00
+    0.00
+    61.15d
+    21.04
+    S
+    98
+    0.00
+    0.00
+    66.28d
+    24.96
+    aInterpolated;
+    b Identified by Xray diffraction
+    cA=Na20.B203.3H20 or NaBe02.4H20;
+    B=Na20.B203.4H20;
+    C NaC103
+    C NaC103
+    d For the binary system the compiler computes the following:
+    t/°C
+    soly NaC103/mol kg-1
+    t/°c
+    soly Nac103/mol kg-1
+    -5
+    7.096
+    45
+    11.25
+    0
+    7.451
+    11.76
+    10
+    8.208
+    60
+    12.88
+    0
+    8.976
+    14.79
+    30
+    9.818
+    98
+    18.47
+    40
+    10.81
+    continued.....
+
+==========第16页==========
+    40
+    Sodium Chlorate
+    COMPONENTS:
+    ORIGINAL MEASUREMENTS
+    (1)Sodium metaborate;NaB02;[7775-19-1]
+    Nies,N.P.;Hulbert,R.W.
+    (2)
+    Sodium chlorate;NaC103;[7775-09-9]
+    J.Chem.Eng.Data 1969,14,14-6.
+    (3)Water;H,0;[7732-18-5]
+    COMMENTS AND/OR ADDITIONAL DATA:
+    (Continued)
+    Solubility isotherms in the NaB02 -NaC103-H20 systems at -5 to 75C are given below:
+    7c.
+    wc.
+    sdc.
+    ,28
+    1s%c.
+    wc.
+    xc.
+    0c.
+    -soc.
+    5c.
+    -5c.
+    28"
+    签，
+    8
+    0
+    ·2
+    mas9NaC193
+
+==========第17页==========
+    Sodium Chlorate
+    41
+    COMPONENTS
+    ORIGINAL MEASUREMENTS:
+    (1)Sodium nitrate;NaN03;[7631-99-4]
+    Ricci,J.E.
+    (2)
+    Sodium chlorate;NaC103;[7775-09-9]
+    J.Am.Chem.S0c.1944,66,1015-6.
+    (3)Water;H20;[7732-18-5]
+    VARIABLES:
+    PREPARED BY:
+    Composition at 298.15 K
+    Hiroshi Miyamoto
+    EXPERIMENTAL VALUES:
+    Composition of saturated solutions
+    NaC103
+    NaNO3
+    Density
+    Nature of the
+    mass
+    mol
+    mass
+    mol
+    g cm3
+    solid phasea
+    (compiler)
+    (compiler)
+    50.10b
+    14.52
+    0
+    0
+    1.432
+    43.98
+    13.25
+    9.26
+    3.49
+    1.481
+    A
+    38.82
+    12.17
+    17.47
+    6.859
+    1.517
+    11
+    35.72
+    11.52
+    22.65
+    9.149
+    1.528
+    0
+    34.28C
+    11.36
+    25.96
+    10.78
+    1.549
+    A+B
+    34.29
+    11.37
+    25.95
+    10.77
+    1.557
+    n
+    34.28
+    11.35
+    25.90
+    10.74
+    1.552
+    34.28
+    11.35
+    25.91
+    10.75
+    34.28
+    11.36
+    25.96
+    10.78
+    1.554
+    (Av)34.28
+    11.36
+    25.94
+    10.76
+    1.553
+    32.15
+    10.47
+    27.08
+    11.05
+    1.548
+    27.34
+    8.590
+    29.72
+    11.69
+    1.505
+    20.96
+    6.353
+    33.94
+    12.88
+    1.468
+    13.85
+    4.040
+    38.66
+    14.12
+    1.440
+    6.93
+    1.95
+    43.27
+    15.25
+    0
+    47.87
+    16.29
+    1.389
+    aA NaC103;
+    B=NaN03
+    b For the binary system the compiler computes the following:
+    soly of Nac103 =9.433 mol kg-1.
+    Isothermally invariant solution saturated with two salts.
+    AUXILIARY INFORMATION
+    METHOD /APPARATUS /PROCEDURE:
+    SOURCE AND PURITY OF MATERIALS:
+    Complexes were stirred for at least two
+    C.p.grade NaC103 and NaNO3 were used
+    days at 25C.Equilibrium was established
+    without further purification.
+    in several instances by constancy of composi-tion upon repeated analysis.
+    The analysis of the saturated aqueous slninvolved argentometric titration of thechloride with eosin as absorption indicator,determination of water in a separate sampleby evaporation,and calculation of the
+    sodium chlorate by difference.A few of thechloride determinations for the isother-mally invariant points were verified by the
+    Volhard method.
+    ESTIMATED ERROR:
+    The solubilities of the individual saltswere determined both volumetrically and
+    Soly:nothing specified.
+    by evaporation,with very close agreement
+    Temp:precision+0.05 K.
+    between the two methods.
+    REFERENCES:
+    AMH-C
+
+==========第18页==========
+    42
+    Sodium Chlorate
+    COMPONENTS
+    ORIGINAL MEASUREMENTS:
+    (1)Sodium sulfate;Na2S0;[7757-82-6]
+    Babaeva,A.V.
+    (2)Sodium chlorate;Nac103;[7775-09-9]
+    Zh.0 bshch.Khim.1936,6,1144-6.
+    (3)Water;H20;7732-18-5]
+    VARIABLES
+    PREPARED BY:
+    Composition at 273,293 and 313 K
+    Hiroshi Miyamoto
+    EXPERIMENTAL VALUES:
+    Composition of saturated solutions
+    Sodium Sulfate
+    Sodium Chlorate
+    Nature of
+    t/°C
+    mass
+    mol
+    mass
+    mol
+    the solid
+    (compiler)
+    (compiler)
+    phasea
+    0
+    4.82
+    0.638
+    1.65
+    0.243
+    14.77
+    2.897
+    1.28
+    0.196
+    19.23
+    3.926
+    0.97
+    0.16
+    29.45
+    6.674
+    0.36
+    0.072
+    43.96
+    11.78
+    A+C
+    45.01b
+    12.17
+    20
+    16.25
+    2.402
+    13.05
+    1.980
+    6.01
+    1.22
+    9.40
+    1.53
+    16.45
+    3.564
+    8.29
+    1.50
+    27.34
+    6.606
+    为
+    6.30
+    1.20
+    33.81
+    8.617
+    5.75
+    1.15
+    38.10
+    10.18
+    A+C
+    4.72
+    0.988
+    42.46
+    11.86
+    Q
+    2.41
+    0.518
+    46.86
+    13.45
+    49.70b
+    14.33
+    40
+    32.50
+    5.755
+    24.30
+    4.273
+    8.01
+    1.88
+    27.71
+    4.897
+    4.86
+    1.15
+    19.09
+    3.446
+    15.73
+    3.789
+    n
+    15.25
+    2.937
+    25.06
+    6.440
+    12.84
+    2.698
+    34.23
+    9.599
+    continued....
+    AUXILIARY INFORMATION
+    METHOD/APPARATUS/PROCEDURE:
+    SOURCE AND PURITY OF MATERIALS:
+    The compiler assumes that the isothermal
+    "Chemically pure"grade sodium chlorate
+    method was used.Equilibrium was reached in
+    and sulfate were recrystallized.
+    2 to 3.5 hours.The sodium chlorate contentwas determined volumetrically by additionof iron (II)sulfate solution to the samplesolution,and back-titrating the excess
+    Fe(II)with potassium permanganate solu-tion.
+    The solution containing sodium chlorate andsodium sulfate was heated with sulfuricacid and then succesively heated to dryness
+    The sodium sulfate content was calculatedby difference.
+    The composition of the solid phase was
+    ESTIMATED ERROR:
+    identified by microscopy and direct
+    Nothing specified,
+    analysis.
+    REFERENCES
+
+==========第19页==========
+    Sodium Chlorate
+    43
+    COMPONENTS:
+    ORIGINAL MEASUREMENTS
+    (1)Sodium sulfate;Na2S04;[7757-82-6]
+    Babaeva,A.V.
+    (2)
+    Sodium chlorate;NaC103;[7775-09-9]
+    Zh.0 bshch.Khdm.1936,6,1144-6.
+    (3)
+    Water:H20;[7732-18-5]
+    EXPERIMENTAL VALUES(Continued)
+    Composition of saturated solutions
+    Sodium Sulfate
+    Sodium Chlorate
+    Nature of
+    t/oc
+    mass
+    mol
+    mass
+    mol
+    the solid
+    (compiler)
+    (compiler)
+    phasea
+    40
+    11.42
+    2.632
+    42.13
+    12.96
+    B+C
+    7.43
+    1.71
+    46.34
+    14.26
+    1.70
+    0.392
+    52.39
+    16.12
+    G
+    56.35b
+    17.93
+    aA=Na2S04.10H20;
+    B Na2S04;
+    C NaC103
+    b For the binary system the compiler computes the following:soly of Nac103-7.690 mol kg-1 at oc
+    =9.282mo1kg1at20°c
+    =12.13mo1k81at40C
+    COMMENTS AND/OR ADDITIONAL DATA:
+    The phase diagram is given below (based on mass units).
+    Ne2304
+    NaC1O3
+
+==========第20页==========
+    44
+    Sodium Chlorate
+    COMPONENTS
+    ORIGINAL MEASUREMENTS:
+    (1)Sodium sulfate;Na2S04;[7757-82-6]
+    Ricci,J.E.;Yanick,N.S
+    (2)Sodium chlorate;NaCl03;[7775-09-9]
+    J.Am.Chem.S0c.1937,59,491-6.
+    (3)Water;:H20;[7732-18-5]
+    VARIABLES
+    PREPARED BY:
+    Composition at 288.2,298.2,313.2and 343.2 K
+    Hiroshi Miyamoto
+    EXPERIMENTAL VALUES:
+    Composition of saturated solutions
+    NaC103
+    Na2S04
+    Density
+    Nature of
+    t/°c
+    mass
+    mol
+    mass
+    mo1名
+    8m-3
+    the solid
+    (compiler)
+    (compiler)
+    phasea
+    15
+    0.00
+    0.00
+    11.60
+    1.637
+    1.106
+    19.86
+    4.272
+    5.52
+    0.890
+    1.200
+    合
+    34.75
+    8.702
+    4.06
+    0.762
+    1.323
+    n
+    36.89
+    9.499
+    4.15
+    0.801
+    1.348
+    39.37
+    10.45
+    4.02
+    0.799
+    1.372
+    n
+    41.16
+    11.17
+    3.92
+    0.797
+    43.07
+    11.99
+    3.89
+    0.811
+    43.67
+    12.25
+    3.90
+    0.820
+    41.14
+    11.18
+    4.03
+    0.820
+    1.422
+    44.10
+    12.48
+    4.09
+    0.868
+    1.422
+    AIC
+    44.12
+    12.49
+    4.06
+    0.861
+    1.422
+    2
+    35.93
+    9.750
+    8.91
+    1.81
+    1.393
+    (m)
+    38.37
+    10.62
+    7.98
+    1.66
+    1.408
+    41.77
+    11.86
+    6.52
+    1.39
+    B(m)+C(m)
+    41.92
+    11.90
+    6.36
+    1.35
+    1.424
+    41.85
+    11.88
+    6.44
+    1.37
+    1.424
+    42.66
+    12.10
+    5.59
+    1.19
+    C(m)
+    44.34
+    12.55
+    3.83
+    0.812
+    1.422
+    45.86
+    12.94
+    2.19
+    0.463
+    1.423
+    47.91b
+    13.47
+    0.00
+    0.00
+    1.406
+    continued.....
+    AUXILIARYINFORMATION
+    METHOD/APPARATUS/PROCEDURE:
+    Weighed complexes of known composition were
+    Nothing speci
+    ed.
+    equilibrated by stirrring in a large waterbath.The time required for attainment ofequilibrium was determined by analysis,andrequired several weeks.The order of mix-ing of the components,and the process ofseeding or inoculations for required phaseshad to be varied in accordance with thephase sought.
+    Chlorate was determined by the method of
+    Peters and Deutshlander (1):to the chloratesample (containing about 0.11g of C103)was added a definite volume (50 cm3)of 0.05
+    ESTIMATED ERROR:
+    mol dm-3 arsenious oxide solution;afterthe addition of a trace of KBr,the solution
+    Soly:nothing specified.
+    was acidified strongly with HCl and boiled
+    Temp:precision+0.02 K.
+    for ten minutes.The excess arseniousoxide was then titrated by means of 0.033mol dm-3 KBr03 solution using indigo sul-
+    I..:Yuran,Vowetic
+    fonic acid as an indicator.
+    Analysis voe 2,1929,John wiely and
+    Sons,New York,p.465.
+
+==========第21页==========
+    Sodium Chlorate
+    45
+    COMPONENTS:
+    (1)Sodium sulfate;Na2S04;[7757-82-6]
+    oR ce,nte,N.5.Ricci,
+    (2)Sodium chlorate;NaC103;[7775-09-9]
+    J.Am.Chem.S0c.1937,59,491-5.
+    (3)Water;H20;[7732-18-5]
+    EXPERIMENTAL VALUES (Continued)
+    Composition of saturated solutions
+    NaC103
+    Na2S04
+    Density
+    Nature of
+    mass
+    mol
+    mass
+    mol
+    8 cm-3
+    the solid
+    (compiler)
+    (compiler)
+    phasea
+    0.00
+    0.00
+    21.78
+    3.411
+    A
+    6.58
+    1.42
+    18.20
+    2.935
+    12.30
+    2.739
+    15.77
+    2.631
+    18.05
+    4.192
+    13.90
+    2.419
+    23.45
+    5.712
+    12.64
+    2.307
+    n
+    27.36
+    6.938
+    12.06
+    2.292
+    28.92
+    7.494
+    12,21
+    2,371
+    A+B
+    28.87
+    7.459
+    12.03
+    2.329
+    (Av)28.90
+    7.478
+    12.12
+    2.350
+    29.29
+    7.628
+    12.23
+    2.387
+    29.52
+    7.708
+    12.20
+    2.387
+    A
+    29.90
+    7.850
+    12.25
+    2.410
+    A(m)+E(m)
+    29.89
+    7.849
+    12.27
+    2.414
+    29.90
+    7.851
+    12.26
+    2.412
+    0.00
+    0.000
+    33.97
+    6.125
+    B(m)
+    6.03
+    1.46
+    28.62
+    5.186
+    17.09
+    4.227
+    19.89
+    3.686
+    28.02
+    7.209
+    12.53
+    2,416
+    32.47
+    8.531
+    9.86
+    1.94
+    38.07
+    10.38
+    7.21
+    1.47
+    B"
+    42.39
+    11.94
+    5.37
+    1.13
+    44.76
+    12.88
+    4.60
+    0.992
+    46.28
+    13.50
+    4.02
+    0.878
+    46.26
+    13.49
+    4.02
+    0.878
+    BE
+    46.40
+    13.55
+    3.99
+    0.873
+    (Av)46.31
+    13.51
+    4.01
+    0.877
+    AUXILIARYINFORMATION
+    continued.....
+    METHOD/APPARATUS/PROCEDURE:
+    SOURCE AND PURITY OF MATERIALS:
+    The total solid was determined by evapora-tion to dryness at 100c followed by heat-ing to 250C,and the sulfate was thencalculated by difference.
+    For the identification of known solidphases,microscopic examination andalgebraic extrapolation of tie-lines suf-ficed.
+    The densities reported for some saturatedsolutions were obtained by means of volu-metric pipets calibrated for delivery.
+    ESTIMATED ERROR:
+    REFERENCES:
+
+==========第22页==========
+    46
+    Sodium Chlorate
+    COMPONENTS:
+    ORIGINAL MEASUREMENTS
+    (1)Sodium sulfate;Na2S0:[7757-82-6]
+    Ricci,J.E.;Yanick,N.S.
+    (2)
+    Sodium chlorate;NaC103;[7775-09-9]
+    J.m.Chem.Scc.1937,59,491-6.
+    (3)Water;H,0;[7732-18-5]
+    EXPERTMENTALVALUES
+    (Continued)
+    Composition of saturated solutions
+    t/°C
+    NaC103
+    Na2S04
+    Density
+    Nature of
+    mass
+    mol
+    mass
+    mol
+    8 cm-3
+    the solid
+    (compiler)
+    (compiler)
+    Dhasea
+    25
+    25.26
+    6.548
+    15.72
+    3.054
+    27.00
+    7.062
+    14.73
+    2.887
+    a
+    30.80
+    8.142
+    11.90
+    2.358
+    31.65
+    8.397
+    11.35
+    2.257
+    32.71
+    8.715
+    10.65
+    2.126
+    33.85
+    9.064
+    9.93
+    1.993
+    34.36
+    9,221
+    9.61
+    1.933
+    36.08
+    9.762
+    8.56
+    1.736
+    37.31
+    10.17
+    7.91
+    1.62
+    39.75
+    11.01
+    6.70
+    1.39
+    41,19
+    11.51
+    5.99
+    1.25
+    4,10
+    12.61
+    4.76
+    1.02
+    44.55
+    12.
+    4.75
+    1.02
+    657
+    1360
+    3.83
+    0.838
+    E+C
+    46.63
+    13.64
+    3.89
+    0.853
+    46.68
+    13.65
+    3.83
+    0.839
+    46.62
+    13.63
+    3.87
+    0.848
+    46.63
+    13.64
+    3.88
+    0.850
+    B(m)+C(m)
+    46.64
+    13.64
+    3.85
+    0.843
+    46.64
+    13.64
+    3.86
+    0.846
+    47.62
+    13.90
+    2.80
+    0.612
+    50.14b
+    14.54
+    0.00
+    0.000
+    45
+    0.00
+    0.00
+    32.08
+    5.652
+    B
+    17.88
+    4.333
+    17.52
+    3.181
+    31.36
+    8.034
+    9.03
+    1.73
+    36.
+    9.553
+    6.87
+    1.36
+    37.97
+    10.18
+    6.09
+    1.22
+    41.84
+    11.57
+    4.61
+    0.955
+    45.88
+    13.21
+    3.55
+    0.766
+    48.64
+    14.41
+    2.80
+    0.621
+    4976
+    14.92
+    2.53
+    0.568
+    B+E
+    49.66
+    14.88
+    2.60
+    0.584
+    49.71
+    14.90
+    2.57
+    0.577
+    51.46
+    15.79
+    2.38
+    0.547
+    B(m)
+    20.10
+    5.078
+    18.68
+    3.537
+    28.23
+    7.295
+    12.66
+    2.452
+    5(m)
+    33.73
+    8.919
+    9.13
+    1.81
+    3767
+    10.19
+    7.00
+    1.42
+    40.
+    11.04
+    5.85
+    1.21
+    43.56
+    12.30
+    4.45
+    0.942
+    46.18
+    13.36
+    .57
+    0.774
+    49.48
+    14.81
+    267
+    0.599
+    50.22
+    15.13
+    0
+    0.542
+    E
+    51.79
+    15.922
+    ,21
+    0.509
+    52.57
+    16.29
+    .97
+    0.458
+    53.16
+    16.58
+    1.80
+    0.421
+    E+C
+    53.02
+    16.51
+    1.85
+    0.432
+    53.12
+    16.53
+    1.70
+    0.396
+    53.10
+    16.54
+    1.77
+    0.413
+    54.59b
+    16.91
+    0.00
+    0.000
+
+==========第23页==========
+    Sodium Chlorate
+    47
+    COMPONENTS:
+    ORIGINAL MEASUREMENTS
+    (1)Sodium sulfate:Na2S04;[7757-82-6]
+    Ricci,J.F.;Yanick,N.S.
+    (2)Sodium chlorate;NaC103 [7775-09-9]
+    J.Am.Chem.Scc.1937,59,491-6.
+    (3)Water;H20;[7732-18-5]
+    EXPERIMENTAL VALUES:(Continued)
+    Composition of saturated solutions
+    t/°C
+    NaC103
+    Na2S04
+    Density
+    Nature of
+    mass
+    l
+    mass
+    mol
+    8 cm-3
+    the solid
+    (comDiler)
+    (compiler)
+    phasea
+    75
+    0.00
+    0.00
+    30.33
+    5.233
+    6.26
+    1.447
+    24.70
+    4.278
+    27.19
+    6.749
+    10.56
+    1.964
+    T
+    35.05
+    9.144
+    6.88
+    1.35
+    45.51
+    12.97
+    3.19
+    0.681
+    50.00
+    15.01
+    2.39
+    0.538
+    51.85
+    15.93
+    2.09
+    0.481
+    53.63
+    16.88
+    1.92
+    0.453
+    54.59
+    17.39
+    1.73
+    0.413
+    %
+    578
+    18.05
+    1.57
+    0.381
+    B+E
+    55.62
+    17.94
+    1.51
+    0.365
+    路71
+    18.01
+    1.49
+    0.361
+    18.00
+    1.52
+    0.368
+    57.81
+    19.35
+    1.61
+    0.404
+    B(m)
+    41.42
+    11.47
+    5.11
+    1.06
+    4.50
+    E(m）
+    42.98
+    12.05
+    0.946
+    46.82
+    13.60
+    3.27
+    0.712
+    49.91
+    14.99
+    2.51
+    0.565
+    51.15
+    15.59
+    2.28
+    0.521
+    52.84
+    16.44
+    1.94
+    0.452
+    53.20
+    1665
+    1.99
+    0.457
+    54.90
+    17.60
+    1.84
+    0.442
+    56.25
+    18.36
+    1.62
+    0.396
+    它
+    57.26
+    18.89
+    1.30
+    0.321
+    58.34
+    19.62
+    1.37
+    0.345
+    n
+    59.79
+    20.48
+    1.05
+    0.270
+    60.10
+    20.73
+    1.14
+    0.295
+    60.56
+    21.02
+    1.05
+    0.273
+    E+C
+    60.80
+    21.14
+    0.93
+    0.242
+    60.73
+    21.12
+    1.00
+    0.261
+    61.40b
+    21.21
+    0.00
+    0.000
+    C
+    aA=Na2S04.10H20;
+    B Na2S04;
+    C NaC103;
+    E double salt,NaC103.3Na2S04
+    m metastable
+    0For the binary system the compiler computes the following:
+    soly of NaC103-8.641 mol kg1 at 15c
+    =9.448mo1kg1at25°c
+    =11.29m01kg1at45c=14.94m01kg-1at75°C
+
+==========第24页==========
+    48
+    Sodium Chlorate
+    COMPONENTS
+    ORIGINAL MEASUREMENTS
+    (1)Sodium sulfate;Na2S04;[7757-82-6]
+    Ricci,J.E.;Yanick,N.S.
+    (2)
+    Sodium chlorate;NaC103;[7775-09-9]
+    J.Am.Chem.S0c.1937,59,491-6.
+    (3)Water;H20;[7732-18-5]
+    COMMENTS AND/OR ADDITIONAL DATA:(Continued)
+    The phase diagrams are given below (based on mass units)
+    Na2S0410H20
+    Na2S0410H2°
+    心
+    DS
+    NaC103
+    Na2SO4
+    NaC103
+    15°C Isotherm
+    25°C Isotherm
+    H20
+    H20
+    DS
+    NaC103
+    NaC103
+    Na2504
+    45°C Isotherm
+    75°C Isotherm
+
+==========第25页==========
+    Sodium Chlorate
+    49
+    COMPONENTS:
+    ORIGINAL MEASUREMENTS:
+    (1)Sodium sulfate;Na2S04;[7757-82-6]
+    Windmaisser,F.;Stockl,F.
+    (2)Sodium chlorate;NaC103;[7775-09-9]
+    Monatsh.Chem.1951,82,287-94.
+    (3)Water;H20;[7732-18-5]
+    VARIABLES:
+    PREPARED BY:
+    Composition at 291 K
+    Hiroshi Miyamoto
+    EXPERIMENTAL VALUES:
+    Composition of saturated solutions
+    Sodium Chlorate
+    Sodium Sulfate
+    Nature of
+    mass
+    mol
+    mass
+    mol
+    the solid
+    (compiler)
+    (compiler)
+    phasea
+    14.04
+    2.030
+    9.49
+    1.92
+    9.91
+    1.51
+    A
+    14.77
+    3.097
+    8.04
+    1.26
+    IT
+    20.96
+    4.628
+    6.79
+    1.12
+    25.31
+    5.819
+    6.14
+    1.06
+    29.97
+    7.231
+    5.67
+    1.03
+    34.80
+    8.885
+    5.50
+    1.05
+    40.00
+    10.93
+    5.54
+    1.13
+    39.90
+    10.89
+    5.57
+    1.14
+    42.71
+    12.12
+    5.56
+    1.18
+    43.14
+    12.33
+    5.68
+    1.22
+    A+B
+    44.60
+    12.94
+    5.28
+    1.15
+    B+C
+    44.09
+    12.78
+    5.71
+    1.24
+    A(m)
+    46.88
+    13.40
+    2.12
+    0.454
+    48.86b
+    13.92
+    aA=Na2S04.10H20;
+    B Na2S04;
+    C =NaC103;
+    m metastable.
+    For the binary system the compiler computes the following:
+    soly of NaC103 =8.976 mol kg-1
+    AUXILIARY INFORMATION
+    METHOD/APPARATUS/PROCEDURE:
+    SOURCE AND PURITY OF MATERIALS:
+    Complexes of salts and water placed in a
+    No information was given in the paper.
+    Jena glass bottle.The bottles were shakenin a thermostat for 24 hours.
+    The liquid and solid phases were separatedby filtration.
+    Barium chloride was added to the samplesolution containing the sulfate to precipi-tate barium sulfate.
+    The chlorate content was determined iodo-metrically by the method of Dietz (ref 1).
+    ESTIMATED ERROR:
+    Soly:nothing specified.
+    Temp:precision+0.1 K.
+    REFERENCES
+    1.Dietz,H.Chem.Ztg.1901,727.
+    AMH-C*
+
+==========第26页==========
+    50
+    Sodium Chlorate
+    COMPONENTS
+    ORIGINAL MEASUREMENTS:
+    (1)Sodium fluoride;NaF;[7681-49-4]
+    Vlasov,G.A.;Shishkina,L.A.
+    (2)Sodium chlorate;NaC103;[7775-09-9]
+    Zh.Neo九g.Khim.1977,22,2309-11;
+    Russ.J.Inong.Chem.(Enge.Transe.)
+    (3)Water;H20;[7732-18-5]
+    1977,22,1250-1.
+    VARIABLES:
+    PREPARED BY:
+    Composition at 298 K
+    Hiroshi Miyamoto
+    EXPERIMENTAL VALUES:
+    Composition of saturated solutions at 25C
+    Sodium Fluoride
+    Sodium Chlorate
+    mol kg-1
+    Nature of
+    mass%
+    mol
+    mol kg-1
+    mass
+    mol the solid
+    (compiler)
+    (compiler)phasea
+    0.928
+    3.75
+    1.64
+    0
+    0
+    0
+    0.855
+    3.38
+    1.51
+    0.248
+    2.49
+    0.439
+    0.744
+    2.88
+    1.31
+    0.507
+    4.98
+    0.895
+    0.692
+    2.62
+    1.22
+    0.756
+    7.26
+    1.33
+    n
+    0.569
+    2.11
+    0.998
+    1.030
+    9.68
+    1.81
+    0.446
+    1.56
+    0.773
+    1.606
+    15.11
+    2.955
+    0.351
+    1.17
+    0.603
+    2.290
+    19.38
+    3.941
+    0.303
+    0.95
+    0.51
+    3.072
+    24.42
+    5.220
+    %
+    0.235
+    0.70
+    0.40
+    3.767
+    28.43
+    6.333
+    n
+    0.133
+    0.33
+    0.21
+    6.421
+    40.48
+    10.35
+    0.088
+    0.19
+    0.14
+    8.929
+    48.65
+    13.84
+    A+B
+    0
+    0
+    0
+    9.352
+    49.90
+    14.43
+    a A-NaF;
+    B =NaC103
+    AUXILIARY INFORMATION
+    METHOD /APPARATUS /PROCEDURE
+    SOURCE AND PURITY OF MATERIALS:
+    Mixtures of sodium fluoride,sodium chlorate,"Analytically pure"grade Naci03,highlyand water were kept for one month at room
+    pure grade NaF,and C02-free distilled
+    temperature in tightly closed polyethylene
+    water were used.
+    flasks,and then placed in a thermostatat 25C.The mixtures were stirred usingmagnetic stirring.Equilibrium was estab-lished after 6-8 hours in the thermostat.
+    The chlorate content was determined by ad-ding excess Fe2+and back-titrating withpermanganate.Fluoride was determined bythe zirconium alizarin photocolorimetricmethod.The water content was found bydifference.
+    ESTIMATED ERROR:
+    Soly:nothing specified.
+    Temp:precision 0.5 K.
+    REFERENCES:
+
+==========第27页==========
+    Sodium Chlorate
+    51
+    COMPONENTS:
+    ORIGINAL MEASUREMENTS:
+    (1)Sodium chloride;Nacl;[7647-14-5]
+    Winteler,F.
+    (2)Sodium chlorate;NaC103;[7775-09-9]
+    Z.EEectrochem.1900,2,360-2.
+    (3)Water;H20;【7732-18-5]
+    VARIABLES
+    PREPARED BY:
+    T/K=293
+    Hiroshi Miyamoto and Mark Salomon
+    Concentration of NaCl
+    EXPERIMENTAL VALUES:
+    Composition of saturated solutionsa
+    conc NaCl
+    soly NaC103
+    g dm-3c1/mol dm-3
+    g dn-3
+    c2/mol dm-3
+    Densityg cm
+    0.09
+    668
+    6.28
+    1.426
+    10
+    0.17
+    661
+    6.21
+    1.424
+    0.26
+    653
+    6.13
+    1.423
+    20
+    0.34
+    645
+    6.06
+    1.421
+    0.43
+    638
+    5.99
+    1.419
+    3050
+    0.51
+    630
+    5.92
+    1.418
+    0.60
+    622
+    5.84
+    1.417
+    0.68
+    615
+    5.78
+    1.415
+    5
+    0.77
+    607
+    5.70
+    1.414
+    0.86
+    599
+    563
+    1.412
+    0.94
+    590
+    5.54
+    1.411
+    8
+    1.0
+    582
+    5.47
+    1.409
+    1.1
+    574
+    5.39
+    1.408
+    1.2
+    566
+    5.32
+    1.406
+    7
+    1.3
+    559
+    25
+    1.405
+    0
+    1.4
+    551
+    ,1
+    1.404
+    5知50
+    1.
+    544
+    5
+    1.402
+    537
+    .05
+    1.401
+    1.
+    529
+    4.97
+    1.399
+    1.71
+    522
+    4.90
+    1.398
+    105
+    1.80
+    514
+    4.83
+    1.396
+    110
+    1.88
+    507
+    4.76
+    1.394
+    continued.....
+    AUXILIARY INFORMATION
+    METHOD /APPARATUS /PROCEDURE:
+    SOURCE AND PURITY OF MATERIALS:
+    Mixtures of salts and water were thermostated
+    No information was given.
+    at 20c for several days,and shaken frequently.Aliquots of the saturated solution wereacidified with nitric acid and then titratedwith silver nitrate using potassium chromateas an indicator.
+    The compiler assumes that the total saltconcentration of the solution was determinedgravimetrically,and the chlorate content wasdetermined by difference.
+    It appears that the Nacl concentrationsgiven in the above data table are initial
+    ESTIMATED ERROR:
+    concentrations (compilers).
+    Nothing specified.
+    REFERENCES
+
+==========第28页==========
+    265
+    会
+    882.
+    用
+    需
+    6母丹999吕8高其寸寸8的的86
+    m
+    0
+    25-0
+    0
+    B31073n1030353730030103Ts04i00EOIOEN KIOS
+    3
+    8日se6片
+    [s-71-L79L]TOeN OpTioty wnTpoS6 [so27nm05252t0t.】0/5-06-16-
+    Tow/5
+    8
+    好a8e
+    N
+    v
+    ET'S
+    3月
+    000
+    SIN3NOdWOO
+    3
+    时
+
+==========第29页==========
+    Sodium Chlorate
+    53
+    COMPONENTS:
+    ORIGINAL MEASUREMENTS:
+    (1)Sodium chlorate;Nac103;[7775-09-9]
+    Billiter,J.
+    (2)Sodium chloride;Nacl;[7647-14-5]
+    Monatsh.Cch2m.1920,41,287-95.
+    (3)Water;H,0;[7732-18-5]
+    VARIABLES:
+    PREPARED BY:
+    T/K=293to373
+    Hiroshi Miyamoto
+    Concentration of Nacl
+    EXPERIMENTAL VALUES:
+    concn NaCl
+    soly NaC103
+    t/°C
+    g/100cm3
+    c2/mol dm-3
+    g/100cm3
+    c1/mol dm-3
+    20
+    0
+    0
+    72.2
+    6.78
+    10
+    1.7
+    66
+    6.2
+    20
+    3.4
+    57.4
+    5.39
+    32
+    5.5
+    41.8
+    3.93
+    30
+    0
+    0
+    77
+    0.72
+    40
+    0
+    0
+    82
+    7.7
+    10
+    1.7
+    75
+    7.0
+    20
+    3.4
+    65
+    6.1
+    32
+    5.5
+    42
+    3.9
+    50
+    0
+    0
+    86.6
+    8.14
+    60
+    0
+    0
+    91.3
+    8.58
+    10
+    1.7
+    83.5
+    7.84
+    20
+    3.4
+    70
+    6.58
+    32
+    5.5
+    42.4
+    3.98
+    70
+    0
+    0
+    96
+    9.0
+    80
+    0
+    0
+    100.2
+    9.41
+    1.7
+    92
+    8.6
+    20
+    3.4
+    77
+    7.2
+    32
+    5.5
+    43.3
+    4.07
+    90
+    0
+    0
+    106
+    9.96
+    100
+    0
+    0
+    111
+    10.4
+    10
+    1.7
+    102
+    9.58
+    3.4
+    55
+    AUXILIARYINFORMATION
+    METHOD /APPARATUS /PROCEDURE:
+    SOURCE AND PURITY OF MATERIALS:
+    The apparatus is shown in Fig.1.
+    No information was given.
+    ESTIMATED ERROR:
+    The vessel "a"equipped with a stirrer wassunk in a thermostat and the mixture of
+    Nothing specified.
+    salts and water were placed in the vessel.
+    The saturated solution was filtered in areceiver "p"through a siphon-tube.The
+    REFERENCES:
+    aliquots of the saturated solution werewithdrawn with a pipet.
+    For determination of chlorate,the aliquotwas added to excess acidic FeS04 solutionand titrated with potassium permanganatesolution.
+
+==========第30页==========
+    54
+    Sodium Chlorate
+    COMPONENTS:
+    ORIGINAL MEASUREMENTS:
+    (1)Sodium chloride;NaCl;[7647-14-5]
+    Di Capua,C.;Scaletti,U.
+    (2)Sodium chlorate;NaC103;[7775-09-9]
+    Gazz.Chim.Itae.1927,27,391-9.
+    (3)Water;H20;[7732-18-5]
+    VARIABLES
+    PREPARED BY:
+    T/K=293
+    B.Scrosati and H.Miyamoto
+    EXPERIMENTAL VALUES:
+    Composition of saturated solutions at 20ca
+    mass
+    mol
+    mass
+    mol
+    (compiler)
+    (compiler)
+    0
+    0
+    49.56b
+    14.26
+    4
+    2
+    43
+    12
+    7.4
+    3.6
+    38
+    10
+    10
+    4.7
+    33.4
+    8.65
+    12.75
+    5.840
+    28.75
+    7.231
+    12.86
+    5.976
+    29.82
+    7.609
+    14.30
+    6.372
+    25.2
+    6.17
+    16.06
+    7.079
+    22.82
+    5.523
+    16.91
+    7.426
+    21.8
+    5.26
+    17.8
+    7.58
+    18.4
+    4.30
+    18.04
+    7.670
+    18.08
+    4.221
+    19.35
+    8.044
+    1
+    3.4
+    21
+    8.5
+    2.4
+    22.1
+    8,80
+    8.75
+    1.91
+    23.6
+    9.20
+    5.5
+    1.2
+    25
+    9.5
+    2.4
+    .50
+    26.80
+    10.14
+    0
+    0
+    Composition of solid phases not specified.
+    bFor the binary system the compiler computes the following:
+    Soly of NaC103 =9.231 mol kg-1.
+    AUXILIARY INFORMATION
+    METHOD/APPARATUS/PROCEDURE:
+    SOURCE AND PURITY OF MATERIALS:
+    Mixtures of salts and water were stirred in
+    No information given.
+    a thermostat for 7 days.Samples of satu-rated solution were removed with a pipetand weighed.The chlorate ion concentratiorwas determined by the Volhard method afterreduction to chloride with zinc and aceticacid.The sodium content was determined byprecipitation as the triple acetate ofsodium,urany1 and magnesium,according tothe method described by Kling and Lasieur(ref 1).
+    ESTIMATED ERROR:
+    Large error may be related to the methodused for the determ of sodium.The methodwas tested by the authors and errors rang-ing from +0.5 to -32 were found.
+    REFERENCES:
+    1.Kling and Lasieur.Giorn.Chim.Ind.
+    App呢icata1925,7.
+
+==========第31页==========
+    Sodium Chlorate
+    55
+    COMPONENTS
+    ORIGINAL MEASUREMENTS
+    (1)Sodium chloride;Nacl;[7647-14-5]
+    Nallet,A.;Paris,R.A.
+    (2)Sodium chlorate;Nac103;[7775-09-9]
+    Buee.Soc.Chim.Fn.1956,488-94.
+    (3)Water;H20;[7732-18-5]
+    VARIABLES:
+    PREPARED BY:
+    Composition
+    Hiroshi Miyamoto
+    T/K=246.90t0373
+    EXPERIMENTAL VALUES:
+    METHOD/APPARATUS/PROCEDURE
+    Mixtures of salts and water were placed inbottles and agitated in a thermostat for 2hours at 100C,and for 2 hours ormore at
+    aq
+    a lower temperature.
+    Equilibrium was approached from super-saturation.
+    The chloride ion concentration was determin-
+    aingeN
+    ed by a potentiometric method using silver美
+    生
+    0-8nitrate solution.After the determination ofthe chloride,the chlorate was reduced with
+    Mohr's salt in mineral acids,and the excess
+    Fe(II)titrated with potassium dichromatesolution.
+    E2T·T220.1
+    S3t8:16805.1
+    The sodium content was determined induplicate by flame photometry.
+    The nature of the solid phase was determinedby Schreinemakers'residues method.
+    The densities of the saturated solutions
+    31m
+    were also determined.
+    君52.6罩
+    H0oo
+    个
+    989
+    (Iaduo5)8.E26:22三
+    2213001c5
+    三三
+    8.521:EOTOBN
+    SOURCE AND PURITY OF MATERIALS:
+    Sodium chlorate was recrystallized twice anddried.The purity of the sodium chloratewas 99.9 %Sodium chloride was prepared
+    11m61.026.52.01
+    ☆品
+    by passing HC1 gas through sodium carbonate
+    三oioo co
+    solution.
+    02.61T.2B.12点
+    3h
+    unFPOS
+    (40174009
+    ESTIMATED ERROR:
+    161300c/3
+    10612
+    Soly:precision 0.5 %(compiler).
+    Temp:nothing specified.
+    6.82
+    2.52
+    芦'IOEN
+    REFERENCES:
+    二22.522.6-2.5m-
+    1
+    0T+00+学25+10+
+
+==========第32页==========
+    56
+    Sodium Chlorate
+    COMPONENTS
+    ORIGINAL MEASUREMENTS:
+    (1)Sodium chloride;Nacl;[7647-14-5]
+    Oey,T.S.;Koopman,D.E
+    (2)Sodium chlorate;Nac103 [7775-09-9]
+    J.Phy.Chem.1958,62,755-6.
+    (3)Water;H20;[7732-18-5]
+    VARIABLES:
+    PREPARED BY:
+    Composition
+    Hiroshi Miyamoto
+    T/K=298,308,318
+    EXPERIMENTAL VALUES:
+    Composition of saturated solutions
+    NaC103c
+    Naclc
+    Nature of the
+    t/°C
+    xa
+    wb
+    mol kg-1
+    mol kg-1
+    Sp.gr.
+    solid phased
+    25
+    0.0000
+    9.01
+    0.000
+    6.161
+    1.200
+    B
+    0.1593
+    8.18
+    1.081
+    5.705
+    1.240
+    0.2142
+    7.95
+    1.496
+    5.487
+    1.255
+    0.2696
+    7.64
+    1.959
+    5,307
+    1.271
+    0.3867
+    7.01
+    3.062
+    4.856
+    1.309
+    0.4394
+    6.66
+    3.662
+    4.672
+    1.327
+    0.4722
+    6.57
+    3.990
+    4.459
+    1.340
+    0.6175
+    5.55
+    6.176
+    3.826
+    1.402
+    A+B
+    0.6940
+    5.75
+    6.700
+    2.954
+    1.408
+    A
+    0.7478
+    5.82
+    7.132
+    2.405
+    1.414
+    0.8362
+    5.79
+    8.017
+    1.570
+    1.423
+    0.9163
+    5.82
+    8.739
+    0.798
+    1.429
+    1.000
+    5.88
+    9.440
+    0.000
+    1.440
+    35
+    0.0000
+    8.96
+    0.000
+    6.195
+    1.201
+    B
+    0.0948
+    8.48
+    0.621
+    5.925
+    1.224
+    0.1808
+    8.03
+    1.250
+    5.663
+    1.246
+    0.2265
+    7.79
+    1.614
+    5.512
+    1.259
+    0.3333
+    7.22
+    2.562
+    5.126
+    1.289
+    0.4382
+    6.62
+    3.674
+    4.711
+    1.325
+    t
+    0.5932
+    5.67
+    5.807
+    3.983
+    1.388
+    0.6754
+    5.14
+    7.294
+    3.505
+    1.430
+    A+B
+    0.7060
+    5.18
+    7.565
+    3.150
+    1.433
+    0.8133
+    5.26
+    8.583
+    1.970
+    1.444
+    合
+    08659
+    5.29
+    9.086
+    1.407
+    1.451
+    AUXILIARYINFORMATION
+    continued.,,·
+    METHOD /APPARATUS /PROCEDURE
+    SOURCE AND PURITY OF MATERIALS:
+    Original method described in (1).
+    Mixtures
+    "Analytical reagent"grade sodium chlorate
+    of known composition were prepared from the
+    and chloride were used.The impurities
+    solid salts and distilled water in Pyrex
+    in this grade were deemed much too small
+    solubility tubes,and were equilibrated by
+    to affect the solubility determinations.
+    rotation in a large thermostated water-bath
+    Distilled water was used in all of the
+    at various temperatures for periods of 120
+    experiments.
+    hours or longer.
+    The liquid sample was passed through a glasswool filter without taking the solubilitytube or the filter out of the thermostatedwater-bath.Aliquots of saturated solutionwere withdrawn with a calibrated pipet hav-ing small stopcocks at each end.Proceduresfor the analysis of chlorate,chloride and
+    ESTIMATED ERROR:
+    alkali were as described in ref (2).The
+    Soly:nothing specified,
+    Temp:precision 0.1 K.
+    water content was determined by difference
+    The nature of solid phases was determinedby the Schreinemakers'wet residue method.
+    REFERENCES
+    1,Cunningham,G.L.;Oey,T.S.:J.Am.Chem.Soc1955,77,799.
+    2.hite,J.F.Am,Dyestuk{Repo九te九1942,31,484.
+
+==========第33页==========
+    Sodium Chlorate
+    57
+    COMPONENTS
+    ORIGINAL MEASUREMENTS
+    (1)
+    Sodium chloride;NaCl;[7647-14-5]
+    Oey,T.S.;Koopman,D.E.
+    (2)
+    Sodium chlorate;NaC103;[7775-09-9]
+    J.Phy.Chem.1958,62,755-6.
+    (3)Water;H20;[7732-18-5]
+    EXPERIMENTAL VALUES
+    (Continued)
+    Composition of saturated solutions
+    NaC102c
+    Naclc
+    Nature of the
+    t/°C
+    xa
+    wB
+    mol kg-1
+    mol kg-1
+    Sp.Gr.
+    solid phased
+    35
+    0.8942
+    5.31
+    9.348
+    1.106
+    1.453
+    1.000
+    5.35
+    10.38
+    0.000
+    1.467
+    45
+    0.0000
+    8.82
+    0.0000
+    6.294
+    1.201
+    0.1042
+    8.29
+    0.6977
+    5.998
+    1.226
+    0.1560
+    8.04
+    1.077
+    5.827
+    1.240
+    0.2600
+    7.50
+    1.924
+    5.477
+    1.267
+    0.3917
+    6.81
+    3.193
+    4.958
+    1.308
+    0.4702
+    6.39
+    4.084
+    4.602
+    1.336
+    0.6158
+    5.47
+    6.249
+    3.899
+    1.398
+    0.7228
+    4.75
+    8.447
+    3.239
+    1.458
+    0.7562
+    4.69
+    8.950
+    2.886
+    1.462
+    A+B
+    0.8723
+    4.90
+    9.882
+    1.447
+    1.476
+    0.906
+    1.481
+    A
+    0.9202
+    4.89
+    10.45
+    1.0000
+    4.90
+    11.33
+    0.000
+    1.491
+    a The x function is the moles of sodium chlorate divided by the sum of the moles ofsodium chlorate and the moles of sodium chloride.
+    The w function is the moles of water divided by the sum of the moles of sodium chlorateand the moles of sodium chloride.
+    c Molalities calculated by the compiler.d A -NaC103i
+    B NaCl
+    25c
+    35°c
+    NaC103
+    NaCl
+    NaC103NaCl
+    09
+    NaCl
+    NaC103
+    45c
+
+==========第34页==========
+    58
+    Sodium Chlorate
+    COMPONENTS:
+    ORIGINAL MEASUREMENTS:
+    (1)Sodium chloride;Nacl;[7647-14-5]
+    Arkhipov,S.M.;Kashina,N.I.;Kuzina,V.A.
+    (2)Sodium chlorate;NaC103;[7775-09-9]
+    Zh.N2o九g.Khim.1968,13,2872-6;
+    R5.J.Inong.Chem.(Enge.Tnans2.)
+    (3)Water;H0;[7732-18-5]
+    1968,13,1476-9.
+    VARIABLES:
+    PREPARED BY:
+    Composition at 298.2 K
+    Hiroshi Miyamoto
+    EXPERIMENTAL VALUES:
+    Compositionof saturated solutions
+    Sodium Chloride
+    Sodium Chlorate
+    Nature of the
+    mass
+    mol
+    mass
+    mol
+    solid phasea
+    (compiler)
+    (compiler)
+    26.56
+    10.03
+    It
+    23.80
+    9.313
+    5.73
+    1.23
+    22.09
+    8.966
+    10.56
+    2.353
+    18.51
+    7.862
+    17.60
+    4.104
+    16.19
+    7.274
+    24.30
+    5.994
+    12.43
+    5.980
+    32.90
+    8.691
+    11.82
+    5.794
+    34.83
+    9.374
+    11.90
+    5.844
+    34.91
+    9.413
+    AB
+    11.01
+    5.436
+    36.05
+    9.772
+    7.73
+    3.85
+    39.50
+    10.81
+    5.24
+    2.68
+    43.40
+    12.18
+    2.13
+    1.10
+    47.04
+    13.39
+    50.29b
+    14.62
+    aA=NaCl;
+    B =NaC103
+    b For the binary system the compiler computes the following:
+    soly of NaC103 =9.504 mo1 kg-1
+    AUXILIARYINFORMATION
+    METHOD/APPARATUS/PROCEDURE:
+    SOURCE AND PURITY OF MATERIALS:
+    The isothermal method was used.Equili-
+    Sodium chlorate and chioride had a purity
+    brium was reached in 30 hours.Samples of
+    of 99,9 or better.
+    the solid and liquid phases were analyzed.
+    ESTIMATED ERROR:
+    Chlorate was found by adding an excess of
+    Soly:nothing specified.
+    iron(II)sulfate to an aliquot of saturatedsolution and back-titrating with potassium
+    Temp:precision+0.1 K.
+    permanganate.Chloride was determined
+    COMMENTS AND/OR ADDITIONAL DATA:
+    argentometrically.Sodium was determined
+    The phase diagram is given below (based on
+    by difference.The solid phases were
+    mass units).
+    identified by the method of residues and by
+    100,Naci
+    X-ray diffraction.
+    80
+    60
+    90
+    20
+    20406080100
+    NaC103
+
+==========第35页==========
+    Sodium Chlorate
+    59
+    COMPONENTS
+    ORIGINAL MEASUREMENTS:
+    (1)Sodium chlorite;NaC102;[7758-19-2]
+    Cunningham,G.L.;Oey,T.S.
+    (2)Sodium chlorate;Nac103;[7775-09-9]
+    J.m.Ch2m.Soc.1955,77,4498-9.
+    (3)Water;H20;[7732-18-5]
+    VARIABLES:
+    PREPARED BY:
+    Composition
+    Hiroshi Miyamoto
+    T/K=288.2to318.2
+    EXPERIMENTAL VALUES:
+    Composition of saturated solutions
+    Molalitiesc
+    wb
+    NaC103-1
+    NaC102
+    t/c
+    xa
+    mol kg
+    o1kg-】
+    Nature of the
+    Sp.Gr.
+    solid phased
+    15
+    0.0000
+    8.18
+    0.000
+    6.786
+    1.327
+    0.1422
+    7.23
+    1.092
+    6.585
+    1.361
+    FI
+    0.2142
+    6.55
+    1.815
+    6.659
+    1.383
+    0.2537e
+    6.30
+    2.235
+    6.576
+    1.394
+    0.4066
+    5.12
+    4.408
+    6,433
+    1.457
+    0.4448
+    4.78
+    5.165
+    6.447
+    1.482
+    A+C
+    0.5063
+    4.78
+    5.880
+    5.733
+    1.483
+    0.5273
+    5.09
+    5.750
+    5.155
+    1.460
+    0.7051
+    5.55
+    7.052
+    2.949
+    1.439
+    %
+    0.8574
+    5.86
+    8.122
+    1.351
+    1.424
+    1.0000
+    6.49
+    8.553
+    0.000
+    1.409
+    25
+    0.0000
+    6.50
+    0.000
+    8.540
+    1.375
+    A
+    0.0426
+    6.22
+    0.3802
+    8.544
+    1.394
+    0.0598
+    5.98
+    0.5551
+    8.727
+    1.391
+    0.0788
+    5.97
+    0.7327
+    8.565
+    1.402
+    0.1374
+    5.58
+    1.367
+    8.581
+    1.421
+    0.1692
+    5.41
+    1.736
+    8.524
+    1.463
+    0.2351
+    4.88
+    2.674
+    8.701
+    1.461
+    0.2594
+    4.72
+    3.051
+    8.710
+    1.474
+    0.3241
+    4.22
+    4.263
+    8.891
+    1.508
+    0.3652
+    3,86
+    3.252
+    9.129
+    1.535
+    A+C
+    continued..
+    AUXILIARYINFORMATION
+    METHOD/APPARATUS/PROCEDURE:
+    SOURCE AND PURITY OF MATERIALS:
+    Method similar to that described in (1)
+    C.p.grade sodium chlorate was used.Tech-
+    where mixtures of known composition were prenical grade sodium chlorite (Mathiesonpared from the solid salts and distilled
+    Chemical Co.)was recrystallized three
+    water in Pyrex solubility tubes.The mix-
+    times from distilled water as the trihydrate
+    tures were equilibrated by rotation in a
+    and then stored in a cool place in amber
+    large thermostated water-bath at various
+    bottles.Anal.Found:NaC102,58.50 %
+    temperatures for periods of 120 hours or
+    NaC1,0.00 %NaC103,0.00 %alkalinity
+    longer.The liquid sample was passed
+    as Na20,0.06 %water by difference,41.44
+    through a glass wool filter without taking
+    %Distilled water was used.
+    the solubility tube or the filter out ofthe thermostated water-bath.Aliquots ofsaturated solution were withdrawn with acalibrated pipet having small stopcocks at
+    ESTIMATED ERROR:
+    each end.Procedures for the analysis ofchlorite,chlorate and alkali were described
+    Soly:nothing specified.
+    Temp:precision+0.1 K (authors).
+    in ref (2).The water content was deter-mined by difference.The nature of solidphases was determined by the Schreinemakers'wet residue method.
+    REFERENCES:
+    1.Cunningham,G.L.;Oey,T.S.
+    J.Am.Chem.Soc.1955,77,799
+    2.White,J.F.Am Dyestu Reporten1942,31,484.
+
+==========第36页==========
+    60
+    Sodium Chlorate
+    COMPONENTS:
+    (1)
+    Sodium chlorite;NaC102;[7758-19-2]
+    ORIGINAL MEASUREMENTS
+    Cunningham,G.L.;Oey,T.S.
+    (2)Sodium chlorate;NaC103;[7775-09-9]
+    J.Am.Chem.Soc.1955,77,4498-9.
+    (3)Water;H20;[7732-18-5]
+    EXPERIMENTAL VALUES
+    (Continued)
+    Composition of saturated solutions
+    Molalitiesco8g-1
+    NaC102
+    t/°c
+    xa
+    w8
+    mol kg-1
+    Sp.Gr.
+    solid phased
+    25
+    0.3941
+    4.22
+    5.184
+    7.970
+    1.520
+    C
+    0.5004
+    4.56
+    6.091
+    6.092
+    1.498
+    0.6278
+    4.87
+    7.156
+    4.242
+    1.472
+    0.7269
+    5.07
+    7.958
+    2.990
+    1.461
+    0.8053
+    5.24
+    8.531
+    2.063
+    1.456
+    0.8486
+    5.30
+    8.888
+    1.586
+    1.450
+    0.9046
+    5.50
+    9.130
+    0.963
+    1.446
+    1.0000
+    5.88
+    9.440
+    0.000
+    1.444
+    35
+    0.0000
+    4.95
+    0.000
+    11.21
+    1.406
+    0.0464
+    4.54
+    0.567
+    11.66
+    1.478
+    0.1202d
+    4.06
+    1.643
+    12.03
+    1.515
+    0.2276
+    3.56
+    3.549
+    12.05
+    1.563
+    0.2918
+    3.42
+    4.736
+    11.49
+    1.571
+    0.3177
+    3.15
+    5.598
+    12.02
+    1.595
+    A+C
+    0.3171
+    3.13
+    5.624
+    12.11
+    1.595
+    0.4475
+    3.82
+    6.503
+    8.028
+    1.540
+    0.5411
+    4.17
+    7.203
+    6.109
+    1.516
+    0.7103
+    4.55
+    8.665
+    3.534
+    1.490
+    0.8657
+    4.89
+    9.827
+    1.525
+    1.473
+    1.0000
+    5.06
+    10.97
+    0.000
+    1.467
+    45
+    0.0000
+    4.28
+    0.000
+    12.97
+    1.501
+    B
+    0.1482
+    3.64
+    2.260
+    12.99
+    1.543
+    0.2550
+    3.25
+    4.355
+    12.72
+    1.586
+    0.3524
+    2.85
+    6.864
+    12.61
+    1.621
+    B+C
+    0.4112
+    3.16
+    7.223
+    10.34
+    1.590
+    C
+    0.5141
+    3.54
+    8.061
+    7.619
+    1.558
+    0.6397
+    3.97
+    8.944
+    5.038
+    1.529
+    0.7745
+    4.18
+    10.29
+    2.995
+    1.510
+    1.0000
+    4.41
+    12.59
+    0.000
+    a The x function is the moles of sodium chlorate divided by the sum of themoles ofsodium chlorate and the moles of sodium chlorite.
+    bThe w function is the moles of water divided by the sum of the moles of sodium chlorateand the moles of sodium chlorite.
+    c Molalities calculated by the compiler.dA=NaC102.3H20;B =NaC102;
+    C NaC103.
+    e The solubility tube put in a water-bath for 5 and 10 days.
+
+==========第37页==========
+    Sodium Chlorate
+    61
+    COMPONENTS:
+    ORIGINAL MEASUREMENTS:
+    (1)Sodium chlorate;NaC103;[7775-09-9]
+    Ricci,J.E.
+    (2)Sodium bromide;NaBr;[7647-15-6]
+    J.Am.Chem.Soc.1944,66,1015-6.
+    (3)Water;H20;[7732-18-5]
+    VARIABLES
+    PREPARED BY:
+    Composition at 298.15 K
+    Hiroshi Miyamoto
+    EXPERIMENTAL VALUES:
+    Composition of saturated solutions
+    NaC103
+    NaBr
+    Nature of the
+    mass
+    mol
+    mass
+    mol
+    solid phasea
+    (compiler)
+    (compiler)
+    50.10b
+    14.52
+    0
+    0
+    A
+    37.93
+    10.94
+    11.86
+    3.537
+    29.54
+    8.566
+    20.72
+    6.215
+    20.87
+    6.165
+    30.75
+    9.397
+    16.29
+    4.912
+    36.77
+    11.47
+    15.37
+    4.662
+    38.10
+    11.95
+    13.87c
+    4.251
+    40.32
+    12.78
+    A+B
+    13.89
+    4.256
+    40.28
+    12.77
+    13.97
+    4.280
+    40.18
+    12.73
+    0
+    13.85
+    4.247
+    40.36
+    12.80
+    14.03
+    4.297
+    40.11
+    12.71
+    13.98
+    4.283
+    40.18
+    12.74
+    (Av)13.89
+    4.256
+    40.28
+    12.77
+    12.38
+    3.758
+    41.16
+    12.92
+    8.07
+    2.387
+    43.74
+    B
+    13.39
+    7.22
+    2.126
+    44.28
+    13.49
+    0
+    0
+    48.49
+    14.15
+    aA NaC103;
+    B NaBr.2H20
+    bFor the binary system the compiler computes the following:
+    soly of NaC103 9.433 mol kg-1
+    Isothermally invariant solution saturated with two salts,the density of thesolution 1.583 g cm-3.
+    AUXILIARY INFORMATION
+    METHOD/APPARATUS/PROCEDURE:
+    SOURCE AND PURITY OF MATERIALS:
+    Complexes were stirred for at least two days
+    C.p.grade NaCl03 and NaBr were used with-
+    at 25C.Equilibrium was established in
+    out further purification.
+    several instances by constancy of composi-tion upon repeated analysis.
+    The analysis of the saturated aqueous solu-tion involved argentometric titration ofthe chloride with eosin as adsorption indi-cator,determination of water in a separatesample by evaporation,and calculation ofthe sodium chlorate by difference.A fewof the chloride determinations for theisothermally invariant points were verifiedby the Volhard method.
+    ESTIMATED ERROR:
+    The solubilities of the individual saltswere determined both volumetrically and by
+    Soly:nothing specified.
+    evaporation,with very close agreement
+    Temp:precision 0.05 K.
+    between the two methods.
+    REFERENCES:
+
+==========第38页==========
+    62
+    Sodium Chlorate
+    COMPONENTS:
+    ORIGINAL MEASUREMENTS:
+    (1)Sodium chlorate;Nac103;[7775-09-9]
+    Swenson,T.;Ricci,J.E.
+    (2)Sodium bromate;NaBr03;[7789-38-0]
+    J.Am.Chem.Soc.1939,61,1974-7.
+    (3)Water;H20;[7732-18-5]
+    VARIABLES
+    PREPARED BY:
+    Composition at 298 and 323 K
+    Hiroshi Miyamoto
+    EXPERIMENTAL VALUES:
+    Composition of saturated solutions
+    NaBr03
+    NaC103
+    Nature of
+    t/°C
+    mass
+    mol
+    mass
+    mol
+    the solid
+    (compiler)
+    (compiler)
+    phasea
+    25
+    28.29b
+    4.498
+    0
+    0
+    及
+    16.46
+    2.816
+    18.91
+    4.586
+    13.96
+    2.466
+    24.21
+    6.062
+    12.20
+    2.208
+    28.03
+    7.191
+    8.68
+    1.68
+    36,75
+    10.06
+    7.14
+    1.43
+    40.98
+    11.62
+    7.00
+    1.41
+    41.47
+    11.82
+    SSI
+    6.54
+    1.33
+    42.62
+    12,26
+    5.99
+    1.22
+    43.66
+    12.64
+    10
+    6.05
+    1.24
+    43.55
+    12.60
+    SSI+SSII
+    5.33
+    1.09
+    44.64
+    12.98
+    SSII
+    5.07
+    1.04
+    44.98
+    13.09
+    4.49
+    0.922
+    45.66
+    13.30
+    3.79
+    0.779
+    46.46
+    13.54
+    n
+    3.69
+    0.759
+    46.56
+    13.57
+    2.84
+    0.584
+    47.42
+    13.81
+    1.89
+    0.388
+    48.36
+    14,07
+    0.96
+    0.20
+    49.16
+    14.27
+    0.79
+    0.16
+    49.36
+    14.33
+    0
+    0
+    50.07b
+    14.51
+    continued.....
+    AUXILIARYINFORMATION
+    METHOD/APPARATUS/PROCEDURE:
+    SOURCE AND PURITY OF MATERIALS:
+    The solubilities detd by the usual proce-
+    Sodium bromate was purified by recrystal-
+    dures of stirring,sampling,filtering and
+    lization.Sodium chlorate contained small
+    temperature control.Starting with com-
+    amounts of the corresponding bromate;this
+    plexes of known composition,and analyzing
+    bromate content was determined by iodo-
+    the saturated solutions at equilibrium,the
+    metric titration,and the necessary cor-
+    solid phases were determined by the methods
+    rections were then made when the dry
+    of graphical or algebraic extrapolation and
+    chlorates are weighed out for the prepara-
+    occasional analyses of wet and centrifuged
+    tion of the ternary complexes.
+    residues.
+    The analytical method for the saturatedsolutions depended on the combined percent-age of the Nac103 and NaBr03.For large
+    NaBr03 compositions,solutions were analyzedby evaporation,and iodometric titration
+    ESTIMATED ERROR:
+    of the bromate with thiosulfate solution,
+    Soly:precision 0.05 %
+    thus allowing the calculation of the per-
+    Temp:nothing specified.
+    centage of the chlorate by difference.Inthe presence of a large amount of chlorate,small quantitites of bromate were deter-
+    REFERENCES:
+    mined as follows:to about 100 ml of solu-tion was added sodium iodide,5 g (20 ml of25 solution)giving a concentration of
+    0.33N after dilution to 100 ml and 1.5 ml ofconcentrated HC1 (0.18 to 0.2N afterdilution).After waiting 1.5 min,the sln
+    continued.....
+
+==========第39页==========
+    Sodium Chlorate
+    63
+    COMPONENTS
+    ORIGINAL MEASUREMENTS:
+    (1)Sodium chlorate;NaC103;[7775-09-9]
+    Swenson,T.;Ricci,J,E.
+    (2)Sodium bromate;NaBr03;[7769-38-0]
+    J.Am.Chem.Soc.1939,61,1974-7.
+    (3)
+    Water;H20;[7732-18-5]
+    EXPERIMENTAL VALUES(Continued)
+    Composition of saturated solutions
+    NaBr03
+    NaC103
+    Nature of
+    t/°C
+    mass
+    mol
+    mass
+    mo1名
+    the solid
+    (compiler)
+    (compiler)
+    phasea
+    50
+    35.50
+    6.166
+    0
+    0
+    27.3
+    4.87
+    10.8
+    2.73
+    11.2
+    2.31
+    38.9
+    11.4
+    A or SS
+    7.09
+    1.56
+    47.7
+    14.9
+    6.75
+    1.49
+    48.2
+    15.1
+    5.80
+    1.28
+    49.1
+    15.4
+    n
+    4.53
+    1.01
+    51.1
+    16.1
+    t
+    2.83
+    0.632
+    53.0
+    16.8
+    2.62
+    0.586
+    53.3
+    16.9
+    1.35
+    0.301
+    54.4
+    17.2
+    0
+    0
+    55.54b
+    17.45
+    aA -NaBr03;
+    B NaC103
+    SSI sodium bromate solid solution containing up to 5 -10 sodium chlorateSSII sodium chlorate solid solution containing from 0 to 60-65 sodium bromateSS solid solution,the composition is not given.bFor binary systems the compiler computes the following:
+    soly of NaC103 =9.421 mol kg-1 at 25c
+    =11.74mo1kg-1at50°c
+    soly of NaBr03 2.614 mol kg-1 at 25C
+    =3.648mo1kg1at50°c
+    AUXILIARY INFORMATION
+    METHOD/APPARATUS /PROCEDURE
+    COMMENTS AND/OR ADDITIONAL DATA:
+    (Continued)
+    The phase diagram is given below (based
+    was titrd with 0.2 N sodium thiosulfate
+    on mass units).
+    solution.
+    The same procedure using a 0.02N sodiumthiosulfate solution for titration could be
+    H.O
+    used for the detection of quantities assmall as 0.001(+0.0005)%of bromate inchlorate.
+    0
+    B
+    A
+    NaBrO
+    NaC103
+    25°C Isotherm
+
+==========第40页==========
+    64
+    Sodium Chlorate
+    COMPONENTS:
+    ORIGINAL MEASUREMENTS:
+    (1)Sodium chlorate;NaC103;[7775-09-9]
+    Ricci,J.E.
+    (2)Sodium iodide;NaI;[7681-82-5]
+    J.m.Chem.S0c.1944,66,1015-6.
+    (3)Water;H20;[7732-18-5]
+    VARIABLES
+    PREPARED BY:
+    Composition at 298.15 K
+    Hiroshi Miyamoto
+    EXPERIMENTAL VALUES:
+    Composition of saturated solutions
+    aC103
+    NaI
+    Nature of the
+    mass
+    mol
+    mass%
+    mol
+    solid phasea
+    (compiler)
+    (compiler)
+    50.10b
+    14.52
+    0
+    0
+    b
+    38.72
+    11.51
+    12.40
+    2.618
+    27.62
+    8.522
+    25.23
+    5.528
+    n
+    18.67
+    6.036
+    36.53
+    8.387
+    %
+    10.28
+    3.584
+    48.76
+    12.08
+    7.11
+    2.614
+    54.63
+    14.26
+    5.44
+    2.095
+    58.56
+    16.01
+    4.50c
+    1.808
+    61.52
+    17.55
+    A+B
+    4.28
+    1.720
+    61.74
+    17.62
+    4.08
+    1.635
+    61.79
+    17.58
+    4.20
+    1.684
+    61.73
+    17.58
+    n
+    4.51
+    1.815
+    61.61
+    17.61
+    4.32
+    1.735
+    61.68
+    17.59
+    2.83
+    1.126
+    62.65
+    17.70
+    B
+    1.43
+    0.566
+    63.67
+    17.88
+    1.22
+    0.484
+    64.00
+    18.02
+    0
+    0
+    64.80
+    18.12
+    aA=NaC103;
+    B=NaI.2H20
+    b For the binary system the compiler computes the following:
+    soly of NaC103 9.433 mol kg-1
+    c Isothermally invariant solution saturated with two salts,the density of the solution
+    =1.911gcm-3
+    AUXILIARY INFORMATION
+    METHOD/APPARATUS/PROCEDURE:
+    SOURCE AND PURITY OF MATERIALS:
+    Complexes were stirred for at least two daysat 25C.Equilibrium was established in
+    C.p.grade NaC103 and NaI were used withoutfurther purification.
+    several instances by constancy of composi-tion upon repeated analysis.
+    The analysis of the saturated aqueous solu-tion involved argentometric titration ofthe chloride with eosin as adsorption indi-cator,determination of water in a separatesample by evaporation,and calculation ofthe sodium chlorate by difference.A few ofthe chloride determinations for the isother-mally invariant points were verified by the
+    Volhard method.
+    ESTIMATED ERROR:
+    The solubilities of the individual saltswere determined both volumetrically and by
+    Soly:nothing specified.
+    evaporation,with very close agreement
+    Temp:precision+0.05 K.
+    between the two methods.
+    REFERENCES:
+
+==========第41页==========
+    Sodium Chlorate
+    65
+    COMPONENTS
+    ORIGINAL MEASUREMENTS
+    (1)Sodium chlorate;NaC103;[7775-09-9]
+    Ricci,J.E.
+    (2)Sodium iodate;NaI03;[7681-55-2]
+    J.Am.Chem.Soc.1938,60,2040-3.
+    (3)Water;H20;[7732-18-5]
+    VARIABLES
+    PREPARED BY:
+    Composition at 298.15 K and 323.15 K
+    Hiroshi Miyamoto and Mark Salomon
+    EXPERIMENTAL VALUES:
+    Composition of saturated solutions
+    NaIO3
+    NaC103
+    Density
+    Nature of the
+    t/°C
+    mass%
+    mol
+    mass
+    mol
+    8cm-3
+    solid phasea
+    (compiler)
+    (compiler)
+    25
+    8.57b
+    0.846
+    0.0
+    0.0
+    1.075
+    4.51
+    0.462
+    8.36
+    1.591
+    1.098
+    3.14
+    0.343
+    16.50
+    3.347
+    1.146
+    2.43
+    0.286
+    24.67
+    5.402
+    1.204
+    1.97
+    0.252
+    32,57
+    7.748
+    1.273
+    1.69
+    0.232
+    38.66
+    9.862
+    1.332
+    1.52
+    0.220
+    42.99
+    11.57
+    1.46
+    0.216
+    44.56
+    12.23
+    1.396
+    1.39
+    0.210
+    46.37
+    13.03
+    1.404
+    1.33
+    0.206
+    48.13
+    13.85
+    1.425
+    1.30
+    0.204
+    49.19
+    14.37
+    1.440
+    1.29
+    0.203
+    49.42
+    14.48
+    1.445
+    A+C
+    1.29
+    0.203
+    49,40
+    14.47
+    1.29
+    0.203
+    49.32
+    14.43
+    1.441
+    1.29
+    0.203
+    49.44
+    14.49
+    1.446
+    1.29
+    0.203
+    49.32
+    14.43
+    1.444
+    1.29
+    0.203
+    49.40
+    14.47
+    1.29
+    0.203
+    49.38
+    14.46
+    1.444(av)
+    1.16
+    0.183
+    49.52
+    14.50
+    1.444
+    0.0
+    0.0
+    50.14
+    14.54
+    continued.....
+    AUXILIARY INFORMATION
+    METHOD/APPARATUS/PROCEDURE:
+    SOURCE AND PURITY OF MATERIALS:
+    Isothermal method,At25°C complexes of
+    C.p.grade sodium iodate recrystallized,
+    known compn seeded and stirred for up to 60d.
+    and dried at 100-110C.Analysis by titrn
+    and mean error in compn of solid phases was
+    with std thiosulfate sln showed it to be
+    1 %At 50C equil was readily attained and
+    100.0 pure.C.p.grade sodium chlorate
+    mean error in solid phase compn was 0.09%.
+    was powdered and dried at 150-200C.
+    More precise solid phase compns at 25C ob-tained by first dissolving NaI03.H20 followedby addn of Nac103,seeding with the monohy-drate,and stirring for at least 6 d.At50C metastability for anhyd and hydrated
+    NaI03 easily maintained,in the first case bystarting with anhyd salt and not seeding,andin the second case by starting with the hy-
+    ESTIMATED ERROR:
+    drate and seeding.
+    Soly:precision t 0.04 %
+    Filtered samples of satd sln analyzed foriodate by titrn with std thiosulfate in the
+    Solid phase compn:see discussion at left.
+    presence of excess KI and acetic acid:titrn
+    Temp:precision 0.01 K.
+    error was 1 part in 3000.Total solids detdby evapn to dryness,and Nac103 detd by dif-
+    METHOD/APPARATUS/PROCEDURE:(Continued)
+    ference.Solid phase compn detd by algebraicextrapolation of tie-lines.The mean error
+    Densities of satd sIns at 25C detd by
+    of 1%in compn at 25C indicates existence
+    means of pipets calibrated for delivery.
+    of the anhyd salt even after 60 d of stirring
+    This problem was eliminated by first prepar-ing the sIn with the hydrate as describedabove.(continued)
+
+==========第42页==========
+    66
+    Sodium Chlorate
+    COMPONENTS
+    Sodium chlorate;NaC103;[7775-09-9]
+    ORIGINAL MEASUREMENTS(1)
+    Sodium iodate;NaI03;[7681-55-2]
+    Ricci,J.E.(2)
+    J.Am.Chem.S0c.1938,60,2040-3.
+    (3)Water;H20;[7732-18-5]
+    EXPERIMENTAL VALUES:(Continued)
+    Composition of saturated solutions
+    NaIO3
+    NaC103
+    Density
+    Nature of the
+    t/°C
+    mass
+    mol
+    mass
+    mol
+    g cm-3
+    solid phasea
+    (compiler)
+    (compiler)
+    50
+    13.49
+    1.400
+    0.00
+    0.000
+    7.67
+    0.824
+    10.02
+    2.002
+    5.69
+    0.639
+    16.56
+    3.457
+    4.91
+    0.570
+    20.61
+    4.448
+    3.23
+    0.424
+    33.33
+    8.131
+    2.41
+    0.357
+    43.71
+    12.030
+    2.12
+    0.336
+    48.95
+    14.432
+    A(m)
+    1.92
+    0.323
+    53.20
+    16.66
+    1.87
+    0.321
+    54.58
+    17.44
+    A(m)+C
+    1.87
+    0.322
+    54.61
+    17.46
+    1.87
+    0.322
+    (av)54.59
+    17.45
+    2.50
+    0.369
+    43.41
+    11.91
+    B(m)
+    (2.2)c
+    0.330
+    (45)c
+    12.56
+    A+B
+    2.14
+    0.334
+    47.86
+    13.90
+    B
+    1.75
+    0.297
+    53.83
+    16.97
+    1.71
+    0.294
+    54.69
+    17.46
+    BC
+    1.68
+    0.289
+    54.74
+    17.48
+    1.69
+    0.290
+    (av)54.71
+    17.47
+    1.26
+    0.216
+    54.98
+    17.50
+    0.0
+    0.0
+    55.74
+    17.57
+    aA=NaI03.H20;
+    B =NaI03;
+    C NaC103
+    bInterpolated
+    m Metastable
+    For the binary system the compiler computes the following
+    soly of NaI03 =0.474 mol kg-1 at 25c
+    =0.7880mo1kg1at50℃
+    COMMENTS AND/OR ADDITIONAL DATA:
+    Isotherms based on mass units are reproduced below.
+    1i0
+    H,0
+    O'HOIUN
+    NaC101
+    NaCIO
+    NaIO,
+    25°C Isotherm
+    50°C Isotherm
+
+==========第43页==========
+    Sodium Chlorate
+    67
+    COMPONENTS:
+    ORIGINAL MEASUREMENTS:
+    (1)Sodium chlorate;NaC103;[7775-09-9]
+    Windmaisser,F.;Stockl,F.
+    (2)Sodium hydroxide;NaOH;[1310-73-2]
+    Monatsh.Chem.1951,82,287-94.
+    (3)Water;H20;[7732-18-5]
+    VARIABLES
+    PREPARED BY:
+    Composition at 291 K
+    Hiroshi Miyamoto
+    EXPERIMENTAL VALUES:
+    Composition of saturated solutions at 18C.
+    Sodium
+    Sodium Chlorate
+    Nature of
+    mass
+    mol
+    mass
+    mol
+    the solid
+    (compiler)
+    (compiler)
+    phasea
+    48.86b
+    13.92
+    A
+    6.55
+    4.54
+    37.86
+    9.866
+    15.25
+    9.706
+    25.10
+    6.003
+    19.93
+    12.32
+    19.45
+    4.516
+    33.34
+    19.99
+    7.90
+    1.78
+    41.58
+    25.36
+    3.98
+    0.912
+    44.56
+    27.69
+    3.65
+    0.852
+    %
+    46.90
+    29.64
+    3.56
+    0.845
+    48.73
+    31.20
+    3.46
+    0.832
+    A+B
+    51.43
+    32.29
+    aA=NaC103;
+    B =Na0H.H20
+    bFor the binary system the compiler computes the following:
+    soly of NaC103-8.976 mol kg-1
+    AUXILIARY INFORMATION
+    METHOD/APPARATUS/PROCEDURE:
+    SOURCE AND PURITY OF MATERIALS:
+    The details of the solubility determina-
+    No information given.
+    tions were not given in the originalpaper,but see the compilation for the
+    NaC103-Na2SO-H20 system by these authors.
+    ESTIMATED ERROR:
+    Nothing specified.
+    REFERENCES:
+
+==========第44页==========
+    68
+    Sodium Chlorate
+    COMPONENTS:
+    ORIGINAL MEASUREMENTS:
+    (1)Sodium chlorate;NaC103;[7775-09-9]
+    Di Capua,C.;Scaletti,U.
+    (2)Potassium chlorate;KC103;[3811-04-9]
+    Gazz,Chim.Ital.1927,27,391-9.
+    (3)Water;H0;[7732-18-5]
+    VARIABLES:
+    PREPARED BY:
+    T/K=293
+    B.Scrosati and H.Miyamoto
+    EXPERIMENTAL VALUES:
+    Composition of saturated solutions at 20C (solid phases not specified)
+    NaC103
+    KC103
+    mass
+    mol
+    mass
+    mol
+    (compiler)
+    (compiler)
+    49.56a
+    14.26
+    0
+    0
+    3.01
+    0.543
+    4.25
+    0.666
+    6.01
+    1.11
+    3.65
+    0.584
+    8.42
+    1.59
+    4.13
+    0.678
+    14.93
+    2.988
+    3.56
+    0.619
+    22.34
+    4.827
+    3.65
+    0.685
+    26.33
+    5.924
+    3.40
+    0.664
+    32.87
+    7.896
+    2.62
+    0.547
+    34.93
+    8.587
+    2.50
+    0.534
+    40.05
+    10.49
+    2.50
+    0.569
+    40.35
+    10.63
+    2.60
+    0.595
+    42.57
+    1.54
+    2.57
+    0.605
+    0
+    0
+    6.75a
+    1.05
+    47.43
+    13.31
+    0.34
+    0.083
+    47.82
+    13,49
+    0.31
+    0.076
+    48.50
+    13.80
+    0.24
+    0.059
+    48.40
+    13.73
+    0.14
+    0.034
+    48.50
+    13.83
+    0.20
+    0.049
+    48.84
+    13.95
+    0.20
+    0.050
+    a For the binary systems the compilercomputesthefollowing:
+    soly of NaC103 =9.231 mol kg-1soly of KC103 0.591 mol kg-1
+    AUXILIARYINFORMATION
+    METHOD/APPARATUS /PROCEDURE
+    SOURCE AND PURITY OF MATERIALS:
+    Mixtures of salts and water were stirred
+    No information is given.
+    in a thermostat for 7 days.Samples ofsaturated solution were withdrawn with apipet and weighed.
+    The chlorate ion concentration was deter-mined by the Volhard method after reductionto chloride with zinc and acetic acid.Thesodium content was determined by precipita-tion as the triple acetate of sodium,uranyl and magnesium,according to themethod described by Kling and Lasieur (ref1).
+    ESTIMATED ERROR:
+    Large error may be related to the methodused for the determ of sodium.The methodwas tested by the authors and errors rang-ing from +0.5 to -32 were found.
+    REFERENCES:
+    1.Kling and Lasieur.Giorn.Chom.Ind.
+    Appeicata 1925,7.
+
+==========第45页==========
+    Sodium Chlorate
+    69
+    COMPONENTS:
+    ORIGINAL MEASUREMENTS:
+    (1)Sodium chlorate;NaC103 [7775-09-9]
+    Munter,P.A.Brown,R.L.
+    (2)Potassium chlorate;KC103;[3811-04-9]
+    J.Am.Chem..S0c.1943,65,2456-7.
+    (3)Water;H,0;[7732-18-5]
+    VARIABLES
+    PREPARED BY:
+    Composition at 273 K and 313 K
+    Hiroshi Miyamoto and Mark Salomon
+    EXPERIMENTAL VALUES:Composition at the isothermally invariant points
+    t/°C
+    Sodium Chlorate
+    Potassium Chlorate
+    Water
+    mass
+    mol
+    mass
+    mol
+    mass
+    mol
+    (compiler)
+    (compiler)
+    (compiler)
+    88.00
+    0
+    44.21
+    11.90
+    0.44
+    0.10
+    55.35
+    40
+    51.75
+    16.19
+    3.41
+    0.927
+    44.85
+    82.88
+    AUXILIARY INFORMATION
+    METHOD /APPARATUS/PROCEDURE:
+    At 0C mixts were sealed in Pyrex bottles
+    SRdevgaltsveresed ithoutC.p.
+    which were fastened to a rotor suspended in
+    further purification.
+    a glycerol/water bath.At 40C mixts wereplaced in 250 ml 3-neck flasks and thermo-
+    The chlorates were found to be 99.9%
+    stated in a water bath.The slns were stir-
+    pure.
+    red with glass stirrers provided withmercury seals.
+    Preliminary experiments identified mixtureswhich result in satd solutions,several ofwhich were used to prepare the solutionsreported in the data table above.Only thecompositions of two solutions were reported
+    Equilibrated sins were sampled by with-
+    ESTIMATED ERROR:
+    Soly:nothing specified but probably poor
+    drawing aliquots with pipets fitted with
+    due to method of analysis of Na.
+    cotton plugs.After determining densities
+    Temp:at 0c precision =0.1 K.
+    the solutions were diluted for analyses,
+    at40°C precision=±0.05K.
+    Chlorate detd by the method of Dietz as
+    REFERENCES:
+    described in (1).Sodium was detd by pptnwith zinc uranyl nitrate,and potassium
+    1.Kolthoff,I.M.Furman,N.H.
+    detd by calculation based on stoichiometry.
+    Volumetric Analysis,Voe II.1929,
+    Water was found by difference.
+    388.
+
+==========第46页==========
+    70
+    Sodium Chlorate
+    COMPONENTS:
+    ORIGINAL MEASUREMENTS:
+    (1)Sodium chlorate;NaC103;[7775-09-9]
+    Nallet,A.;Paris,R.A.
+    (2)Potassium chlorate;KC103;[3811-04-9]
+    Buee.Soc.Chim.F九.1956,488-94.
+    (3)
+    Water;H20;[7732-18-5]
+    VARIABLES:
+    PREPARED BY:
+    Composition
+    Hiroshi Miyamoto
+    T/K=255.30t0373
+    EXPERIMENTAL VALUES:
+    METHOD/APPARATUS/PROCEDURE:
+    Mixtures of salts and water were placed inbottles and agitated in a thermostat for 2hours at 100C,and for 2 hours or more ata lower temperature.
+    ÷
+    Equilibrium was approached from super-saturation.
+    ainjeN
+    The chlorate was reduced with Mohr's salt用
+    in mineral acids,and the excess Fe(II)黑苦
+    titrated with potassium dichromate solution.
+    The analyses of cations were performed induplicate.
+    The potassium and sodium contents were de-termined by flame photometry,and also the
+    Z12.1860.1
+    8
+    potassium was determined gravimetricallywith sodium tetraphenylborate.
+    The nature of the solid phase was determinedby Schreinemakers'residues method.
+    (Iduo5)
+    The densities of the saturated solutions
+    222.055T:0161.0
+    were also determined.
+    od
+    ssea
+    266.0C13.0兰66어
+    nng
+    201900105
+    20.1220.280.E
+    g
+    SOURCE AND PURITY OF MATERIALS
+    Sodium and potassium chlorate were recrystal
+    (aIIduo3)
+    :8
+    -:21
+    lized twice.The purity of the chlorateswas99.9%.I'OI
+    2.11695
+    00
+    8
+    eqeI01q5(iatTduo)2.51:92wnTpoS221800103
+    ESTIMATED ERROR:
+    Soly:precision 0.5 (compiler).
+    22.5
+    y6
+    Temp:nothing specified.
+    品-90
+    3
+    REFERENCES:
+    8.6
+    呈孕8层
+
+==========第47页==========
+    Sodium Chlorate
+    71
+    COMPONENTS:
+    ORIGINAL MEASUREMENTS:
+    (1)Sodium chlorate;NaC103;[7775-09-9]
+    Arkhipov,S.M.;Kashina,N.I.;Kuzina,V.A.
+    (2)
+    Rubidium chlorate;RbC103;
+    Zh.Neorg.Khim,1968,13,2872-6;
+    [13446-71-4]
+    Russ.J.Inong.Chem.(Enge.Transe.)1968,13,1476-9.
+    (3)Water;H20;[7732-18-5]
+    VARIABLES:
+    PREPARED BY:
+    Composition at 298.2 K
+    Hiroshi Miyamoto
+    EXPERIMENTAL VALUES:
+    Composition of saturated solutions
+    Rubidium Chlorate
+    Sodium Chlorate
+    Nature of
+    mass
+    mol
+    mass%
+    mol
+    the solid phasea
+    (compiler)
+    (compiler)
+    6.42b
+    0.726
+    4.61
+    0.532
+    4.15
+    0.760
+    A
+    2.69
+    0.329
+    12.55
+    2.437
+    2.20
+    0.294
+    21.83
+    4.624
+    1.83
+    0.273
+    32.22
+    7.616
+    1.80
+    0.303
+    42.27
+    11.31
+    1.67
+    0.300
+    47.00
+    13.38
+    1.70
+    0.316
+    49.44
+    14.58
+    1.68
+    0.312
+    49.41
+    14.56
+    1.13
+    0.209
+    49.81
+    14.63
+    一
+    50.29b
+    14.62
+    B
+    aA =RbC103
+    B =NaC103
+    bFor binary systems the compiler computes the following:
+    soly of RbC103 -0.406 mol kg-1soly of NaC103-9.504 mol kg-1
+    AUXILIARYINFORMATION
+    METHOD/APPARATUS/PROCEDURE:
+    SOURCE AND PURITY OF MATERIALS:
+    The isothermal method was used.Equili-
+    Sodium chlorate and rubidium chlorate had
+    brium reached in 30 hours.Samples of solida purity of 99.9 or more.and liquid phases were analyzed.Rubidium
+    ESTIMATED ERROR:
+    was determined as the tetraphenylborate orwhen at low concentration,by flame photo-
+    Soly:nothing specified.
+    metry.Chlorate was found by adding an
+    Temp:precision+0.1 K.
+    excess of iron(II)sulfate to an aliquot
+    COMMENTS AND/OR ADDITIONAL DATA:
+    of saturated solution and back-titrating
+    The phase diagram is given below (based on
+    with potassium permanganate.Sodium was
+    mass units).
+    determined by difference.
+    100RbC103
+    The solid phases were identified by themethod of residues,and by X-raydiffraction.
+    80
+    6n
+    40
+    20
+    NaC102
+
+==========第48页==========
+    72
+    Sodium Chlorate
+    COMPONENTS:
+    ORIGINAL MEASUREMENTS:
+    (1)Sodium chlorate;NaC103;[7775-09-9]
+    Arkhipov,S.M.;Kashina,N.I.
+    (2)Cesium chlorate;CsC103;[13763-67-2]
+    Zh.Ne0g.Khim.1970,15,760-4.
+    Russ.J.Inong.Chem.(Enge.Transe.)
+    (3)Water;H20;【7732-18-5]
+    1970,15,391-2.
+    VARIABLES
+    PREPARED BY:
+    Composition at 298.2 K
+    Hiroshi Miyamoto
+    EXPERIMENTAL VALUES:
+    Composition of saturated solution at 25C
+    Cesium Chlorate
+    Sodium Chlorate
+    Nature of the
+    mass
+    mol
+    mass
+    mol%
+    solid phasea
+    (compiler)
+    (compiler)
+    7.24b
+    0.646
+    寸
+    3.74
+    0.346
+    7,86
+    1.48
+    2.78
+    0.278
+    17.07
+    3.470
+    2.48
+    0.273
+    26.68
+    5.976
+    2.17
+    0.277
+    39.58
+    10.29
+    2.18
+    0.294
+    43,54
+    11.92
+    2.17
+    0.299
+    45.25
+    12.68
+    2.15
+    0.315
+    49.64
+    14.79
+    A+B
+    2.13
+    0.312
+    49.58
+    14.76
+    50.20b
+    14.57
+    B
+    aA=CsC103;
+    B NaC103
+    0For binary systems the compiler computes the following:
+    soly of NaC103 =9.470 mol kg-1soly of CsC103-0.361 mol kg-1
+    AUXILIARYINFORMATION
+    METHOD/APPARATUS/PROCEDURE:
+    SOURCE AND PURITY OF MATERIALS:
+    Solubilities were determined by the iso-
+    C.p,grade NaC103 and CsC103 with a purity
+    thermal method by mixing the solid and
+    of 99.5 or better were used.
+    liquid phases in glass test-tubes and ther
+    ESTIMATED ERROR:
+    mostating in a water bath.Samples ofliquid and solid phases were analyzed for
+    Soly:nothing specified.
+    Temp:precision0.1 K.
+    the anions and cesium.
+    COMMENTS AND/OR ADDITIONAL DATA:
+    The phase diagram is given below (based on
+    Chlorate was found by adding excess iron(II)mass units),sulfate to an aliquot of saturated solutionand back-titrating with potassium perman-ganate solution.Cesium was determinedgravimetrically as cesium tetraphenylborate
+    Sodium was found by difference.The solidphases were identified by the method ofresidues,and X-ray diffraction.
+    20t
+    NaCIO3.mass
+
+==========第49页==========
+    Sodium Chlorate
+    73
+    COMPONENTS:
+    ORIGINAL MEASUREMENTS:
+    (1)Sodium chlorate;NaC103;[7775-09-9]
+    Di Capua,C.;Bertoni,A.
+    (2)Barium chlorate;Ba(C103)2;
+    Gazz.Chim.1tal.1928,58,249-53.
+    [13477-00-4]
+    (3)Water;H,0;[7732-18-5]
+    VARIABLES
+    PREPARED BY:
+    T/K=293
+    B.Scrosati,H.Miyamoto and M.Salomon
+    Composition
+    EXPERIMENTAL VALUES:
+    Solubilitiesin the Nac103-(Bac103)2-2 ternary aystem at 20
+    NaC103mass
+    mol kg-1
+    Ba(C103)2
+    mass%
+    mol kg-1
+    4.97
+    9.283b
+    0
+    45.
+    7.84
+    1.05
+    0.0640
+    43.2
+    7.506
+    2.73
+    0.166
+    36.5
+    5.696
+    3.30
+    0.180
+    29.52
+    4.218
+    4.73
+    0.236
+    25.32
+    3.47
+    6.13
+    0.294
+    15.52
+    1.908
+    8.05
+    0.346
+    8.5
+    0.983
+    10.29
+    0.416
+    4.52
+    0.540
+    16.91
+    0.707
+    0
+    0
+    23.75
+    1.024c
+    a Molalities calculated by the compilers.b Author gives 9.228 mol kg.c Author gives 1.068 mol kg-1.
+    AUXILIARY INFORMATION
+    METHOD/APPARATUS /PROCEDURE:
+    SOURCE AND PURITY OF MATERIALS:
+    The method and the procedure for preparingthe saturated solutions were not reported
+    Nothing specified.
+    in the original publication.
+    Chloride was determined by the Mohr method,and chlorate was determined by the Volhardmethod after reduction with zinc and aceticacid.The barium content was determinedgravimetrically as the sulfate,and thesodium content was determined by differenceafter the mass of water was determined.
+    Nature of solid phases not specified.
+    ESTIMATED ERROR:
+    No estimates possible due to insufficientexperimental details.
+    REFERENCES:
+    AMH-D
+
+==========第50页==========
+    74
+    Sodium Chlorate
+    COMPONENTS:
+    ORIGINAL MEASUREMENTS:
+    (1)Sodium chlorate;NaC103;[7775-09-9]
+    Ricci,J.E.;Weltman,C.
+    (2)Sodium chromate;Na2Cr04;[7775-11-3]
+    J.Am.Chem.S0c.1942,64,2746-8.
+    (3)Water;H20;[7732-18-5]
+    VARIABLES:
+    PREPARED BY:
+    Composition
+    Hiroshi Miyamoto
+    T/K=293,298and323
+    EXPERIMENTAL VALUES:
+    Composition of saturated solutions
+    Sodium chromate
+    Sodium chlorate
+    Nature of
+    t/°C
+    mass
+    mol
+    mass
+    mol
+    the solid
+    (compiler)
+    (compiler)
+    phasea
+    19
+    0.00
+    0.00
+    48.28b
+    13.64
+    A
+    6.43
+    1.20
+    41.91
+    11.93
+    14.56
+    2.738
+    33.59
+    9.611
+    n
+    27.00
+    5.170
+    21.57
+    6.285
+    35.05
+    6.915
+    15.01
+    4.506
+    A+C
+    35.03
+    6.911
+    15.03
+    4.512
+    35.04
+    6.913
+    15.02
+    4.509
+    37.26
+    7.146
+    10.70
+    3.123
+    40.60
+    7.571
+    5.14
+    1.459
+    g
+    42.26
+    7.766
+    2.31
+    0.646
+    43.63
+    7.926
+    0.00
+    0.000
+    B
+    25
+    0.00
+    0.00
+    (50.06)b14.50
+    43.88
+    A
+    5.95
+    1.14
+    12.75
+    12.45
+    2.381
+    37.06
+    10.79
+    y
+    20.42
+    3.949
+    29.30
+    8.623
+    名
+    28.51
+    5.583
+    21.50
+    6.407
+    35.18
+    7.021
+    15.65
+    4.753
+    36.43
+    7.283
+    14.43
+    4.390
+    A+D
+    36.44
+    7.287
+    14.44
+    4.394
+    36.43
+    7.283
+    14.43
+    4.390
+    36.43
+    7.283
+    14.43
+    4.390
+    39.47
+    7.734
+    9.82
+    2.93
+    0
+    continued...
+    AUXILIARYINFORMATION
+    METHOD/APPARATUS/PROCEDURE:
+    Mixtures prepd by weight and rotated in a
+    C.p·grade
+    was used and
+    thermostat at the specified temperature.
+    found to be 100.0%pure by reduction and
+    About three days were required to reach
+    precipitation.Sodium chromate tetra-
+    equilibrium.
+    hydrate (Mackay Co.)was used;the per-
+    Samples for analysis withdrawn with pipets
+    centage of Na2Cr04 found by titration was
+    fitted with filter paper.Sodium chromate
+    69.15 and by dehydration 69.25 as
+    in the presence of sodium chlorate was detd
+    compared with the theoretical value of
+    volumetrically as follows:the chromate was
+    69.21%.
+    pptd by addn of barium chloride.The precipitate was filtered,dissolved in HN03,andthe chromate titrd with thiosulfatesolution.
+    Sodium chlorate detd by difference fromthe percentage of total solid obtained
+    ESTIMATED ERROR:
+    by evaporation of the satd solution at
+    Soly:accuracy within t0.05 (authors).
+    110C.To supplement the indirect detn of
+    Temp:precision+0.02 K.
+    chlorate,direct gravimetric analysis car-ried out by reduction of chlorate with S02followed by pptn of chloride as AgCl.
+    REFERENCES:
+    The solubility result giver in parenthesisin the above table was determined byevaporation.
+
+==========第51页==========
+    Sodium Chlorate
+    75
+    COMPONENTS:
+    ORIGINAL MEASUREMENTS
+    (1)Sodium chlorate;Nac103;[7775-09-9]
+    Ricci,J.E.;Weltman,C.
+    (2)
+    Sodium chromate;Na2Cr04;[7775-11-3]
+    J.Am.Chem.S0c.1942,64,2746-8.
+    (3)Water;H20;[7732-18-5]
+    EXPERIMENTAL VALUES:(Continued)
+    Composition of saturated solutions
+    Sodium chromate
+    Sodium chlorate
+    Nature of
+    t/°C
+    mass
+    mol
+    mass
+    mol
+    the solid
+    (compiler)
+    (compiler)
+    phasea
+    25
+    41.04
+    7.949
+    7.34
+    2.16
+    D
+    45.59
+    8.525
+    0.00
+    0.00
+    C
+    50
+    0.00
+    0.00
+    55.49b
+    17.42
+    6.36
+    1.31
+    48.49
+    15.18
+    18.37
+    3.842
+    36.71
+    11.68
+    31.45
+    6.665
+    23.55
+    7.594
+    2
+    40.80
+    8.968
+    15.81
+    5.298
+    2
+    43.13
+    9.566
+    13.87
+    4.681
+    A+D
+    43.15
+    9.571
+    13.85
+    4.675
+    t
+    43.14
+    9.569
+    13.86
+    4.678
+    44.21
+    9.619
+    11.54
+    3.821
+    0
+    47.32
+    9.969
+    6.20
+    1.988
+    50.66
+    10.25
+    0.00
+    0.000
+    aA NaC1033
+    B=Na2Cr04.10H20;
+    C=Na2Cr04.6H20;
+    D NaCr04.4H20
+    b For the binary system the compiler computes the following:
+    soly of
+    Nac103 -8.770 mol kg-1 at 19c
+    =9.417 mol kg-1 at 25C=11.71mo1kg-1at50°c
+    COMMENTS AND/OR ADDITIONAL DATA:
+    The phase diagram is given below (based on mass units).
+    H,0
+    19
+    Na2Cx0410H2°
+    50
+    NaCrO4.6H2O
+    NaCrO4.4H2O
+    NaC103
+    Na2CrO4
+
+==========第52页==========
+    76
+    Sodium Chlorate
+    COMPONENTS
+    ORIGINAL MEASUREMENTS:
+    (1)Sodium chlorate;NaC103;[7775-09-9]
+    Ricci,J.E.;Linke,W.F.
+    (2)Disodium (I-4)-tetraoxomolybdate (2-)
+    J.Am.Chem.Scc.1947,69,1080-3.
+    (sodium molybdate);Na2Mo04;[7631-95-0]
+    (3)Water;H20;[7732-18-5
+    VARIABLES
+    PREPARED BY:
+    Composition at 298.15 K
+    Hiroshi Miyamoto
+    EXPERIMENTAL VALUES:
+    Compositionofsaturated solutions at 25.0C
+    Na2Mo04
+    NaC103
+    mass
+    mol
+    mass
+    mol
+    cy
+    Nature of the
+    solid phasea
+    (compiler)
+    (compiler)
+    39.38
+    5.378
+    0.00
+    0.00
+    1.432
+    1.13
+    A
+    36.11
+    4.972
+    4.23
+    1.441
+    32.42
+    4.509
+    9.04
+    2.43
+    1.441
+    28.53
+    4.011
+    14.12
+    3.840
+    1.440
+    1
+    22.83
+    3.278
+    21.94
+    6.093
+    1.442
+    17.95
+    2.643
+    29.14
+    8.301
+    1.453
+    14.59
+    2.196
+    34.39
+    10.02
+    1.466
+    13.04
+    1.990
+    37.05
+    10.94
+    1.472
+    11.77
+    1.817
+    39.21
+    11.71
+    1.478
+    A+B
+    11.75
+    1.814
+    39.25
+    11.72
+    1.479
+    11.81
+    1.823
+    39.17
+    11.70
+    1.481
+    n
+    11.77
+    1.817
+    39.21
+    11.71
+    1.479
+    11.74
+    1.813
+    39.29
+    11.74
+    1.476
+    B
+    8.87
+    1.358
+    41.85
+    12.40
+    1.465
+    5.72
+    0.868
+    44.70
+    13.12
+    1.456
+    2.60
+    0.392
+    47.60
+    13.87
+    1.438
+    0.00
+    0.000
+    50.02b
+    14.49
+    1.433
+    aA Na2Mo04.2H20;
+    B=NaC103
+    For the binary system the compiler computes the following:
+    soly of Nac103 =9.402 mol kg-1
+    continued.....
+    AUXILIARY INFORMATION
+    METHOD/APPARATUS/PROCEDURE:
+    SOURCE AND PURITY OF MATERIALS:
+    The solubilities were determined by stirringC.p.grade sodium molybdate dihydrate wascomplexes of known compositions in Pyrex
+    used.The salt was completely dehydrated
+    tubes and sampling the equilibrated solu-
+    by heating at 180°c,and stored at 150°c.
+    tions by means of calibrated pipets fitted
+    The purity of this anhydrous salt was
+    with filtering tips.
+    found to be 100 %C.p.grade sodium
+    One sample of saturated solution was analyz-chlorate was found to be pure within 1/1000ed by evaporating and drying to constant
+    by reduction to chloride and the determina-
+    weight at 125C to obtain the combined per
+    tion of the chloride by the Volhard method.
+    centage of the two salts.A second samplewas used for the determination of molybdateby precipitation of silver molybdate fol-lowed by a Volhard titration of the excesssilver in the filtrate.
+    ESTIMATED ERROR:
+    Soly:nothing specified.
+    Temp:precision 0.04 K.
+    ReFERENCES:
+
+==========第53页==========
+    Sodium Chlorate
+    77
+    COMPONENTS
+    ORIGINAL MEASUREMENTS:
+    (1)Sodium chlorate;NaC103;[7775-09-9]
+    Ricci,J.E.;Linke,W.F.
+    (2)Disodium (I-4)-tetraoxomolybdate (2-)
+    J.m.Chem..Soc.1947,69,1080-3.
+    (sodium molybdate);NaMo0;[7631-95-0]
+    (3)Water;H20;[7735-18-5】
+    COMMENTS AND/OR ADDITIONAL DATA:
+    The phase diagram is given below (based on mass units).
+    HO
+    Na:MoO
+    NaClO,
+    AUXILIARY INFORMATION
+    METHOD /APPARATUS/PROCEDURE
+    SOURCE AND PURITY OF MATERIALS:
+    ESTIMATED ERROR:
+    REFERENCES
+
+==========第54页==========
+    78
+    Sodium Chlorate
+    COMPONENTS:
+    ORIGINAL MEASUREMENTS:
+    (1)Sodium chlorate;NaC103;[7757-82-6]
+    Musaev,N.Yu.;Tukhtaev,S.;Shammasov,R.E.;
+    Kucharov,Kh.
+    (2)Calcium nitrate;Ca(NO3)2;[10124-37-5]
+    (3)Water;H,0;[7732-18-5]
+    Zh.Neorg..Khim.1984,29,1342-4;
+    Russ.J.Inorgan.Chem.(Enge.Transe.)1984,29,770-1.
+    VARIABLES:
+    PREPARED BY:
+    T/K=228-323
+    Mark Salomon
+    Composition
+    EXPERIMENTAL VALUES:
+    NaC103
+    Ca(N03)24H20
+    t/Oc
+    ca(03)2a
+    mass%
+    mole%
+    mass
+    mass mole
+    solid phase compositionb
+    -18.5
+    41.9
+    10.08
+    年一一
+    ice +A
+    -19.5
+    36.2
+    9.622
+    10.1
+    7.018
+    1.210
+    -19.9
+    34.5
+    9.225
+    13.0
+    9.033
+    1.567
+    -21.0
+    30.0
+    8.178
+    21.0
+    14.592
+    2.580
+    n
+    -44.4
+    18.5
+    5.857
+    50.4
+    35.020
+    7.193
+    -28.7
+    62.1
+    43.15
+    7.692
+    ice +B
+    -34.4
+    8.9
+    2.607
+    56.3
+    39.12
+    7.433
+    -44.6
+    18.6
+    5.88
+    50.2
+    34.881
+    7.159
+    ice +A B
+    -6.0
+    18.6
+    6.163
+    54.1
+    37.591
+    8.079
+    11.8
+    18.0
+    6.860
+    65.7
+    45.651
+    11.286
+    tt
+    25.2
+    17.2
+    7.346
+    74.5
+    51.766
+    14.342
+    acalculated by the compiler.
+    bsolid phases:A=NaC103;B=Ca(N03)24H20
+    For the binary NaC103-H20 systems,the compiler computes the following:
+    soly NaC103 at -18.50c 6.775 mol kg-1soly Nac103 at -28.7c 4.626 mol kg-1
+    AUXILIARY INFORMATION
+    METHOD/APPARATUS /PROCEDURE:
+    SOURCE AND PURITY OF MATERIALS:
+    "Visual-polythermal"method used:i.e.probably the synthetic method (compiler).
+    "C.p."grade Nacl03 and Ca(NO3)2 wererecrystallized two times.No other
+    The original publication contains a phase
+    information was given.
+    diagram.In the temperature range studied,neither solid solutions nor new compoundsare formed:i.e.the systems are of thesimple eutonic type.
+    ESTIMATED ERROR:
+    Nothing specified
+    REFERENCES
+
+==========第55页==========
+    Sodium Chlorate
+    79
+    COMPONENTS:
+    ORIGINAL MEASUREMENTS
+    (1)Sodium chlorate;NaC103;[7775-09-9]
+    Ricci,J.E.;Offenbach,J.A.
+    (2)Silver chlorate;AgC103;[7783-92-8]
+    J.m.Chem.S0c.1951,73,1597-9.
+    (3)Water;H20;[7732-18-5]
+    VARIABLES:
+    PREPARED BY:
+    T/K=298
+    H.Miyamoto
+    Composition
+    EXPERIMENTAL VALUES:
+    The equilibrium results for the ternary system AgC103-NaC103-H20 are given.
+    Composition of Saturated Solutions
+    mass
+    mol NaC103
+    mass
+    mol AgC103
+    Nature of
+    NaC103
+    (compiler)
+    AgC103
+    (compiler)
+    solid phase
+    0.00
+    0
+    14.46
+    1.567
+    AgC103
+    8.11
+    1.630
+    10.02
+    1.121
+    SSI
+    17.49
+    3.762
+    7.48
+    0.895
+    SSI
+    27.53
+    6.463
+    5.56
+    0.726
+    SSI
+    34.39
+    8.610
+    4.23
+    0.589
+    SSI
+    41.78
+    11.276
+    2.85
+    0.428
+    SSI
+    46.57
+    13.275
+    2.14
+    0.339
+    SSI SSII
+    46.54
+    13.263
+    2.15
+    0.341
+    SSI SSII
+    46.55
+    13.268
+    2.15
+    0.341
+    SSI+SSII
+    47.52
+    13.628
+    1.66
+    0.265
+    SSII
+    49.23
+    14.220
+    0.56
+    0.090
+    SSII
+    50.04
+    14.495
+    0.00
+    0
+    NaC103
+    *SSI =37%NaC103 in solid phaseSSII 26%AgC103 in solid phase
+    The compiler calculates the solubility of AgC103 in water as 0.7558 mol kg-1,andthe solubility of Nac103 as 9.410 mol kg-1.
+    continued,,··,,·,
+    AUXILIARY INFORMATION
+    METHOD/APPARATUS /PROCEDURE:
+    SOURCE AND PURITY OF MATERIALS:
+    Ternary mixtures,AgC103-NaC103-H20,of known
+    AgC103 was made from C.P.AgN03 and C.P.
+    composition were allowed to come to equili-
+    NaC103.After three recystallizations,the
+    brium at 25C after two weeks of stirring.
+    product was 99.72 pure (on the basis of
+    The results were unchanged after 1 to 3 weeksgravimetric determination of silver as AgClof further stirring.The saturated liquid
+    after reduction with NaN03 in the presence
+    solution was filtered and sampled for analy-
+    of some NaCl).
+    sis.One sample was titrated for silver withstandard KSCN solution and one was evaporatedto dryness at 110-125C,for total salt con-tent whereupon Nacl03 was calculated by dif-ference.
+    ESTIMATED ERROR:
+    Nothing specified in original article.
+    Solubility:+0.03 mass (compiler).
+    Temp:precision probably better than t 0.1 K
+    (compiler).
+    REFERENCES
+
+==========第56页==========
+    80
+    Sodium Chlorate
+    COMPONENTS:
+    ORIGINAL MEASUREMENTS
+    (1)Sodium chlorate;NaC103;[7775-09-9]
+    Ricci,J.E.;Offenbach,J.A.
+    (2)Silver chlorate;AgC103;[7783-92-8]
+    J.m.Chem.Soc.1951,73,1597-9.
+    (3)Water;H20;[7732-18-5]
+    EXPERIMENTAL VALUES:(Continued)
+    The phase diagram is presented below.
+    H20
+    AgC103
+    b
+    NaC103
+    The limiting compositions of SSI and SSII are estimated as 37 mass Nac103 in SSI and26 mass Agc103 in SSII.The composition of the isothermally invariant liquid
+    saturated with these two limiting solid solutions is 2.15 mass AgC103 and 46.55 mass
+    NaC103.
+
+==========第57页==========
+    Sodium Chlorate
+    81
+    COMPONENTS
+    ORIGINAL MEASUREMENTS:
+    (1)
+    Sodium chlorate;NaC103;[7775-09-9]
+    Nabiev,M.N.;Tukhtaev,S.;
+    Musaev,N.Yu.;Kuchrov,Kh.;
+    (2)Urea;CH420;[57-13-6]
+    Shammasov,R.E.
+    (3)Water;H20;[7732-18-5]
+    Zh.Neong.Khim.1982,27,2704-6;
+    Russ.J.Inong.Chem.(Enge.Transe.)1982,27,1533-4.
+    VARIABLES
+    PREPARED BY:
+    T/K=248.4to354.8
+    Hiroshi Miyamoto and Mark Salomon
+    Composition
+    EXPERIMENTAL VALUES:
+    Composition of saturated solutions
+    Urea
+    Sodium Chlorate
+    Nature of the
+    t/C
+    mass
+    mol
+    mass
+    mol
+    solid phasea
+    (compiler)
+    (compiler)
+    -11.2
+    32.0
+    12.4
+    -15.8
+    28.9
+    12.8
+    14.2
+    3.54
+    TA
+    -24.8
+    21.5
+    11.0
+    31.5
+    9.07
+    -18.5
+    41.9b
+    10.9
+    I+B
+    -22.0
+    12.9
+    6.29
+    35.4
+    9.73
+    -25.2
+    21.0
+    10.7
+    32.0
+    9.22
+    I+A+B
+    -13.5
+    27.1
+    14.9
+    32.0
+    9.95
+    A+B
+    2.2
+    34.0
+    20.6
+    32.0
+    10.9
+    29.8
+    46.3
+    33.9
+    32.1
+    13.3
+    48.0
+    54.2
+    46.0
+    32.2
+    15.4
+    81.6
+    65.7
+    77.2
+    34.3
+    22.8
+    a I=Ice;
+    A=C0(NH2)2;
+    B NaC103.
+    b For the binary system at-18.5c the compiler computes the following:soly of Nac103 =6.78 mol kg-1
+    AUXILIARY INFORMATION
+    METHOD/APPARATUS/PROCEDURE
+    The method of isothermal sections was used.
+    C0(NH2)2
+    00
+    Eight internal sections were employed.
+    No other information given.
+    10
+    SOURCE AND PURITY OF MATERIALS:
+    "Chemically pure"grade potassium chlorateand urea were twice recrystallized from
+    water.No other information given.
+    ESTIMATED ERROR:
+    Nothing specified.
+    CO(NH,
+    290
+    56
+    20
+    。
+    NaCl02
+    AMH-D*
+
+==========第58页==========
+    82
+    Sodium Chlorate
+    COMPONENTS
+    ORIGINAL MEASUREMENTS:
+    (1)Sodium carbonate;Na2C03;[497-19-8]
+    Perel'man,F,M.Korzhenyak,N.G.
+    (2)Sodium chloride;Nacl;[7647-14-5]
+    Zh.Neog.Khim.1968,13,2861-4;
+    (3)Sodium chlorate;NaC103;[7775-09-9]
+    Russ.J.Inong.Chem.(Enge.Transe.)
+    (4)
+    Water;H20;[7732-18-5]
+    1968,13,1471-2.
+    VARIABLES:
+    PREPARED BY:
+    T/K=298
+    Hiroshi Miyamoto
+    EXPERIMENTAL VALUES:
+    Composition of saturated solutions at the eutonic pointsa
+    Sodium Chlorate
+    Sodium Chloride
+    Sodium Carbonate
+    mass
+    mol%
+    mass
+    mol
+    mass
+    mol%
+    25.0
+    6.52
+    10.5
+    4.99
+    8.5
+    2.23
+    34.9
+    9.41
+    11.9
+    5.84
+    42.0
+    12.6
+    10.4
+    3.13
+    15.4
+    6.32
+    17.2
+    3.89
+    a Mol%data calculated by the compiler.
+    AUXILIARY INFORMATION
+    METHOD/APPARATUS /PROCEDURE
+    SOURCE AND PURITY OF MATERIALS:
+    No information was given.
+    No information was given.
+    ESTIMATED ERROR:
+    Nothing specified.
+    REFERENCES:
+
+==========第59页==========
+    Sodium Chlorate
+    83
+    COMPONENTS
+    ORIGINAL MEASUREMENTS
+    (1)Sodium chloride;Nacl;[7647-14-5]
+    Nakamori,I,;Nagino,Y.;
+    Sodium chlorite;NaC102;[7758-19-2]
+    Hideshima,K.;Hirai,T.
+    (2)
+    (3)Sodium chlorate;NaC103;[7775-09-9]
+    Kogyo Kagaku Zasshi 1958,61,147-9.
+    (4)Water;H20;[7732-18-5]
+    VARIABLES
+    PREPARED BY:
+    Composition at 283,293 and 303 K
+    Hiroshi Miyamoto
+    EXPERIMENTAL VALUES:
+    Composition of saturated solutions
+    NaCl
+    NaC102
+    NaC103
+    Moles
+    Nature of
+    t/°c mole fractiona
+    mole fractiona
+    mole fractiona
+    H20b
+    the solid phasec
+    10
+    0.445
+    0.555
+    0.000
+    6.87
+    A+B
+    11
+    0.392
+    0.520
+    0.888
+    6.35
+    0.339
+    0.490
+    0.171
+    5.92
+    0.475
+    0.000
+    0.525
+    6.19
+    A+C
+    0.434
+    0.074
+    0.492
+    6.00
+    0.318
+    0.284
+    0.398
+    5.52
+    0.007
+    0.515
+    0.478
+    5.54
+    0.115
+    0.475
+    0.410
+    5.30
+    BIC
+    0.150
+    0.457
+    0.393
+    5.11
+    0.239
+    0.425
+    0.336
+    5.08
+    A+B+C
+    20
+    0.248
+    0.598
+    0.154
+    5.19
+    A+B
+    0.191
+    0.552
+    0.257
+    4.60
+    0.328
+    0.672
+    0.000
+    6.12
+    0.359
+    0.106
+    0.535
+    5.53
+    A+C
+    0.412
+    0.000
+    0.588
+    5.80
+    0.246
+    0.340
+    0.414
+    5.04
+    B+C
+    0.068
+    0.558
+    0.374
+    4.42
+    0.112
+    0.540
+    0.348
+    4.30
+    0.157
+    0.527
+    0.316
+    4.35
+    A+B+C
+    continued...
+    AUXILIARYINFORMATION
+    METHOD/APPARATUS /PROCEDURE:
+    SOURCE AND PURITY OF MATERIALS:
+    Mixtures were placed in glass bottles and
+    "Chemically pure"grade sodium chloride and
+    agitated in a thermostat at the desired
+    chlorite were used without further purifica-
+    temperature for 1.5 to 5.5 h.After equili-tion.Sodium chlorate of purity 85 orbrium was established the slns were allowed better was recrystallized,and the productto settle in the thermostat for one h or
+    NaCl03.3H20 obtained.
+    more.Aliquots were analyzed for Cl-,
+    C107,and C103.The solution was weighed,and chloride detd by pptn using silvernitrate sln.The chlorite concn in sInscontaining chlorite and chlorate was detd byiodometric titration after addn of diluteacetic acid.To another sample of solutionsulfuric acid and Fe(II)sulfate solution
+    ESTIMATED ERROR:
+    were added and the excess Fe(II)titrd with
+    potassium permanganate sln,and the chlorateNothing specified.content calculated by difference.Theweight of NaCl,NaC102 and Nac103 was cal-culated from the solubility data,and thewater content was determined by difference.
+    REFERENCES:
+
+==========第60页==========
+    84
+    Sodium Chlorate
+    COMPONENTS
+    ORIGINAL MEASUREMENTS
+    (1)Sodium chloride;Nac1;[7647-14-5]
+    Nakamori,I.;Nagino,Y.;
+    (2)Sodium chlorite;NaC102;[7758-19-2]
+    Hideshima,K.;Hirai,T.
+    (3)Sodium chlorate;NaC103;[7775-09-9]
+    Kogyo Kagaku Zasshi 1958,61,147-9.
+    (4)
+    Water;H20;[7732-18-5】
+    EXPERIMENTAL VALUES
+    (Continued)
+    Composition of saturated solutions
+    Nacl
+    NaC102
+    NaC103
+    Moles
+    Nature of the
+    t/°C
+    mole fractiona
+    mole fractiona
+    mole fractiona
+    H20b
+    solid phasec
+    30
+    0.141
+    0.733
+    0.126
+    4.27
+    A+B
+    0.112
+    0.688
+    0.200
+    3.85
+    Ir
+    0.198
+    0.802
+    0.000
+    4.98
+    0.350
+    0.000
+    0.650
+    5.38
+    AIC
+    0.213
+    0.342
+    0.445
+    4.53
+    0.142
+    0.497
+    0.361
+    4.12
+    0.020
+    0.679
+    0.301
+    3.55
+    B+C
+    0.085
+    0.649
+    0.266
+    3.57
+    A+B+C
+    a Mole fraction based on total moles of solutes.b Mole of water/1 mol of the solutec A=Nacl;
+    B=NaC102;
+    C NaC103
+
+==========第61页==========
+    Sodium Chlorate
+    85
+    COMPONENTS:
+    ORIGINAL MEASUREMENTS:
+    (1)Sodium carbonate;Na2C03;[497-19-8]
+    Perel'man,F.M.Korzhenyak,N.G.
+    (2)Sodium chlorite;NaC102;[7758-19-2]
+    Zh.Neorg.Khim.1968,13,2861-4;
+    (3)Sodium chlorate;NaC103;[7775-09-9]
+    Russ.J.Inong.Chem.(Enge.Transe.)
+    (4)Water;:H20;[7732-18-5]
+    1968,13,1471-2.
+    VARIABLES:
+    PREPARED BY:
+    T/K=298
+    Hiroshi Miyamoto
+    EXPERIMENTAL VALUES:
+    Composition of saturated solutions at the eutonic pointsa
+    Sodium Chlorite
+    Sodium Chlorate
+    Sodium Carbonate
+    mass
+    mol%
+    mass
+    mol
+    mass
+    mol
+    32.0
+    11.7
+    22.0
+    6.86
+    2.2
+    0.69
+    34.8
+    13.22
+    23.7
+    7.65
+    35.4
+    10.7
+    7.0
+    1.81
+    42.0
+    12.59
+    10.4
+    3.13
+    aMole data calculated by the compiler.
+    AUXILIARY INFORMATION
+    METHOD /APPARATUS/PROCEDURE:
+    SOURCE AND PURITY OF MATERIALS:
+    No information was given
+    No information was given.
+    ESTIMATED ERROR:
+    Nothing specified.
+    REFERENCES
+
+==========第62页==========
+    86
+    Sodium Chlorate
+    COMPONENTS:
+    ORIGINAL MEASUREMENTS
+    (1)Sodium chloride;NaCl;[7647-14-5]
+    Perel'man,F.M.;Korzhenyak,I.G.
+    (2)Sodium chlorite;Nac102;[7758-19-2]
+    Zh.Neorg.Khim.1968,13,277-80;
+    Russ.J.Inong.Chem.(Enge.Transe.
+    (3)Sodium chlorate;Nacl03;[7775-09-9]
+    1968,13,143-5.
+    (4)Water;H20;[7732-18-5]
+    VARIABLES:
+    PREPARED BY:
+    T/K=298
+    Hiroshi Miyamoto
+    EXPERIMENTAL VALUES:
+    The details of solubility data were not described in the original article.The experi-mental and calculated solubilities were shown in figures only.
+    The phase diagrams of the eutectic point of the quatanary NaC103-NaC102-NaC1-H20 systemare given as below (based on mass )
+    Cu
+    000
+    NacL
+    0A0
+    c2
+    80
+    6
+    2
+    80
+    0
+    60
+    0
+    60
+    a+恤G0]
+    60
+    40
+    NaGL*NaC
+    0
+    11
+    20
+    0
+    20
+    100
+    \A
+    020300506070809010NaGL63
+    002D30.40切6000000
+    NaCU02+NaCL03
+    AUXILIARY INFORMATION
+    METHOD /APPARATUS /PROCEDURE:
+    SOURCE AND PURITY OF MATERIALS:
+    Probably,the isothermal method was used.
+    No information was given in the original
+    The ions Cl03,C107 and cl-were determined
+    paper.
+    in the presence of one another as follows:the chlorite content was determined iodo-metrically,the sum of the C107 and Cl03 ionconcentrations by permanganate in a stronglyacidic medium.The chlorate content wasdetermined by difference.The chloride ionconcentration was determined in a neutralmedium by Mohr's method.
+    ESTIMATED ERROR:
+    Nothing specified.
+    REFERENCES
+
+==========第63页==========
+    Sodium Chlorate
+    87
+    COMPONENTS:
+    ORIGINAL MEASUREMENTS:
+    (1)Sodium chloride;NaCl;[7647-14-5]
+    Oey,T.S.;Cunningham,G.I.;
+    (2)Sodium chlorite;NaC102;[7758-19-2]
+    Koopman,D,E.
+    (3)Sodium chlorate;NaC103;[7775-09-9]
+    J.Chem.Eng.Data 1960,5,248-50
+    (4)Water;H20;[7732-18-5]
+    VARIABLES
+    PREPARED BY:
+    Composition at 298,303 and 318 K
+    Hiroshi Miyamoto
+    EXPERIMENTAL VALUES:
+    Compositionof saturated solutions
+    NaC102
+    NaC103
+    NaCl
+    H20
+    Nature
+    sp gr
+    t/°c
+    moles
+    mol
+    moles
+    mol
+    moles
+    mol
+    wa
+    of the
+    (compiler)
+    (compiler)
+    (compiler)
+    solid
+    phaseb
+    25
+    0.1763
+    2.020
+    0.1361
+    1.559
+    0.6885
+    7.889
+    7.721.273
+    0.2488
+    3.001
+    0.1418
+    1,710
+    0.6095
+    7.351
+    7.291.290
+    0.3899
+    4.824
+    0.1170
+    1.448
+    0.4984
+    6.166
+    7.041.321
+    0.5340
+    6.407
+    0.1351
+    1.621
+    0.4091
+    4.909
+    6.731.356
+    0.2461
+    3.141
+    0.2124
+    2.711
+    0.5408
+    6.903
+    6.841.314
+    0.3096
+    4.076
+    0.2124
+    2.796
+    0.4788
+    6.303
+    6.59
+    1.332
+    0.4210
+    5.937
+    0.1928
+    2.719
+    0.3863
+    5.448
+    6.09
+    1.361
+    0.5546
+    8.631
+    0.1806
+    2.811
+    0.2641
+    4.110
+    5.431.412
+    0.1170
+    1.386
+    0.1095
+    1.297
+    0.7737
+    9.165
+    7.441.249
+    0.1252
+    1.650
+    0.3680
+    4.848
+    0.5068
+    6.677
+    6.591.338
+    0.1160
+    1.278
+    0.0997
+    1.098
+    0.7851
+    8.649
+    8.07
+    1.249
+    0.1718
+    2.191
+    0.2784
+    3.551
+    0.5498
+    7.013
+    6.84
+    1.318
+    2
+    0.1752
+    2.440
+    0.3798
+    5.289
+    0.4451
+    6.199
+    6.181.358
+    ?
+    0.1771
+    2.020
+    0.1096
+    1.250
+    0.7132
+    8.133
+    7.77
+    1.265
+    0.1166
+    1.780
+    0.6861
+    10.48
+    0.1972
+    3.011
+    5.55
+    1.429
+    0.2304
+    3.652
+    0.5743
+    9.103
+    0.1951
+    3.093
+    5.31
+    1.443
+    0.3272
+    5.490
+    0.4863
+    8.159
+    0.1865
+    3.129
+    4.961.459
+    0.4209
+    7.455
+    0.4078
+    7.223
+    0.1706
+    3.022
+    4.651.481
+    0.1270
+    1.971
+    0.5899
+    9.154
+    0.2837
+    4.403
+    5.441.424
+    t
+    0.1849
+    2.930
+    0.5483
+    8.689
+    0.2669
+    4.229
+    5.31
+    1.432
+    continued,
+    AUXILIARYINFORMATION
+    METHOD /APPARATUS /PROCEDURE:
+    SOURCE AND PURITY OF MATERIALS:
+    Method similar to that described in (1)
+    "Analytical reagent"grade sodium chlorate
+    where mixtures of known composition were pre
+    and chloride were used.Technical grade
+    pared from the solid salts and distilled H20
+    sodium chlorite (Mathieson Chemical Co.)
+    Pyrex solubility tubes used.
+    The mixtures
+    was recrystallized three times from distillec
+    of solid and liquid were equilibrated by
+    water as the trihydrate,and then stored in
+    rotation in a large thermostated water-bath
+    a cool place in amber bottles.
+    at various temperatures for periods of 120
+    Distilled water was used.
+    hours or longer.
+    The liquid sample was passed through a glasswool filter without taking the solubilitytube or the filter out of the thermostatedwater-bath.Aliquots of saturated solu-tion were removed by means of a calibratedpipet having small stopcocks at each end.
+    ESTIMATED ERROR:
+    Procedures for theanalysis of chloride,
+    Soly:nothing specified.
+    chlorite,chlorate and alkali were described
+    Temp:precision+0.1 K (authors).
+    in ref (2).The Schreinemakers'wet residuemethod was used to detn solid phasecompositions.
+    REFERENCES:
+    1.Cunningham,G.L.;Oey,T.S.
+    J.m.Chem.Soc1955,77,799.
+    2.White,J.F.Am.Dyestat Reporten1942,31,484.
+
+==========第64页==========
+    88
+    Sodium Chlorate
+    COMPONENTS
+    ORIGINAL MEASUREMENTS
+    (1)Sodium chloride;NaCl;[7647-14-5]
+    Oey,T.S.;Cunningham,G.I.;
+    (2)Sodium chlorite;NaC102;[7758-19-2]
+    Koopman,D.E.
+    (3)
+    Sodium chlorate;Nac103;[7775-09-9]
+    J.Chem.Eng.Data 1960,5,248-50
+    (4)
+    Water;H20;[7732-18-5]
+    EXPERIMENTAL VALUES:(Continued)
+    Composition of saturated solutions
+    NaC102
+    NaC103
+    NaCl
+    H20
+    sp gr
+    Nature
+    t/°C
+    moles
+    mol
+    moles
+    mol
+    of the
+    moles
+    mol
+    wa
+    solid
+    (compiler)
+    (compiler)
+    (compiler)
+    phaseb
+    25
+    0.1980
+    3.128
+    0.6149
+    9.713
+    0.1872
+    2.957
+    5.331.439
+    Q
+    0.2979
+    5.050
+    0.4566
+    7.740
+    0.2454
+    4.160
+    4.901.452
+    0.1106
+    1.658
+    0.7947
+    11.91
+    0.0947
+    1.420
+    5.67
+    1.438
+    0.6970
+    12.06
+    0.1921
+    3.324
+    0.1109
+    1.919
+    4,781.451
+    0.8023
+    12.07
+    0.1225
+    1.842
+    0.0751
+    1.129
+    5.651.420
+    0.7599
+    12.01
+    0.1832
+    2.894
+    0.0568
+    0.897
+    5.33
+    1.447
+    0.4781
+    8.930
+    0.3395
+    6.341
+    0.1831
+    3.420
+    4.35
+    1.481
+    C+D
+    0.3144
+    5.374
+    0.4338
+    7.415
+    0.2519
+    4.306
+    4.85
+    1.446
+    0.4209
+    7.615
+    0.3728
+    6.745
+    0.2058
+    3.723
+    4.531.468
+    0.5276
+    10.05
+    0.3069
+    5.846
+    0.1655
+    3.152
+    4151.493
+    0.0564
+    0.869
+    0.5875
+    9.053
+    0.3560
+    5.486
+    5.49
+    1.410
+    0.1645
+    2.611
+    0.5306
+    8.421
+    0.3050
+    4.841
+    5.30
+    1.427
+    0.4122
+    7.436
+    0.3950
+    7.126
+    0.1934
+    3.489
+    4.541.478
+    0.4626
+    8.516
+    0.3775
+    6.949
+    0.1696
+    3.122
+    4.381.493
+    0.5952
+    12.05
+    0.3296
+    6.671
+    0.0754
+    1.526
+    3.941.532
+    A+C
+    0.6124
+    12.13
+    0.3479
+    6.890
+    0.0396
+    0.784
+    4.051.531
+    0.6469
+    11.35
+    0.1782
+    3.126
+    0.1749
+    3.068
+    4.701.466
+    A+D
+    0.6798
+    11.37
+    0.1130
+    1.890
+    0.2071
+    3.464
+    4.981.434
+    1
+    0.6336
+    12.21
+    0.3664
+    7.060
+    0.0000
+    0.000
+    4.19
+    1.533
+    A+C
+    0.5709
+    11.89
+    0.3139
+    6.539
+    0.1153
+    2.402
+    3.801.534
+    A+D+C
+    30
+    0.7512
+    11.63
+    0.0000
+    0.000
+    0.2488
+    3.851
+    5.46
+    1.4150
+    D
+    0.5520
+    7.132
+    0.0000
+    0.000
+    0.4480
+    5.788
+    6.741.3245
+    0.3160
+    3.575
+    0.0000
+    0.000
+    0.6840
+    7.738
+    7.84
+    1.2642
+    0.0850
+    0.876
+    0.0000
+    0.000
+    0.9150
+    9.433
+    8.701.2152
+    0.0000
+    0.000
+    0.0000
+    0.000
+    1.0000
+    9.990
+    9.011.1955
+    0.5380
+    10.15
+    0.4620
+    8.717
+    0.0000
+    0.000
+    4.301.5142
+    C
+    0.1804
+    2.953
+    0.8196
+    13.41
+    0.0000
+    0.000
+    5.111.4621
+    1
+    0.0000
+    0.000
+    1.0000
+    15.41
+    0.0000
+    0.000
+    5.491.4560
+    %
+    1.0000
+    7.364
+    1.0000
+    7.364
+    0.0000
+    0.000
+    5.791.4120
+    A
+    0.8743
+    13.64
+    0.0000
+    0.000
+    0.1257
+    1.961
+    5.411.4310
+    0.9190
+    14.68
+    0.0910
+    1.453
+    0.0000
+    0.000
+    5.201.4444
+    0.7890
+    14.75
+    0.2110
+    3.944
+    0.0000
+    0.000
+    4.35
+    1.5075
+    0.0000
+    0.000
+    0.6459
+    10.08
+    0.3541
+    5.524
+    5.41
+    1.4091
+    C+D
+    0.0611
+    0.970
+    0.6050
+    9.603
+    0.3339
+    5.300
+    5.301.4235
+    1
+    0.1972
+    3.281
+    0.5201
+    8.654
+    0.2827
+    4.704
+    .01
+    1.4415
+    0.3407
+    6.052
+    0.4352
+    7.730
+    0.2241
+    3.980
+    .63
+    1.4695
+    0.5111
+    10.24
+    0.3470
+    6.954
+    0.1419
+    2.844
+    3.99
+    1.5111
+    10
+    0.8025
+    13.49
+    0.0000
+    0.000
+    0.1975
+    3.319
+    4.95
+    1,4395
+    A+D
+    0.6790
+    15.12
+    0.3210
+    7.149
+    0.0000
+    0.000
+    3.491.5645
+    A+C
+    0.5994
+    13.29
+    0.3140
+    6.962
+    0.0866
+    1.920
+    3.51
+    1.5360
+    A+C+D
+    5
+    0.1367
+    1.571
+    0.1379
+    1.585
+    0.7254
+    8.338
+    7.70
+    1.269
+    0
+    0.2425
+    3.251
+    0.2658
+    3.563
+    0.4917
+    6.591
+    6.46
+    1.338
+    1
+    0.3124
+    4.889
+    0.3665
+    5.736
+    0.3211
+    5.025
+    5.39
+    1.409
+    0,7818
+    12.01
+    0.0000
+    0.000
+    0.2182
+    3.352
+    5.51
+    1.444
+    0.6712
+    9.616
+    0.0000
+    0.000
+    0.3288
+    4.711
+    5.981.378
+    0.5338
+    6.888
+    0.0000
+    0.000
+    0.4662
+    6.015
+    6751.329
+    0.2769
+    3.115
+    0.0000
+    0.000
+    0.7231
+    8.134
+    7.89
+    1.262
+    0.1476
+    1.574
+    0.0000
+    0.000
+    0.8524
+    9.087
+    8.38
+    1.234
+    0.0000
+    0.000
+    0.0000
+    0.000
+    1.0000
+    9.990
+    9.01
+    1.200
+    continued.....
+
+==========第65页==========
+    Sodium Chlorate
+    89
+    COMPONENTS
+    ORIGINAL MEASUREMENTS
+    (1)Sodium chloride;NaCl;[7647-14-5]
+    Oey,T.S.;Cunningham,G.I.;
+    (2)Sodium chlorite;NaC102;[7758-19-2]
+    Koopman,D.E.
+    (3)
+    Sodium chlorate;NaC103;[7775-09-9]
+    J.Chem.Eng.0ata1960,5,248-50.
+    (4)Water;H20;{7732-18-5]
+    EXPERIMENTAL VALUES
+    (Continued)
+    Composition of saturated solutions
+    H20
+    Nature
+    NaC102
+    NaC103
+    NaC1
+    sp gr
+    t/c
+    of the
+    moles
+    mol
+    moles
+    mol
+    moles
+    mol
+    wa
+    solid
+    (compiler)
+    (compiler)
+    (compiler)
+    phaseb
+    45
+    0.1605
+    2.821
+    0.6682
+    11.74
+    0.1713
+    3.011
+    4.691.487
+    0.3187
+    6.117
+    0.6055
+    11.62
+    0.0758
+    1.455
+    4.211.526
+    0.7340
+    16.03
+    0.1842
+    4.022
+    0.0818
+    1.786
+    3.58
+    1.561
+    B
+    0.8012
+    16.59
+    0.1303
+    2.698
+    0.0685
+    1.418
+    3.83
+    1.543
+    1.0000
+    18.32
+    0.0000
+    0.000
+    0.0000
+    0.000
+    4.461.508
+    0.9244
+    17.31
+    0.0000
+    0.000
+    0.0756
+    1.416
+    4.341.504
+    0.8710
+    16.28
+    0.0000
+    0.000
+    0.1290
+    2.411
+    4.351.501
+    B+D
+    0.1382
+    2.550
+    0.6375
+    11.76
+    0.2243
+    4.138
+    4.42
+    1.487
+    C+D
+    0.2845
+    5.589
+    0.5418
+    10.64
+    0.1737
+    3.413
+    4.09
+    1.515
+    0.4932
+    10.96
+    0.4013
+    8.918
+    0.1055
+    2.344
+    3.501.574
+    0.0000
+    0.000
+    0.7228
+    12.57
+    0.2772
+    4.821
+    4.75
+    1.458
+    0.6979
+    15.51
+    0.2069
+    4.598
+    0.0952
+    2.12
+    3.50
+    1.569
+    B+D
+    0.7567
+    16.03
+    0.1359
+    2.879
+    0.1074
+    2.275
+    3.721.543
+    0.8710
+    16.16
+    0.0000
+    0.000
+    0.1290
+    2.393
+    4.391.561
+    0.6107
+    15.00
+    0.3412
+    8.382
+    0.0483
+    1.19
+    3.07
+    1.621
+    0.6312
+    15.51
+    0.3688
+    9.061
+    0.0000
+    0.000
+    3.071.646
+    B4C
+    0.5953
+    14.70
+    0.3305
+    8.162
+    0.0740
+    1.83
+    3.051.620
+    B+C+D
+    aThe w function is the moles of water divided by the sum of the molesof sodium chlorate,sodium chlorite and sodium chloride.bA=NaC102.3H20;
+    B NaC102;
+    C=NaC103;
+    D=NaCl
+    For the binary system the compiler computes the following:
+    soly of Nac103 1.711 mol kg-1 at 30c
+    Nacl
+    COMMENTS AND/OR ADDITIONAL DATA:
+    The phase diagrams are given below (based on mass units).
+    Nacl
+    MACI
+    NACI
+    NAG1
+    NaCl
+    NaC102
+    30°c
+    NaC1O3
+    /
+    NaC102
+    Naci03
+    25c
+    NaC102
+    45°c
+    NaC103
+
+==========第66页==========
+    90
+    Sodium Chlorate
+    COMPONENTS:
+    ORIGINAL MEASUREMENTS:
+    (1)Sodium chloride;NaCl;[7647-14-5]
+    Munter,P.A.;Brown,R.L.
+    (2)Sodium chlorate;NaC103;[7775-09-9]
+    (3)Potassium chloride;KCl;[7447-40-7]
+    J.Am.Ch2m.Sae.1943,65,2456-7.
+    (4)Potassium chlorate;KC103;[3811-04-9]
+    (5)Water;H20;[7732-18-5]
+    VARIABLES:
+    PREPARED BY:
+    Composition at 273 K and 313 K
+    Hiroshi Miyamoto and Mark Salomon
+    EXPERIMENTAL VALUES:
+    Mass compositions of saturated solutions at isothermally invariant points
+    t/occhloride
+    chlorate
+    sodium
+    potassium water
+    density/g cm-3solid phase
+    0
+    16.54
+    0.91
+    8.63
+    3.99
+    69.93
+    1.235
+    A+B+C
+    9.52
+    19.64
+    11.39
+    0.34
+    59.11
+    1.349
+    A+B+D
+    40
+    17.17
+    2.84
+    7.60
+    7.34
+    65.05
+    1.257
+    A+B+C
+    5.60
+    33.41
+    12.02
+    1.39
+    47.581.450
+    A+B+D
+    a Solid phases:A=KC103;
+    B NaC1;
+    C=KC1;D=NaC103
+    AUXILIARY INFORMATION
+    METHOD /APPARATUS /PROCEDURE:
+    SOURCE AND PURITY OF MATERIALS:
+    At 0C mixts were sealed in Pyrex bottles
+    C.p.grade salts were used without further
+    which were fastened to a rotor suspended in
+    purification.
+    a glycerol/water bath.At 40c mixts wereplaced in 250 ml 3-neck flasks and thermo-
+    The chlorates were found to be 99.9%pure.
+    stated in a water bath.The sIns were stir-red with glass stirrers provided withmercury seals.
+    Preliminary experiments identified mixtureswhich result in satd solutions,several ofwhich were used to prepare the solutionsreported in the data table above.The com-positions of four solutions were reported.
+    Equilibrated sIns were sampled by withdraw-
+    ESTIMATED ERROR:
+    ing aliquots with pipets fitted with cottonSoly:nothing specified but probably poorplugs.After determining densities the
+    due to method of analysis of Na.
+    solutions were diluted for analyses.
+    Temp:at0°c,precision is±0.1K.
+    at40°c,precision is±0.05K.
+    Chloride was detd by a modified Volhardmethod (1),and chlorate detd by the method
+    REFERENCES:
+    of Dietz as described in (2).Sodium was
+    1.Caldwell,J.R.;Moyer,H.V.Ind.Eng.
+    detd by pptn with zinc uranyl nitrate,and
+    Chem.Anae.Ed.1935,7,38.
+    potassium was detd by calculation based on
+    2.Kolthoff,I.M.;Furman,N.H.Volumetic
+    stoichiometry.Water was found by
+    Ana2y5,Vo2.I11929,388.
+    difference.
+
+==========第67页==========
+    Sodium Chlorate
+    91
+    COMPONENTS:
+    OR.IGINAL MEASUREMENTS:
+    (1)Sodiumchlorate;NaC103;[7775-09-9]
+    Nallet,A.;Paris,R.A.
+    (2)
+    Sodium chloride;NaCl;[7647-14-5]
+    Buee.Soc.Chim.(3)Potassium chlorate;KC103;[3811-04-9]
+    F九.1956，
+    494-7.
+    (4)
+    Potassium chloride;KC1;[7447-40-7]
+    (5)
+    Water;H20;[7732-18-5]
+    VARIABLES
+    PREPARED BY:
+    T/K=246.9t0393
+    Hiroshi Miyamoto
+    Composition
+    EXPERIMENTAL VALUES
+    easeyd PITos
+    0++V七42+1+七1+0+元(+3+VG+0+8+心S+日+9+G4+3+83+0+8D+1+8B+0+日
+    +G+8S+G+8美B+G+8
+    兰
+    802.126t.LG12.I塑合2e2.1C70.1PE2.1TELE'T3真！5。L1Y25.L4692.L15.L892.1三2:1용
+    口
+    iTes
+    o Iow /0CH3
+    2.251
+    兰58过日这S.6T18.22LC·6C188
+    2.U5
+    022727
+    7500.0898:226202S6真：28100.05400.08600.0P61:08010.00007810:0872.0855.0F2E.01850.5866.0C380-0990355:0170:0
+    6
+    :EOTOEN
+    ainqxTu
+    g66.0807:0566.0166.0270.0686.028.0
+    256.0200.0216.0爱
+    a[es snoipAqueZL7:05500.02600:0
+    6600:0558.0122:0
+    P22:0S710:0822:01610:0
+    2820-0
+    2780.08201-0016:0:IOEN185.0
+    302.0
+    066695050G50名885:0266.0166.0P51:2775.0786.0240.0186.0d2765.00
+    656.0
+    d
+    015.0S850:0
+    5060:0
+    2.95St'EZ-0.5-
+    0∞5.6
+    5.2-
+    유유888g
+    三
+
+==========第68页==========
+    92
+    Sodium Chlorate
+    COMPONENTS:
+    ORIGINAL MEASUREMENTS:
+    (1)Sodium chlorate;NaC103;[7775-09-9]
+    Nallet,A.;Paris,R.A.
+    (2)Sodium chloride;Nacl;[7647-14-5]
+    Buee.Soc.Chim.Fn.1956,494-7.
+    (3)Potassium chlorate;KC103;[3811-04-9]
+    (4)Potassium chloride;KC1;[7447-40-7]
+    (5)Water;H20;[7732-18-5]
+    EXPERIMENTAL VALUES
+    AUXILIARYINFORMATION
+    METHOD/APPARATUS /PROCEDURE
+    SOURCE AND PURITY OF MATERIALS:
+    The procedure of equilibration and the
+    The source and purity of materials were
+    method for analysis of the saturated
+    not given in the original paper,but
+    solutions were not described in the originalprobably similar to that described inpaper,but the compiler assumes that the
+    ref (1).
+    procedure and the method were similar tothat given in ref (1).
+    See the compilations for the
+    NaC103-KC103 -H20 and
+    NaC102-NaCl -H20 systems for completedescriptions of the experimental method.
+    ESTIMATED ERROR:
+    Nothing specified.
+    REFERENCES:
+    1.Nallet,A.;Paris,R.A.
+    Buee.Chem.Soc.Fr.1956,488.
+
+==========第69页==========
+    Sodium Chlorate
+    93
+    COMPONENTS
+    ORIGINAL MEASUREMENTS:
+    (1)Sodium chloride;Nacl;[7647-14-5]
+    Arkhipov,S.M.;Kashina,N.I.;Kuzina,V.A.
+    (2)Sodium chlorate;Nac103;[7775-09-9]
+    2h.Neog,Khim.1968,13,2872-6;
+    (3)Rubidium chloride;RbCl;[7791-11-9]
+    Rud&.J.Ino九g.Chem,【Enge.Transe.}
+    1968,13,1476-9.(4)
+    Rubidium chlorate;RbC103;[13446-71-4]
+    (5)Water;H20;[7732-18-5]
+    VARIABLES:
+    PREPARED BY:
+    Composition at 298.2 K
+    Hiroshi Miyamoto
+    EXPERIMENTAL VALUES:
+    Composition of saturated solutionsa
+    NaCl
+    NaC103
+    RbC1
+    RbC103
+    Nature of the
+    t/°C
+    mass mol%
+    mass mol
+    mass
+    mol
+    massmol
+    solid phase
+    25
+    2
+    1.08
+    48.20
+    12.63
+    0.82
+    0.15
+    2.25
+    1.18
+    45.80
+    11.62
+    0.82
+    0.15
+    AS
+    4.45
+    2.31
+    43.18
+    10.83
+    0.84
+    0.15
+    7.07
+    3.62
+    40.07
+    9.908
+    0.85
+    0.15
+    4
+    9.74
+    4.95
+    37.33
+    9,165
+    0.91
+    0.16
+    %
+    13.32
+    6.634
+    33.95
+    8.172
+    C+A
+    13.59
+    6.807
+    33.12
+    8.018
+    0.98
+    0.17
+    A+B+C
+    13.64
+    6.862
+    33.38
+    8.116
+    0.99
+    0.17
+    13.52
+    6.771
+    33.19
+    8.033
+    0.95
+    0.16
+    15.98
+    7.495
+    26.08
+    5.912
+    1.15
+    0.187
+    C+B
+    18.91
+    8.252
+    17.69
+    3.731
+    1.37
+    0.207
+    M
+    21.31
+    8.886
+    10.77
+    2.1712.
+    43
+    0.351
+    23.69
+    9.637
+    5.19
+    1.02
+    3.83
+    0.539
+    2
+    25.4710.24
+    6.40
+    0.890
+    24.06
+    9.727
+    3.49
+    0.774
+    4.58
+    0.640
+    22.71
+    9.308
+    7.80
+    1.76
+    一
+    2.91
+    0.413
+    2.16
+    0.312
+    n
+    21.00
+    8.777
+    11.79
+    2.706
+    t
+    18.57
+    8.092
+    17.80
+    4.259
+    1.82
+    0.274
+    15.79
+    7.19523.95
+    5.992
+    1.71
+    0.270
+    continued.
+    AUXILIARYINFORMATION
+    METHOD/APPARATUS/PROCEDURE
+    SOURCE AND PURITY OF MATERIALS:
+    The isothermal method was used.
+    Equili-
+    The NaC1,NaC103,RbC1 and Rbe103 had a
+    brium was reached in 30 hours,
+    purity of <99.9%.
+    Samples of solid and liquid phases wereanalyzed,rubidium being determined as thetetraphenylborate or when at lower concen-tration,by flame photometry,and chloridedetermined argentometrically.Chlorate wasfound by adding an excess of iron(II)sul-fate to an aliquot of saturated solution andback-titrating with potassium permanganate.
+    Sodium was determined by difference.Thesolid phases were identified by the methodof residues and by X-ray diffraction.
+    ESTIMATED ERROR:
+    Soly:nothing specified.
+    Temp:precision0.1 K.
+    REFERENCES
+
+==========第70页==========
+    94
+    Sodium Chlorate
+    COMPONENTS:
+    ORIGINAL MEASUREMENTS
+    (1)
+    Sodium chloride;NaCl;[7647-14-5]
+    Arkhipov,S.M.;Kashina,N.I.;Kuzina,V.A.
+    (2)
+    Sodium chlorate;NaC103;[7775-09-9]
+    (3)
+    Rubidium chloride;RbC1;[7791-11-9]
+    Zh.Neog.Khdm.1968,13,2872-6;
+    Russ.J.Inong.Chem.(Enge.Thanse.
+    (4)
+    Rubidium chiorate;RbC103;[13446-71-4]
+    1968,13,1476-9.
+    (5)Water;H20;[7732-18-5]
+    EXPERIMENTAL VALUES:(Continued)
+    Compositionof saturated solutionsa
+    NaC1
+    NaC103
+    RbC1
+    RbC13
+    Nature of the
+    t/°C
+    mass mol
+    mass mol%
+    mass
+    mol%
+    massmol
+    solid phaseb
+    11.82
+    5.793
+    34.829.370
+    C+D
+    11.79
+    5.887
+    34.53
+    9.466
+    1.59
+    0.275
+    C+D+B
+    11.66
+    5.825
+    34.61
+    9.493
+    1.65
+    0.285
+    t
+    11.76
+    5.899
+    34.85
+    9.599
+    1.64
+    0.285
+    8.71
+    4.47
+    39.07
+    11.02
+    1.68
+    0.299
+    D+B
+    5.66
+    3.04
+    44.81
+    13.22
+    1.67
+    0.310
+    N
+    3.151.65
+    45.2713.04
+    1.65
+    0.300
+    49.44
+    14.58
+    --
+    1.70
+    0.316
+    a Mole fractionscalculated by the compiler.b A=RbC1;
+    B RbC103;
+    C NaC1;
+    D NaC103
+    10c
+    NaCL
+    RbCLOy
+    1
+    RbCL
+    16
+    NaCL0
+    2
+    2H
+    RbCL
+    bc103
+    0
+    RbClOj
+    4
+    20h
+    Nacto
+    15
+    ク7 21
+    20
+    406080NaCLO
+    The Nat,Rb+cl,C1o-Ho system at25°C
+    Circles:composition of liquid phase;black points:composition of residues;crosses:composition of soild phases.
+
+==========第71页==========
+    Sodium Chlorate
+    95
+    COMPONENTS:
+    ORIGINAL MEASUREMENTS
+    (1)Sodium chloride;Nacl;[7647-14-5]
+    Arkhipov,S.M.;Kashina,N.I.
+    (2)Sodium chlorate;NaC103;[7775-09-9]
+    Zh.Necg.Khim.1970,15,760-4;
+    (3)Cesium chloride;Cacl;[7647-17-8]
+    Rus6.J.Inong.Chem.(Enge.Transe.)
+    (4)Cesium chlorate;CsC103;[13763-67-2]
+    1970,15,391-2.
+    (5)Water;H20;[7732-18-5]
+    VARIABLES
+    PREPARED BY:
+    Composition and temperature
+    T/K=298.2,323.2and348.2K
+    Hiroshi Miyamoto
+    EXPERIMENTAL VALUES:
+    The phase diagram is given below,and numerical data follow on the next two pages.
+    CsCl
+    CsC1O3
+    solid solutions
+    NaCl-CsCl
+    80
+    60
+    CsC103
+    0
+    2\
+    20
+    Nacl
+    NaClO3
+    \a
+    6
+    0
+    Nacl
+    20
+    60
+    025NaC103
+    The Cs+,Na+Cl-,C103--H20 systems at 25c (a),50c (b)and 75c (c)
+    continued.,.·,
+    AUXILIARY INFORMATION
+    METHOD /APPARATUS/PROCEDURE:
+    SOURCE AND PURITY OF MATERIALS:
+    Solubility was investigated by the isotherm-
+    "Chemically pure"grade Nacl,NaC103,CsC1
+    al method by mixing the solid and liquid
+    and CsC103 with a purity of 99.5 or
+    phases in glass test-tubes in a water ther-
+    better were used.
+    mostat.
+    Samples of liquid and solid phases wereanalyzed for the anions and cesium.Chlo-ride was titrated with silver nitrate solu-tion by using potassium chromate as indica-tor.Chlorate was found by adding excessiron(II)sulfate to an aliquot of saturatedsolution and back-titrating with potassiumpermanganate solution.Cesium was deter-mined gravimetrically as cesium tetraphenyl-
+    ESTIMATED ERROR:
+    borate.Sodium was found by difference.
+    Soly:nothing specified.
+    The solid phases were identified by themethod of residues,and X-ray diffraction.
+    Temp:precision 0.1 K.
+    REFERENCES
+
+==========第72页==========
+    96
+    Sodium Chlorate
+    COMPONENTS:
+    ORIGINAL MEASUREMENTS
+    (1)Sodium chloride;Nacl;[7647-14-5]
+    Arkhipov,S.M.;Kashina,N.I.
+    (2)Sodium chlorate;Nac103;[7775-09-9]
+    (3)
+    Cesium chloride;Csc1;[7647-17-8]
+    Zh.Neong..Khim.1970,15,760-4;
+    Russ.J.Inona.Chem.(Enge.Transe.
+    (4)Cesium chlorate;CsC103;[13763-67-2]
+    1970,15,391-2.
+    (5)Water;H20;[7732-18-5]
+    EXPERIMENTAL VALUES:(Continued)
+    苦:::3罟
+    용墨
+    81871h05
+    时9
+    N
+    21
+    ooo66'
+    66
+    do
+    pezeinzes
+    ssew
+    计沿86品
+    な응8すな9
+    88888門
+    oooOOoO
+    寸品F8
+    。ggn寸m日。{{}11}}
+    昌
+    공8好N9N8Ad8P
+    8988gg年过对As。}!{!!!!1
+    !}目}！}！网四
+    n유9Ndd8
+    !:!!!!!!!!o的s；；；9g
+    8品9品守68g용68
+    君贯总
+    HNm66
+    ni
+    2
+    688Nn서8
+    oimoo
+    ii
+    日
+
+==========第73页==========
+    Sodium Chlorate
+    97
+    COMPONENTS:
+    ORIGINAL MEASUREMENTS
+    (1)
+    Sodium chloride;NaCl;[7647-14-5]
+    Arkhipov,S.M.Kashina,N.I.
+    (2)
+    Sodium chlorate;NaC103;[7775-09-9]
+    Zh.Neog.Khim.1970,15,760-4;
+    (3)
+    Cesium chloride;CsCl;[7647-17-8]
+    Russ.J.Inong.Chem.(Enge.Transe.)
+    (4)
+    Cesium chlorate;CsC103;[13763-67-2]
+    1970,15,391-2.
+    (5)Water;H20;【7732-18-5]
+    EXPERIMENTAL VALUES
+    (Continued)
+    黑罟3+0+8용g+(+2罢
+    A+8+용
+    罢
+    IouD25.O
+    840.0169.020.225.言三
+    Z5
+    uoTinlos
+    ￥子
+    82.5
+    兰云
+    PIlos
+    06.60I9'ZIT7'ZI
+    6
+    35.0282.568:51
+    02t1010m1500
+    1O(SOeN)
+    86.9980.55
+    /76:820.2m26.35
+    :
+    26.12
+    IOeN
+    20.5576:10
+    66.75
+    Iom
+    云80.517.5
+    浮
+    牙
+    apTiot4o
+    mnTpoS
+    解萨吉
+    子云其
+    TOs
+    分
+    R
+
+==========第74页==========
+    98
+    Sodium Chlorate
+    COMPONENTS
+    ORIGINAL MEASUREMENTS:
+    (1)Sodium chlorate;NaCl03;[7775-09-9]
+    Isbin,H.S.;Kobe,K.A.
+    (2)1,2-Ethandiol (ethylene glycol);
+    J.m,Ch2m.Scc.1945,67,464-5.
+    C2H602;[107-21-1]
+    VARIABLES:
+    PREPARED BY:
+    T/K=298
+    Hiroshi Miyamoto
+    EXPERIMENTAL VALUES:
+    The solubility of Nac103 in ethylene glycol at 25C is
+    16.0g/100g solvent
+    (authors)
+    1.50mo1kg1
+    (compiler)
+    AUXILIARY INFORMATION
+    METHOD /APPARATUS /PROCEDURE
+    SOURCE AND PURITY OF MATERIALS:
+    The solvent and excess solid were sealed in
+    Technical grade ethylene glycol (Carbide
+    a soft glass test-tube and rotated for at
+    and Carbon Chem.Co)was used,and
+    least one week in a water thermostat at
+    purified by fractionation.Analytical
+    25°C.
+    grade NaC103 was used.
+    All analyses were made on a weight basisby use of weighing pipets.Both the stand-ard gravimetric determination of chlorideand the volumetric method,using dichloro-fluoresein as an indicator,were used.Thechlorate was reduced to the chloride byboiling with excess sulfurous acid.
+    ESTIMATED ERROR:
+    Soly:precision within 0.5 %
+    Temp:precision 0.08 K.
+    REFERENCES
+
+==========第75页==========
+    Sodium Chlorate
+    99
+    COMPONENTS
+    ORIGINAL MEASUREMENTS:
+    (1)Sodium chlorate;NaC103;[7775-09-9]
+    Isbin,H.S.;Kobe,K.A.
+    (2)
+    2-Aminoethanol(monoethanolamine)
+    J.Am.Chem.Soc.1945,67,464-5.
+    C2H7N0;[141-43-5]
+    VARIABLES:
+    PREPARED BY:
+    T/K=298
+    Hiroshi Miyamoto
+    EXPERIMENTAL VALUES:
+    The solubility of NaCl03 in monoethanolamine at 25c is
+    19.7g/100g solvent
+    (authors)
+    1.85mo1kg1
+    (compiler)
+    AUXILIARY INFORMATION
+    METHOD /APPARATUS /PROCEDURE
+    SOURCE AND PURITY OF MATERIALS:
+    The solvent and excess solid were sealed in
+    Technical grade monoethanolamine (Carbide
+    soft glass test-tubes and rotated for at
+    and Carbon Chem Co)was used,and purified
+    least one week in a water thermostat.
+    by careful fractionation.
+    All analyses were made on a weight basis by
+    Analytical grade Nacl03 was used.
+    use of weighing pipets.Both the standardgravimetric determination of chloride andthe volumetric method,using dichloro-fluoresein as an indicator,were used.Thechlorate was reduced to the chloride byboiling with excess sulfurous acid.
+    ESTIMATED ERROR:
+    Soly:precision within 0.5%.
+    Temp:precision0.08 K.
+    REFERENCES:
+
+==========第76页==========
+    100
+    Sodium Chlorate
+    COMPONENTS
+    ORIGINAL MEASUREMENTS:
+    (1)Sodium chlorate;Nac103;[7775-09-9]
+    Miravitlles,Mille L.
+    (2)2-Propanone (acetone);C3H60;
+    Ann.Fis.Quim.(Madrid)1945 41,120-37.
+    [76-64-1]
+    VARIABLES:
+    PREPARED BY:
+    T/K=288,293and298
+    H.Herrera
+    EXPERIMENTAL VALUES:
+    Solubilitya
+    t/°c
+    mass
+    mol kg-1
+    15
+    0.1038
+    0.009762
+    20
+    0.0961
+    0.009037
+    25
+    0.0943
+    0.008868
+    aMolalities calculated by H.Miyamoto
+    AUXILIARY INFORMATION
+    METHOD /APPARATUS /PROCEDURE
+    SOURCE AND PURITY OF MATERIALS:
+    Saturated solutions were prepared in an
+    Commercial redistilled acetone.This
+    Erlenmeyer flask by mixing the dried acetone
+    acetone was then dehydrated three times by
+    with an excess of halate for two hours.The
+    leaving it in contact with calcium chloride
+    solution was constantly stirred by bubbling
+    for forty eight hours each time.Fresh
+    dry air (air was dried by passing it through
+    Cac12 was used in each operation.Finally
+    Cacl2 while pumping it into the solution).
+    the dehydrated acetone was distilled at
+    Air going out from the flask after bubbling
+    56.3°C.
+    in the solution carried some acetone vapor
+    during this operation.The solution tempera-Source and purity of Nac103 not specified.ture was kept constant by immersing the flaskin a constant temperature water bath.Aftertwo hours,the air exit was closed.Theresulting pressure forced the saturated
+    ESTIMATED ERROR:
+    solution from the Erlenmeyer through a tubefilled with cotton (which acted as a filter)
+    Nothing specified.
+    and was collected in a small flask.Thisflask was stoppered and weighed.The halatecontained in the sample was weighed aftercomplete evaporation of acetone.In all
+    REFERENCES:
+    cases,weights were reported to the fourthdecimal figure.
+
+==========第77页==========
+    Sodium Chlorate
+    101
+    COMPONENTS:
+    ORIGINAL MEASUREMENTS:
+    (1)Sodium chlorate;NaC103;[7775-09-9]
+    Isbin,H.S.;Kobe,K.S.
+    (2)1,2-Ethanediamine(ethylene-
+    J.Am.Chem.Soc.1945,67,464-5.
+    diamine);C2HgN2;[107-15-3]
+    VARIABLES:
+    PREPARED BY:
+    T/K=298
+    Hiroshi Miyamoto
+    EXPERIMENTAL VALUES:
+    The solubility of Nac103 in ethylenediamine at 25C is
+    52.8g/100g solvent
+    (authors)
+    4.96mo1kg1
+    (compiler)
+    AUXILIARY INFORMATION
+    METHOD/APPARATUS /PROCEDURE
+    SOURCE AND PURITY OF MATERIALS:
+    The solvent and excess solid were sealed
+    Ethylenediamine was dehydrated and
+    in soft glass test-tubes and rotated for
+    purified by the method given in ref.1.
+    at least one week in a water thermostat at
+    Analytical grade Nac103 was used.
+    25C.All analyses were made on a weightbasis by use of weighing pipets.Both thestandard gravimetric determination ofchloride and the volumetric method,usingdichlorofluoresein as an indicator,wereused.The chlorate was reduced to thechloride by boiling with excess sulfurousacid.
+    ESTIMATED ERROR:
+    Soly:precision within 0.5 %
+    Temp:precision +0,08 K.
+    REFERENCES:
+    1.Putnam,G.L.;Kobe,K.A.Thans.
+    Eeectrochem.Soc.1938,74,609
+
+==========第78页==========
+    102
+    Sodium Chlorate
+    COMPONENTS:
+    ORIGINAL MEASUREMENTS:
+    (1)Sodium chlorate;NaclO3;[7775-09-9]
+    Starkovich,J.A.;Janghorbani,M.
+    (2)Tetrahydrothiophene 1,1-dioxide
+    J.Inong、Nuc2.Chem.1972,34,789-91.
+    (su1fo1ane);c4Hg02S;[126-33-0]
+    VARIABLES:
+    PREPARED BY:
+    T/K=313.2
+    Hiroshi Miyamoto
+    EXPERIMENTAL VALUES:
+    The authors reported results for two solubility determinations at 40C:
+    40±2mo1dm-3
+    33±2mmo1dm-3
+    The mean of the two values is
+    36±5mmo1dm-3
+    AUXILIARY INFORMATION
+    METHOD /APPARATUS /PROCEDURE:
+    SOURCE AND PURITY OF MATERIALS:
+    Excess salt and solvent were sealed in 5 ml
+    Sulfolane (Sheii Chemical Co.)was distilled
+    glass ampules and equilibrated at 40c for
+    twice under vacuum at temperatures less than
+    250-300 hours with periodic shaking.1 ml
+    100C.The purified solvent was found to
+    aliquots were transferred in the laboratory
+    contain less than 0.02 mass water by Karl
+    atmosphere to 1/2 dram polyethylene vials
+    Fischer titration.
+    and sealed.These 1/2 dram vials were thensealed in 2 dram vials,and the chloride
+    Reagentgrade Nac103 was used.
+    content determined by neutron activation(38C1 activity).Each sample was irradiatedtwice for 30 minutes at neutron fluxes of
+    2.8 x 1010 and 5.6 x 109 neutrons cm-2sec-1.A calibration plot of 38C1 activityvs chloride concentration was used for theanalyses.
+    ESTIMATED ERROR:
+    After each activation the 1/2 dram vials
+    Soly:precision about 15 (compiler).
+    were placed in new 2 dram vials,and
+    Temp:precision+0.5 K.
+    Y-radiation counted in a NaI(Tl)well detec-tor coupled to a 400 channel analyzer.Boththe 1.64 and 2.16 Mev peaks were used for
+    REFERENCES:
+    the analyses,and were corrected for Comptomscattering and decay.Where interferenceswere noted,only one Y.ray was used.
+
+==========第79页==========
+    Sodium Chlorate
+    103
+    COMPONENTS
+    ORIGINAL MEASUREMENTS:
+    (1)Sodium chlorate;NaC103;[7775-09-9]
+    Paul,R.C.;Sreenathan,B.R.
+    (2)Dimethylformamide;C3H7NO;[68-12-2]
+    1 ndian J.Chem.1966,4,382-6.
+    VARIABLES:
+    PREPARED BY:
+    One temperature:298.2 K
+    Mark Salomon and Hiroshi Miyamoto
+    EXPERIMENTAL VALUES:
+    The solubility of Nacl03 in HCON(CH3)2 was reported as
+    23.4 g/100 g solvent (2.198 mol kg-1,compiler)
+    The solid phase is the anhydrous salt.
+    AUXILIARY INFORMATION
+    METHOD /APPARATUS /PROCEDURE:
+    SOURCE AND PURITY OF MATERIALS:
+    Isothermal method used.Excess salt and
+    Dimethylformamide (Baker "analyzed"grade)
+    10 ml of solvent were placed in a Pyrex test
+    was further purified as described in (1).
+    tube,sealed,and rotated in a constanttemperature water-bath for 24-30 hours.The
+    A.R.grade Nac103 was warmed and placed
+    seal was broken in a dry box and the slurry
+    under vacuum for 6-8 hours.
+    quickly filtered.The authors state thatthe metal was estimated from a known
+    quantity of the saturated (filtered)solu-tion,but no details were given.The satu-rated solution was colorless,and the heatof solution estimated to be less than 10kcal mol-1 (42 kJ mol-1):method used toestimate the heat of solution was not des-cribed.
+    ESTIMATED ERROR:
+    Soly:nothing specified.
+    Temp:precision+0.1 K.
+    REFERENCES:
+    1.Paul,R.C.;Guraya,P.S.;
+    Sreenathan,B.R.Indian J.Chem.1963,1,335.
+
+==========第80页==========
+    104
+    Sodium Chlorate
+    COMPONENTS:
+    ORIGINAL MEASUREMENTS:
+    (1)Sodium chlorate;NaC103;[7775-09-9]
+    Welsh,T.W.B,;Broderson,H.J.
+    (2)Hydradzine;N2H4;[302-01-2]
+    J.Am.Chem.S0c.1915,37,816-24.
+    VARIABLES:
+    PREPARED BY:
+    Room temperature (Compiler's assumption)
+    Mark Salomon and Hiroshi Miyamoto
+    EXPERIMENTAL VALUES:
+    The solubility of Nac103 in hydrazine at room temperature was given as:
+    0.66g/1cm3N2H4
+    The authors stated that the chief object of the research was to obtain qualitativeand approximate quantitative data,and the temperature was not kept constant.
+    AUXILIARY INFORMATION
+    METHOD /APPARATUS /PROCEDURE:
+    SOURCE AND PURITY OF MATERIALS:
+    The solubility vessel was a glass tube to
+    Anhydrous hydrazine was prepd by first par-
+    which a U-shaped capillary tube was attached
+    tially dehydrating commercial hydrazine
+    to the bottom,A stopcock at the end of the
+    with sodium hydroxide according to the
+    capillary permitted the adjustment of the
+    method of Raschig (1).Further removal of
+    rate of flow of dry nitrogen.About 1 cc
+    water by distillation from barium oxide
+    of anhydrous hydrazine was placed in the
+    after the method of de Bruyn (2).The dis-
+    tube,and small amounts of Nac103 added from
+    tillation apparatus employed and the pro-
+    weighing bottle.
+    cedure followed in the respective distilla-
+    After each addition of Nac103,a loosely
+    tion were those described by Welsh (3).The
+    fitting cork was placed in the top of the
+    product was found on analysis to contain
+    solubility tube.
+    Nitrogen was bubbled
+    99.7 hydrazine.The hydrazine was stored
+    through solution until the salt dissolved.
+    in 50 cm3 sealed tubes.Sodium chlorate
+    The process was repeated until no more salt
+    was the ordinary pure chemical of standard
+    would dissolve.Temperature was not kept
+    manufacture.
+    constant.
+    ESTIMATED ERROR:
+    The accuracy in this method is very poor.
+    Soly:accuracy 50 at best (compilers).
+    In addition the authors stated that it wasdifficult to prevent the oxidation of
+    REFERENCES
+    hydrazine.
+    1.Raschig,F.Ber.Dtsch.Chem.Ges.1927,
+    43,1927.:Hale,C.F.;Shetterly,F.F.
+    J.Am.Chem.S0c.1911,33,1071.
+    2.de Bruyn,L.Rec.Trav.Chim.Pays-Bas.1895,14,458.
+    3.Weish,T.W,J.Am.Chem.Soc.1915,37,497.
+
+==========第81页==========

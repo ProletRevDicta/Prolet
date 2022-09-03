@@ -1,0 +1,943 @@
+    J.Biochem.133,783-790(2003)
+    D0I:10.1093/ib/mvg100
+    Enhancement of Neurite Outgrowth-Promoting Activity by Heparin
+    Derivatives in Sodium Chlorate-Treated Explant Cultures of Rat
+    Central Neurons
+    Seigo Usukil",Yutaka Kariyal,Harald Rosner2,Masayuki Ishihara3,
+    Takashi Sakamotol,Hiroyuki Masudal and Mamoru Kyogashimal
+    Central Research Laboratories,Seikagaku Corporation,3-1253 Tateno,Higashiyamato,Tokyo 207-0021;2Instituteof Zoology,The University of Hohenheim,Garbenstr.30,70593 Stutgart,Germany;and 3Research Institute,
+    National Defense Medical College,3-2 Namiki,Tokorozawa,Saitama 359-8513
+    Received March 4,2003;accepted April 8,2003
+    Periodate-oxidized/borohydride-reduced 2-0-desulfated heparin (OR2DSH)was pre-pared using intact heparin from pig intestine as the starting material.Successivetreatments of the heparin by oxidation with sodium periodate and reduction withsodium borohydride yielded periodate-oxidized/borohydride-reduced heparin (OR-heparin).Subsequent 2-0-desulfation of OR-heparin,according to a previously estab-lished method,yielded OR2DSH.Digestion of OR2DSH with heparitinases generatedunsaturated disaccharides,comprising 86.5%ADiHS-(6,N)S (AUA1->4GlcNS(6S))and
+    13.5%ADiHS-NS (AUA1-4GlcNS),as well as undigested oligosaccharides in whichuronate moieties were derivatized by the cleavage of the covalent bond between the
+    C-2 and C-3 positions by periodate-oxidation.The molecular mass of OR2DSH wasdetermined to be 11 kDa,which is almost the same as those of other heparin deriva-tives such as 2-0-desulfated heparin (2DSH),6-0-desulfated heparin (6DSH)and N-desulfated N-reacetylated heparin (NDSNAc-heparin).The ability of OR2DSH toenhance neurite outgrowth-promoting activity was evaluated using the explant cul-ture of neocortical tissue from rat embryo in which endogenous heparan sulfate atthe cell surface lost substantial numbers of sulfate groups by the action of 40 uMsodium chlorate.The maximum activity of OR2DSH(29.7%)was achieved at 10 ug/ml,and those of OR-heparin (21.7%),2DSH(18.7%)and intact heparin (16.3%)were 100 ug/ml,whereas that of NDSNAc-heparin (16.5%)was 1,000 ug/ml.Completely 6-0-desul-fated heparin (100:6DSH)exhibited very weak activity (3.3%)at 1,000 ug/ml.Theseresults suggest that the potency of OR2DSH to enhance neurite outgrowth-promotingactivity is exerted synergetically by two different components in OR2DSH,ie.,the
+    IdoA a1->4GlcNS(6S)unit,which contains 6-0-and 2-N-sulfate groups,and the uro-nate moiety in which the covalent bond between C-2 and C-3 is cleaved,although themode of action remains to be clarified.
+    Downloaded from http://jb.oxfordjournals.org/at University of Ulster on April 9,2015
+    Key words:neocortical tissue,neurite outgrowth,periodate-oxidized/borohydride-reduced 2-0-desulfated heparin,6-0-desulfated heparin,sodium chlorate-treatment.
+    Abbreviations:CDSNAc-heparin,completely desulfated N-reacetylated heparin;CDSNS-heparin,completely desul-fated N-resulfated heparin;CS-C,chondroitin sulfate C;ADiHS-OS,2-acetamido-2-deoxy-4-0-(4-deoxy-a-L-threo-hex-4-enopyranosyl uronic acid)-D-glucose;ADiHS-NS,2-deoxy-2-sulfamino-4-0-(4-deoxy-a-L-threo-hex-4-enopyranosy-luronic acid)-D-glucose;ADiHS-6S,2-acetamido-2-deoxy-4-O-(4-deoxy-a-L-threo-hex-4-enopyranosyluronic acid)-6-O-sulfo-D-glucose;ADiHS-US,2-acetamido-2-deoxy-4-0-(4-deoxy-2-0-sulfo-a-L-threo-hex-4-enopyranosyl uronic acid)-D-glucose;ADiHS-(6,N)S,2-deoxy-2-sulfamino-4-O-(4-deoxy-a-L-threo-hex-4-enopyranosyluronic acid)-6-O-sulfo-D-glu-cose;ADiHS-(U,N)S,2-deoxy-2-sulfamino-4-O-(4-deoxy-2-O-sulfo-a-L-threo-hex-4-enopyranosyluronic acid)-D-glucose;ADiHS-(U,6)S,2-acetamido-2-deoxy-4-O-(4-deoxy-2-O-sulfo-a-L-threo-hex-4-enopyranosyluronic acid)-6-O-sulfo-D-glu-cose;ADiHS-triS,2-deoxy-2-sulfamino-4-O-(4-deoxy-2-O-sulfo-a-L-threo-hex-4-enopyranosyluronic acid)-6-O-sulfo-D-glucose;AUA,unsaturated uronic acid;DMEM,Dulbecco's modified Eagle's medium;FGF,fibroblast growth factor;FGFR,fibroblast growth factor receptor;GAG,glycosaminoglycan;GlcA,glucuronic acid;GlcNAc,N-acetylglu-cosamine;GlcNS,N-sulfoglucosamine;HA,hyaluronic acid;HGF,hepatocyte growth factor;HPLC,high performanceliquid chromatography;HSase,heparitinase;IdoA,iduronic acid;IGF,insulin-like growth factor;MAP-kinase,mitogen-activated protein kinase;MTSTFA,N-methyl-N-(trimethylsilyl)trifluoroacetamide;NCAM,neural cell adhe-sion molecule;NDSNAc-heparin,N-desulfated N-reacetylated heparin;NGF,nerve growth factor;OR-heparin,perio-date-oxidized/borohydride-reduced heparin;OR2DSH,periodate-oxidized/borohydride-reduced 2-O-desulfated heparin;6DSH,6-0-desulfated heparin;100:6DSH,completely 6-0-desulfated heparin;2DSH,2-O-desulfated heparin.
+    Neurite outgrowth is a representative feature of morpho-
+    "Present address:Institute of Molecular Medicine and Genetics
+    Medical College of Georgia,1120 15th Street,Augusta,GA30912
+    logical changes in neuronal tissue,resulting in the for-
+    Georgia,USA.
+    mation of synaptic connections during development (1).
+    "To whom correspondence should be addressed.Tel:+81-42-563-5823,
+    In this process,the interaction between a neuritogenic
+    Fax:+81-42-563-5848,E-mail:kariya@seikagaku.co.jp
+    substance and its receptor on the surface of a neuronal
+    Vol.133,No.6,2003
+    783
+    2003 The Japanese Biochemical Society.
+
+==========第1页==========
+    784
+    S.Usuki et al.
+    cell triggers neurite outgrowth (2),followed by signal
+    fate groups,and the uronate moiety in which a covalent
+    transduction through the mitogen-activated protein(MAP-)
+    bond between C-2 and C-3 is cleaved,exert synergetically
+    kinase pathway (3-5)and through the pathways of rho
+    potent activity to enhance neurite outgrowth in chlorate-
+    family proteins such as Rho GTPases (6-8).The former
+    treated neocortical explant culture
+    pathway is involved in the reorganization of microtubules towards the future direction of neurite outgrowth
+    MATERIALS AND METHODS
+    (1),whereas the latter pathways are involved in theinduction of actin polymerization,and so on (9).Several
+    Materials-Heparin sodium salt was purchased from
+    varieties of neuritogenic substances,including nerve
+    Scientific Protein Laboratories (Waunakee,WI).Sodium
+    growth factor(NGF)(2),a synthetic peptide ligand of the
+    chlorate and sodium periodate were purchased from
+    neural cell adhesion molecule (NCAM)(10),GM1 gan-
+    Wako (Tokyo).Heparitinase I [EC 4.2.2.8],heparitinase
+    glioside in the plasma membrane (11),and a peptide cor-
+    II(no EC number),and heparinase (heparitinase III)[EC
+    responding to the homophilic binding site of the second Ig
+    4.2.2.7],and standard unsaturated disaccharides (H-
+    module for NCAM (12),etc,have been reported.
+    Kit).and chemically modified heparin derivatives
+    Although glycosaminoglycans(GAGs),such as heparin
+    (CDSNAc-heparin,CDSNS-heparin,and NDSNAc-
+    and heparan sulfate,have been shown to be involved in
+    heparin)were obtained from Seikagaku Corporation
+    the growth and differentiation of cells comprising the
+    (Tokyo).N-Methyl-N-(trimethylsilyl)trifluoro acetamide
+    nervous system (13,14),their neuritogenic functions are
+    (MTSTFA)was purchased from Azmax (Chiba).2-0-des-
+    not fully understood from the viewpoint of physiological
+    ulfated heparin (2DSH)was prepared according to the
+    mechanism(s).In terms of structure,heparan sulfate is
+    previously described method (23.24).
+    heterogenous depending on the source from which it is
+    MEM amino acid solution (No.11130-051)and MEM
+    prepared.Heparan sulfate contains a linear polysaccha-
+    vitamin solution (No.11120-0523)were purchased from
+    ride structure in which the main repeating disaccharide
+    Gibco (Paisley,Scotland).Sulfate-free Dulbecco's modi-
+    unit is composed of glucuronic acid (GlcA)and N-
+    fied Eagle's medium(DMEM)was prepared in 2.5 liters
+    acetylglucosamine (GlcNAc).The GlcA moieties are par-
+    of sterilized distilled water by adding 500 mg of anhy-
+    tially converted enzymatically to iduronic acid (IdoA)
+    drous CaCl2,0.25 mg of Fe(NO)/9H2O,1.0 g of KCl,193.3
+    moieties by the action of C-5 epimerase (15),and the 0-2
+    mg of MgCl2,9.25 g of NaHCOs,312.5 mg of NaH,PO/
+    positions of IdoA moieties are partially sulfated by the
+    H2O,37.5 mg of Phenol Red,275 mg of sodium pyrvate,
+    action of 2-0-sulfotransferase (16),whereas GlcNAc moi-
+    100 ml of MEM amino acid solution,75 mg of L-
+    eties are derivatized to GlcNS(6S)by the actions of N
+    glutamine,105 mg of L-serine,100 ml of MEM vitamin
+    deacetylase/N-sulfotransferase (17)and 6-0-sulfotrans-
+    solution,15.15 g of NaCl,and 11.25 g of D-glucose.The
+    ferase(18)during the biosynthesis of heparan sulfate.
+    solution was then adjusted to pH 7.2.
+    The biological functions of heparan sulfate are highly
+    A pregnant Wistar rat was purchased from SLC
+    diverged,possibly because heparin and heparan sulfate
+    (Tokyo).Other reagents used were of analytical grade.
+    possess similar active domain structures (19).With the
+    Preparation of Periodate-Oxidized Brohydride-Reduced
+    accumulation of information concerning the biological
+    2-0-Desulfated Heparin-The preparation of periodate-
+    versity
+    roles of heparin and heparan sulfate,it has been revealed
+    oxidized/borohydride-reduced2-0-desulfated heparin
+    that their functions depend mostly upon interactions
+    (OR2DSH)was performed according to the following pro-
+    between polysaccharides and physiologically active mole-
+    cedure.To 1.3 g of heparin sodium salt was added 50 ml
+    cules (20-22).In order to investigate the unique struc-
+    of a reaction solution containing 50 mM sodium periodate
+    ture of heparin with the active molecules,various chemi-
+    and 50 mM sodium acetate (pH 5.0),and the oxidation
+    cal modifications of heparin have been undertaken
+    reaction was carrried out at 4C for 3 days.The reaction
+    April 9,
+    Among such modification techniques,effective methods
+    was terminated by the addition of sufficient glycerol
+    for the removal of specific sulfate groups of heparin,such
+    (final concentration:250 mM)to degrade the excess peri-
+    201
+    as 2-0-sulfate(23,24),6-0-sulfate (25,26),and 2-N-sul-
+    odate.The reaction mixture was dialyzed against dis-
+    fate groups(27-29),have been established and a series of
+    tilled water for 2 days and then lyophilized,yielding 1.2 g
+    specific desulfated heparin derivatives have been pre-
+    of periodate-oxidized heparin.The oxidized material was
+    pared.
+    dissolved in 30 ml of 0.2 M sodium borohydride and
+    In the present study,heparin was modified succes-
+    allowed to stand at 4C for 3 h in order to reduce the alde-
+    sively by oxidation with sodium periodate (30),reduction
+    hyde groups generated during oxidation.After termina-
+    with sodium borohydride,and 2-0-desulfation (23,24)
+    tion of the reaction,the reaction mixture was adjusted to
+    yielding periodate-oxidized/borohydride-reduced 2-0
+    pH 5.0 and allowed to stand at room temperature for 30
+    desulfated heparin (OR2DSH).We have examined the
+    min,resulting in the degradation of excess sodium boro-
+    ability of OR2DSH to enhance neurite outgrowth using
+    hydride.The reaction mixture was again adjusted to ph
+    sodium chlorate-treated explant cultures of neocortical
+    9.5 with 5 M NaOH,dialyzed against distilled water for 2
+    tissues from rat embryos (31),and compared the results
+    days and lyophilized,yielding 1.1 g of periodate-oxidized/
+    with those of other heparin derivatives including perio-
+    borohydride-reduced heparin (OR-heparin)as the
+    date-oxidized/borohydride-reduced
+    heparin
+    (OR-
+    sodium salt.To 1.1 g of the OR-heparin sodium salt was
+    heparin),2-0-desulfated heparin(2DSH),6-0-desulfated
+    added 20 ml of 50 mM NaOH,and the solution was
+    heparin (6DSH),and N-desulfated N-reacetylated
+    allowed to stand at room temperature for 20 min.Then,
+    heparin (NDSNAc-heparin).The present study shows
+    the solution was lyophilized to remove selectively sulfate
+    that two different components in OR2DSH,the IdoA
+    groups at C-2 of the Idoa and GlcA moieties in OR-
+    a1->4GlcNS(6S)unit,which contains 6-0-and 2-N-sul-
+    heparin (23,24).The lyophilized powder obtained was
+    J.Biochem.
+
+==========第2页==========
+    Heparin Derivatives Enhance Neurite Outgrowth Extension
+    785
+    dissolved in 10 ml of 1 M NaOH,and the solution was
+    of the standard HA and CS-Cs were determined by light
+    adjusted to pH 9.0 with 20%acetic acid.The solution was
+    scattering (34).Peak-maximum retention times of GAG
+    allowed to stand at room temperature for 30 min,dia-
+    samples were measured and compared with the molecu-
+    lyzed against distilled water for 2 days,and lyophilized.
+    lar mass standard curve in order to estimate the molecu-
+    yielding 0.8 g of OR2DSH as the sodium salt.
+    lar masses of the GAG samples
+    Preparation of Partially and Completely 6-0-Desulfated
+    Measurement of Neurite Outgrowth-Promoting Activ-
+    Heparin-Preparation of 6-0-desulfated heparin (6DSH)
+    ity-A fetus was aseptically excised from a Wistar rat on
+    was performed according to the previously reported
+    the 17th day of pregnancy.The brain was excised from
+    methods(25,26).Briefly,to 500 mg of heparin pyridin-
+    the fetus,and the cerebral cortex was obtained by remov
+    ium salt was added 10 volumes(w/w)of N-methyl-N-(tri-
+    ing the cerebellum,mid-brain,inter-brain,and meninges
+    methylsilyl)trifluoroacetamide (MTSTFA)and 100 vol-
+    in sulfate-free DMEM (31).Cerebral cortexes obtained
+    umes (v/w)of pyridine.This reaction mixture was heated
+    from 10 animals were combined and finely sliced both
+    at 110C for 15,30,60,or 120 min.Each reaction mixture
+    longitudinally and crosswise with a safety razor in a 60
+    was concentrated 10-fold under reduced pressure,fol-
+    mm dish.To the sliced cerebral cortex tissue was added
+    lowed by the addition of 2 volumes of distilled water to
+    10 ml of phosphate-buffered saline (PBS),and the dis
+    degrade MTSTFA.The resultant whitish turbidity com-
+    persed tissues were collected by centrifugation at 500 xg
+    pletely disappeared by treatment under reduced pres-
+    for 1 min.The explant pellets were dispersed in 5 ml of
+    sure at 35C for 15 min.The product was then subjected
+    sulfate-free DMEM.To each 1 ml of explant suspension
+    to dialysis against running tap water for 3 days and fur-
+    was added 11 ml of sulfate-free DMEM.The explant sus
+    ther against distilled water overnight.The dialysate was
+    pension was shaken gently and then uniformly divided
+    applied to an Amberlite IR-120 column (H+form;03 x 13
+    into 500-ul portions.Each portion was put into a well of a
+    Downloaded
+    cm)equilibrated with distilled water,and elution was
+    24-well microtiter plate that had been coated with 0.1%
+    performed with distilled water.Acidic fractions were
+    polyethylene imine.After 2-h culture,a 100-ul aliquot
+    from
+    combined,the pH was adjusted to 9.5 with 1 M NaOH,
+    was withdrawn from the supernatant in each well and 50
+    and the combined materials were dialyzed against dis-
+    ul of PBS containing the GAG samples to be tested was
+    tilled water overnight.The final dialysate was subjected
+    added along with 50 ul of sulfate-free DMEM containing
+    to lyophilization.The degree of 6-0-desulfation was esti-
+    400 uM sodium chlorate.After 2-day culture at 37C in
+    mated by chemical disaccharide analysis as described
+    5%C2,500 ul of PBS containing 1%glutaraldehyde was
+    previously (32).
+    gently over-laid to fix the explant tissues at room temper-
+    Disaccharide Analysis-Two hundred micrograms of
+    ature for 20 min.After removing the supernatant by suc-
+    each heparin derivative was digested with enzyme mix-
+    tion,0.5 ml of PBS was slowly over-laid and then immedi-
+    ture [50 mU each of heparitinase I and II,and hepari-
+    ately removed by suction.After the addition of potassium
+    nase (heparitinase III)]in 30 ul of 2 mM calcium acetate
+    phosphate (pH 7.2)containing 20%Giemsa solution,the
+    and 20 mM sodium acetate(pH 7.0)at 37C for 2 h.After
+    explant tissues were stained at room temperature for 2 h.
+    the addition of 50 ul distilled water,the mixtures were
+    After removing the supernatant by suction,0.5 ml of PBS
+    heated at 100C for 1 min to terminate the enzymatic
+    was added.By means of light microscopy at 40-fold
+    versity
+    reaction.A portion(15 ul)of the supernatant obtained by
+    magnification,the ratio (%of the number of cerebral cor-
+    centrifugation at 3,000 xg for 15 min was applied toa
+    tex nerve explants exhibiting neurite outgrowth to the
+    Tosoh CCPM HPLC equipped with serially combined
+    number of explants in the whole visual field was calcu-
+    TSK-gelG-4000,G-3000andG-2,500PWx知(07.5×300
+    lated.
+    mm each)columns and eluted with 0.2 M Nacl at 40Cand a flow rate of 0.6 ml/min,with monitoring by refrac-
+    RESULTS
+    April 9,
+    tometry.Peak areas were measured by a Shimadzu C.
+    R4A integrator.From the elution profiles obtained,the
+    Characterization of Heparin and Its Derivatives-For
+    201
+    degree of enzymatic digestion was estimated.
+    characterization,chemically modified heparin deriva-
+    The digests obtained as above were analyzed for
+    tives were subjected to Heparitinases (HSases-)diges-
+    unsaturated disaccharides on a Shimadzu LC-6AD HPLC
+    tion,followed by gel permeation HPLC analysis and
+    equipped with a Dionex CarboPak PA-1 column(07.5 x
+    strong anion exchange HPLC analysis.Although the
+    300 mm),essentially according to the previously
+    degree of unsaturated disaccharide-production of OR2DSH
+    described method (33).HPLC was performed at 40C and
+    prepared as shown in Fig.1,was ca.60%,those of the
+    a flow rate of 1.0 ml/min,and the pumps were pro-
+    other heparin derivatives were nearly 90%,which is
+    grammed to achieve a combination of five linear gradi-
+    almost the same as that of intact heparin (data not
+    ents of LiCl (from 51 mM to 2.2 M)over 25 min.The elu-
+    shown).The difference between these two values reflects
+    ant was monitored at 230 nm and the area of each peak
+    the presence of undigestable disaccharide units in the
+    was calculated by a Hewlett-Packard 3390 integrator.
+    OR2DSH backbone structure in which covalent bonds
+    Measurement of Molecular Mass-Five molecular
+    between the C-2 and C-3 positions of uronate residues
+    mass markers [HA of 104 kDa,CS-Cs of 52.2 kDa,39.1
+    are cleaved.
+    kDA,8.05 kDa,and ADiHS-(U,6)S of 458 Dal were
+    Table 1 shows the percentage distributions of unsatu-
+    applied to a Tosoh CCPM HPLC equipped with a series of
+    rated disaccharides generated from intact heparin and
+    TSK-gel G-4,000,G-3,000,and G-2,500 PWXL columns
+    its derivatives.The HSases digest of intact heparin con
+    (7.5 x 300 mm each)for gel permeation chromatography
+    tained 64.2%ADiHS-(U,6,N)S as the major component
+    using 0.2 M NaCl at 40C at a flow rate of 0.6 ml/min,
+    The HSases digest of OR-heparin contained 84.4%
+    with monitoring by refractometry.The molecular masses
+    ADiHS-(U,6,N)S as the major component and 10.0%
+    Vol.133,No.6,2003
+
+==========第3页==========
+    786
+    S.Usuki et al.
+    COOH
+    CH2OSOH
+    COOH
+    CH2OH
+    CH2OSOaH
+    Fig.1.Schematic diagram of the preparation
+    -0
+    -0
+    -0
+    0
+    of periodate-oxidized/borohydride-reduced 2-
+    OH
+    O-desulfated heparin(OR2DSH).Intact heparinsodium salt was modified successively by oxidation
+    H
+    0S03H
+    NHSO H
+    DSO3H
+    NHSO3H
+    with sodium periodate,reduction with sodium boro-hydride,and 2-0-desulfation.
+    Periodate Oxidation
+    COOH
+    CH2OSO3H
+    COOH
+    CH2OH
+    CH2OSO3H
+    0
+    OH
+    OH
+    OH
+    OHC CHO
+    NHSO H
+    OSO3H
+    NHSO H
+    OSO3H
+    NHSO3H
+    NaBHa Reduction
+    COOH
+    CH2OSO3H
+    COOH
+    CH2OH
+    CH2OSO3H
+    OH
+    O-OH
+    OH
+    HOH2CCH.OH
+    NHSO2H
+    OSO H
+    NHSO H
+    OSO3H
+    NHSO H
+    2-0-Desulfation
+    COOH
+    CH2OSO3H
+    COOH
+    CH2OH
+    CH2OSO3H
+    -∩
+    0
+    OH
+    OH
+    HOH2CCH2OH
+    NHSO3H
+    NHSO3H
+    NHSOgH
+    Downloaded from http://jb.oxfordjournals.org/
+    ADiHS-(U,N)S as a minor component,and no ADiHS-0S
+    completely.The HSases digest of OR2DSH contained
+    △DiHS-NS,△DiHS-6S,or△DiHS-(6,N)S with reference
+    86.5%ADiHS-(6,N)S and 13.5%ADiHS-NS.This indi-
+    to the unsaturated disaccharide composition of intact
+    cates that the former component was generated from
+    heparin,indicating that the periodate-oxidation/borohy-
+    ADiHS-(U,6,N)S in the OR-heparin digest by the action
+    dride-reduction successfully cleaved the covalent bonds
+    of the 2-0-desulfation reaction,and the latter component
+    between nonsulfated C-2 and C-3 positions of uronate
+    was generated from ADiHS-(U,N)S in the OR-heparin
+    at University of
+    residues.The HSases digest of 2DSH contained 71.6%
+    digest.The HSases digest of CDSNAc-heparin contained
+    △DiHS-(6,N)S,and no△DiHS-US,△DiHS-(U,N)S,
+    100%ADiHS-OS.The HSases digest of CDSNS-heparin
+    ADiHS-(U,6)S,or ADiHS-(U,6,N)S with reference to the
+    contained 88.8%ADiHS-NS as the major component.The
+    Ulster on
+    unsaturated disaccharide composition of intact heparin,
+    HSases digest of NDSNAc-heparin contained 61.6%
+    indicating that the 2-0-desulfation reaction proceeded
+    ADiHS-(U,6)S as the major component,and no ADiHS-
+    AP19.201s
+    Table 1.Percentage distributions of unsaturated disaccharides generated from various heparin deriv-atives (%)
+    Fraction
+    △DiHS
+    0S
+    NS
+    6S
+    US
+    (6,N)S
+    (U,N)S
+    (U,6)S
+    (U,6,N)S
+    Heparina
+    4.1
+    3.4
+    3.7
+    2.6
+    12.7
+    7.6
+    1.7
+    64.2
+    OR-heparinb
+    0.0
+    0.0
+    0.0
+    3.4
+    0.0
+    10.0
+    2.2
+    84.4
+    2DSH
+    5.6
+    11.2
+    5.2
+    0.0
+    71.6
+    0.0
+    0.0
+    0.0
+    OR2DSHd
+    0.0
+    13.5
+    0.0
+    0.0
+    86.5
+    0.0
+    0.0
+    0.0
+    47:6DSH
+    7.5
+    5.2
+    0.0
+    3.8
+    10.1
+    39.4
+    0.0
+    34.0
+    75:6DSH
+    11.1
+    13.2
+    0.0
+    4.9
+    9.7
+    55.3
+    0.0
+    5.8
+    91:6DSH8
+    11.4
+    17.1
+    0.0
+    5.7
+    7.1
+    58.6
+    0.0
+    0.1
+    100:6DSH
+    10.4
+    20.1
+    0.0
+    4.2
+    5.5
+    59.8
+    0.0
+    0.0
+    CDSNAci
+    100.0
+    0.0
+    0.0
+    0.0
+    0.0
+    0.0
+    0.0
+    0.0
+    CDSNS
+    11.2
+    88.8
+    0.0
+    0.0
+    0.0
+    0.0
+    0.0
+    0.0
+    NDSNACk
+    5.0
+    0.0
+    19.0
+    10.6
+    3.8
+    0.0
+    61.6
+    0.0
+    aIntact heparin sourced from pig intestine.bPeriodate-oxidized/borohydride-reduced heparin.2-0-desulfatedheparin.Periodate-oxidized/borohydride-reduced 2-O-desulfated heparin.Partially(47%)6-0-desulfatedheparin.Partially (75%)6-0-desulfated heparin.gPartially (91%)6-0-desulfated heparin.Completely (100%)6-
+    O-desulfated heparin.Completely desulfated N-reacetylated heparin.JCompletely desulfated N-resulfatedheparin.N-desulfated N-reacetylated heparin.
+    J.Biochem.
+
+==========第4页==========
+    Heparin Derivatives Enhance Neurite Outgrowth Extension
+    787
+    desulfation occurred as a side reaction during the 6-0-desulfation reaction as reported previously (26).Itappears that the peak identified as ADiHS-(6,N)S in the100:6DSH digest should be reassigned as an oligosaccha-ride possessing the same retention time as that ofADiHS-(6,N)S,because 100:6DSH does not contain 6-0-sulfate groups as confirmed by ion-pairing reversed-phase HPLC and 13C-NMR techniques (26).In fact,thecompletion of 6-O-desulfation in our 100:6DSH has beenconfirmed by other researchers as well (35)
+    The molecular masses of chemically modified heparinswere estimated by the gel permeation HPLC method.Themolecular mass of OR2DSH was determined to be 11 kDaas compared with that(13 kDa)of intact heparin.Themolecular masses of other heparin derivatives rangedbetween 10 and 12 kDa,indicating that the molecularmasses of the present heparin derivatives do not differ sowidely (data not shown).
+    Neurite Outgrowth-Promoting Activity-In order tooptimize the conditions of sodium chlorate treatment,neocortical explants from rat embryos were cultured inthe presence of various concentrations of sodium chlorate(0,5,10,20,40,80,and 100 uM)in sulfate-free DMEM
+    Downloaded from
+    In the absence of sodium chlorate,many neuritesextended from the surface of neocortical explants (Fig.2A).The degree of neurite outgrowth decreased in a chlo-rate dose-dependent manner (data not shown).Sodiumchlorate concentrations above 40 M completely inhib-ited neurite outgrowth(Fig.2B),and the treatment with40 uM sodium chlorate did not cause the explants todetach from the culture wells.Thus,40 uM was found tobe the optimum concentration of sodium chlorate to com-
+    org/
+    pletely inhibit neurite outgrowth.As shown in Fig.2C,exogenously added OR2DSH(10 ug/ml)restored neuriteoutgrowth even in the presence of 40 uM sodium chlorate.suggesting that this assay system can evaluate the abil-
+    versity
+    ity of GAG samples to enhance neurite outgrowth with-
+    Fig.2.Inhibitory effect of sodium chlorate and the accelera-
+    out the influence of endogenous heparan sulfate located
+    tive effect of OR2DSH on neurite outgrowth of a neocortical
+    at the cell surface.
+    Ulster
+    explant culture as observed by light microscopy.The explantswere incubated for 2 days in sulfate-free DMEM(A),followed by the
+    Since sodium chlorate suppresses the sulfation of cell
+    addition of 40 uM sodium chlorate (B),or 40 uM sodium chlorate
+    surface GaGs such as heparan sulfate by reducing the
+    plus 10 ug/ml OR2DSH(C).The bar in (c)indicates 100 um.
+    activity of sulfotransferases (36),the degree of neuriteoutgrowth induced by the GAG samples added exoge-nously to the explant culture will depend on the specific
+    April 9,2015
+    NS.ADiHS-(U.N)S or ADiHS-(U.6.N)S with reference to
+    array of sulfate groups linked to the GAG backbone.
+    the unsaturated disaccharide composition of intact
+    Chemically modified heparins were added to the explant
+    heparin,indicating that the N-desulfation reaction pro-
+    culture in the presence of 40 uM sodium chlorate,in
+    ceeded almost completely.Unexpectedly,however,a
+    order to evaluate quantitatively their abilities to enhance
+    small amount of ADiHS-(6,N)S remained.
+    neurite outgrowth at various concentrations.As shown in
+    The degrees of 6-0-desulfation of 6DSHs obtained in
+    Fig.3A,the profiles of the activities of OR2DSH,OR-
+    15,30,60,and 120 min reactions,as determined by ion-
+    heparin,and 2DSH were bell-shaped,whereas that of
+    pairing reversed phase HPLC analysis(32),were 47,75,
+    NDSNAc-heparin showed no activity below 10 ug/ml but
+    91,and 100%,respectively.As shown in Table 1,the con-
+    minor activities were observed at 100 and 1,000 ug/ml.
+    tent of ADiHS-(U.N)S rose to 59.8%with the increasing
+    The profile of the activity of intact heparin was quite sim-
+    degree of 6-0-desulfation.In contrast,ADiHS-(U,6,N)S
+    ilar to but slightly lower than that of 2DSH.The maxi-
+    decreased with the increasing degree of 6-0-desulfation
+    mum activity of OR2DSH(29.7%)was achieved at 10 ug/
+    and disappeared from the HSases digest of completely 6-
+    ml,and those of OR-heparin (21.7%),2DSH(18.7%)and
+    O-desulfated heparin (100:6DSH),indicating that the 6-
+    intact heparin (16.3%)were at 100 ug/ml,whereas the
+    O-desulfation reaction proceeded completely.In addition,
+    maximum activity of NDSNAc-heparin (16.5%)was at
+    the HSases digest of 6DSHs differing in the degree of 6-
+    1,000ug/ml.
+    O-desulfation contained ADiHS-NS as a minor compo-
+    Figure 3B shows the neurite outgrowth enhancing pro-
+    nent,the level of which rose to 20.1%with the increasing
+    files of 6DSHs differing in 6-0-sulfate content of the
+    degree of 6-0-desulfation.This confirms that minor 2-0-
+    heparin backbone.Although the activities of 6DSHs
+    Vol.133,No.6,2003
+
+==========第5页==========
+    788
+    S.Usuki et al.
+    Fig.3.Concentration-dependency of the
+    accelerative effects of OR2DSH (solid
+    S
+    20
+    B
+    triangles),OR-heparin (open triangles),
+    30
+    2DSH (open circles),intact heparin (*and NDSNAc-heparin (solid circles)onneurite outgrowth from neocortical ex-
+    20
+    plant cultures (A).Concentration-depend-
+    10
+    ency of the accelerative effects of 6DSHs dif-fering in the degree of 6-0-desulfation,100%(solid triangles),91%(open triangles),75%
+    0
+    (solid circles),and 47%(open circles),onneurite outgrowth from neocortical explantcultures (B).
+    0
+    100
+    1000
+    0.01
+    01
+    10
+    100
+    1000
+    Concn.(ug/ml)
+    increased with increasing concentration regardless of the
+    activity.The potent activity of OR2DSH would be exerted
+    degree of 6-0-desulfation,the maximum activities
+    synergistically by two components in OR2DSH,i.e.,the
+    achieved at 1,000 ug/ml were reversely correlated with
+    IdoA a1->4GlcNS(6S)unit,which contains 6-0-and 2-N.
+    the degree of 6-O-desulfation.In particular,completely 6-
+    sulfate groups,and the uronate moiety,in which the cov-
+    O-desulfated heparin (100:6DSH)exhibited very weak
+    alent bond between C-2 and C-3 is cleaved.It is possible
+    activity (3.3%)at 1,000 ug/ml,indicating the importance
+    that C-2/C-3-cleaved uronate moieties in heparin may
+    of 6-O-sulfate groups for achieving neurite outgrowth.In
+    provide additional flexibility to the heparin backbone.
+    addition,completely desulfated N-reacetylated heparin
+    Thus,the present study reveals that the specific sulfate
+    (CDSNAc-heparin)and completely desulfated N-resul-
+    substitution pattern in the heparin backbone and the
+    fated heparin (CDSNS-heparin)both exhibited almost no
+    presence of C-2/C-3-cleaved uronate residues within the
+    activity at any concentration examined (data not shown).
+    backbone are both required for the enhancement of neur-
+    Thus,the data suggest that the presence of 6-O-sulfate
+    ite outgrowth-promoting activity.
+    groups on GlcNAc as well as 2-N-sulfate groups on GlcNS
+    Heparin and heparan sulfate interact with numerous
+    moieties in heparin derivatives such as OR2DSH are
+    proteins,including enzymes,growth factors,cytokines,
+    needed to achieve a potent capacity to enhance neurite
+    and extracellular matrix proteins (37).Furthermore,
+    outgrowth.
+    recent studies suggest that heparin and heparan sulfatehave the significant potential to regulate the biological
+    DISCUSSION
+    activities of all members of the FGF family (38,39).
+    Although the physiological mechanism involved in the
+    In the present study,we prepared OR2DSH using intact
+    enhancement of neurite outgrowth by heparin and
+    niversity
+    heparin as the starting material by successive oxidiza-
+    heparan sulfate is not fully understood,a group of
+    tion with sodium periodate,reduction with sodium boro-
+    heparin-binding growth factors appears to be involved in
+    hydride,and 2-0-desulfation according to an established
+    the neuritogenesis.Among such factors,basic fibroblast
+    method (23,24),in order to evaluate its potential to
+    growth factor (bFGF)(40),hepatocyte growth factor
+    induce neuritogenesis.The maximumactivity of
+    (HGF)(41),nerve growth factor (NGF)(2),and insulin-
+    OR2DSH was at 10 ug/ml,whereas those of OR-heparin
+    like growth factor-I(IGF-I)(42)have been shown to pos-
+    April 9,
+    and 2DSH were at 100 ug/ml (Fig.3A).This indicates
+    sess potent neuritogenic activity.Damon et al.(43
+    that OR2DSH has a more potent activity than OR-
+    reported that heparin alters the abilities of FGFs and
+    201
+    heparin and 2DSH.Since OR2DSH was prepared from
+    NGF to enhance neurite outgrowth in PC12 cells.
+    OR-heparin by the 2-0-desulfation reaction,the unsatu-
+    Hamanoue et al.(41)reported that HGF enhances neur-
+    rated disaccharide composition of OR2DSH resembles
+    ite outgrowth in rat neocortical explant.Although it is
+    that of 2DSH(Table 1).In addition.OR2DSH carries a
+    still not clear whether such growth factors are involved
+    structure in which some of the uronate moieties are deri-
+    in the ability of OR2DSH to enhance neurite outgrowth-
+    vatized by cleavage of the covalent bond between the C-2
+    promoting activity in our explant culture system,we
+    and C-3 positions by the action of periodate-oxidation.A
+    believe that some growth factors are involved in the neu-
+    sulfation inhibitor,sodium chlorate reduced the sulfation
+    ritogenic activity by OR2DSH
+    degree of endogenous heparan sulfate in explant cells.In
+    In the case of NCAM-induced neuritogenesis,it has
+    the present study,we compared the neurite outgrowth-
+    been shown that FGF receptors (FGFRs)are also
+    promoting activity of OR2DSH with those of other
+    involved (40,44,45).Green et al.(44)proposed that
+    heparin derivatives including 6DSH and NDSNAc-
+    FGFRs might be activated directly by a much wider
+    heparin,using sodium chlorate-treated explant cultures.
+    range of ligands,including heparan sulfate proteoglycan
+    The modified heparin produced by the removal of 6-0-
+    and NCAM,i.e.,FGFRs might be an even less specific
+    sulfate groups(Fig.3B)or 2-N-sulfate groups(Fig.3A)
+    family of receptor tyrosine kinases than is already appre-
+    from the heparin backbone did not enhance neurite out-
+    ciated.Brittis et al.(45)indicated that the activation of
+    growth-promoting activity in our explant culture system.
+    the FGFR signal cascade not only promotes the survival
+    In contrast,2-0-desulfation and periodate-oxidization of
+    and proliferation of various cell types but also can medi-
+    heparin enhanced the neurite outgrowth-promoting
+    ate intraretinal axon guidance,which is closely related to
+    J.Biochem.
+
+==========第6页==========
+    Heparin Derivatives enhance neurite outgrowth Extension
+    789
+    neuritogenesis.Archer et al.(40)demonstrated that the
+    REFERENCES
+    binding of bFGF and NCAM to nerve cell membranespromotes neurite outgrowth,and that signals from both
+    1.Tang,B.L.(2001)Protein trafficking mechanisms associated
+    bFGF and NCAM are transmitted through FGFR.In the
+    with neurite outgrowth and polarized sorting in neurons.J.
+    Neurochem.79,923-930
+    case of FGFR-induced proliferation,it has been demon-
+    2.Green.L.A.and Tischler,A.(1976)Establishment of a non-
+    strated that the formation of a complex consisting of FGF
+    adrenergic clonal line of rat adrenal pheochromocytoma cells
+    heparin (or heparan sulfate)and FGFR is essential for
+    which respond to nerve growth factor.Proc.Natl Acad.Sci
+    signal transduction inducing proliferation(46-48).X-ray
+    USA73,2424-2428
+    analyses of the crystal structures of biologically active
+    3.Hernpstead,B.L.,Rabin,S.J.,Kaplan,L.,Reid,S.,Parada.
+    FGF dimers have indicated that the two FGF molecules
+    L.F.,and Kaplan,D.R.(1992)Overexpression of the trk tyro-sine kinase rapidly accelerates nerve growth factor-induced
+    forming one dimer interact with the IgII and IgIII
+    differentiation.Neuron 9,883-896
+    domains of FGFRs after inducing FGFR dimerization.
+    4.Leoni,C.,Menegon,A.,Benfenali,F.,Toniolo,D.,Pennuto,M.
+    irrespective of acidic and basic FGF species (47,48).
+    and Valtora,F.(1999)Neurite extension occurs in the absence
+    According to this proposed model,the dimerization or
+    of regulated exocytosis in PC12 cells.Mol.Biol.Cell.10.2919
+    even oligomerization of bFGF is mediated by heparin
+    2931
+    and/or heparan sulfate,confirming the previous results
+    5.Kaplan,D.R.and Miller,F.D.(2000)Neurotrophin signaltransduction in the nervous system.Curr:Opin.Neurobiol.10,
+    obtained by Kan et al.(49).
+    381-391
+    It is not clear whether heparan sulfate and FGFs are
+    6.Schmitz,A.A.,Govek,E.E.,Bottner,B.,and Van-Aelst,L.
+    involved in the direct FGFR-NCAM interaction that
+    (2000)Rho GTPases:signaling,migration,and invasion.Exp.
+    induces neuritogenesis(50).Even if FGFR does not inter-
+    Cell Res.261,1-12
+    act with NCAM directly,NCAM-induced neuritogenesis
+    7.Bar-Sagi,D.and Hall,A.(2000)Ras and Rho GTPases:a fam-
+    requires simultaneous bFGF signals through FGFR(40).
+    ily reunion.Cell 103,227-238
+    In this process,it would be inevitable that signal trans-
+    8.Redmond,L.and Ghosh,A.(2001)The role of Notch and RhoGTPase signaling in the control of dendritic development
+    duction occurs through a complex comprising bFGF,
+    Curr:Opin.Neurobiol.11,111-117
+    heparin (or heparan sulfate)and FGFR after the induc-
+    9.Nikolic,M.(2002)The role of GTPases and associated kinases
+    tion of FGFR dimerization as described above (47,48).
+    in regulating neurite outgrowth.Int.J.Biochem.Cell Biol.34,
+    Thus,the importance and involvement of heparin,
+    731-745
+    heparan sulfate and bFGF in NCAM-induced neuritogen-
+    10.Ronn,L.C.,Doherty,P.,Holm,A.,Berezin,V.,and Bock,E.
+    esis should be taken into consideration in order to give a
+    (2000)Neurite outgrowth induced by a synthetic peptide lig-and of neural cell adhesion molecule requires fibroblast growth
+    better understanding of the physiological mechanism(s)
+    factor receptor activation.J.Neurochem.75,665-671
+    underlying this phenomenon.Ifit is assumed that NCAM
+    11.Fang,Y.,Wu,G.,Xie,X.,Lu,Z.H.,and Ledeen,R.W.(2000)
+    and bFGF were released in our explant culture system in
+    Endogenous GM1 ganglioside of the plasmamembrane pro-
+    an autocrine manner,there is a possibility that the neur-
+    motes neuritogenesis by two mechanisms.Neurochem.Res.25.
+    ite outgrowth-promoting activity of OR2DSH was exhib-
+    931-940
+    ited due to the formation of a complex comprising bFGF.
+    12.Soroka,V.,Kiryushko,D.,Novitskaya,V.,Ronn,L.C.,Poulsen,
+    OR2DSH and FGFR.However.bFGF binds preferen-
+    F.M.,Holm,A.,Bock,E.,and Berzin,V.(2002)Induction ofneuronal differentiation by a peptide corresponding to the
+    niversity
+    tially to sequences in which the predominant disaccha-
+    homophilic binding site of the second Ig module of NCAM.J.
+    ride is IdoA(2S)a1->4GlcNS (51,52).Since the predomi-
+    Biol.Chem.277,24676-24683
+    nant disaccharide in OR2DSH is IdoA a1->4GlcNS(6S)
+    13.Margolis,R.K.,Salton,S.R.,and Margolis,R.U.(1987)Effects
+    Ulster
+    (Table 1),it is unlikely that a complex consisting of bFGF.
+    of nerve growth factor-induced differentiation on the heparan
+    OR2DSH and FGFR was formed in our explant culture
+    sulfate of PC12 pheochromocytoma cells and comparison with
+    system.Alternatively,OR2DSH would have interacted
+    developing brain.Arch.Biochem.Biophys.257,107-114
+    14.Dow,K.E.,Riopelle,R.J.,and Kisilevsky,R.(1991)Domains of
+    with growth factors other than bFGF,resulting in the
+    neuronal heparan sulfate proteoglycans involved in neurite
+    interaction with FGFR or other growth factor receptors.
+    growth on laminin.Cell.Tissue Res.265,345-351
+    201
+    Further investigation of the physiological mechanism(s)
+    15.Li,J.-P.,Gong,F.,Darwish,K.E.,Jalkanen,M.,and Lindahl,U.
+    underlying the ability of OR2DSH to enhance neuri-
+    (2001)Characterization of the D-glucuronyl C5-epimerase
+    togenic activity as well as exploring molecules that inter-
+    involved in the biosynthesis of heparin and heparan sulfate.J.
+    Biol.Chem.276.20069-20077
+    act with OR2DSH are needed to provide a clue to disign-
+    16.Kobayashi,M.,Habuchi,H.,Habuchi,O.,Saito,M.,and
+    ing suitable heparin derivatives for the production of a
+    Kimata,K.(1996)Purification and characterization of heparan
+    drug useful for the treatment of disorders of the central
+    sulfate 2-sulfotransferase from cultured Chinese hamster
+    nervous system.
+    ovary cells.J.Biol.Chem.271,7645-7653
+    17.Eriksson,I.,Sandback,D.,Ek,B.,Lindahl,U.,and Kjellen,L
+    We thank Prof.Shugo Watabe,Graduate School of Agricul
+    (1994)cDNA cloning and sequencing of mouse mastocytoma
+    tural and Life Sciences,The University of Tokyo,for the valu-
+    glucosaminyl N-deacetylase/N-sulfotransferase,and enzyme
+    able suggestions regarding this manuscript.Thanks are also
+    involved in the biosynthesis of heparin.J.Biol.Chem.26910438-10443
+    due to Dr.Tokiko Sakai,Mr.Takuji Kaneko,and Mr.Akihiro
+    18.Habuchi,H.,Kobayashi,M.,and Kimata,K.(1998)Molecular
+    Mizutani,Central Research Laboratories,Seikagaku Corpo-
+    characterization and expression of heparan sulfate 6-sulfo-
+    ration,for help during the preparation of this manuscript.
+    transferase:complete cDNA cloning in human and partialcloning in Chinese hamster ovary cells.J.Biol.Chem.273,9208-9213
+    19.Lindahl,U.,Kushe-Gullberg,M.,Kjellen,L.(1998)Regulated
+    diversity of heparan sulfate.J.Biol.Chem.273,24979-24982
+    20.Shimada,K.,Gill,P.J.,Silbert,J.E.,Douglas,W.H.,and Fan
+    burg,B.L.(1981)Involvement of cell surface heparan sulfate in
+    Vol.133,No.6,2003
+
+==========第7页==========
+    790
+    S.Usuki et al.
+    the binding of lipoprotein lipase to cultured bovine endothelial
+    36.Safaiyan,F.,Kolset,S.O.,Prydz,K.,Gottfridsson,E.,Lindahl.
+    cells.J.Clin.Invest.68,995-1002
+    U.,and Salmivirta,M.(1999)Selective effects of sodium chlo-
+    21.Marcum,J.A.and Rosenberg,R.D.(1984)Anticoagulantly
+    rate treatment on the sulfation of heparan sulfate.J Biol.
+    active heparin-like molecules from vascular tissue.Biochemis-
+    Chem.274,36267-36273
+    ty23,1730-1737
+    37.Ishihara,M.and Ono,K.(1998)Structure and function of
+    22.Ishihara,M.,Tyrell,D.J.,Stauber,G.B.,Brown,S.,Cousens.
+    heparin and heparan sulfate:heparinoid library and modifica-
+    L.S.,and Stack,R.J.(1990)Preparation of affinity-fractionated
+    tion of FGF-activities.Trends Glycosci.Glycotechnol.10,223-
+    heparin-derived oligosaccharides and their effects on selected
+    233
+    biological activities mediated by basic fibroblast growth factor.
+    38.Rapraeger,A.C.,Krufka,A.,and Olwin,B.B.(1991)Require-
+    J.Biol.Chem.268,4675-4683
+    ment of heparan sulfate for bFGF-mediated fibroblast growth
+    23.Piani,S.,Casu,B.,Marchi,E.G.,Torri,G.,and Ungarelli,F.
+    and myoblast differentiation.Science 252,1705-1708
+    (1993)Alkari-induced optical rotation changes in heparins and
+    39.Yayon,A.,Klagsbrun,M.,Esko,J.D.,Leder,P.,and Ornitz.
+    heparan sulfates,and their relation to iduronic acid-containing
+    D.M.(1991)Cell surface heparin-like molecules are required
+    sequences.J.Carbohydr:Chem.12,507-521
+    for binding of basic fibroblast growth factor to its high affinity
+    24.Ishihara,M.,Kariya,Y.,Kikuchi,H.,Minamisawa,T.,and
+    receptor.Cell 64,841-848
+    Yoshida,K.(1997)Importance of 2-0-sufate groups of uronate
+    40.Archer,F.R.,Doherty,P.,Collins,D.,and Bolsover,S.R.(1999)
+    residues in heparin for activation of FGF-1 and FGF-2.J.Bio-
+    CAMs and FGF cause a local submembrane calcium signal
+    chem.121,345-349
+    promoting axon outgrowth without a rise in bulk calcium con-
+    25.Takano,R.,Ye,Z.,Ta,T.-V.,Kamei,K.,Kariya,Y.,and Hara,S
+    centration.Eur.J.Neurosci.11,3565-3573
+    (1998)Specific 6-0-desulfation of heparin.Carbohydr:Lett.3,
+    41.Hamanoue,M.,Takemoto,N.,Matsumoto,K.,Nakamura,T.,
+    71-77
+    Nakajima,K.,and Kohsaka,S.(1996)Neurotrophic effect of
+    26.Kariya,Y.,Kyogashima,M.,Suzuki,K.,Isomura,T.,
+    hepatocyte growth factor on central nervous system neurons in
+    Sakamoto,T.,Horie,K.,Ishihara,M.,Takano,R.,Kamei,K..
+    vitro.JJ.Neurosci.Res.43,554-564
+    and Hara,S.(2000)Preparation of completely 6-0-desulfated
+    42.Kjellen,L.and Lindahl,U.(1991)Proteoglycansstructures
+    heparin and its ability to enhance activity of basic fibroblast
+    and interactions.Annu.Rev.Biochem.60,443-475
+    growth factor.JJ.Biol.Chem.275,25949-25958
+    43.Damon,D.H.,D'Amore,P.A.,and Wagner,J.A.(1998)Sulfated
+    27.Nagasawa,K.,Inoue,Y.,and Tokuyasu,T.(1979)An improved
+    glycosaminoglycans modify growth factor-induced neurite out-growth in PC12 cells.J.Cell Physiol.135,293-300
+    method for the preparation of chondroitin by solvolytic desulfa-tion of chondroitin sulfates.J.Biochem.86,1323-1329
+    44.Green,P.J.,Walsh,F.S.,and Doherty,P.(1996)Promiscuity of
+    fibroblast growth factor receptor.Bioessays 18,639-646
+    28.Nagasawa,K.and Inoue,Y.(1980)Desulfation of gly-
+    45.Brittis,P.A.,Silver,J.,Walsh,F.S.,and Doherty,P.(1996)
+    cosaminoglycan sulfates.Methods Carbohydr:Chem.8,287289
+    Fibroblast growth factor receptor function is required for theorderly projection of ganglion cell axons in the developing
+    29.Ayotte,L.and Perlin,A.S.(1986)N.m.r.spectroscopic observa
+    mammalian retina.Mol.Cell.Neurosci.8,120-128
+    tions related to the function of sulfate groups in heparin.Cal-
+    46.Van den Berghe,L.,Mortier,I.,Zanibellato,C.,Amalric,F..
+    cium binding vs.biological activity.Carbohydr:Res.145,267-
+    urnals
+    Prats,H.,and Bugler,B.(1998)FGF-2 dimerization involve-
+    277
+    ment in growth factor mediated cell proliferation but not cell
+    30.Fransson,L.-A.,(1974)Periodate oxidation of L-iduronic acid
+    differentiation.Biochem.Biophys.Res.Commun.252,420-427
+    residues in dermatan sulfate.Carbohydr:Res.36,339-348
+    47.DiGabriele,A.D.,Lax,I.,Chen,D.I.,Svahn,C.M.,Jaye,M.
+    31.Usuki,S.,Hamanoue,M.,Kohsaka,S.,and Inokuchi,J.(1996)
+    Schlessinger,J.,and Hendrickson,W.A.(1998)Structure of a
+    三
+    Induction of ganglioside biosynthesis and neurite outgrowth of
+    heparin-linked biologically active dimer of fibroblast growth
+    primary cultured neurons by L-threo-1-phenyl-2-decanoyl-
+    factor.Nature 393,812-817
+    amine-3-morpholino-1-propanol.J.Neurochem.67,1821-1830
+    48.Venkataraman,G.,Raman,R.,Sasisekharan,V.,and Sas-
+    32.Kariya,Y.,Herrmann,J.,Suzuki,K.,Isomura,T.,and Ishi-
+    isekharan,R.(1999)Molecular characteristics of fibroblast
+    hara,M.(1998)Disaccharide analysis of heparin and heparan
+    growth factor-fibroblast growth factor receptor-heparin-like
+    sulfate using deaminative cleavage with nitrous acid and sub-
+    glycosaminoglycan complex.Proc.Natl Acad.Sci.USA 96,
+    sequent labeling with paranitrophenyl hydrazine.J.Biochem.
+    3658-3663
+    123,240-246
+    49.Kan,M.,Wang,F.,Xu,J.,Crabb,J.W.,Hou,J.,and McKeehan
+    33.Kariya,Y.,Yoshida,K.,Morikawa,K.,Tawada,A.,Miyazono,
+    W.L.(1993)An essential heparin-binding domain in the fibrob-
+    April 9,
+    H.,Kikuchi,H.,and Tokuyasu,K.(1992)Preparation of
+    last growth factor receptor kinase.Science 259,1918-1921
+    unsaturated disaccharides by eliminative cleavage of heparin
+    50.Doherty,P.and Walsh,F.S.(1996)CAM-FGF receptor interac-
+    201
+    and heparan sulfate with heparitinases.Comp.Biochem.Phys-
+    tions:a model for axonal growth.Mol.Cell.Neurosci.8,99-111
+    iol.103B,473-479
+    51.Turnbull,J.E.,Fernig,D.G.,Ke,Y.,Wilkinson,M.C.,and Gal-
+    34.Arai,M.,Yada,T.,Suzuki,S.,and Kimata,K.(1992)Isolation
+    lagher,J.T.(1992)Identification of the basic fibroblast growth
+    and characterization of type IX collagen-proteoglycan from the
+    factor binding sequence in fibroblast heparan sulfate.J.Biol.
+    Swarm rat chondrosarcoma.Biochim.Biophys Acta 1117,60-
+    Chem.267,10337-10341
+    70
+    52.Habuchi,H.,Suzuki,S.,Saito,T.,Tamura,T.,Harada,T.,Yosh-
+    35.Wang,L.,Brown,J.R.,Varki,A.,and Esko,J.D.(2002)
+    ida,K.,and Kimata,K.(1992)Structure of a heparan sulphate
+    Heparin's anti-inflammatory effects require glucosamine 6-0-
+    oligosaccharide that binds to basic fibroblast growth factor.
+    sulfation and are mediated by blokage of L-and P-selectins.JJ.
+    Biochem.J.285,805-813
+    Clin.Invest.110,127-136
+    J.Biochem.
+
+==========第8页==========

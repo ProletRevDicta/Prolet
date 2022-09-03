@@ -1,0 +1,348 @@
+    255
+    Journal of Food Protection,Vol.64,No.2,2001,Pages 255-258
+    Research Note
+    Effect of Sodium Chlorate on Salmonella Typhimurium
+    Concentrations in the Weaned Pig Gut
+    ROBIN C.ANDERSON,SANDRA A.BUCKLEY,TODD R.CALLAWAY,KENNETH J.GENOVESE,
+    LEON F.KUBENA,ROGER B.HARVEY.AND DAVID J.NISBET
+    U.S.Department of Agriculture,Agricultural Research Service,Southern Plains Agricultural Research Center,Food and Feed Safety Research Unit,
+    College Station,Texas 77845,USA
+    MS 00-202:Received 22 June 2000/Accepted 5 September 2000
+    asn
+    ABSTRACT
+    [euos.Ied
+    Salmonella cause economic losses to the swine industry due to disease and compromised food safety.Since the gut is amajor reservoir for Salmonella,strategies are sought to reduce their concentration in pigs immediately before processing.
+    Respiratory nitrate reductase activity possessed by Salmonella also catalyzes the intracellular reduction of chlorate (an analogof nitrate)to chlorite,which is lethal to the microbe.Since most gastrointestinal anaerobes lack respiratory nitrate reductase,we conducted a study to determine if chlorate may selectively kill Salmonella within the pig gut.Weaned pigs orally infectedwith 8 x 107 CFU of a novobiocin-and nalidixic acid-resistant strain of Salmonella Typhimurium were treated 8 and 16 hlater via oral gavage (10 ml)with 0 or 100 mM sodium chlorate.Pigs were euthanized at 8-h intervals after receiving the lasttreatment.Samples collected by necropsy were cultured qualitatively and quantitatively for Salmonella and for most probablenumbers of total culturable anaerobes.A significant (P 0.05)chlorate treatment effect was observed on cecal concentrationsof Salmonella,with the largest reductions occurring 16 h after receiving the last chlorate treatment.An observed treatment bytime after treatment interaction suggests the chlorate effect was concentration dependent.Chlorate treatment may provide ameans to reduce foodborne pathogens immediately before harvest.
+    Salmonella remain an important cause of human and
+    laboratory via successive cultivation in tryptic soy broth (Difco
+    animal disease in many regions of the world (15).In swine,
+    Laboratories,Detroit,Mich.)containing up to 20 ug ml-of na-
+    clinical salmonellosis or asymptomatic infections are com-
+    lidixic acid.The pigs were randomly placed into respective treat-
+    mon(21).Asymptomatic infections are especially problem-
+    ment groups,each kept in separate concrete-floored pens.The pigs
+    atic because these apparently healthy carrier pigs tend to
+    in each group were then treated via oral gavage (10-ml volumes),at 8 and again at 16 h after Salmonella challenge,with solutions
+    intermittently shed the pathogen and are thus an inconspic-uous source for future infections and for possible contam-
+    containing 0 or 100 mM sodium chlorate,corresponding to 0xor 1X treatment,respectively.Treatments also contained 2.5 mM
+    ination of pork products during slaughter.Since the gut and
+    sodium nitrate as an inducer of nitrate reductase activity and,to
+    affiliated lymph tissue are the primary reservoirs for Sal-
+    ensure at least a small amount of available reductant,20 mM
+    monella in market-ready pigs (6,7),there exists a need to
+    sodium lactate.Piglets were euthanized at 8-h intervals(five per
+    reduce gut concentrations of Salmonella in pigs entering
+    group per experiment)following the last treatment,and ileocolic
+    the slaughter facility.Salmonella,like most members of the
+    lymph tissue and cecal contents(1 to 2 g)were collected by nec-
+    family Enterobacteriaceae possess respiratory nitrate re-
+    ropsy.The specimens were cultured qualitatively for the challenge
+    ductase activity (8)that has long been known to also cat-
+    Salmonella strain via initial 24-h enrichment in 20 ml of tetra-
+    alyze the intracellular reduction of chlorate (ClO3),an an-
+    thionate broth (Difco)and further enrichment(24 h)of 100 ul in
+    alog of nitrate,to cytotoxic chlorite (C1O2-)(18,20).Since
+    5 ml of Rappaport-Vassiliadis broth (Difco).Selective differenti-
+    most gastrointestinal anaerobes lack respiratory nitrate re-
+    ation was accomplished after overnight incubation on brilliant
+    ductase,we conducted a study to determine if oral admin-
+    green agar (Oxoid,Unipath Ltd.,Basinstoke,Hampshire,En-
+    istration of chlorate may selectively kill Salmonella but not
+    gland)containing 25 ug ml-1 of novobiocin and 20 ug ml-1 ofnalidixic acid.Cecal concentrations of Salmonella were deter-
+    potentially beneficial anaerobes within the pig gut.
+    mined via direct plating of serial 10-fold dilutions on the antibi-
+    MATERIALS AND METHODS
+    otic-supplemented brilliant green agar.In one experiment,con-centrations of total culturable anaerobes were estimated via a
+    In two separate experiments,weaned 26-to 29-day-old pigs
+    three-tube most probable number method (5),and cecal contents
+    were each infected orally with 8 X 107 CFU of Salmonella Ty-
+    (diluted 1:10 in phosphate-buffered saline)were analyzed for vol-
+    phimurium strain NVSL 95-1776.This strain was naturally resis-
+    atile fatty acid concentrations by gas chromatography (11).An-
+    tant to novobiocin and was made nalidixic acid resistant in our
+    aerobically prepared(N2 gas)reinforced clostridial medium(Dif-co)supplemented with 40%(vol/vol)clarified rumen fluid (14),
+    Author for correspondence.Tel:979-260-9317;Fax:979-260-9332;
+    0.0001%(wt/vol)resazurin,and cellobiose and xylose (0.025%
+    E-mail:anderson @ffsru.tamu.edu.
+    wt/vol]each)was used as the general growth medium for most
+
+==========第1页==========
+    256
+    ANDERSON ET AL
+    J.Food Prot.,Vol.64,No.2
+    -O-Experiment 1,0X treatment
+    0.05)on cecal Salmonella concentrations was also ob-
+    4.5
+    O-Experiment 1,1X treatment
+    served.The cause of the interaction is not readily apparent
+    -Experiment 2,0X treatment
+    from the present data but suggests that other pharmacoki-
+    -Experiment 2,1X treatment
+    netic properties of chlorate need to be investigated.It is
+    3.5
+    probable that the observed interaction reflects gut concen-trations of chlorate,which were not measured in this study.
+    For instance,significant reductions did not occur in con-
+    2.5
+    tents collected 8 h after administration of the last treatment(16 h after administration of the first treatment),and this
+    1.5
+    suggests that effective chlorate concentrations had not yetaccumulated in the lower gut.Regarding the lack of effectobserved in contents collected 24 h after the last treatment.
+    0.5
+    it is reasonable to expect that chlorate concentrations wouldhave been diminished due to microbial reduction to chlorite
+    16
+    and absorption.These data thus indicate a need to develop
+    asn
+    Time after receiving last treatment
+    practical administration procedures that optimize deliveryand maintenance of effective concentrations of chlorate to
+    FIGURE 1.Effect of oral sodium chlorate administration on cecal
+    the lower gut.In this regard,protocols that achieve more
+    Salmonella Typhimurium concentrations in experimentally infect-
+    frequent or continuous(i.e.,timed release)delivery of chlo-
+    ed weaned pigs.Mean for experiment I 0X treatment of contents
+    rate to the gut may be better than simply adding higher
+    collected 24 h after the administration of last treatment was cal-culated from data obtained from four animals;all other means
+    concentrations,since little if any additional reductions in
+    were calculated from data obtained from five animals.Asterisks
+    Salmonella concentrations were observed in pigs similarly
+    indicate significant difference (P<0.05)from 0X treated con-
+    treated with 200 mM sodium chlorate (data not shown).
+    centrations;SEM values were 0.38 and 0.31 for experiments 1
+    Alternatively,the resurgent increase in Salmonella con-
+    and 2,respectively.
+    centrations in contents collected during the last samplingcould possibly be due to chlorate effects on feed and waterintake or to the development of resistance to chlorate.In
+    probable number enumeration.Tubes were scored positive for
+    ruminants,for example,evidence suggests that feed depri-
+    growth based on visual inspection for turbidity following 1-week
+    vation may favor growth of enterobacteria(9).Propagation
+    incubation.All incubations were done at 37C.Proportions of Sal-monella-positive specimens were analyzed for differences using
+    of resistant Salmonella is less likely,however,since evi-
+    合
+    Fisher's exact test,and cecal concentrations (i.e.,volatile fatty
+    dence indicates that chlorate-resistant strains of Escherichia
+    poo
+    acids,most probable numbers of total culturable anaerobes and
+    coli O157:H7 (which also possess respiratory nitrate reduc-
+    Salmonella)were analyzed by general analysis of variance using
+    tase)generated in pure culture were unable to persist in
+    Statistix for Windows (Analytical Software,Tallahassee,Fla.).
+    mixed ruminal or fecal culture (10).
+    RESULTS AND DISCUSSION
+    Significant treatment,time after treatment effects,andtheir interaction were also observed with respect to cecal
+    In agreement with earlier in vitro work (4),a bacteri-
+    propionate and total volatile fatty acid concentrations(Table
+    cidal effect of oral sodium chlorate on Salmonella was ob-
+    1).A bactericidal effect of chlorate treatment on propio-
+    served,as evidenced by significant reductions in cecal Sal-
+    nate-producing bacteria such as Selenomonas and Propion-
+    monella concentrations from contents collected 16 h after
+    ibacterium,which are among the few anaerobes possessing
+    the last chlorate administration(Fig.1).When the data from
+    respiratory nitrate reductase activity (2,3),may have con-
+    both experiments were combined and analyzed,a signifi-
+    tributed to the decreased propionate concentrations;how-
+    cant treatment by time after treatment interaction (P
+    ever,possible chlorate effects on feed and water intake can-
+    TABLE 1.Volatile fatty acid concentrations (umol/ml)in cecal contents collected at 8-h intervals from experimentally infected weanedpigsa
+    Hours following last chlorate treatment
+    Acetate
+    Propionate
+    Butyrate
+    Total volatile fatty acid
+    Treatment
+    8
+    16
+    24
+    16
+    24
+    8
+    16
+    24
+    8
+    16
+    24
+    0X chlorate
+    62.6
+    65.391.9
+    38.4A
+    43.6A
+    67.7B
+    10.5
+    9.5
+    16.4
+    111.5c
+    118.4c
+    176.0D
+    1X chlorate
+    65.5
+    63.2
+    68.3
+    34.5A
+    34.6A
+    32.3A
+    13.811.410.9
+    113.8c
+    109.1c
+    111.4D
+    Mean for 0x treatment of contents collected 24 h after the administration of last treatment was calculated from data obtained fromfour animals;all other means were calculated from data obtained from five animals.SEMs are 3.43 for acetate,2.94 for propionate
+    1.48 for butyrate,and 6.55 for total volatile fatty acid.
+    bTreatments were administered at 8 and 16 h after Salmonella challenge via oral gavage(10 ml)of 0 or 100 mM chlorate solutions.c Means within rows and columns with different letters are significantly different (P<0.05)
+
+==========第2页==========
+    J.Food Prot.,Vol.64,No.2
+    EFFECT OF CHLORATE ON SALMONELLA TYPHIMURIUM IN THE PIG GUT
+    not be discounted.Most probable numbers of total cultur-
+    timated water consumption of 500 ml.McCauley et al.(16)
+    able anaerobes were unaffected by chlorate treatment (val-
+    reported moderate toxicity in Sprague-Dawley rats follow-
+    ues ranged from 10.6 to 11.5 log1o cells/g),thus supporting
+    ing 90 days ad libitum access to drinking water containing
+    the concept that the bactericidal effect of chlorate is specific
+    48 mM sodium chlorate (500 and 800 mg of chlorate ion
+    to those bacteria that possess respiratory nitrate reductase
+    per kg of body weight per day;males and females,respec-
+    activity.
+    tively)and no observable adverse effects following 90 days
+    Berends et al.(7)reported that up to 30%of finished
+    ad libitum access to 3 mM sodium chlorate (30 and 40 mg
+    pigs may shed Salmonella and that this incidence may be
+    of chlorate ion per kg of body weight per day:males and
+    much higher following transport and lairage.Davies et al.
+    females,respectively).These male and female rats con-
+    (13)reported that Salmonella infections are often acquired
+    sumed as much or more water than rats provided access to
+    during the finishing phase of production and thus suggested
+    distilled water (16).Our results clearly demonstrate that a
+    that preharvest strategies intended to reduce carcass con-
+    much shorter-term administration of sodium chlorate effec-
+    tamination may have greater impact if applied during this
+    tively reduced gut concentrations of Salmonella,thus in-
+    period.Asymptomatic carrier animals are particularly prob-
+    dicating that long-term chlorate administration may be un-
+    lematic because they often escape detection.In the present
+    needed.Although none of the pigs in the present study
+    study,none of the pigs exhibited symptoms of salmonel-
+    exhibited symptoms of chlorate toxicity,blood parameters
+    losis.Although the results presented herein were obtained
+    were not measured.
+    with weaned pigs,it is reasonable to expect that such treat-
+    ACKNOWLEDGMENTS
+    ment may be effective in reducing concentrations of Sal-monella in mature animals as well.Thus,chlorate supple-
+    We thank Meghan Carroll and Nicolas Leyendecker for animal care
+    mentation may provide a practical means of reducing patho-
+    and laboratory assistance.Portions of this work were supported by a grant
+    gen concentrations within the gut of food-producing ani-
+    from the National Pork Producers Council on behalf of the National Pork
+    mals immediately before slaughter.In such a setting,
+    Board and have been presented in preliminary form at the Eighth International Symposium on Digestive Physiology in Pigs,Uppsala,Sweden,
+    chlorate could easily be administered as an additive in the
+    June20to22,2000.
+    last meal before transport to the abattoir or in drinking wa-ter during lairage.An added benefit of such a terminal treat-
+    REFERENCES
+    ment is that cross-contamination often associated with
+    1Abdel-Rahman,M.S.,D.Couri,and R.J.Bull.1985.The kinetics
+    transport and lairage (6)may be mitigated.The selective
+    of chlorite and chlorate in rats.J.Environ.Pathol.Toxicol.Oncol
+    toxicity of chlorate against Salmonella is consistent with
+    6:97-104.
+    the proposal of Berends et al.(7)that on-farm Salmonella
+    2.Alaboudi,A.R.1982.Microbiological studies of nitrate and nitrite
+    control strategies take advantage of the natural colonization
+    reduction in the ovine rumen.Ph.D.dissertation.University of Saskatchewan,Saskatoon.
+    resistance conferred to the host via their native gut flora
+    Allison,M.J.,and C.A.Reddy.1984.Adaptations of gastrointes
+    Chlorate administration did not,however,significantly low-
+    tinal bacteria in response to changes in dietary oxalate and nitrate
+    er (P 0.05)proportions of pigs yielding Salmonella-pos-
+    p.248-256.In M.J.Klug and C.A.Reddy (ed.),Current perspec-
+    itive ileocolic lymph nodes (10 to 50%)or cecal contents
+    tives in microbial ecology.Proceedings of the Third International
+    (40 to 90%).Clearly,further studies with finished pigs are
+    Symposium on Microbial Ecology.American Society for Microbi-
+    needed as are studies designed to more fully elucidate phar-
+    ology,Washington,D.C.
+    4.Anderson,R.C.,S.A.Buckley,L.F Kubena,L.H.Stanker,R.B
+    macological properties of chlorate to ensure that such treat-
+    Harvey,and D.J.Nisbet.2000.Bactericidal effect of sodium chlo-
+    ments are efficacious and do not comprise final product
+    rate on Escherichia coli O157:H7 and Salmonella Typhimurium
+    quality or safety.
+    DT104 in rumen contents in vitro.J.Food Prot.63:1038-1042.
+    Whereas the concept using chlorate in a preharvest
+    5.Association of Official Analytical Chemists.1980.Official methods
+    pathogen reduction program is new,the use of chlorate salts
+    of analysis,13th ed.Association of Official Analytical Chemists.
+    Arlington,Va.
+    in veterinary and human medicine is not (12).For instance.
+    6
+    Baird-Parker,A.C.1990.Foodborne illness.Lancet 336:1231-1235
+    their use in toothpastes at concentrations of up to 5%has
+    Berends,B.R.,H.A.P.Urlings,J.M.A.Snijders,and F Van
+    been approved by the European Union (12).At higher con-
+    Knapen.1996.Identification and quantification of risk factors in an-
+    centrations,however,chlorate is toxic to humans and ani-
+    imal management and transport regarding Salmonella spp.in pigs
+    mals,with 50%lethal doses in the range of 1 g kg-l of
+    Intl.J.Food Microbiol.30:37-53
+    8.Brenner,D.J.1984.Enterobacteriaceae,p.408-420.In N.R.Krieg
+    body weight (12).Methemoglobinemia,erythrocyte fragil-
+    and J.G.Holt (ed.),Bergey's manual of systematic bacteriology,
+    ity,and renal necrosis are common toxic effects associated
+    vol.1.The Williams Wilkins Co.,Baltimore,Md.
+    with ingestion of chlorate and,perhaps more importantly
+    9.Brownlie,L.E.,and F H.Grau.1967.Effect of food intake on
+    the reduced ion chlorite (19).Whereas studies using 36-Cl-
+    growth and survival of salmonellas and Escherichia coli in the bo-vine rumen.J.Gen.Microbiol.46:125-134.
+    labeled chlorate and chlorite administered to rats found that
+    0.Callaway,T.R.,R.C.Anderson,S.A.Buckley,L.E Kubena and
+    most of the labeled chlorine was present as chloride(1,17),
+    D.J.Nisbet.2000.Escherichia coli 0157:H7 becomes resistant to
+    studies examining potential chlorate and chlorite accumu-
+    sodium chlorate addition in pure culture but not in mixed culture or
+    lation in food animal products are also needed.
+    in vivo.ASAS/ADSA Joint Meeting,Baltimore,Md.J.Dairy Sci.
+    In the present study,each pig received approximately
+    83(Suppl..1):452.
+    11.Corrier,D.E.,A.Hinton,Jr.,R.L.Ziprin,and J.R.DeLoach.1990.
+    213 mg of sodium chlorate following the collective admin-
+    Effect of dietary lactose on Salmonella colonization of market-age
+    istration of the 1X treatment,which corresponds to a single
+    chickens.Avian Dis.34:668-676
+    day consumption of approximately 4 mM,based on an es-
+    12.
+    Cosmetic Ingredient Review Panel.1995.Final report on the safety
+
+==========第3页==========
+    258
+    ANDERSON ET AL
+    J.Food Prot.,Vol.64,No.2
+    assessment of potassium chlorate.J.Am.College Toxicol.14:221-17.National Research Council.1987.Chemistry and toxicity of selected
+    230.
+    disinfectants and by-products,p.80-189.In Drinking water and
+    13.Davies,P.,J.Funk,and W.E.M.Morrow.1999.Fecal shedding of
+    health:disinfectants and disinfectant by-products,vol.7.National
+    Salmonella by a cohort of finishing pigs in North Carolina.Swine
+    Academy Press,Washington,D.C.
+    Health Prod.7:231-234.
+    18.Pichinoty,F,and M.Piechaud.1968.Recherche des nitrate-reduc-
+    14.Hespell,R.B.,and M.P.Bryant.1981.The genera Butyrivibrio
+    tases bactereriennes A et B:methodes.Ann.Inst.Pasteur (Paris)114:
+    Succinivibrio,Succinimonas,Lachnospira,and Selenomonas,p.
+    77-98.
+    1479-1494.In M.P.Starr,H.Stolp,H.G.Truiper,A.Balows,and
+    19.Steffen,C.,and E.Wetzel.1993.Chlorate poisoning:mechanism of
+    H.G.Schlegel (ed.),The prokaryotes:a handbook on the habitats,isolation,and identification of bacteria,vol.II.Springer-Verlag,Ber-
+    toxicity.Toxicology 84:217-231.
+    lin.
+    20.Stewart,V.1988.Nitrate respiration in relation to facultative metab-
+    15.Lax,A.J.,P.A.Barrow,P.W.Jones,and T.S.Wallis.1995.Current
+    olism in enterobacteria.Microbiol.Rev.52:190-232.
+    perspectives in salmonellosis.Br.Vet.J.151:351-377.
+    21.Wilcock,B.P.,and K.J.Schwartz.1992.Salmonellosis,p.570-
+    16.McCauley,P.T.,M.Robinson,E B.Daniel,and G.R.Olson.1995
+    583.In A.D.Leman,B.E.Straw,W.L.Mengling,S.D.Allaire,
+    The effects of subchronic chlorate exposure in Sprague-Dawley rats.
+    and D.J.Taylor (ed.),Diseases of swine,7th ed.Iowa State Uni-
+    Drug Chem.Toxicol.18:185-199.
+    versity Press,Ames,lowa.
+    asn [euos.iad Io'81L1/80 4o 60707 IOI'S Aq sio'uonoaoldpooj!wol papeolumod8sc-ssc:t9'1007 uon5a1old poo Jo jeuino
+
+==========第4页==========

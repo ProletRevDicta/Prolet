@@ -1,0 +1,415 @@
+    June,1958
+    NOTES
+    755
+    the saturated solution is the monohydrates;
+    .8942
+    5.31
+    1.453
+    9696
+    1.42
+    polymorphism reported by Vold,et al.,for impure
+    1.000
+    5.35
+    1.467
+    A
+    soap samples,was not observed in this work
+    Temp.45°
+    No change in the X-ray pattern of calcium oleatecould be detected.The dihydrate has been re-
+    0.0000
+    8.82
+    1.201
+    心
+    ported.The nature of hydration in this case may
+    .1042
+    8.29
+    1.226
+    0.0145
+    1.12
+    be non-coordinative lattice absorption.
+    .1560
+    8.04
+    1.240
+    0232
+    1.15
+    .2600
+    7.50
+    1.267
+    .0384
+    1.09
+    (8)K.W.Gardiner,M.J.Buerger and L.B.Smith,THIs JoURNAL
+    .3917
+    6.81
+    1.308
+    .0586
+    0.98
+    B
+    49,417 (1945);R.D.Vold,J.D.Grandine and M.J.Vold,J.Colloid
+    Sci.,3,339 (1948);M.J.Vold,G.S.Hattiangdi and R.D.Vold,ibid.,
+    .4702
+    6.39
+    1.336
+    .0807
+    1.07
+    B
+    4,93(1949).
+    .6158
+    5.47
+    1.398
+    .1134
+    1.01
+    (9)F.Hoppler,Futte u.Seifen,49,700 (1942).
+    ,7228
+    4.75
+    1.458
+    ,4510
+    1.22
+    B,A
+    .7562
+    4.69
+    1.462
+    .9365
+    1.20
+    A
+    THE SYSTEM SODIUM CHLORATE-SODIUM
+    8723
+    4.90
+    1.476
+    ,9596
+    1.52
+    .9202
+    1.481
+    9756
+    1.61
+    CHLORIDE-WATER AT VARIOUS
+    4.89
+    1.000
+    4.90
+    1.491
+    A
+    TEMPERATURES
+    BY THOMAS S.OEY AND DONALD E.KOOPMAN
+    Deparlment of Chemistry,Ohio Wesleyan Universily,Delaware,Ohio
+    3
+    Received January 18,1958
+    The available data2 on the ternary system sodiumchlorate-sodium chloride and water were foundinadequate for use in the study of the quaternarysystem involving the three components of thissystem and sodium chlorite.The present workhas been undertaken to re-examine this ternarysystem over much wider ranges of temperatures
+    0/
+    D.3
+    Q6
+    0708
+    Q9
+    and concentrations.
+    Fig.1.-The system sodium chloride-sodium chlorate-
+    TABLE I
+    water at25°
+    THE TERNARY SYSTEM SODIUM CHLORATE,SODIUM CHLO
+    RIDE AND WATER
+    Solid phase:A,NaC1O3;B,NaCl
+    Sp.gr.
+    olid
+    Dhase
+    Temp.25°
+    0.0000
+    9.01
+    1.200
+    B
+    .1593
+    8.18
+    1.240
+    0.0165
+    0.85
+    B
+    ,2142
+    7.95
+    1.255
+    .0290
+    1.04
+    B
+    .2696
+    7.64
+    1.271
+    .0337
+    0.95
+    B
+    .3867
+    7.01
+    1.309
+    .0604
+    1.10
+    .4394
+    6.66
+    1.327
+    .0567
+    0.88
+    B
+    0.1
+    a2
+    04
+    Q5
+    Q607
+    Q9
+    .4722
+    6.57
+    1.340
+    .0546
+    0.76
+    B
+    .6175
+    5.55
+    1.402
+    4689
+    3.39
+    B,A
+    Fig.2.-The system sodium chloride-sodium chlorate-
+    water at35°
+    ,6940
+    5.75
+    1.408
+    .9341
+    1.36
+    A
+    .7478
+    5.82
+    1.414
+    .9476
+    1.21
+    A
+    .8362
+    5.79
+    1.423
+    .9669
+    1.17
+    .9163
+    5.82
+    1.429
+    ,9844
+    1.09
+    1.000
+    5.88
+    1.440
+    Temp.35
+    0.0000
+    8.96
+    1.201
+    心
+    .0948
+    8,48
+    1.224
+    0.0130
+    1.12
+    心
+    .1808
+    8.03
+    1.246
+    .0310
+    1.35
+    ⊙
+    ,2265
+    7.79
+    1.259
+    ,0350
+    1.20
+    心
+    .3333
+    7.22
+    1.289
+    0497
+    1.05
+    B
+    .4382
+    6.62
+    1.325
+    .0781
+    1.17
+    B
+    02
+    Q4そo
+    Q5
+    agNo(13
+    .5932
+    5.67
+    1.388
+    .1066
+    1.00
+    B
+    Fig.3-The system sodium chloride-sodium chlorate-
+    .6754
+    5.14
+    1.430
+    .6018
+    1.40
+    B,A
+    water at45°，
+    .7060
+    5.18
+    1.433
+    .9112
+    1.55
+    A
+    .8133
+    5.26
+    1.444
+    .9466
+    1.50
+    A
+    The system sodium chlorate-sodium chloride
+    .8659
+    5.29
+    1.451
+    ·.9599
+    1.55
+    and water is a simple one;no double salts have beenfound within the temperature interval 25-45,the
+    (1)This investigaticwas made under a grant from the National
+    Science Foundation (NSF-G2750).
+    solid phases found in the equilibrium mixture being
+    (2)F.Winteler,Z.Elektrochem.,7,360 (1900);J.Billiter,Monalsh.,
+    sodium chlorate and sodium chloride
+    41,287 (1920);C.DiCapua and U.Scaletti,Gazz.chim.ital.,57,391
+    Materials.-The sodium chlorate and sodium chloride
+    (1927).
+    used were of the analytical reagent grade.The impurities
+
+==========第1页==========
+    756
+    NOTES
+    Vol.62
+    present in.thisgrade were deemed much too small to affect
+    Determination of the Oxygen.-The amount of combined
+    the results.Distilled water was used in all of the experi-
+    oxygen as well as its disposition in each sample was esti-
+    ments.
+    mated by evacuating 2-g.portions at 1200 ina resistance
+    Experimental.-The experiments were carried out as is
+    tube furnace,collecting water in calcium chloride tubes and
+    customary in equilibrium investigationsTheapparatus
+    analyzing the rest of the gases evolved in Orsat-Lunge gas
+    and procedures for all of the experiments have been reported
+    analysis apparatus in the usual way.
+    earlier.As in this earlier work,the Schreinemaker's wet
+    Heat of Immersion.-Two to fourg.samples were mea-
+    residue method was used.
+    ured into thin-walled glass bulbs and outgassed for about 10
+    The figures given in Table I are in moles of salts and moles
+    hours
+    Water (redistilled)and Merck extra pure methyl
+    of water.
+    The x function is the moles of sodium chlorate
+    alcohol,ethyl alcohol,n-hexane and benzene thoroughly
+    divided by the sum of the moles of sodium chlorate and the
+    dried over magnesium turnings or sodium were used as the
+    moles of sodium chloride.The w function is the moles of
+    wetting liquids.The calorimeter and its technique were
+    water divided by the sumof the moles of sodiumchlorate
+    essentially the same as described by Boyd and Harkins!and
+    and the moles of sodium chloride.
+    all the precautions were duly observed.The reproduci-
+    Analytical.-Procedures for the analysis of chlorate and
+    bility varied from 1 to 20.
+    chloride have been described by White.4
+    Isotherms and Surface Area.-Water and methyl alcohol
+    The solutions and wet residues in the various equilibrium
+    adsorption isotherms were determined at 25.7Surface
+    mixtures were analyzed for chlorate ion and chloride ion.
+    areas were calculated from the water isotherms.8,9
+    The water in the liquid phase and the wet residue was deter-
+    Base Adsorption.-Base adsorption capacity was deter
+    mined by difference.
+    mined by mixing 0.5 g.of charcoal with 100 ml.of 0.1 N
+    The Ternary System Sodium Chlorate-Sodium
+    bariumhydroxide solution,shaking the suspension for
+    Chloride-Water.-In this system three isotherms
+    about 48 hours and titrating an aliquot of the clear super-natant liquid against a standard acid solution.
+    have been worked out:25,35 and 45.The data
+    Discussion
+    are summarized in Table I and shown in Figs.1,2and 3.They show only sodium chlorate and
+    It is seen (Table i that treatment of the degassed
+    sodium chloride as the solid phases present.
+    charcoals with oxygen as well as with nitrogenperoxide (cf.samples numbered 1,9,22 and 30)
+    (3)G.L.Cunningham and T.S.Oey,J.Am.Chem.Soc.,77,799
+    results in the fixation of appreciable amount of
+    (1955).
+    (4)J.F.White,Am.Dyestuf Reporter,31,484 (1942).
+    oxygen which on evacuating at 1200 is given outas carbon dioxide,carbon monoxide and water inthe case of sugar charcoal and as carbon dioxide
+    THE HEAT OF IMMERSION OF CHARCOAL
+    and water in the case of coconut charcoal.The
+    AS A FUNCTION OF ITS OXYGEN
+    amount of chemisorbed oxygen decreases progres-
+    COMPLEXES
+    sively on degassing these samples at increasing
+    BY BALWANT RAI PURI,D.D.SINGH AND LEKH RAJ
+    temperatures.The oxygen contentsof a few
+    SHARMA
+    samples were determined by ultimate analysis as
+    Department of Chemistry,Panjab University,Hoshiarpur,India
+    well.These values are shown in the footnote to
+    Table I.
+    Received January 15,1958
+    Surface areas of the samples appear to remain
+    Hydrophilic solids give higher heats of immersion
+    about the same irrespective of their oxygen content.
+    in water than hydrophobic solids.12Adsorbent
+    This is in conformity with the observations of Ar-
+    carbons and charcoals provide interesting materials
+    nell and MeDermot9 and Emmett and Anderson.10
+    for such studies because even though they are
+    However surface areasincrease appreciablyon
+    basically hydrophobic solids,their surfacebe-
+    activating the original samples of charcoal in steam
+    havior can be modified appreciably on oxidation.3-
+    (samples numbered 17-21 and 38-42)at increasing
+    The present paper describes the measurements oftemperatures up to 1000.But this treatment,at
+    heats of immersion of different samples of charcoal
+    the same time,results in the progressive elimination
+    associated with varyingamounts ofoxygen,in
+    of the combined oxygen,disposed as CO2
+    water and a few organic liquids.
+    The immersional heats of wetting in water,ex-
+    Experimental
+    pressed as ergs/cm.2,are seen to decrease appre-
+    Materials.-Two samples of charcoal prepared by the
+    ciably when the samples treated with oxygen or
+    carbonization of recrystallizedcane-sugarandcoconut
+    nitrogen peroxide are subsequently subjected to
+    shells were freed of ash and divided into several 10-g.por-tions.Some of these were activated in steam at different
+    evacuation at gradually increasing temperatures
+    temperatures varying from 400 to 1200 and some by heating
+    upto750°
+    After this,the values remain more or
+    at 1200 followed by treatment with oxygen or ni
+    less unchanged even though the oxygen content
+    trogen peroxide at 4003,in a rotating (35 revolutions
+    goes on decreasing on further evacuation right up
+    min.)Pyrex tube (3/in.bore)The gas was led over thematerial at the rate of about 2 1./hr.for about 16 hours
+    t01200°particularly in the case of sugar charcoal
+    The treatments with oxygen and nitrogen peroxide resulted
+    Acareful examination of the data shows that
+    in the fixation of an appreciable amount of oxygen.
+    Por.
+    oxygen disposed as CO2 and H2O gets almost com-
+    tions from each sample were then subjected to evacuation
+    pletely eliminated at 750 but a certain amount of
+    at different temperatures varying from 450 to 1200order toremoveincreasing amountsofthechemisorbed
+    combined oxygen,largely disposed as CO,remains
+    oxygen.
+    even above 750,at least in the case of sugar char-coal.It appears,therefore,that oxygen disposed
+    (1)G.E.Boyd and W.D.Harkins,J.Am.Chem.Soc.,64,1190
+    as co does not affect the value of heat of immersion
+    (1942).
+    (2)F.H.Healey,J.J,Chessick,A.C.Zettlemoyer and G.J.Young,
+    (7)B.R.Puri,M.L.Lakhanpal and B.Verma,J.Ind.Chem.Soc.,
+    THI8 JOURNAL,58,887 (1954).
+    29,841(1952).
+    (3)S.Weller and T.F.Young,J.Am
+    .S0c..70.41551948)
+    (8)S.S.Kistler,E.A,Fiseher and I.R.Freeman,J.Am.Chem.Soc.,
+    (4)J.H.Wilson and T.R.Bolam,J.Colloid Sci.,5,550 (1950).
+    65,1909(1943).
+    (5)B.R.Puri,Y.P.Myer and L.R.Sharma,J.Ind.Chem.Soc.
+    (9)H.L.MeDermot and J.C.Arnell,THIs JoURNAL,58,492
+    33,781(1956).
+    (1954),
+    (6)F.H.Healey,Y.F.Yu and J.J,Chessick,THIs JoURNAL,59,
+    (10)P.H.Emmett and R.B.Anderson,J.Am.Chem.Soc.,67,
+    399(1955).
+    1492(1945)
+
+==========第2页==========

@@ -1,0 +1,355 @@
+    CRYSTAL
+    GROWTH
+    Crystallization of Sodium Chlorate with D-Glucose Co-Solute Is Not
+    DESIGN
+    Enantioselective
+    2008
+    Andrew J.Alexander*
+    V○L.8,NO.8
+    School of Chemistry,University of Edinburgh,Edinburgh,Scotland,United Kingdom,EH9 3JJ
+    2630-2632
+    Received May 22,2008;Revised Manuscript Received July 1,2008
+    ABSTRACT:New evidence is presented that crystallization of sodium chlorate in the presence of the chiral co-solute D-glucose does notbias the growth of levorotatory crystals over dextrorotatory.The weighted mean percentage of d-NaClO3 was found to be Wa 50.4+1.4,compared to previous experiments of Kipping and Pope showing Wd =31.7 +0.9 [J.Chem.Soc.Trans.1898,73,606].Possible explanationsfor the discrepancy between the historical results and the present work are discussed.The present work casts doubt on a result that has beenaccepted for over a century,concerning the ability of a chiral molecule to influence asymmetric crystallization,which has been used topromote theories on the possible origins of biological homochirality
+    Chirality is one of the cornerstone symmetries of chemistry and
+    limiting enantiomeric excesses (ee)in favor of d-or /-NaClO3 in
+    biology.For a long time there has been intense interest in
+    any given vessel.13 The high ee is explained by the enhanced
+    understanding how chirality can be transferred from one substance
+    secondary nucleation from a single initial seed;it is not,however
+    to another,also known as enantioselectivity.Enantioselectivity
+    possible to predict whether the outcome will favor d or l,since the
+    evidently occurred at some time during the evolution of life,leading
+    creation of the initial seed is random.Although this method causes
+    to the presence of biological homochirality.4 Asymmetric syn-
+    asymmetric crystallization,it is not enantioselective in terms of
+    thesis is a fundamental goal of synthetic chemistry,but yet often
+    cause and effect.
+    very difficult to achieve even with careful choices of chiral starting
+    More recently,Petrova and Swift studied the crystallization of
+    materials,use of asymmetric catalysis,and sometimes borrowing
+    NaC1O3 in agarose gel.4 The primary structure of the gel molecule
+    from nature's arsenal of enantioselective pathways.
+    consists of both L-and D-galactose monomers.The authors found
+    Apart from molecular chirality,e.g.,in chiral carbon centers,
+    that increased gel concentrations showed increasing bias toward
+    chirality also exists in the packing of achiral building blocks.A
+    one of the crystal enantiomers.They found that growth in 0.75 wt
+    well-studied example is the inorganic compound sodium chlorate,
+    aqueous agarose gel at 6C showed a preference for d-NaCIO3
+    which packs in a chiral space group P2 3,and whose crystals exhibit
+    (~61%d),although remarkably this changed to preference for
+    optical rotary dispersion to give d (dextrorotatory)and I (levoro-
+    1-NaClO3 at 24 C(57%).Interestingly,they found that addition
+    tatory)forms.
+    of small amounts of methanol to the prepared gel caused significant
+    In 1898,Kipping and Pope (K+P)published quantitative
+    bias toward 1-NaClO3 (up to ~77%1):a result that they attributed
+    results showing that crystallization of sodium chlorate from
+    to changes in the gel structure possibly caused by the increased
+    solution yielded on average no preference for d or crystals,
+    hydrophobic environment of the solvent.At the conclusion of their
+    although it was found that statistical fluctuations meant that any
+    report,Petrova and Swift note that they did not observe any bias
+    given sample could show a random preference.In a remarkable
+    to crystallization of NaClO3 in aqueous solutions containing 1
+    demonstration of enantioselectivity in that work,K+P also
+    wt of D-galactose,perhaps suggestive that the helical tertiary
+    showed that 20 wt of co-solute chiral D-glucose could biasthe crystallization,showing an overall preference in favor of
+    mnmer m epe To er e
+    1-NaCIO3 (68%1).7 This result suggests a strong interaction
+    In line with the observed bias of crystallization caused by chiral
+    between molecular chirality and chiral packing,and has fuelled
+    solute molecules,Soai et al.have recently shown that d-and
+    speculation that biological homochirality could have had its
+    I-NaClO3 can bias the outcome of an autocatalytic asymmetric
+    origins in interactions with abundant inorganic minerals,such
+    synthesis15.16 It was found that (S)-5-pyramidyl alkanols are
+    as quartz(SiO2)or calcite (CaCO).-1The crystal space group
+    obtained with up to 98%ee in the presence of a crystal of d-NaCIO3
+    of quartz is chiral,giving rise to d and l forms,and in general
+    resulting from the enantioselective addition of diisopropylzinc to
+    any crystal surface with structures that break inversion symmetry
+    pyrimidine-5-carbaldehydes;the corresponding (R)-alkanols are
+    could be considered chiral.K+P also showed that 6 wt
+    promoted by I-NaC1O3.16 The high degree of selectivity is no doubt
+    of D-mannitol gave a preference for growth of /-NaClO3
+    due to the autocatalytic nature of the reaction mechanism,which
+    (59%1).7 Enantioselectivity by a chiral co-solute during
+    is able to effectively amplify any small bias in chirality.Neverthe-
+    crystallization was apparently confirmed by Niedermaier and
+    less,the results show that some chiral interaction occurs between
+    Schlenk (N+S)in 1972,who showed that D-mannitol gave a
+    the inorganic crystalline NaClO3 and the organic reagents,even in
+    preference for d-NaClO3 (100%d)and D-dulcitol gives mostly
+    toluene solution.
+    I-NaClO3 (~99%1).In a tantalizing note on unpublished
+    If a chiral molecule can bias enantiomorphism in crystal growth,
+    results,Pagni and Compton state that D-and L-arabinose,and
+    we ask the question:what are the specific,or possibly co-operative,
+    D-sucrose,apparently showed no enantioselectivity for crystals
+    molecular interactions between molecule and seed?With a view
+    of NaCIO3.6 Enantioselectivity has also been demonstrated by
+    to understanding in more detail the interaction between a chiral
+    other chiral influences,e.g.,by seeding,and with B or positron
+    molecule and a chiral crystal,we thought it prudent to first revisit
+    radiation:12 the results of bias in NaClO3 crystallization are
+    the experiments of Kipping and Pope:the results of this visit have
+    summarized in a review by Pagni and Compton.
+    been quite surprising:we outline our findings below,along with
+    In 1990,Kondepudi et al.showed that an achiral external
+    possible explanations for discrepancies between our results and the
+    influence-rapid stirring-caused the crystallization to yield nearly
+    works of Kipping and Pope,and of Niedermaier and Schlenk.
+    A batch of crystallizations was prepared as follows:400 g of
+    E-mail:andrew.alexander@ed.ac.uk;tel:+44 131 650 4741;fax:+44 131
+    sodium chlorate (Sigma Aldrich,ReagentPlus 99+%)was dissolved
+    6504743.
+    by stirring in 444 g of deionized water (Fisher,HPLC grade).The
+    10.1021/cg800540z CCC:$40.75 2008 American Chemical Society
+    Published on Web 07/18/2008
+
+==========第1页==========
+    Communications
+    Crystal Growth Design.Vol.8.No.8.2008 2631
+    Table 1.Number of Crystallizations,Ntrials Giving Overall Total
+    Numbers of d-and I-NaClO3 Crystals Counted,Na and Ni,Giving
+    Enantiomeric Excess,ee =(Na -Ni)/(Na +N),and Weighted Mean
+    Percentage of d-NaClO3 Crystals,Wa 100 Na /(Na N)
+    reference
+    Ntrials Na Nee W
+    K+P no additive
+    4615711566+0.00250.1±1.4
+    K+P D-glucose?
+    25
+    7811679-0.36531.7±0.9
+    D-glucose (present work)
+    86
+    624614+0.00850.4±1.4
+    maltodextrin (present work)21
+    306315-0.01549.3±1.8
+    "A breakdown of the individual results is given in the Supporting
+    D-glucose
+    Information.
+    to be at 90 degrees ("crossed"with respect to the first polarizer)sothat very little light is passed through.If a crystal of sodium chlorateis placed between the polarizers,the crystal will rotate the planeof polarization and light will pass through the analyzer (the crysta
+    102030405060708090
+    100
+    will appear to be light blue).Crystals that are dextrorotary (d)will
+    percentage of d crystals
+    appear darker when the analyzer is rotated a small amount to theright (clockwise,as viewed by the observer).Crystals that are
+    Figure 1.Histogram showing number of samples versus percentage
+    levorotary (will appear darker when the analyzer is rotated to
+    of d-NaClO3 crystals obtained per sample U=100nd/(nd n),where
+    the left (counter-clockwise).An example of these observations is
+    nd and n are,respectively,the number of d-and I-NaCIO3 crystals
+    shown in the image inset to Figure 1.
+    obtained per sample.The structure inset(top right)shows the structures
+    The crystallization procedure above was carried out four times
+    of the two anomers of glucose,a-D-glucopyranose and B-D-glucopy-
+    over the period of nearly 2 months using fresh reagents at each
+    ranose:see text for details.The image inset (top left)is of sodium
+    repeat,giving a total of Ntrial =86 separate crystallizations.The
+    chlorate crystals viewed through a pair of polarizers as described in
+    weighted mean percentage (W)and corresponding single standard
+    the text,showing crystals that appear darker when the analyzer is rotated
+    deviation (o)of d crystals was calculated as follows:
+    by a small amount.
+    sodium chlorate solution concentration was 90%of saturation at
+    100∑na
+    20 C,and the density was measured as 1.407 g cm3(20 C)
+    W
+    (1)
+    After complete dissolution of the sodium chlorate,120 g of
+    ∑ma+nm
+    D-glucose (Sigma Aldrich,99.5%)was added to the solution andstirred to dissolve.The density of the final solution (D-glucose,
+    {na+n)100n/(na+n)2}
+    sodium chlorate in water)was measured to be 1.418 g cm3
+    0=
+    (20 C).In later experiments,instead of the D-glucose,we used
+    Ntrials
+    ∑na+nH
+    90 g of maltodextrin(Sigma-Aldrich DE 4.0-7.0)in a solution of
+    (2)
+    300 g NaClO3 in 333 g water.The relative proportion of glucoseto sodium chlorate was the same as used by K+P,who used 200 g
+    where the summations run over each of the Nrial crystallizations,
+    dm of solution.In confirmation of tests made by K+P,we found
+    which each yielded nd and n crystals of d-and l-NaC1O3,
+    that the glucose did not significantly change the saturation point of
+    respectively.
+    sodium chlorate.The final solution was filtered (Whatman 50,
+    The results of the analysis of the sodium chlorate crystals grown
+    nominal pore size 2.7 um)and transferred to a clean vessel for
+    in the presence of D-glucose are summarized in Table 1,and the
+    storage
+    distribution of d-NaClO3 crystals is shown in Figure 1.The
+    A rigorous regime of cleaning was used,to prevent the possible
+    weighted mean percentage of d-NaC1O3 crystals is found to be Wa
+    influence of dust,in particular sodium chlorate residue or dust.The
+    -50.4 +1.4.As can be seen,there is no significant overall
+    crystallizations were carried out in a separate laboratory where
+    preference for d-or /-sodium chlorate.It was evident that any one
+    sodium chlorate was not routinely handled;the air in the laboratory
+    ndividual dish may yield a preference for d or crystals,but taken
+    consists of conditioned external air.Prior to use,small (~8 cm
+    as a whole there is no preference.Such findings are consistent with
+    diameter)pyrex crystallizing dishes were washed and rinsed in
+    observations made on crystallizing samples of sodium chlorate
+    filtered deionized water,but not dried:excess water was shaken
+    alone,i.e.,with no chiral influence,as has been noted in several
+    off.The sodium chlorate solution was transferred to the crystallizing
+    reports,including the work of K+P.Our results are significantly
+    dishes by weighing out equal portions (~44 g),and the dishes were
+    different from those of K+P for samples crystallized in the presence
+    covered by a single filter paper (Whatman No.1)and set aside to
+    of D-glucose,who found that all samples showed an individual
+    crystallize at ambient temperatures ~20C.The specific rotation
+    preference for I crystals over d.
+    of the D-glucose sample was measured using a digital polarimeter
+    To try to understand the discrepancy between the present results
+    (Optical Activity,PolAAr 20)and found to be [al=52.5(c
+    and the results of K+P,we look in detail at the experimental
+    2.0,H2O),in agreement with literature values.17 It should be noted
+    procedures followed.We note that K+P do not explicitly give the
+    that glucose consists of two anomers (a and B)that can interconvert
+    temperature at which they carried out the crystallization-most likely
+    in solution,known as the mutarotation of glucose.The observed
+    to have been ambient temperatures (15-25 C)-but they do add
+    optical rotation results from the equilibrium mixture of anomers,
+    that "...great care was taken to avoid fluctuations in temperature'
+    which have different specific rotations:36.4%a-D-glucopyranose
+    We note also that the volume of solution set to crystallize each
+    ([a]=112)and 63.6%B-D-glucopyranose ([a]=18.7)
+    time was approximately 200 cm3 in a 6 in.diameter (15.2 cm)
+    Representations of the two structures are shown in Figure 1.The
+    basin,whereas each dish in the present work contained ap-
+    dishes were generally found to have yielded multiple crystals after
+    proximately 31 cm in an 8 cm diameter basin.Nevertheless,the
+    5-7 days.The crystals were identified as being dextrorotary (d)
+    crystals were obtained in about 1 week in either case.The number
+    or levorotary (using crossed polarizers,separated and counted.
+    of crystals yielded per 100 cm>of solution set to crystallize was
+    For the identification we use a diffuse white light source,a polarizer
+    very similar:46(present work)compared to 59(K+P)
+    (polaroid sheet),another polarizer (the"analyzer"),with the observer
+    One critical difference could be in the substance called dextrose
+    looking toward the light.The observer rotates the analyzer polarizer
+    by K+P,and assumed to be pure D-glucose.It is likely that the
+
+==========第2页==========
+    2632 Crystal Growth Design.Vol.8.No.8.2008
+    Communications
+    samples of glucose available to K+P originated from hydrolyzed
+    been accepted for over a century,and which have been used to
+    starch,and it is possible that the material was not fully hydrolyzed
+    support or promote numerous theories,including autocatalytic
+    into glucose monomers.One clue that the dextrose of K+P wasnot completely hydrolyzed comes from their description of the
+    dere cmmerin uhe uoloom
+    sodium chlorate and glucose solution as being"rather syrupy".Weobserved that our solutions were very slightly more viscous than
+    Acknowledgment.The author thanks the Royal Society
+    water,but not what would reasonably be called "syrupy".Malto-
+    (London)for a University Research Fellowship,and Dr.Philip
+    dextrin consists of glucose polymer chains of varying lengths;
+    Camp for useful discussions
+    samples consisting of shorter chains have higher dextrose equivalent(DE)values,with pure glucose defined as having DE 100.To
+    Supporting Information Available:Tables of numbers of d-and
+    investigate the effect of glucose chains,we studied one batch of
+    I-NaClO;crystals obtained in crystallizations with D-glucose and
+    21 samples using maltodextrin (Sigma-Aldrich,DE =4.0-7.0)
+    maltodextrin.This material is available free of charge via the Internet
+    instead of D-glucose.The maltodextrin used contains chains of about
+    at http://pubs.acs.org.
+    20 glucose monomers,on average.The result Wa =49.3+1.8(see Table 1)shows no significant preference for l-or d-NaC1O3,
+    References
+    and no difference from the results for D-glucose
+    (1)Bonner,W.A.The origin and amplification of biomolecular chirality.
+    Another viable explanation for the results of K+P comes from
+    Origins Life Evol.B.1991,21 (2),59-111.
+    their description of the experimental procedure where they recycled
+    (2)Compton,R.N.;Pagni,R.M.The chirality of biomolecules.Adv.At.
+    the materials to produce (in the case of the glucose)the 25 repeated
+    Molec.Opt.Phys.2002,48,219-261.
+    crystallizations:
+    (3)Kondepudi,D.K.Spontaneous generation and propagation of chiral
+    "After examination,the crystals were dissolved in the minimum
+    asymmetry.Int.J.Quantum Chem.2004,98,222-227.
+    quantity of hot water,the solution mixed with the mother liguor
+    (4)Mason,S.F.Origins of biomolecular handedness.Nature 1984,311,19-23.
+    and,after filtration,the liquid was again put to crystallise.
+    (5)Procter,G.Asymmetric Synthesis;Oxford University Press:Oxford,
+    At the point of analysis of the crystals,the mother liquor is bound
+    1996.
+    to be at saturation.If one takes "minimum'to mean the minimum
+    (6)Pagni,R.M.;Compton,R.N.Asymmetric synthesis of optically active
+    amount of water needed to effect redissolution of the grown crystals,
+    sodium chlorate and bromate crystals.Cryst.Growth Des.2002,2
+    then the above description suggests that the liquid set to crystallize
+    (4),249-253.
+    was supersaturated,or saturated at the very least.This would have
+    (7)Kipping,F.S.;Pope,W.J.Enantiomorphism.J.Chem.Soc.Trans
+    serious consequences for unintentional seeding:any seeds that were
+    1898.73.606.
+    left in or around the vessel could possibly enter the supersaturated
+    (8)Hazen,R.M.;Filley,T.R.;Goodfriend,G.A.Selective adsorption
+    solution and grow immediately.In addition,there is no guarantee
+    of L-and D-amino acids on calcite:Implications for biochemicalhomochirality.Proc.Nat.Acad.Sci.,U.S.A.2001,98,5487.
+    that any microscopic seeds in the mother liquor were dissolved
+    (9)Hazen,R.M.;Sholl,D.S.Chiral selection on inorganic crystalline
+    fully by the above procedures.In a later paper,on the subject of
+    surfaces.Nat.Mater.2003,2 (6),367-374.
+    crystallization of sodium ammonium d-and 1-tartrates,K+P
+    (10)Orme,C.A.;Noy,A.;Wierzbicki,A.;McBride,M.T.;Grantham,
+    acknowledge the influences of laboratory "dust"in potentially
+    M.;Teng,H.H.;Dove,P.M.;DeYoreo,J.J.Formation of chira
+    eTh chn
+    morphologies through selective binding of amino acids to calcite steps
+    Nature2001,411,775.
+    (11)Niedermaier,T.;Schlenk,W.Studies on optical-activity of sodium
+    of specific polymorphs,is now well-acknowledged,and possibly
+    chlorate and sodium bromate crystals.Chem.Ber.1972,105,3470.
+    better understood than in the early 1900s when K+P carried out
+    (12)Mahurin,S.;McGinnis,M.;Bogard,J.S.;Hulett,L.D.;Pagni,R.M.;
+    their work.
+    Compton,R.N.Effect of beta radiation on the crystallization.of
+    We also look at the work of Niedermaier and Schlenk (N+S).
+    sodium chlorate from water:A new type of asymmetric synthesis.
+    Although N+S did not study D-glucose as a co-solute,they did
+    Chirality2001,13(10),636-640.
+    crystallize sodium chlorate in the presence of D-mannitol and
+    (13)Kondepudi,D.K.;Kaufman,R.J.;Singh,N.Chiral symmetry-breaking
+    D-dulcitol,and found strong preferences for d-NaCIO3(100%d)
+    in sodium-chlorate crystallization.Science 1990,250 (4983).975-
+    976.
+    and I-NaCIO3(99%D,respectively.It is curious that the result
+    (14)Petrova,R.I.;Swift,J.A.Selective growth and distribution of
+    for D-mannitol apparently contradicts the earlier result of K+P using
+    crystalline enantiomers in hydrogels.J.Am.Chem.Soc.2004.126
+    D-mannitol.?The main problem with the work of N+S,however,
+    (4),1168.
+    is in the insufficient repetition of the crystallizations,which were
+    (15)Sato,I.;Kadowaki,K.;Ohgo,Y.;Soai,K.Highly enantioselective
+    limited to only three trials for D-mannitol and one trial for D-dulcitol!
+    asymmetric autocatalysis induced by chiral ionic crystals of sodium
+    As has been noted above,beyond any possible unintentional
+    chlorate and sodium bromate.J.Mol.Catal.A 2004,216 (2),209.
+    seeding,it is possible for any given crystallization vessel to show
+    (16)Sato,I.;Kadowaki,K.;Soai,K.Asymmetric synthesis of an organic
+    compound with high enantiomeric excess induced by inorganic ionic
+    an extreme enantiomeric excess:to determine a statistically
+    sodium chlorate.Angew.Chem.,Int.Ed.2000,39,1510.
+    meaningful bias the procedure should be repeated several times.It
+    (17)O'Neil,M.J.The Merck Index,14th ed.;Merck:Whitehouse Station.
+    is possible that N+S were influenced by the previous results of
+    NJ,2006.
+    K+P,in conjunction with the exceedingly high enantiomeric
+    (18)Kipping,F.S.;Pope,W.J.Crystallisation of externally compensated
+    excesses that they observed in their small set of trials.
+    mixtures.J.Chem.Soc.Trans.1909,95,103.
+    In summary,we have looked at the crystallization of sodium
+    (19)Green,B.S.;Lahav,M.Crystallization and solid-state reaction as a
+    chlorate in the presence of the chiral co-solute D-glucose,and we
+    route to asymmetric synthesis from achiral starting materials.J.Mol.
+    find no evidence for any bias toward I-or d-NaC1O3 crystals.Our
+    E0l.1975,6.99-115.
+    results contradict the results of Kipping and Pope,which have
+    CG800540Z
+
+==========第3页==========

@@ -1,0 +1,746 @@
+    Water Environment
+    Federation
+    PsT中gG Enbancingtbe Global Wirter Erwvironment
+    Biological Reduction of Sodium Chlorate as Applied to Measurement of Sewage B.O.D
+    Author(s):Edward H.Bryan and Gerard A.Rohlich
+    Source:Sewage and Industrial Wastes,Vol.26,No.11 (Nov.,1954),pp.1315-1324
+    Published by:Water Environment Federation
+    Stable URL:http://www.jstor.org/stable/25032612
+    Accessed:14/06/201404:38
+    Your use of the JSTOR archive indicates your acceptance of the Terms Conditions of Use,available athttp://www.jstor.org/page/info/about/policies/terms.jsp
+    JSTOR is a not-for-profit service that helps scholars,researchers,and students discover,use,and build upon a wide range ofcontent in a trusted digital archive.We use information technology and tools to increase productivity and facilitate new formsof scholarship.For more information about JSTOR,please contact support@jstor.org.
+    Water Environment Federation is collaborating with JSTOR to digitize,preserve and extend access to Sewageand Industrial Wastes.
+    STOR。
+    http://www.jstor.org
+    This content downloaded from 194.29.185.251 on Sat,14 Jun 2014 04:38:05 AM
+    All use subject to JSTOR Terms and Conditions
+
+==========第1页==========
+    BIOLOGICAL REDUCTION OF SODIUM CHLORATE
+    AS APPLIED TO MEASUREMENT OF
+    SEWAGE B.O.D.
+    BY EDWARD H.BRYAN AND GERARD A.ROHLICH
+    Laboratories of Hydraulic and Sanitary Engineering,University of Wisconsin,Madison,Wis.
+    Determination of the amount of oxy-Health Association (5).Since theregen required to biochemically oxidize was relatively no limit to the amountthe organie material present in sewage,of oxygen as nitrate that could be pro-and determination of the capacity of vided during incubation,the oxygenthe receiving body of water to supply demand of sewage could be determinedthis oxygen,have been of great valuewithout dilution.The excess oxygenas a laboratory approach to the prob-or dilution method has been preferred,lem of predicting the pollutional effecthowever,for one or more of the fol-of sewage.The limitations of the dilu-
+    lowing reasons:
+    tion method for the determination ofthe B.O.D.of sewage were reeognized
+    1.The facility with which the sam-
+    by Mohlman (1)who summarized
+    ple of sewage is prepared for incuba-tion is largely offset by the later de-
+    them as follows:
+    terminations for residual nitrite and
+    "The limitations of the dilutionnitrate (6).method are well known,namely,the
+    2.The excess oxygen method more
+    limited solubility of atmospheric oxy-
+    elosely simulates natural conditions of
+    gen,and consequent high dilution fac-
+    dilution and reaeration.
+    tors;the difficulty of obtaining a re-
+    3.It has been shown that with
+    producible,zero-demand dilution wa-
+    proper precautions,the excess oxygen
+    ter;the problem of seeding sterile or
+    method can give consistent results
+    bactericidal liquors;and the marginal'over the recommended range of oxygenerrors due to too high or two low depletion.depletions.'
+    Zehnpfennig (7)suggested the pos-
+    The use of synthetic dilution waters sible use of sodium chlorate as a sourcereduced much of the inconsistency that of combined oxygen.If the reductionwas associated with the dilutionof chlorate proceeded to chloride,andmethod;however,the recent work of
+    if chloride appeared in proportion to
+    Lewin (2)is cited to call attention to
+    the concentration of biochemically oxi-
+    inconsistencies resulting from use ofdizable matter initially present,thedifferent dilution waters.
+    relative ease with which concentrations
+    Lederer (3)(4)introduced a pro-of chloride ion ean be measured mightcedure for measuring the oxygen de-make this a more acceptable combinedmand of wastes and polluted waters by
+    oxygen procedure than the Lederer
+    determination of the oxygen equivalent
+    nitrate method.
+    of the nitrate (self-contained or added)
+    Agriculturists have investigated the
+    that was biochemically reduced during possibility of biochemical reduction asa suitable incubation period.The
+    an explanation for the disappearance
+    Lederer nitrate method was subse-of chlorate from soil to which chloratequently adopted as a standard had been applied for the purpose ofmethod''by the American Publicweed control.Aslander (8)observed
+    1315
+    This content downloaded from 194.29.185.251 on Sat,14 Jun 2014 04:38:05 AM
+    All use subject to JSTOR Terms and Conditions
+
+==========第2页==========
+    1316
+    SEWAGE AND INDUSTRIAL WASTES
+    November,1954
+    200
+    Settled Sewage
+    180
+    160
+    Dilute Nutrient Broth
+    14-0
+    9
+    120
+    ua6Kxo0080
+    60
+    40
+    20
+    Time of Incubation-Days at 20C.
+    FIGURE 1.-Chlorate oxygen demand of a settled domestic sewage and of a dilute
+    nutrient broth seeded with settled sewage.
+    a elimatic gradient in the weed-killing that was stimulated by acidity,warmeffectiveness of chlorates in that theirtemperatures,and moist conditions.activity was greater the farther north
+    Quastel,Stephenson,and Whethem
+    they were used.He found that chlo-
+    (13)observed that hypochlorite,a
+    rates decomposed in soil at 30C.Spe-
+    possible intermediate reduction prod-
+    cies of Penicillium,Aspergillus,and uct of chlorate,was not formed when
+    Fusarium,growing on the surface ofresting cells of Escherichia coli werehay infusions containing N/10 sodium allowed to act on lactate anaerobicallychlorate solution,changed its strength
+    in the presence of chlorate,although
+    to N/15 in 60 days.Bacteria were ob-
+    the presence of chlorite was demon-
+    served growing in the liquid portion
+    strated.Chlorite was found to be toxie
+    of the infusion.He also observed that
+    to E.coli at a concentration of 50
+    decomposition of chlorates took place
+    p.p.m.
+    in soil that was saturated with water.
+    Crafts (9)and Rosenfels and Crafts
+    Preliminary Experiments
+    (10)questioned the interpretation of
+    To investigate the possible use of
+    the observed relation between soil fer-
+    sodium chlorate as a source of com-
+    tility and chlorate toxicity (that the
+    bined oxygen,settled sewage and di-
+    organie matter in soil reacts with chlo-
+    lute nutrient broth seeded with settled
+    rate in a biochemical process)and sug-
+    sewage were placed in a series of bot-
+    gested that phenomena other than chlo-tles containing an estimated exeess ofrate reduction were apparently in-sodium chlorate.The dissolved oxy-volved.Evidence of a stimulatory
+    gen and chloride concentrations were
+    effect on nitrification by the presencedetermined for the sewage-chlorateof chlorate is contained in their data.
+    mixtures initially and following in-
+    Karrer (11)and Nelson (12)favored
+    cubation at 20 C.The results (Fig-
+    the interpretation that chlorate tox-
+    ure 1)indicated that chlorate was re-
+    icity to weeds was reduced by disap-
+    duced at a varying rate,similar to that
+    pearance of chlorate through the ac-
+    observed in the standard B.O.D.de-
+    tivity of microorganisms,a condition
+    termination.
+    This content downloaded from 194.29.185.251 on Sat,14 Jun 2014 04:38:05 AM
+    All use subject to JSTOR Terms and Conditions
+
+==========第3页==========
+    Vol.26,No.11 SODIUM CHLORATE IN B.O.D.MEASUREMENT
+    1317
+    To further evaluate achlorate oxy-
+    Results and Discussion
+    gen demand''procedure,the following
+    The results of these studies are
+    steps were carried out:
+    plotted in Figures 2,3,and 4.A di-
+    1.The 5-day B.O.D.and the 5-,10-,
+    rect linear relationship was found to
+    or 20-day chlorate oxygen demands
+    exist between the 5-day B.O.D.of a
+    were determined for sewage obtained
+    waste and its 5-,10-,and 20-day chlo-
+    from several sourees.
+    rate oxygen demand.The chlorate
+    2.Known amounts of glucose were
+    oxygen demand of settled sewage after
+    added to settled or raw sewage and theincubation for 5,10,and 20 days atoxygen demand of the resultant mix-20C.was found to be,respectively,tures determined by both the dis-0.64,0.76,and0.87 of the5-dayB.0.D.solved and combined oxygen demand
+    It is evident that a 10-day incuba-
+    procedures.
+    tion period extends the range over
+    3.The dissolved oxygen and com-
+    which the chlorate oxygen demand de-
+    bined oxygen demands of a synthetie
+    termination results are linearly related
+    sewage in mixture with settled sewage
+    to the 5-day B.O.D.A 5-day incuba-
+    were compared.
+    tion period was adequate for sewagehaving a strength of less than 100
+    B.O.D.Comparison
+    ppm.of 5-day B.O.D.Initial disturb-
+    The analytical procedures for the de-termination of the 5-day B.O.D.andthe chloride concentration were those
+    400
+    recommended for use by Standard
+    Methods (14),the Mohr method beingused for chloride determination.The
+    350
+    chlorate oxygen demand was deter-mined as follows:
+    U300
+    1.Sodium chlorate solution of de-sired strength was placed in 300-ml.
+    B.O.D.bottles.
+    6250
+    2.Sufficient sewage was siphonedinto each bottle so that when the glassstopper was inserted,the bottle wascompletely filled.
+    3.The bottles were placed in an in-cubator and kept at 20C.for the de-sired incubation period.
+    4.The dissolved oxygen and chlorideconcentrations were measured at thestart and conelusion of the incubationperiod.
+    The 5-day B.O.D.and the 10-day chlo-rate oxygen demand were determinedfor approximately 60 different sam-ples of sewage.The 5-day chlorate
+    50
+    100
+    I50
+    200
+    oxygen demand was determined for
+    5-Day Chlorate Oxygen DemandPPM at2O°C.
+    approximately 30 samples and the 20-day chlorate oxygen demand was de-
+    FIGURE 2.-Relationship between 5-day
+    B.O.D.and 5-day chlorate oxygen demand
+    termined for 15 samples.
+    of sewage.
+    This content downloaded from 194.29.185.251 on Sat,14 Jun 2014 04:38:05 AM
+    All use subject to JSTOR Terms and Conditions
+
+==========第4页==========
+    1318
+    SEWAGE AND INDUSTRIAL WASTES
+    November,1954
+    400
+    350
+    300
+    250
+    200
+    150
+    8
+    6
+    o
+    50
+    50
+    IOO
+    150
+    200
+    250
+    10-Day Chlorate Oxygen DemandPPM at 20C.
+    FIGURE 3.-Relationship between 5-day B.O.D.and 10-day chlorate oxygen
+    demand of sewage.
+    ances,such as an unusually long lag time for the stronger settled sewage,period during which little chlorate re-thus resulting in a higher ultimateduction occurred,would show their oxygen demand.The comparable stateeffect more noticeably after incubation of oxidation of settled sewage at thefor 5 days than 10 days.Moreover,end of 10 days,when 73 per cent ofthe greater the waste strength,thethe 65-day chlorate oxygen demandlonger the period required for oxida-had been satisfied,was reached by thetion of a fixed percentage of the total dilute nutrient broth after incubationoxidizable material present.This is for 17 days.
+    evident from Figure 1.The initialFrom these results,it may be con-oxidation rate for the settled sewage
+    cluded that the chlorate oxygen de-
+    was higher than that of the relatively
+    mand is as proportional to the amount
+    poorly inoculated,dilute nutrient of biochemically oxidizable matterbroth.The maximum rates of chlo-
+    present in sewage as is the 5-day B.O.D.
+    rate reduction for both the settled sew-age and the dilute nutrient broth are
+    Oxygen Demand of Glucose
+    comparable;however,the maximum
+    The chlorate oxygen demand of glu-
+    rate continued for a longer interval ofcose was determined by the following
+    This content downloaded from 194.9.185.251 on Sat14 Jun 201404:8:05AM
+    All use subject to JSTOR Terms and Conditions
+
+==========第5页==========
+    Vol.26,No.11 SODIUM CHLORATE IN B.O.D.MEASUREMENT
+    1319
+    procedure.Settled sewage (100 ml.)
+    mg.;that for the chlorate oxygen de-
+    was placed in each of a series of 300-
+    mand was士4.6mg.
+    ml.B.O.D.bottles.A sodium chloratesolution of known strength was added
+    Oxygen Demand of Synthetic
+    to each bottle.Following addition of
+    Sewage
+    glucose,the bottles were completelyfilled with dilution water,stoppered,
+    Varying amounts of a synthetie sew-
+    and placed in an ineubator at 20C.
+    age of the same relative composition as
+    The dissolved oxygen and chloride con-
+    that used by Butterfield,Rucchoft,and
+    centrations were determined initially
+    MeNamee (15)were added to settled
+    and following incubation.
+    sewage,following a procedure similar
+    The increment of 10-day chlorate
+    to that deseribed for controlled addi-
+    oxygen demand corresponding to a con-
+    tions of glucose.
+    centration differential of 50 p.p.m.of
+    The average value for the 10-day
+    glucose was 23.6 p.p.m.,while the com-
+    chlorate oxygen demand for a concen-
+    parable value for the 5-day B.O.D.tration differential of 50 ml.of syn-was 33.4 p.p.m.(averages of 18 de-thetie sewage per 308 ml.of solutionterminations).These values are,re-was 32.2 p.p.m.(average of 9 results);spectively,44.2 and 62.6 per cent ofthe corresponding value for the 5-daythe caleulated ultimate oxygen demand
+    B.O.D.was 45.5 p.p.m.The standard
+    of 50 mg.of glucose.The standarddeviations from the mean for thesedeviation from the mean for the 5-day values were +5.35 p.p.m.for the 10-
+    B.O.D.of 50 mg.of glucose was +5.3 day chlorate oxygen demand,and
+    350
+    ！
+    20(
+    E
+    loo
+    50
+    50
+    150
+    200
+    250
+    20-Day Chlorate Oxygen Demand
+    PPM at2O°C,
+    FIGURE 4.-Relationship between 5-day B.O.D.and 20-day chlorate oxygen
+    demand of sewage.
+    This content downloaded from 194.29.185.251 on Sat,14 Jun 201404:38:05 AM
+    All use subject to JSTOR Terms and Conditions
+
+==========第6页==========
+    1320
+    SEWAGE AND INDUSTRIAL WASTES
+    November,1954
+    TABLE I.-Effect of Chlorate Concentration on
+    such a manner as to insure the pres-
+    Chlorate Oxygen Demand of Settled Sewage!
+    ence of an excess in one group of bot-tles and a deficieney in another group.
+    Added a
+    Incubation
+    Chlorate
+    Oxygen
+    From the results of this experiment
+    Chlorate
+    Period
+    (p.p.m.)
+    (days)
+    Demand
+    (p.p.m.)
+    (Table I)it is apparent that in 5 daysall of the sodium chlorate had been re-
+    54.1
+    5
+    58.1
+    duced to sodium chloride in those bot-
+    10
+    54.5
+    32
+    tles initially containing 54 p.p.m.ofcombined oxygen.At the end of 10
+    108
+    5
+    79.5
+    days,all of the chlorate in those bottles
+    10
+    109
+    containing 108 p.p.m.was accounted
+    32
+    114
+    for by the increase in chloride concen-
+    216
+    85.5
+    tration.There was no significant dif-
+    0
+    112
+    ference in the amount of chlorate re-
+    147
+    duced when chlorate was present in ex-
+    324
+    5
+    83.5
+    cess.These results were confirmed by
+    113
+    a similar experiment in which sodium
+    32
+    145
+    chlorate was added to settled sewagein large excess.From the results of
+    1B.0.D.(⑤-day,20°C.)of settled sewagewas 147 p.p.m.
+    TABLE III.-Effect of Chlorate Oxygen
+    Demand on Reduction of 5-Day
+    +9.08 p.p.m.for the 5-day B.O.D.
+    B.O.D.
+    The ratios of the 10-day chlorate oxy-gen demand to the 5-day B.O.D.for
+    Incu-
+    Chlorate
+    Reduction
+    bation
+    Oxygen
+    of 5-Day
+    B.Dd.
+    added increments of glucose and syn-
+    Time
+    Demand
+    B.0.D.
+    (days)
+    (p.p.m.)
+    (p.p.m.)
+    Chl.Oxy.Demand
+    thetie sewage were 0.707 and 0.710,respectively.
+    6
+    37.0
+    30.0
+    0.811
+    10
+    67.4
+    69.6
+    1.032
+    10
+    46.8
+    36.1
+    0.772
+    Chlorate Concentration
+    31
+    25.8
+    >21.6
+    >0.837
+    The concentration of sodium chlo-
+    78.1
+    56.6
+    0.725
+    3
+    124
+    98.8
+    0.796
+    rate in settled sewage was varied in
+    221
+    164
+    0.742
+    36
+    90.1
+    71.8
+    0.796
+    TABLE II.-Effect of Chlorate Concentration
+    42
+    48.4
+    38.7
+    0.800
+    in Large Excess on Chlorate Oxygen
+    82.1
+    68.3
+    0.832
+    Demand of Settled Sewage
+    42
+    116
+    99.0
+    0.853
+    42
+    168
+    143
+    0.851
+    140
+    110
+    0.786
+    Incuba-
+    Chlorate
+    ton
+    Demand
+    5-D8y
+    99.6
+    75.6
+    0.759
+    Series
+    Period
+    B.O.D
+    158
+    120
+    0.758
+    (p.p.m.)
+    (days)
+    (p.p.m.)
+    42
+    (p.p.m.
+    186
+    132
+    0.711
+    400
+    5
+    57.4
+    91.9
+    213
+    160
+    0.750
+    10
+    67.3
+    91.9
+    4
+    108
+    76.5
+    0.709
+    8
+    50.1
+    43.3
+    0.865
+    600
+    5
+    56.9
+    91.9
+    48
+    25.2
+    21.6
+    0.856
+    10
+    68.6
+    91.9
+    48
+    15.7
+    11.2
+    0.713
+    59
+    246
+    191
+    0.776
+    500
+    177
+    285
+    59
+    170
+    141
+    0.830
+    10
+    229
+    285
+    59
+    94.7
+    76.4
+    0.806
+    59
+    132
+    109
+    0.825
+    1,000
+    183
+    285
+    153
+    176
+    154
+    0.875
+    10
+    221
+    285
+    Average(Excluding 1.032)
+    0.793
+    Series 2 consisted of bottles filled with a
+    Median (Excluding 1.032)
+    0.800
+    synthetic sewage (15)seeded with 10 per cent
+    Standard deviation........
+    ±0.051
+    settled sewage.
+    This content downloaded from 194.29.185.251 on Sat,14 Jun 2014 04:38:05 AM
+    All use subicct to JSTOR Terms and Conditions
+
+==========第7页==========
+    Vol.26,No.11SODIUM CHLORATE IN B.O.D.MEASUREMENT
+    1321
+    this experiment (Table II)it is again
+    sodium chlorate is directly propor
+    apparent that the reduction of sodium
+    tional to the amount of biochemically
+    chlorate is independent of its concen-oxidizable material originally presenttration.There was no apparent in-
+    in sewage.
+    hibitory effect on chlorate reduction re-
+    The results obtained through use of
+    sulting from the presence of as mucha single incubation bottle as comparedas 1,000 p.p.m.of chlorate oxygen.
+    to those obtained through use of themultiple-bottle technique (for daily ob-
+    5-Day B.O.D.Reduction
+    servations)are shown in Figure 5.
+    The 5-day B.O.D.of sewage-chlorate
+    Chlorate oxygen demand results from
+    mixtures after incubation for various
+    both procedures are elearly compara-
+    time intervals was determined.The
+    ble.Among the advantages of the
+    dilution water used was seeded with
+    single-bottle technique are reduced in-
+    settled sewage.In several instances,aeubator space required,reduced laborsufficient number of replicates were
+    in filling and cleaning bottles,and
+    prepared to observe daily changes in
+    elimination of variability between
+    chlorate reduction,B.O.D.,and the re-
+    replicate bottles.In the single-bottle
+    duction of 5-day B.O.D.(Table III).
+    procedure,sodium chlorate solution
+    Previously incubated sewage-chlorate
+    was added to sewage and the mixture
+    mixtures were used to seed fresh sew-
+    was siphoned into an aspirator-type
+    age-chlorate mixtures.The results ob-
+    bottle,which was then stoppered.The
+    tained by the use of a single large
+    atmosphere over the chlorate-sewage
+    bottle were compared to those obtained
+    mixture was then flushed with nitrogen
+    by the use of the multiple-bottle tech-and the bottle placed in an incubator.nique.
+    When samples were withdrawn,addi-
+    Since the change in 5-day B.O.D.tional nitrogen was admitted.may be considered to be direetly re-
+    The effect of inoculation with previ-
+    lated to the 'disappearance'of bio-ously incubated chlorate-sewage mix-chemically oxidizable material,the tures in which chlorate reduction haddata of Table III further substantiate
+    occurred is shown in Figure 6.In-
+    the conclusion that the reduction of
+    oculation decreased the time interval
+    &70
+    60
+    ●
+    ●
+    o Single Bottle Technique
+    Muitiple Botthe Technique
+    10
+    2345678.910
+    Time of Incubation-Days at 20C.
+    FIGURE 5.-Comparison between the single-and multiple-bottle techniques for
+    determination of chlorate oxygen demand.
+    This content downloaded from 194.29.185.251 on Sat,14 Jun 2014 04:38:05 AM
+    All use subject to JSTOR Terms and Conditions
+
+==========第8页==========
+    1322
+    SEWAGE AND INDUSTRIAL WASTES
+    November,1954
+    o
+    -pub
+    60
+    50
+    Inoculated
+    ●
+    o
+    Not inoculatad
+    20
+    十十
+    2345678910
+    Time of Incubation -Days at 20C.
+    FIGURE 6.-The effect of inoculation with a previously incubated chlorate-sewagemixture,in which chlorate reduction had occurred,on the chlorate oxygen demand ofsettled sewage.
+    prior to rapid reduction of chlorate.
+    bers of organisms was associated with
+    There was no evidence of an inereased
+    reduction of sodium chlorate.
+    maximum rate of chlorate reduction asa result of the presence of an inoeulum.
+    Summary and Conclusions
+    Bacteriological Studies
+    A new method for the determinationof the oxygen demand of sewage is
+    Preliminary bacteriological studies
+    presented and its applicability for
+    indicated that pasteurization at 85C.
+    measurement of the biochemical oxy-
+    for 10 min.did not destroy the ca-
+    gen requirements of sewage is dem-
+    pacity of previously incubated sew-
+    onstrated.It is concluded that:
+    age-chlorate mixtures (in which chlo-rate reduction had occurred)to supply
+    1.The relative amount of biochemi-
+    chlorate reducing activity when used
+    cally oxidizable material present in
+    as an inoculum for sterile sewage.sewage can be determined by incubat-
+    Pure cultures of Escherichia coli,ing the sewage,in mixture with an
+    Aerobacter aerogenes,Serratia mar-excess of sodium chlorate,under con-cescens,Proteus vulgaris,Bacillusditions that exelude atmospheric oxy-macerans,and Pseudomonas Auorescens
+    gen,and measuring the increase in
+    did not reduce sodium chlorate to chlo-chloride coneentration that oceurs.ride when inoculated into sterile sew-
+    2.In the determination of the chlo-
+    age under conditions of the test.Plate rate oxygen demand,a 5-day incuba-counts made after two suceessive en-tion period was shown to be adequaterichments of chlorate-sewage mixtures if the oxygen requirements of the sew-(in which chlorate reduction had oc-age did not exceed 100 p.p.m.(5-daycurred)into sterile.sewage led to theB.O.D.).A 10-day period of incuba-conelusion that an inerease in num-tion is recommended.
+    This content downloaded from 194.29.185.251 on Sat,14 Jun 2014 04:38:05 AM
+    All use subject to JSTOR Terms and Conditions
+
+==========第9页==========
+    Vol.26,No.11 SODIUM CHLORATE IN B.O.D.MEASUREMENT
+    1323
+    3.Inoculation of fresh sewage-chlo-the organisms concerned in effectingrate mixtures with mixtures remaining
+    the reduction of chlorate.
+    from a previous enrichment in which
+    5.The 10-day chlorate oxygen de-
+    chlorate reduetion had occurred,re-mand test,as proposed,measured in-duced the time interval required forerements of glucose and synthetie sew-commencement of rapid chlorate re-age (added to settled and raw sewage)duction.Inoculation had no apparentwith as good a degree of precision aseffect on the maximum rate of chloratedid the 5-day B.O.D.reduction or on the ultimate oxygen
+    6.Pasteurization(85°，C.for10
+    demand of the sewage.
+    min.)did not reduce the ability of
+    4.The chlorate oxygen demand ispreviously incubated chlorate-sewageindependent of the concentration of
+    mixtures to furnish chlorate reducing
+    sodium chlorate,provided the sodiumactivity to sterile sewage.None ofchlorate is added in excess of the oxy-eight organisms tested alone in sterilegen requirements of the sewage and
+    sewage was capable of effecting the
+    the amount added is not inhibitory toreduction of chlorate to chloride.
+    APPENDIX-SUGGESTED PROCEDURE FOR MEASUREMENT OF
+    THE CHLORATE OXYGEN DEMAND OF SEWAGE
+    This method is based on the reduc-mated excess of sodium chlorate.tion of sodium chlorate by the action When the glass stopper is inserted,theof microorganisms in the presence of bottle should be completely filled.Aoxidizable organic material and in the sufficient number of bottles should beabsenee of dissolved oxygen.The re-filled so that it is possible to measureduction of sodium chlorate,which isthe initial concentration of dissolvedadded in excess to sewage,results in
+    oxygen,the initial concentration of
+    an increase in sodium chloride concen-chloride ion,and the final concentra-tration which is proportional to thetion of chloride ion.The Mohr methodconeentration of biochemically oxidiza-for determination of the chloride con-ble material originally present.The
+    amount of reduction is,within reason-centration is recommended.A blankable limits,independent of the concen-
+    determination is not necessary if the
+    tration of chlorate,provided the chlo-
+    aliquot for the initial chloride deter-
+    rate is present in excess
+    mination is identical in size with thattaken for the final analysis.
+    Reagent
+    The usual period of incubation may
+    Stock sodium chlorate solution maybe taken as 10 days;the usual tem-be prepared by dissolving 34.2 g.ofperature,20C.It is recognized thatsodium chlorate in distilled water andfor some wastes the period of adjust-diluting the solution to 1 1.One milli-ment during which little chlorate re-liter of this solution when diluted toduction oecurs may be either unusu-308 ml.will provide a concentration of
+    ally short or unusually long.In either
+    50 p.p.m.of combined oxygen in theevent,the amount of chlorate reduc-resulting mixture.The strength oftion at the end of 10 days may notthe sodium chlorate solution may bebe a true indication of the relativevaried for convenience.
+    strength of the waste.It is possible
+    Procedure
+    to reduce the ineubation time required
+    Add the sewage directly to a glass-for oxidation of a fixed percentage ofstoppered bottle containing an esti-the ultimately oxidizable material by
+    This content downloaded from 194.29.185.251 on Sat,14 Jun 2014 04:38:05 AM
+    All use subject to JSTOR Terms and Conditions
+
+==========第10页==========
+    1324
+    SEWAGE AND INDUSTRIAL WASTES
+    November,1954
+    inoculation of the fresh sewage-chlo-
+    Calculation
+    rate mixture with sewage-chlorate mix-
+    The difference between the initial
+    tures in which chlorate reduction had
+    ehloride concentration and the final
+    oceurred.It may be necessary to seed
+    chloride concentration,expressed in
+    some wastes with settled domestic sew-
+    parts per million of NaCl,is multiplied
+    age in order to insure the presence of
+    by the factor 0.82 in order to obtain
+    organisms capable of effecting the re-
+    the chlorate oxygen demand of the
+    duction of sodium chlorate.
+    waste,expressed in parts per million.
+    References
+    1.Mohlman,F.W.,Use and Abuse of
+    9.Crafts,A.S.,The Relation of Nutrients
+    the B.O.D.Test.'Sewage Works
+    to Toxicity of Arsenic,Borax and
+    Jour.,8,3,499(May,1936).
+    Chlorate in Soils.'Jour.Agric.Re-
+    2.Lewin,V.H.,The Routine Estimation
+    search,58,637(1939).
+    of Biochemical Oxygen Demand.'
+    10.Rosenfels,R.S.,and Crafts.A.S..Chlo-
+    Jour.and Proe.Inst.Sew.Purif..Part
+    rate Distribution and the Effect of
+    2,p.140(1949).
+    Nitrate Concentration on Chlorate
+    3.Lederer,A.,The Relation of the Ni-
+    Toxicity in Soil Columns.',Hilgardia.
+    trates to the Putrescibility of Sew-
+    14,71(1941).
+    age8.’)Jour.Inf.Dis.,13,236
+    11.Karrer,A.M.H.,Chlorate Toxieity
+    (1913).
+    and Persistence in Relation to Soil Re-
+    4.Lederer,A.,A New Method for De.
+    action.'Jour.Agric.Research,63,
+    termining the Relative Stability of
+    481(1941).
+    Sewage Efuent orPolluted River
+    12.Nelson,R.T.,Studies of Microbial Ae-
+    Water.’yJour.Inf.Dis.,14,482
+    tivity,Chlorate Reduction,and Chlo-
+    (1914)
+    ate Toxicity in Soils Treated with
+    5.Standard Methods for the Examination
+    Sodium Chlorate.'Jour.Agrie.Re-
+    of Water and Sewage.'4th Ed.,p.
+    search,68,221(1944).
+    72.Amer.Pub.Health Assn.,New
+    13.Quastel,J.H.,Stephenson,M.,and
+    York,N.Y.(1920).
+    Whethem,M.D.,Some Reactions of
+    Resting Bacteria in Relation to An-
+    6.Theriault,E.J.,and Hommon,H.B.
+    The Determination of the Biochemi-
+    aerobie Growth.'Biochem.Jour.,19,304(1925).
+    cal Oxygen Demand ofIndustrial
+    Wastes and Sewage.'Pub.Health
+    14.Standard Methods for the Examination
+    Bul.N0.97,71(1918).
+    of Water and Sewage.',9th Ed.
+    Amer.Pub.Health Assn.,New York,
+    7.Zehnpfennig,R.Private communication
+    N.Y.(1946).
+    (1952).
+    15.Butterfield,C.T.,Rucchoft,C.C.,and
+    8.Aslander,A.,Experiments on the Erad-
+    MeNamee,P.D.,Biochemical Oxida-
+    ieation of Canada Thistle,Cirsium
+    tion by Sludges Developed by Pure
+    arvense,with Chlorates and Other
+    Cultures of Bacteria Isolated from
+    Herbicides.'Jour.Agric.Research,
+    Activated Sludge..'’Sewage Works
+    36,915(1928).
+    Jour.,9,2,173(Mar.,1937).
+    This content downloaded from 194.29.185.251 on Sat,14 Jun 2014 04:38:05 AM
+    All use subiect to JSTOR Terms and Conditions
+
+==========第11页==========

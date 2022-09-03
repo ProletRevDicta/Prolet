@@ -1,0 +1,225 @@
+    ADSORPTION AT CRYSTAL-SOLUTION INTERFACES
+    395
+    The maximum in the o-c curve was found to correspond to the compo-sition of the hydrate,HCIO4.3H20.
+    REFERENCES
+    (1)ABONNENC:Compt.rend.185,948-50 (1927)
+    (2)ARIYAMA:Bull.Chem.Soc.Japan 12,109-13 (1937)
+    (3)BERNAL AND FOwLER:J.Chem.Phys.1,515 (1933).
+    (4)DENISON:Trans.Faraday Soc.8,20 (1912).
+    (5)GoEHLER AND SMITH:Ind.Eng.Chem.,Anal.Ed.3,55 (1931).
+    (6)International Critical Tables,Vol.III,p.54.McGraw-Hill Book Company,
+    Inc.,New York (1928).
+    (7)International Critical Tables,Vol.IV,p.447.McGraw-Hill Book Company,
+    Ine.,New York (1928).
+    (8)JoNEs AND RAY:J.Am.Chem.Soc.59,187 (1937).
+    (9)MoRGAN AND DAVIS:J.Am.Chem.Soc.38,555 (1916).
+    (10)RICHARDS,SPEYERS AND CARVER:J.Am.Chem.Soc.46,1196 (1924).(11)SABININA AND TERPUGow:Z.physik.Chem.A173,237 (1935).(12)VAN WYK:Z.anorg.Chem.48,1 (1906).
+    (13)VORLANDER AND SCHILLING:Ann.310,369 (1900).(14)WILLARD:J.Am.Chem.Soe.34,1480 (1912).
+    ADSORPTION AT CRYSTAL-SOLUTION INTERFACES.XI
+    A STUDY OF THE ADSORPTION OF ISOMERIC MONOAZO DYES BY CRYSTALS
+    OF SODIUM NITRATE,SODIUM BROMATE,AND SODIUMCHLORATE DURING THEIR GROWTH FROM SOLUTION!
+    WESLEY G.FRANCE AND KATHRYN M.WOLFE
+    Department of Chemistry,The Ohio State University,Columbus,Ohio
+    Received June 14,1940
+    In the preceding paper (12)of this series (1,3,5,6,8,9,10,11,12,13,14)of investigations on adsorption at crystal-solution interfaces,attentionwas centered particularly upon the effect of certain polar groups,in theforeign molecules,on the adsorption and subsequent habit modificationof potassium sulfate crystals.A series of acid and basic isomeric monoazodyes was used as foreign materials,and it was found that those dyes con-taining sterically hindered polar groups were in general not adsorbed bythe growing crystal.In order to obtain further information on this stericand other effects,the present investigation of the adsorption of these dyesby crystals of sodium nitrate,sodium bromate,and sodium chlorate was1 Presented before the Division of Colloid Chemistry at the Ninety-ninth Meetingof the American Chemical Society,held in Cincinnati,Ohio,April,1940.
+
+==========第1页==========
+    396
+    WESLEY G.FRANCE AND KATHRYN M.WOLFE
+    undertaken.These dyes are members of two series of isomers originallyprepared for spectroscopic investigation by Dr.Wallace R.Brode and twoof his former students (4,7).The method of preparation consisted incoupling aniline and the ortho-,meta-,and para-sulfonated anilines bydiazotization with a series of mono-and di-sulfonic acid derivatives ofa-and B-naphthols and a-and B-naphthylamines.The abbreviationsused in the tables are derived from the intermediates used in their prepara-tion.These intermediates were as follows:aniline (A),ortho-sulfonatedaniline (O),meta-sulfonated aniline (M),para-sulfonated aniline (P),a-naphthol (a-OH),B-naphthol (B-OH),a-naphthylamine (a-NH2),and
+    B-naphthylamine (B-NH2).The numbers given in the tables after theabbreviations refer to the positions of the -SO Na groups attached tothe naphthalene rings.The dyes which are starred in the tables havethe nucleus
+    while the others have the nucleus
+    Sodium nitrate,sodium bromate,and sodium chlorate were selectedfor study because x-ray evidence indicates that certain sets of commonlyappearing faces are populated by alternating planes of Nat ions in oneplane and XO3 ions in the next.
+    EXPERIMENTAL
+    The solutions in which the crystals were grown were made by heatingenough dye with the saturated solution of the salt so that upon subsequentcooling in the constant-temperature room for 24 hr.some of the dyeprecipitated.The solutions were then filtered into 20-cc.shell vials,twofor each dye used,and single seed crystals were suspended in the solutionsby copper wire attached by de Khotinsky cement.The crystals wereallowed to grow for periods of one day to one week in a constant-tempera-ture room at30°C.±0.2°，removed from the solution,and dried withfilter paper.
+    The results obtained are summarized in tables 1 and 2.Since thecomplete list of the eighty-six dyes used with each of the salts has alreadybeen published (12),only those which modified either the sodium nitrate,sodium bromate,or sodium chlorate are recorded in these tables.
+
+==========第2页==========
+    ADSORPTION AT CRYSTAL-SOLUTION INTERFACES
+    397
+    TABLE 1
+    Summary of effect of soluble acid dyes
+    MODIFICATION OF
+    DYE
+    PER CENT
+    PURITY
+    NaNO:
+    NaBrO:
+    NaC1O,
+    M-a-OH-3*
+    54.61
+    Type 0
+    Type 2
+    P-ax-0H-3*
+    62.52
+    Type 2
+    1-a-OH-4*
+    77.87
+    Type 3
+    M-a-OH-5*
+    73.99
+    Type 2
+    P-a-0H-5*
+    63.00
+    Type 2
+    P--0H.…
+    84.63
+    Type 3
+    M-B-0H6...
+    71.25
+    Type 3
+    P-a-0H-6
+    66.40
+    Type 1
+    Type 3
+    Type 4
+    A-3-0f-7.…
+    83.00
+    Type 3
+    0-3-0H-7
+    98.87
+    Type 3
+    M-8-0H-7.……
+    74.15
+    Type 3
+    P-8-0H-7.·
+    61.25
+    Type 4
+    0-a-0H-3,8*
+    55.10
+    Type 3
+    M-g-OH-3.8*
+    68.28
+    Type 3
+    P-a-0H-3,8*
+    96.66
+    Type 3
+    A-8-0H-3,6.
+    79.97
+    Type 3
+    P-8-0H-3,6.
+    85.16
+    Type 3
+    TABLE 2
+    Summary of effect of soluble basic dyes
+    DY此
+    PER CENT
+    MODIFICATION OF
+    PURITY
+    NaNO
+    NaBrO:
+    NaC1O:
+    I-x-H2…
+    96.34
+    Type 3
+    P-a-NH2……
+    84.59
+    Type 2
+    0--NH2-4*
+    87.37
+    Type 2
+    0-a-NH2-5*
+    79.00
+    Type 2
+    A-x-NH2-6.…
+    66.39
+    Type 3
+    0-a-NH2-6...
+    83.16
+    Type 3
+    0-a-NH2-7
+    65.96
+    Type 2
+    0-a-NH2-8.
+    82.14
+    Type 3
+    M--NH2-8....
+    87.47
+    Type 2
+    P-B-NH2-5.
+    61.40
+    Type 0
+    P-8-NH2-6
+    87.27
+    Type 1
+    P-6-NH2-7
+    83.56
+    Type 0
+    P-NH2-7.……
+    94.10
+    Type 1
+    The types referred to in the tables are as follows:
+    Type 0.These consisted of very thin plates growing in large flower-like clusters.The coloration in these crystals was high,uniform,andopalescent.
+
+==========第3页==========
+    398
+    WESLEY G.FRANCE AND KATHRYN M.WOLFE
+    Type 1.This type was a rhombohedron different from the originalrhombohedron used as seed.The crystals immersed in the dye solutionswere suspended by a wire attached to the center of one of the largest (100)faces of the sodium nitrate crystal.The dye caused the large pair of(100)faces to become edges of a new rhombohedron.Wyckoff (15)hasshown that there are alternate planes of positively charged Na+ions andNO3 ions on the (111)faces,as schematically indicated by the drawingin figure 1.The adsorption took place on those faces populated by ionsof like sign,the (111)faces,and retarded the growth between pairs ofthese faces,while the growth in the other directions occurred normally.
+    As a consequence of this change in growth rate,the crystal developed (111)faces at the expense of the (100)faces.This was true for the dyes P-B-OH-6,P-a-NH2-7,and P-B-NH2-6.It is interesting to note that the dyes
+    ●
+    FIG.1.Arrangement of sodium ions (O)and nitrate ions (in sodium nitrate
+    rhombohedron
+    P-B-0H-6 and P-B-NH2-6 have exactly the same structure except for theinterchange of an-NH2 group for an -OH group.
+    Type 2.Dyes were adsorbed on one triangular face of the sodiumbromate tetrahedron without a modification of habit.The 3-and 5-posi-tions of the-SO:Na group on the naphthalene ring predominate in theformulas for dyes which influenced this type.
+    Type 8.Modification took place in such a way that the perpendiculargrowth between cube faces increased,while the perpendicular growthbetween octahedral faces decreased.In many instances the crystal wasconverted to an octahedron.
+    Type 4.These crystals showed no habit modification but were veryhighly colored and beautifully opalescent.It is rather striking that buttwo of these eighty-six dyes,P-B-0H-6 and P-3-OH-7,affected the sodiumchlorate crystals in this manner.
+    A study of the tabular data brings out the following significant facts:
+
+==========第4页==========
+    ADSORPTION AT CRYSTAL-SOLUTION INTERFACES
+    399
+    Of the eighty-six dyes,only three,P--H2-6,P-3-0H-6,and P-a-NH2-7,were adsorbed and modified the crystal habit of sodium nitrate.Withthe exception of diamine sky blue FF and quinoline yellow,used in anearlier study (14),there is a sulfonie acid,amino,or nitro group in thepara-position on the benzene nucleus of all dyes which were found to modifysodium nitrate in this way.In the case of the dyes used in the presentinvestigation the --SO3Na group in the para-position on the benzene ringand the -SOaNa group on either the 6 or the 7 carbon atom of the naph-thalene ring is effective.It seems that the alpha-or beta-position of the
+    -H2 or-OH group is equally effective or has no direct effect on themodification of the sodium nitrate crystal habit.Lastly,in the case of
+    P-8-6 of both acid and basie dyes it follows that the acidic group-OHand the basic group -H2 in the beta-position of the naphthalene ringare equally effective in modifying the habit of crystals of sodium nitrate.
+    With potassium sulfate (12)the dyes produced from B-naphtholsulfonicacids were much more effective than those produced from a-naphthol-sulfonic acids,while the a-naphthylamines were more effective than the
+    B-naphthylamines.It was suggested that this was probably due to adifference in the dipole moments of the dye molecules.However,in thisinvestigation a similar result has not been obtained for the modificationof the three salts sodium nitrate,sodium bromate,and sodium chlorate,since there were nine B-sulfonic acids,nine a-sulfonic acids,nine a-naph-thylamines,and three B-naphthylamines which modified the crystal habits
+    Of the thirty dyes which were adsorbed by these salts,twenty-one con-tained an -SOsNa group in the meta-or para-position and fourteen con-tained an-SOsNa group in the 6-or 7-position.Similar results were ob-tained with potassium sulfate and lend support to the conclusion expressedearlier (12)that sterically hindered polar groups are not readily adsorbed.
+    The mode of attachment of the dye molecule is probably through theoxygen triangle possessed by the -SOsNa group of the dye,as suggestedby Buckley (2).
+    SUMMARY
+    Adsorption and modification of the crystal habit of sodium nitrate tookplace in the presence of only six of the eighty-six dyes.Three affectedthe habit in the same manner as did those used by Weinland and France(14).The other three were modified in the form of thin flower-like plates,uniform throughout and opalescent.This is similar to the type 1 modifi-cation of potassium sulfate produced by these dyes (12).
+    2.A pair of dyes differing only in an -NH2 group replacing an -OHgroup on the naphthalene ring were equally effective in modifying theerystal habit of sodium nitrate.
+    3.In the case of the dyes used in this investigation,the-SOsNa group
+
+==========第5页==========
+    400
+    WESLEY G.FRANCE AND KATHRYN M.WOLFE
+    in the para-position on the benzene ring and the-SOsNa group on eitherthe 6-or the 7-carbon atom of the naphthalene ring is effective.Thealpha-or the beta-position of the-NH2 or-OH group is equally effectiveor has no special effect on the modification of the crystal habit of sodiumnitrate.
+    4.The data indicate that the 3,6-,3,8-,6-,7-,and 8-positions on thenaphthalene ring rather than any position on the benzene ring might serveas a guide to indicate whether a sulfonated azo dye would be adsorbedand would modify the crystal habit of sodium bromate.
+    5.Sodium chlorate is the only salt whose crystal habit was not modifiedby these dyes.This is in accordance with Buckley's statement (2)thatthe usual habit of sodium chlorate is very stable.However,two of theacidic dyes,P-B-0H-6 and P-B-0H-7,dyed the sodium chlorate crystalthroughout a beautiful opalescent dark orange.
+    6.With potassium sulfate it was found (12)that dyes having the nucleus
+    were much more readily adsorbed than those having the nucleus
+    However,in this investigation twenty dyes having the former nucleus andten having the latter nucleus were adsorbed.
+    7.One and only one of these dyes,P-B-0H-6,was adsorbed by all threesalts,-sodium nitrate,sodium bromate,and sodium chlorate.
+    8.Judging.from the manner in which sodium nitrate adsorbs certaindyes,one would conclude that,since sodium bromate changes its crystalhabit mostly in favor of an octahedron,the octahedral faces are populatedby alternate layers of positive and negative ions.
+    9.No simple ryle can as yet be made whereby one can correctly predictjust what foreign materials will be adsorbed by a given crystal.
+    The authors wish to thank Dr.Wallace R.Brode of this Departmentfor the dyes used in this investigation.
+    REFERENCES
+    (1)BENNETT AND FRANCE:J.Am.Ceram.Soc.11,571 (1928).
+    (2)BUCKLEY:Z.Kri8t.85,58(1933);88,381(1934).
+    (3)DAVIS AND FRANCE:J.Phys.Chem.40,81-7 (1936)
+    (4)EBERHARDT:Dissertation,The Ohio State University,1935.
+
+==========第6页==========
+    STRUCTURES OF CELLULOSIC SHEETS
+    401
+    (5)ECKERT AND FRANCE:J.Am.Ceram.Soc.10,579 (1927)
+    (6)FRAxCE:Colloid Symposium Monograph 7,59 (1930).
+    (7)GRIFFITH:I)issertation,The Ohio State University,1934.
+    (8)KEENAN AND FRANCE:J.Am.Ceram.Soc.10,821 (1927).
+    (9)LASH AND FRANCE:J.Phys.Chem.34,2236 (1930).
+    (10)MCBURNEY AND FRANCE:J.Am.Chem.Soc.46,540 (1924).(11)PAINE AND FRANCE:J.Phys.Chem.39,425-9 (1935).(12)RIGTERINK AND FRANCE:J.Phys.Chem.42,1079 (1938).
+    (13)SrARR AND FRANCE:Master's Thesis,The Ohio State University,1933.(14)WEINLAND AND F'RANCE:J.Phys.Chem.36,2832 (1932).
+    (15)Wyckorr:The Structure of Crystals,p.271.The Chemical Catalog Company,
+    Ine.,New York (1931).
+    SOLVENTS AND THE STRUCTURES OF CELLULOSIC
+    SHEETS
+    JOHN SPENCE
+    Kodak Research Laboratories,Eastman Kodak Company,Rochester,New York
+    Received May 31,1940
+    Sheet materials are formed by the reorganization of long-chain mole.cules or their aggregates on removal of the dispersion medium.In thisstudy of the birefringence and x-ray diffraction of cellulosic sheets,it isshown that the influence of the medium may be characterized in terms ofthe extent and nature of the intracrystallite organization.In particular,it is demonstrated that,in certain cases,the quantitative expression ofthe optical anisotropy is a measure of the long-chain molecular order-disorder balance,and,as such,may be related to the mechanical propertiesof the sheet.
+    EXPERIMENTAL
+    The selected cellulosic materials were cellulose triacetate and its hy-drolyzed and mixed ester derivatives.Sheets were prepared by dispersionin the respective solvents in concentrations of from 12 to 20 per cent andsubsequent coating by a spreading knife edge on flat plates.Standardizedmethods for solvent removal were employed with an additional 24-hrtreatment with water at 100C.to ensure removal of residual solvent
+    The latter is desirable,not only because of the pronounced influence ofsolvent on the mechanical properties of the sheet,but also because of theincreased exposure required for the x-ray diffraction diagrams when smallamounts of chlorinated solvents are present.
+    1 Communication No.767 from the Kodak Rescarch Laboratories.
+
+==========第7页==========

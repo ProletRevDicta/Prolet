@@ -1,0 +1,814 @@
+    Electrocatalysis
+    rossMark
+    D0I10.1007/s12678-016-0310-5
+    ORIGINAL RESEARCH
+    Study of Hypochlorite Reduction Related to the Sodium Chlorate
+    Process
+    Kristoffer Hedenstedt12.Adriano S.O.Gomes12.Michael Busch2.3.Elisabet Ahlberg2
+    C The Author(s)2016.This article is published with open access at Springerlink.com
+    Abstract Reduction of hypochlorite is the most important
+    reduction of negatively charged ions can explain the reduction
+    side reaction in the sodium chlorate reactor leading to high
+    kinetics of hypochlorite and the effect of chromate in the chlo-
+    energy losses.Today chromate is added to the reactor solution
+    rate process.
+    to minimize the hypochlorite reduction but a replacement isnecessary due to health and environmental risks with chro-
+    Keywords DFTcalculations x-FeOOH.Yy-FeOOH.
+    mate.In order to understand the effect of different substrates
+    Electrodeposition·CrO3·Cr(Olh
+    on the hypochlorite reduction,a-FeOOH,Y-FeOOH,Cr2O3and CrOH3 were electrodeposited on titanium and subjectedto electrochemical investigations.These substances are com-
+    Introduction
+    monly found on cathodes in the chlorate process and can serveas model substances for the experimental investigation.The
+    Sodium chlorate is an important industrial chemical with
+    mechanism of hypochlorite reduction was also studied using
+    roughly 3.6x 10 metric ton of the product produced an-
+    DFT calculations in which the reaction at Fe(III)and Cr(III)
+    nually worldwide.Its main usage is for chlorine dioxide
+    surface sites were considered in order to single out the elec-
+    production used in elemental chlorine free (ECF)pulp
+    trocatalytic properties.The experimental results clearly dem-
+    bleaching but also for water purification purposes and
+    onstrated that the chromium films completely block the reduc-
+    as emergency oxygen supply in air crafts.Today sodium
+    tion of hypochlorite,while for the iron oxyhydroxides the
+    chlorate is produced by an electrosynthesis route where
+    process can readily occur.Since the electrocatalytic properties
+    sodium chloride is oxidized to sodium chlorate in either
+    per se were shown by the DFT calculations to be very similar
+    continuous or batch wise plants.The process is highly
+    for Fe(IIl)and Cr(IID)sites in the oxide matrix,other explana-
+    energy consuming,around 4250-5500 kWh is used to
+    tions for the blocking ability of chromium films are addressed
+    produce 1 ton of the product [1].The energy consump-
+    and discussed in the context of surface charging,reduction of
+    tion is intrinsically related to the performance of the
+    anions and conduction in the deposited films.The main con-
+    electrodes.Surface analysis has shown that common cor-
+    clusion is that the combined effect of electronic properties and
+    rosion products formed in the process are q-and y-
+    FeOOH and that these corrosion products behave differ-ently,with a-FeOOH showing better performance than
+    ☒Elisabet Ahlberg
+    ela@chem.gu.se
+    y-FeOOH (Hedenstedt et al.,in review).
+    In order to minimize losses in the process sodium dichro-
+    1AkzoNobel Pulp and Performance Chemicals,SE-445
+    mate is added to the electrolyte.Its use is well known since the
+    80 Bohus,Sweden
+    end of the 19th century and addition of sodium dichromate to
+    2Department of Chemistry and Molecular Biology,University of
+    the process increases the current efficiency significantly [24].
+    Gothenburg,Kemigarden 4,SE-412 96 Gothenburg,Sweden
+    Work has been done to understand the role of dichromate in
+    Present address:Laboratory for Computational Molecular Design,
+    the process and it appears to be reduced forming a thin Cr(IID)
+    Institut des Sciences et Ingenierie Chimiques,Ecole Polytechnique
+    film on the cathode.This film hinders the reduction of hypo-
+    Federale de Lausanne,CH-1015 Lausanne,Switzerland
+    chlorite and chlorate while the desired hydrogen evolution
+    Published online:21 April 2016
+    包Springer
+
+==========第1页==========
+    Electrocatalysis
+    reaction (HER)readily takes place.The film consists of CroI)
+    Electrochemical Setup
+    hydrous oxide or hydroxide.which is oxidized back to chro-mate when the current is switched off [5,6].Other benefits
+    Electrochemical kinetic experiments were made with a three
+    from chromate addition are pH buffering and corrosion inhi-
+    electrode cell using a Gamry Reference 600 potentiostat.A
+    bition on the steel cathodes used [4.7-171.However.sodium
+    circular platinum mesh electrode was used as counter elec-
+    dichromate is listed in the Annex XIV under REACH [18],
+    trode and a double junction Ag/AgCl with 3 MKCl was used
+    which means that without authorization it is forbidden to use
+    as reference electrode,E=0.210 V vs.nhe.The electrolyte
+    after the sunset date in late 2017.Efforts have been made to
+    was 0.200 M Na2SO4 with pH set to 11.0 with NaOH using a
+    exchange chromium with molybdenum,yttrium and other rare
+    Metrohm 827 pH meter.Sodium hypochlorite from Fluka,
+    earth metals but so far nothing has proven good or long-term
+    reagent grade,was added when needed.The electrolyte was
+    stable enough to replace chromate [19-23].Recently,it was
+    purged with nitrogen for at least 30 min before and kept under
+    shown that adding trivalent chromium to the electrolyte will
+    nitrogen flow during the experiments.The concentration of
+    be sufficient to in situ form the desired species [24].However,
+    hypochlorite was determined by iodometric titration with so-
+    to entirely remove chromium from the process and find a
+    dium thiosulphate
+    replacement product,it is crucial to fully understand the roleof chromium.
+    Computational Details
+    The present paper focuses on the reduction of hypochloriteon separately deposited -FeOOH,y-FeOOH,chromium(III)
+    The DFT calculations were performed using CASTEP (ver-
+    oxide and hydroxide.These compounds are present on cath-
+    sion:5.0)[27]as implemented in the Materials Studio suite
+    odes in the chlorate process and to obtain fundamental knowl-
+    [28].A I-point k-point set in combination with a plane-wave
+    edge about the reduction of hypochlorite it is important to
+    cut-off energy of 400 eV and the PBE [29]Generalized
+    study these substrates individually.Additionally,DFT calcu-
+    Gradient Approximation (GGA)functional was used.The
+    lations were performed to obtain a molecular understanding of
+    core electrons were modelled by an ultrasoft pseudopotential
+    the reduction mechanism.The combined experimental and
+    [301.Following previous work a high spin electronic config-
+    theoretical results are used to discuss the prevailing explana-
+    uration in combination with a ferromagnetic coupling between
+    tions for differences in hypochlorite reduction depending on
+    the transition metal sites was assumed [31,32].The electro-
+    substrate and the beneficial effect of chromate on the energy
+    chemistry was modelled using a binuclear Cr or Fe site em-
+    efficiency in the chlorate process.
+    bedded into a MgO(OH)test rig.The energetics of all elec-trochemical steps were calculated using the tyrosine/tyrosylradical (TyrOH/TyrO)redox couple as hydrogen sink.The
+    Experimental and Calculations
+    electrochemical potential of this reference system has beenexperimentally determined to be 1.22 V vs nhe at pH 2 [33]
+    Electrode Preparation
+    The test rig has been designed to reproduce central aspects ofthe active site (oxidation states and coordination sphere)at
+    1 cm2 discs were prepared from titanium grade 1.Before
+    minimal costs.The validity of this simple yet efficient model
+    electrodeposition of -FeOOH,y-FeOOH,Cr203 and
+    system has been shown in a series of studies concerning elec-
+    Cr(OH)3,the discs were polished with 4000 grit SiC paper
+    trochemical water splitting.It was found that the test rig sys-
+    and etched 10 s in 5 wt%hydrofluoric acid.Deposition of
+    tem is able to reproduce trends with a semi-quantitative accu-
+    x-FeOOH and y-FeOOH was made potentiostatically onto
+    racy[31,3436.
+    the titanium disc substrates according to the method describedby Martinez et al.[25].For the deposition of Cr2O3 and
+    Cr(OH)3.the method described by Aguilar et al.[26]was
+    Results
+    followed.All chemicals were of analytical grade from Flukaand prepared with 18 MO Milli-Q water.The electrodes were
+    Surface Characterization
+    characterized with X-ray diffraction (XRD)and scanningelectron microscopy with energy dispersive X-rays (SEM/
+    a-FeOOH and y-FeOOH
+    EDX).Pure titanium grade 1 and mild steel (EN 10277-2-2008)from Permascand were used for comparison.The X-
+    The deposition of y-FeOOH was made at +1.00 V vs.Ag/
+    ray diffractometer was a Siemens D5000 with Bragg-
+    AgCl and a total of4 coulombs was passed during the process
+    Brentano setup and CuKo=1.5418 A radiation.Scanning
+    The SEM image shows a homogeneous surface with clear
+    electron microscopy with energy dispersive X-rays was made
+    flake likey-FeOOH crystals and only Fe,O and Ti were found
+    with a Leo Ultra 55 FEG SEM complemented with an Oxford
+    in the EDX analysis,Fig.1.The X-ray diffractogram con-
+    Inca EDX system.
+    firmed the presence of y-FeOOH with preferred orientation
+    ②Springer
+
+==========第2页==========
+    Electrocatalysis
+    ofthe (101)and (411)reflections,but also q-FeOOH could bedetected,Fig.1.The XRD method for analysing crystallinephases is based on randomized ordering in the crystal structureto allow reflections from every possible lattice.However,forelectrodeposited y-FeOOH clear ordering of crystals on thesurface is obtained and all lattices are therefore not visible inthe diffractogram.Deposited material that was scraped off theelectrode and analysed as a powder clearly show that the mainproduct is indeed y-FeOOH []
+    Figure 2 shows the corresponding results for a-FeOOH.
+    The deposition was made at-0.150 V vs.Ag/AgCl and a total
+    b
+    of4 coulombs was passed during the process.The SEM imageshows a completely different surface compared with the y-phase.The surface is much coarser and has no well-definedcrystals.Also in this case only Fe,O and Ti were found withEDX.The X-ray diffractogram confirmed the presence of the
+    (210)
+    (311)
+    a-phase but also some y-FeOOH could be detected.
+    (501)
+    (301)
+    The XRD analyses showed that the phases were not entire-
+    (020)
+    ly pure but both a-and y-phases coexisted.Since XRD is
+    411)
+    only a qualitative method,if an internal standard is not used,it is not possible to determine the composition.However,the
+    (111)
+    SEM images can give additional information.Figure 1 shows
+    220)61)
+    (101)
+    (800)
+    well defined crystals of y-FeOOH and very little of other
+    (610
+    (121)
+    material,while Fig.2 shows very little ofy-FeOOH crystals.
+    This,in combination with differences in the cyclic volt-
+    0
+    30
+    40
+    %
+    60
+    ammetry for the two different electrodes,Fig.3,ensures
+    20/Cu Ka
+    that the majority of the phases are the expected ones andare controlling the electrochemical properties of the elec-trodes.It has been shown by in situ Mossbauer spectros-copy that initially the reduction takes place within theoriginal structure and only at more negative potentials aphase transformation occurs [37].The process is revers-ible and upon re-oxidation the original compounds areformed [37].Figure 3 shows the redox properties of Y-
+    FeOOH and a-FeOOH within a restricted potential rangeto avoid phase transformation and hydrogen evolution.
+    Cr203 and Cr(OH)3
+    wDe3自m
+    购g=400eKX
+    02
+    Following the method described by Aguilar [26],Cr2O3
+    Fig.1 y-FeOOH deposited onto titanium substrate.XRD analysis of the
+    and Cr(OH)3 form very different deposits observable
+    electrode before (a)and after experiments(b).(c)shows the lepidocrocite
+    with naked eyes.The first appear as a dark and rough
+    (y-FeOOH)standard (PDF 00-044-1415)and below the SEM image of
+    layer and the second as a greyish smooth surface.After
+    the electrode
+    deposition,Cr2O3 appears as a black layer,strongly at-tached to the surface,which allows experiments to bedone with rotation of the electrode.If dried,the coverage
+    surface,Fig.4 (right).As can be seen in Table 1,the
+    is brittle and easily detaches from the Ti substrate.SEM
+    ratio Cr:O was found to be about 2:3 and 1:3 for Cr2O3
+    imaging was used to characterize the morphology of the
+    and Cr(OH)3,respectively.This is a good indication of
+    electrodeposited Cr2O3 and Cr(OH)3 materials,Fig.4.the composition.Since the EDX analysis extends deep in
+    The surface composition was determined with EDX and the sample depending on the electron acceleration (kV).is given in Table 1.Cr2O3 electrodeposition resulted in the amount of substrate detected can be used to compareflake-like crystals,with sizes around 2 um,Fig.4 (left),the thickness of two different layers.Table 1 shows thatwhile Cr(OH)3 appears as an amorphous material on the
+    the amount of Ti detected is much higher for the surface
+    ②Springer
+
+==========第3页==========
+    Electrocatalysis
+    1.0
+    0.5
+    a
+    0.0
+    -0.5
+    -1.0
+    b
+    -a-FeOOH
+    --y-FeOOH
+    -1.5
+    -2.0
+    -0.8
+    -0.6
+    -04
+    -02
+    0
+    110)
+    E/V vs.Ag/AgCl
+    Fig.3 Cyclic voltammerty for the q-FeOOH and y-FeOOH electrodes
+    c
+    in 0.2 MNa2SO4,pH 11.Sweep rate 5mVs and rotation rate 3000 rpm
+    (111)
+    (101)
+    (130)
+    (15)
+    sulphate was chosen due to its inertness and to control
+    (140)
+    (이아4 0)
+    (221)
+    (1do)
+    all sources of chlorides,which will form hypochlorite at
+    (120)
+    021
+    (131)
+    (20)220)041)21
+    1240X231
+    the anode if present.The pH in the sodium chlorate cells
+    (060)
+    during operation is usually set to somewhere between 6.1
+    30
+    40
+    50
+    and 7.However,at the cathode and close to its surface,
+    20/Cu Ka
+    the solution is alkaline due to the formation of OH fromthe hydrogen evolution reaction (HER).To ensure thealkalinity and simulate operating conditions during theseshort-term experiments with high convection from therotating disc electrode,pH of the electrolyte was set to
+    11.
+    For evaluation of the kinetics,linear sweeps with vary-ing rotation rates were performed on the different mate-rials.However,no rotation rate dependence was observedand the kinetic evaluation has therefore been made atconstant rotation rate.
+    a-FeOOH and yy-FeOOH
+    9g02
+    Fig.2 q-FeOOH deposited onto titanium substrate.XRD analysis of the
+    Figure 5 shows positive going polarization sweeps for hypo-
+    electrode before (a)and after experiments (b).(c)shows the goethite (
+    chlorite reduction at different surfaces.The hypochlorite re-
+    FeOOH)standard (PDF 00-029-0713)and below the SEM image of the
+    duction takes place in parallel with surface reactions related to
+    electrode
+    redox properties of the iron oxy-hydroxides,see Fig.3.Forthe mild steel electrode a mixed potential is obtained where
+    covered with Cr(OH)3,which indicates a thinner layer
+    the oxidation reaction is the dissolution of iron and the cathod-
+    compared with Cr203.
+    ic reaction is hypochlorite reduction.The data for Ti,a-and
+    No clear X-ray diffraction patterns were obtained for the
+    y-FeOOH as substrates were fitted to an irreversible one elec-
+    deposits,which is in line with previous findings [26,38].
+    tron transfer while for mild steel also an anodic electron trans-fer was included in the fitting.In the inset to Fig.5,the loga-
+    Reduction of Hypochlorite
+    rithm of the current is plotted as a function of potential for easycomparison of Tafel slopes and activity.The fittings are also
+    The electrochemical evaluations were performed in sodi-
+    shown in the inset and for all surfaces except pristine Ti the
+    um sulphate electrolyte adjusted to pH 11.Sodium
+    Tafel slopes are about 120 mV/decade for the reduction of
+    见Springer
+
+==========第4页==========
+    Electrocatalysis
+    Fig.4 Scanning electronmicroscopy of Cr2O3(left)and
+    Cr(OH)3 (right)electrodepositedonto titanium substrate
+    x1M8
+    hypochlorite.These results show that the first electron
+    Calculations
+    transfer is rate limiting with a transfer coefficient closeto 0.5.Also for the titanium substrate,with a Tafel slope
+    Adsorption of Chloride
+    of 160 mV/decade,the first electron transfer is rate lim-iting but with a somewhat smaller transfer coefficient.In
+    The molecular orbital diagram of ClO consists of bonding
+    this potential region,the most active substrate is the
+    and anti-bonding orbitals with contributions from the 2p or-
+    newly polished mild steel followed by a-FeOOH,y-
+    bitals on O and 3p orbitals on Cl.The remaining molecular
+    FeOOH and titanium.The difference in activity between
+    orbitals are mainly constituted by orbitals from either O or Cl
+    x-and y-FeOOH is about one order of magnitude.Since
+    and are considered non-bonding in the molecule.All bonding
+    the equilibrium potential for hypochlorite reduction is
+    and non-bonding orbitals are filled with electrons.Thus,in the
+    highly positive (1.07 V vs.Ag/AgCl,70 mM hypochlo-
+    reduction of the hypochlorite anion,the first electron will go
+    rite and pH=11),the standard rate constants obtained by
+    into the anti-bonding orbital and hence the bond between Cl
+    the fitting are afflicted with large errors and it is there-
+    and O will split.In the second electron transfer,chloride ions
+    fore more useful to compare the current density at con-
+    are formed.The sequential reactions can be written:
+    stant potential.The Tafel slopes,transfer coefficients andthe current densities at-0.6 V vs.Ag/AgCl are given in
+    H-O-H…OCT+e→C1ak+2OH
+    (1)
+    Table 2.
+    -y-FeOH-·au-FeOOH-Mild Steel
+    …T1
+    --Cr03
+    -·Cr(OHD3
+    Cr203 and Cr(OH)3
+    2
+    Polarization curves were also recorded to evaluate the hypo-chlorite reduction on Cr2O and Cr(OH)deposited on titani-
+    0
+    um,Fig.5.It is clearly demonstrated that the hypochloritereduction is blocked in the presence of Cr2O3 and Cr(OH)3
+    -2
+    on the surface.Experiments with different electrode rotation
+    -4
+    rates and different concentration of hypochlorite in solutionwere made but the response remained the same,clearly show-
+    -6
+    ing that hypochlorite is not reduced on electrodeposited Cr2O3
+    -8
+    or Cr(OH)
+    -10
+    Table 1 EDX
+    -12
+    -0.6
+    .0
+    -02
+    characterization of
+    Element/at%
+    Cr2O3
+    Cr(OH)
+    Ag/AgCl
+    electrodeposited Cr(II⑩）
+    -14
+    species on Ti substrate
+    Ti
+    2
+    15
+    -0.8
+    0.6
+    -0.4
+    -0.2
+    0.0
+    Cr
+    34
+    20
+    E/V vs.Ag/AgCl
+    0
+    51
+    55
+    Fig.5 Linear sweeps of hypochlorite reduction at different substrates in
+    Impuritiesa
+    12
+    9
+    0.2 M Na2SO4,pH 11.In the inset,the logarithm of the current density is
+    Cr:O
+    2:3
+    1:3
+    plotted as a function of potential for Ti,&-and y-FeOOH,and mild steelas substrates.The grey lines show the fittings to a one electron transfer
+    aElements present in the electrodeposition
+    reduction.For mild steel also an anodic reaction was included in the
+    electrolyte such as C,F or Si
+    simulation.Sweep rate 5 mVs and rotation rate 3000 rpm
+    包Springer
+
+==========第5页==========
+    Electrocatalysis
+    Table 2Kinetic data for hypochlorite reduction.[ClO ]=70 mM
+    group donates its hydrogen to the released water molecule
+    pH=11
+    Accordingly,the oxidation state of the TM-CI group is in-
+    j/mAcm 2
+    Slope/mVdec-I
+    creased from +III to +IV.Having splitted the O-CI bond,the
+    at-0.6 V
+    catalytic sites need to be recovered.This is assumed to happenby dissolution of Cl combined with the adsorption of OH
+    Ti
+    0.05
+    0.37
+    158
+    (c).This reaction is approximately thermoneutral for both
+    Mild Steel
+    4.27
+    0.47
+    125
+    Cr(IV)-Cl and Fe(IV)-CI.It is followed by the reduction of
+    -FeOOH
+    3.98
+    0.47
+    124
+    the TM sites (d,e).Both reduction steps are strongly endo-
+    Y-FeOOH
+    0.46
+    0.45
+    130
+    thermic versus TyrO/TyrOH for the Cr and Fe oxides
+    However,considering the high positive potential of this refer-
+    Clak+e→CT(aq)
+    (2)
+    ence reaction the two reduction steps can be expected to pro-ceed without major problems at the potentials relevant for the
+    assuming that the hypochlorite anion form hydrogen bonded
+    hydrogen evolution reaction.Overall this reaction cycle is
+    complexes in solution.Hydrogen bonding between the ClO
+    energetically feasible on both iron and chromium with negli-
+    radical and water has been studied with DFT calculations and
+    gible differences in energy.This is also the case for other
+    different hydrogen bonded complexes have been suggested
+    possible reaction cycles involving Fe(III/Fe(IV)and Cr(IID)/
+    [39,40].For the anion,it is likely that hydrogen on the water
+    Cr(IV).Thus,according to the assumed mechanism,it is clear-
+    molecule will bind loosely to oxygen in hypochlorite and
+    ly demonstrated that the active site,whether Fe(W）orCr(I⑩，
+    upon splitting of the Cl-O bond an adsorbed Cl atom is formed
+    is not responsible for the dramatic differences in reduction
+    together with two hydroxide ions.This scenario was the
+    kinetics found experimentally.
+    starting point for the theoretical description of hypochloritereduction on oxide surfaces.
+    Reaction (3)was used as descriptor to investigate the ad-sorption of chloride on iron and chromium oxide.
+    Discussions
+    TM-Cl+H2O→TM-OH+HCI
+    (3)
+    In the history of the chlorate process,different explanationsfor the role of chromate have been suggested,such as buffer-
+    where TM stands for transition metal,in this case Fe or
+    ing ability in solution,formation of a thin layer on the cathode
+    Cr displacing Mg in the MgO(OH)z test rig,Fig.6.
+    that prevents hypochlorite reduction and as corrosion inhibitor
+    Solvent effects are included indirectly through the
+    for the mild steel cathodes [4,7-171.The nature of the film
+    Born-Haber cycle,Fig.7.The results are given in
+    formed by reduction of Cr(VI)is still not completely known,
+    Table 3 for Fe(III)and Cr(III).The adsorption energy
+    even though in situ characterization have suggested Cr(OH)3
+    of chloride on Fe(III)and Cr(III)is very similar.Thus,
+    xH2O on Pt [6]and both Cr(OH)3 [6,11]and Cr2O3 [41]on
+    the different behaviour of iron and chromium oxides to-
+    gold.In the present work,we chose to study model systems
+    wards hypochlorite reduction cannot be explained solely
+    such as Cr2O3 and Cr(OH)3 electrodeposited on titanium.
+    by differences in the relative adsorption energy for the
+    Both films were shown to block hypochlorite reduction in
+    chloride intermediate.
+    alkaline solution,relevant for the surface environment duringproduction.It appears that irrespective of the composition ofthe chromium film it is extremely efficient in blocking the
+    Mechanism of Hypochlorite Reduction
+    hypochlorite reduction.Here,we will focus on hypochloritereduction and discuss the results in the context of acid-base
+    Considering the very similar relative binding energies of TM-
+    properties of the oxide surfaces and hypochlorite in solution,
+    Cl the full reduction cycle was studied.The assumed mecha-nism proceeds through three purely chemical steps comprisingthe adsorption of OCl,the splitting into TM=O and TM-CIand the release of HCl.This is followed by the electrochem-ical recovery of the catalyst,see Fig.8.The first step is thereplacement of a TM-OH group with HOCl under formationofa TM-OCI group and a water molecule(a).This is followedby breaking of the Cl-O bond and release of H2O from theadjacent TM-OH group,which results in the TM-CI and
+    Fig.6 Two dimensional test rig consisting of a MgOx(OH)backbone
+    TM=O intermediates (b).The reaction proceeds through a
+    with two adjacent Mg ions exchanged for other transition metal ions
+    purely chemical step,assuming that the trans-standing OH
+    (TM).TM-CI and TM-OH are explicitly shown in the figure
+    包Springer
+
+==========第6页==========
+    Electrocatalysis
+    Fig.7 Born-Haber cycle for
+    TM-CI()+H2O()--→TM-OHg)+HClg)
+    inclusion of solvent effects on theadsorption of chloride on
+    个
+    transition metal oxides.The
+    △H(HCls)→HCla）=-0.775eV
+    dissolution energies were takenfrom experiments [52,53]
+    △H(TM-Clg→e)=-△H(TM-OHg→)AH(H,0a→H,0e）=0.456eV
+    TM-Clag)+H0)
+    -→TM-OHa)+HCla)
+    electrocatalytic ability and electronic properties of the oxide
+    transport limitation was minimized by using a rotating disc
+    films used as model substances.These aspects can help in
+    electrode.No rotation speed dependence was however ob-
+    discriminating between the prevailing explanations of the ben-
+    served and the kinetic analyses were therefore made at constant
+    eficial effects of chromate on the energy efficiency of the
+    rotation.In the present paper,it was clearly demonstrated ex-
+    chlorate process
+    perimentally that chromium oxide and hydroxide electrochem-ically deposited on titanium substrate completely block the re-duction of hypochlorite ions,while on -and y-FeOOH the
+    Acid-Base Properties
+    reduction readily occurs.The adverse potential gradient appliesto all surfaces but may depend on the morphology of the layer.
+    In aqueous solution oxides have acid-base properties and the
+    For a flat surface in high conducting electrolyte the effect is
+    pH of zero charge (pzc)depends on the nature of the oxide and
+    small but for porous surfaces it can be significant.However,
+    can be calculated from the formal charge of the metal and the
+    the different activities for hypochlorite reduction described
+    covalence of the bonding [42].Experimentally determined
+    above,rule out the adverse potential gradient as the only expla-
+    values for the pzc differ depending on electrolyte composition
+    nation for the lack of hypochlorite reduction on the chromium
+    and method used to determine the surface equilibrium con-
+    films.It is interesting to note that the adverse potential gradient
+    stants.Kosmulski has done comprehensive compilations of
+    will apply also to the reduction of the divalent chromate ion and
+    the pzc for different oxides [43-46]and reports pzc=8.6
+    the concept has been used to explain the thickness of the in situ
+    +0.8 for synthetic goethite,7.1+0.7 for synthetic
+    formed chromium layer [17].
+    lepidocrocite [46],7.9+1.2 for Cr(OH)3 and 7.0+1.6 for
+    Cr2O3 47.The general acid base reaction for a trivalent oxide
+    Electrocatalytic Properties
+    can be written [48]:
+    M-OHP=M-oH +H
+    The rate limiting step in the reduction of hypochlorite onand y-FeOOH as well as on mild steel and titanium seems to
+    The pK of this reaction is also equal to pzc for the oxide.This
+    be the first electron transfer.This is based on the Tafel slope
+    means that at pH=11 all surfaces are negatively charged.
+    obtained by polarization measurement.Since the electron will
+    The pKa of hypochlorous acid is 7.53,which means that the
+    go into an anti-bonding orbital the bond between Cl and O will
+    hypochlorite anion is dominating at pH 11.The reduction of the
+    break.The proximity of water molecules through hydrogen
+    negatively charged hypochlorite ion thus takes place at a nega-
+    bonding may facilitate the formation of hydroxide ions in
+    tively charged surface and will in part be hampered by transport
+    solution leaving the chloride adsorbed on the surface.The
+    of the anions to the surface and an adverse potential gradient
+    adsorption energy for chloride on Fe(III)and Cr(III)was
+    [17].It was early shown for chlorate cells that reduction of
+    found to be similar and show that both iron and chromium
+    hypochlorite is controlled by diffusion to the electrode [8].In
+    should support the reduction reaction,in contrast with the
+    order to investigate the kinetics of hypochlorite reduction,mass
+    experimental results.This is an interesting finding since itclearly demonstrates that the electrocatalytic properties perse are not responsible for the different behaviour towards hy-
+    Table 3 Adsorption
+    pochlorite reduction on iron and chromium oxide.
+    energies for chloride
+    TM
+    Oxidation state
+    Test rig
+    according to reaction
+    Energy/eV
+    TM-CI+H2O→TM
+    Electronic Conduction
+    OH+HC
+    Fe
+    I
+    0.45
+    Cr
+    Ⅲ
+    0.48
+    The electrode material also has a large impact on the perfor-mance of the Cr(III)hydroxide film.For example a steel
+    包Springer
+
+==========第7页==========
+    Electrocatalysis
+    Fig.8 Reaction cycle and
+    OH
+    reaction energies for reduction of
+    Iron
+    hypochlorite on transition metal
+    H20
+    E [eV]
+    oxides
+    ,0.42eV
+    -0.46eV、
+    0.43cV
+    -0.10eV
+    0.04 eV
+    Chromium
+    ,0.43cV
+    TyrOH
+    0.52eV
+    0.58ev
+    -0.30ey、
+    -0.14 eV
+    b
+    c
+    de
+    a
+    cathode requires much higher chromate concentration in the
+    electrodeposited Cr2O3 and Cr(OH)3 films on titanium
+    electrolyte to reach a high current efficiency (1-5 g/l)while a
+    completely block hypochlorite reduction
+    titanium electrode only needs trace levels to reach the same
+    electrodeposited &-and Y-FeOOH films have the ability
+    current efficiency [9].On mild steel,it is expected that chromi-
+    to reduce hypochlorite.Compared with non-corroded
+    um will be built into the corrosion layer and thereby loses its
+    mild steel the activity is lower in the order mild
+    blocking ability.In relation to this,a highly interesting aspect
+    steel>-FeOOH>Y-FeOOH
+    that has not been properly explored is the role of conduction inthe deposited layers and the influence on the reduction kinetics.
+    The theoretical calculations focused active site on the
+    Iron oxy hydroxides and oxides are known to have n-type con-
+    surface and the adsorption of chloride as an intermediate
+    duction and can readily support reduction reactions.For chro-
+    in the hypochlorite reduction reaction.The result showed
+    mium oxide,the situation is more complex.It has been reported
+    no main differences in adsorption energy of chloride be-
+    that thin passive layers formed on chromium metal in acidic
+    tween iron (IID)and chromium (III)in the oxide matrix.
+    media show n-type conduction and reduction reactions such as
+    Also the stepwise energies involved in a reaction cycle
+    hydrogen evolution can thus readily take place [49,50].
+    where the active site is regenerated are very similar.
+    However.deposited chromium oxide is known to have p-type
+    These results clearly show that it is not the electrocata-
+    conduction,i.e.,reduction processes are suppressed.For mixedlytic activity that causes the dramatic difference in reduc-chromium and iron oxides,the conduction varies from p-type
+    tion behaviour found experimentally.
+    for chromium rich oxides to n-type for iron rich oxides [51].For
+    From the experimental and theoretical results obtained in
+    chromium rich oxides p-type properties are observed but with a
+    the present paper and the general knowhow of the chlorate
+    change in the charge-carrier concentration and a shift in the flat-
+    process it is suggested that a combination of the reduction of
+    band potentials to more positive values.As the iron content
+    a negative ion,ClO,and the semiconducting properties of the
+    increases,an n-p transition takes place when the potential is
+    electrodeposited chromium oxide film explains the beneficial
+    made more positive [51].As described above,it is expected
+    effect of chromate on energy efficiency in the chlorate pro-
+    that the surface film formed on steel cathodes in the chlorate
+    cess.As a consequence,at least these two aspects need to be
+    process will be composed of a mixture of iron and chromium
+    considered in the search for replacement of chromate in the
+    hydroxide.The semiconducting properties will change with the
+    chlorate process.
+    composition and the ability of promoting reduction of for ex-ample hypochlorite will increase with the iron content.This canpossibly explain the need for using higher amounts of chromateaddition for steel cathodes compared to non-corroding cathodes
+    Acknowledgments Financial support from the Swedish energy agency,
+    such as titanium or DSA.
+    33280-1,and the Swedish research council,621-2010-4035,is gratefullyacknowledged.The authors would like to thank Nina Simic,Mats
+    Wildlock and Johan Wanngard at Akzo Nobel Pulp and Performance
+    Chemicals,Bohus,Sweden,for fruitful discussions.
+    Conclusions
+    Open Access This article is distributed under the terms of the Creative
+    Commons Attribution 4.0 International License (http:/
+    The effect of substrate on the reduction of hypochlorite has
+    creativecommons.org/licenses/by/4.0/),which permits unrestricted use,distribution,and reproduction in any medium,provided you give appro-
+    been explored.The experimental results clearly demonstrated
+    priate credit to the original author(s)and the source,provide a link to the
+    that:
+    Creative Commons license,and indicate if changes were made.
+    ②Springer
+
+==========第8页==========
+    Electrocatalysis
+    References
+    22.L.Nylen,J.Gustavsson,A.Cornell,Cathodic reactions on an iron
+    rde in the presence of y(iii).J Electrochem Soc 155,E136-E142(2008)
+    1.H.Vogt,J.Balej,J.E.Bennett,P.Wintzer,S.A.Sheikh,P.Gallone,
+    23.Rosvall M,Hedenstedt K.Sellin A,Gustaysson J.Cornell A (2012)
+    S.Vasudevan,K.Pelin,Chlorine oxides and chlorine oxygen acids,
+    Activation of cathode,US Patent,2012/0061252
+    in:Ullman's encyclopedia for industrial chemistry (Wiley-VHC
+    24.Hedenstedt K.Edvinsson Albers R(2013)Electrolyte process.US
+    Verlag,Weinheim.2010)
+    Patent,.2013/0292261
+    2.F.Foerster,F.Jorre,Zur kenntniss der beziehungen der
+    25.L.Martinez,D.Leinen,F.Martin,M.Gabas,J.R.Ramos-Barrado,
+    unterchlorigsauren salze zu den chlorsauren salzen.J Prakt Chem
+    E.Quagliata,E.A.Dalchieleb,Electrochemical growth of diverse
+    59,53-101(1899)
+    3.Landin J(1897)Forfaringssatt vid framstallning af klorater och
+    iron oxide (Fe3O4,a-FeOOH,and g-FeOOH)thin films by electro-
+    perklorater,in:Swedish Patent no.SE8820.Sweden
+    deposition potential tuning.J Electrochem Soc 154,D126-D133(2007)
+    4.E.Muller.Uber ein elektrolytisches verfahren zur gewinnung der
+    clor-,brom-und jodsauren salze der alkalien.Z Elektrochem 41.
+    26.M.Aguilar,E.Barrera,M.Palomar-Pardav,L.Huerta,S.Muhl,
+    469473(1899)
+    Characterization of black and white chromium electrodeposition
+    5.A.Ahlberg Tidblad,J.Martensson,In situ ellipsometric character
+    films:surface and optical properties.J Non-Cryst Solids 329.31-38(2003)
+    ization of films formed by cathodic reduction of chromate
+    Electrochim Acta 42,389-398(1997)
+    27.S.J.Clark,M.D.Segall,C.J.Pickard,P.J.Hasnip,M.J.Probert,K.
+    6.A.Ahlberg Tidblad,G.Lindbergh,Surface analysis with esca and
+    Refson,M.C.Payne,First principles methods using castep.Z
+    gd-oes of the film formed by cathodic reduction of chromate.
+    Kristallogr220,567-570(2005)
+    Electrochim Acta 36,1605-1610(1991)
+    28.
+    Materials studio release 5.0,2009
+    7.A.Cornell,G.Lindbergh,D.Simonsson,The effect of addition of
+    29.
+    J.P.Perdew,K.Burke,M.Ernzerhof,Generalized gradient approx-
+    chromate on the hydrogen evolution reaction and on iron oxidation
+    imation made simple.Phys Rev Lett 77,3865-3868(1996)
+    in hydroxide and chlorate solutions.Electrochim Acta 37,1873-
+    30.D.Vanderbilt,Soft self-consistent pseudopotentials in a generalized
+    1881(1992)
+    eigenvalue formalism.Phys Rev B Condens Matter 41,7892-7895
+    8.L.Hammar,G.Wranglen,Cathodic and anodic efficiency losses in
+    (1990)
+    chlorate electrolysis.Electrochim Acta 9,1 (1964)
+    31.M.Busch,E.Ahlberg,I.Panas,Hydroxide oxidation and peroxide
+    9.K.L.Hardee,K.L.Mitchell,The influence ofelectrolyte parameters
+    formation at embedded binuclear transition metal sites:TM=Cr.
+    on the percent oxygen evolved from a chlorate cell.J Electrochem
+    Mn,Fe,Co.PCCP13,15062-15068(2011)
+    S0c136,33143318(1989)
+    32.M.Busch,E.Ahlberg,I.Panas,Electrocatalytic oxygen evolution
+    10.M.M.Jaksic,Mutual effect of current density,pH,temperature,and
+    from water on a Mn(III-V)dimer model catalyst -a DFT perspec-
+    hydrodynamic factors on current efficiency in the chlorate cell pro-
+    tive.PCCP13,15069-15076(2011)
+    cess.J Electrochem Soc 121.70-79(1974)
+    33.
+    A.Harriman,Further comments on the redox potentials of trypto
+    11.G.Lindbergh.D.Simonsson.The effect of chromate addition on
+    phan and tyrosine.J Phys Chem A 91,6102-6104(1987)
+    cathodic reduction of hypochlorite in hydroxide and chlorate solu-
+    34.M.Busch,E.Ahlberg,I.Panas,Water oxidation on MnOy and IrO
+    tions.J Electrochem Soc 137.3094-3099 (1990)
+    why similar performance?J Phys Chem C 117,288-292 (2013)
+    12.G.Lindbergh,D.Simonsson,Inhibition of cathode reactions in
+    35.M.Busch,E.Ahlberg.I.Panas,Validation of binuclear descriptor
+    sodium hydroxide solution containing chromate.Electrochim
+    for mixed transition metal oxide supported electrocatalytic water
+    Acta36,1985-1994(1991)
+    oxidation.Catal Today 202,114-119 (2013)
+    13.M.Spasojevic,N.Krstajic,M.Jaksic,Electrocatalytic optimization
+    36.P.Steegstra,M.Busch,I.Panas,E.Ahlberg,Revisiting the redox
+    of faradaic yields in the chlorate cell process.Surf Technol 21,19-
+    properties of hydrous iridium oxide films in the context of oxygen
+    26(1984)
+    evolution.J Phys Chem C 117,20975-20981 (2013)
+    14.
+    M.Spasojevic,N.Krstajic,P.Spasojevic,L.Ribic-Zelenovic,
+    37.M.Stratmann,K.Hoffmann,In-situ mossbauer spectroscopic study
+    Modelling current efficiency in an electrochemical hypochlorite
+    of reactions within rust layers.Corros Sci 29,1329-1352 (1989)
+    reactor.Chem Eng Res Des 93,591-601 (2014)
+    38.M.Aguila-Sanchez,M.Palomar-Pardave,M.Romero-Romo,M.T.
+    15.M.Spasojevic,L.Ribic-Zelenovic,P.Spasojevic,B.Z.Nikolic,
+    Current efficiency in the chlorate cell process.J Serb Chem Soc
+    Ramirez-Silva,E.Barrera,B.R.Scharifker,Electrochemical nucle-
+    76,677688(2014)
+    ation and growth of black and white chromium deposits onto stain-less steel surfaces.J Electroanal Chem 647,128-132 (2010)
+    16.I.Taniguchi.T.Sekine,The influence of chromate addition on the
+    cathodic reduction ofhypochlorite ion.Denki Kagaku 43,201-208
+    39
+    J.S.Francisco,S.P.Sander,Existence of a chlorine oxide and water
+    (1975)
+    (CIO*H2O)radical complex.J Am Chem Soc 117,9917-9918
+    17.C.Wagner,The cathodic reduction of anions and the anodic oxida-
+    (1995)
+    tion of cations.J Electrochem Soc 101,181-184 (1954)
+    40.H.Fu,Z.Zhou.X.Zhou,Hydrogen bonding between chlorine
+    18.REACH,Annex xiv,Commision regulation (EU),No 348/2013
+    oxide and water (H2O*ClO)radical complex.Chem Phys Lett
+    (2013)
+    382,466474(2003)
+    19.J.Gustavsson,G.Li,C.Hummlegard,J.Backstrom,A.Cornell,On
+    41.J.J.Hatch,A.A.Gewirth,Potential dependent chromate adsorption
+    the suppression of cathodic hypochlorite reduction by electrolyte
+    on gold.J Electrochem Soc 156,D479-D502 (2009)
+    additions of molybdate and chromate ions.J Electrochem Sci Eng
+    42.
+    T.Hiemstra,W.H.van Riemsdijk,G.H.Bolt,Multisite proton ad-
+    2,185-198(2012)
+    sorption modeling at the solid/solution interface of (hydr)oxides:a
+    20.J.Gustavsson,L.Nylen,A.Cornell,Rare earth metal salts as po-
+    new approach.J Colloid Interface Sci 133,91-104 (1989)
+    tential alternatives to Cr(VI)in the chlorate process.J Appl
+    43.M.Kosmulski,The pH-dependent surface charging and the points
+    Electrochem40,1529-1536(2010)
+    of zero charge.J Colloid Interface Sci 253,77-87 (2002)
+    21.M.Li,Z.Twardowski,F.Mok,N.Tam,Sodium molybdate-a
+    44.M.Kosmulski,pH-dependent surface charging and points of zerc
+    possible alternate additive for sodium dichromate in the electrolytic
+    charge II.Update.J Colloid Interface Sci 275,214-224 (2004)
+    production of sodium chlorate.J Appl Electrochem 37,499-504
+    45.M.Kosmulski.Ph-dependent surface charging and points of zero
+    (2007)
+    charge III.Update.J Colloid Interface Sci 298,730-741 (2006)
+    ②Springer
+
+==========第9页==========
+    Electrocatalysis
+    46.M.Kosmulski,Compilation of pzc and iep of sparingly soluble
+    49.J.P.Popic,D.M.Drazic,Electrochemistry of active chromium part
+    metal oxides and hydroxides from literature.Adv Colloid
+    II.Three hydrogen evolution reactions on chromium in sulfuric
+    Interface Sci 152,14-25(2009)
+    acid.Electrochim Acta 49,4877 (2004)
+    47.A.E.Onjia,S.K.Milonjic,D.Cokesa,M.Comor,N.Miljevic.
+    50.P.C.Searson,R.M.Latanision,A photoelectrochemical study of the
+    Characterization of colloidal chromia particles obtained by forced
+    passive film on chromium.Electrochim Acta 35,445-450(1990)
+    hydrolysis.Mater Res Bull 38,1329-1339 (2003)
+    51.H.Asteman,E.Ahlberg,J.-E.Svensson,Electric properties of al-
+    48.J.-F.Boily,J.Luitzenkirchen,O.Blames,J.Beattie,S.
+    pha-Fe203,Cr203 and alpha-(Cr,Fe)203 and their relevance to
+    Sjoberg,Modeling proton binding at the goethite (a-
+    corrosion.Electrochem Soc 99-38.17-25 (2000)
+    FeOOH)-water interface.Colloids Surf A Physicochem Eng
+    52.CRC handbook of chemistry and physics,85th ed.,in:D.R.Lide
+    Asp179,11-27(2001)
+    (Ed.),CRC Press,Boca Raton,2004
+    53.S.R.Gunn,L.R.Green,Heat of solution of hydrogen chloride.J
+    Chem Eng Data 8,180(1963)
+    Springer
+
+==========第10页==========

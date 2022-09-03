@@ -1,0 +1,83 @@
+    Wiley Online Library
+    Chemlnform
+    Thiazine derivatives
+    R0610
+    DO:10.1002/chin.201647193
+    47-193
+    Sodium Chlorate as a Viable Substoichiometric Oxidant for Cobalt-Catalyzed
+    Oxidative Annulation of Aryl Sulfonamides with Alkynes.-
+    For the first time,NaClO is demonstrated to be a versatile oxidant in the catalytic
+    C-H activation of N-(8-quinolyl)substituted sulfonamides which react with alkynesto give sultams in good yields.Interestingly,the process can be extended to thebenzamide (V)as substrate as well.-(RAN,Y.;YANG*,Y.;ZHANG L.;
+    Tetrahedron Lett.57(2016)30,3322-3325,
+    http://dx.doi.org/10.1016/j.tetlet.2016.06.059 Coll.Chem.,Sichuan Univ..
+    Chengdu,Sichuan 610064,Peop.Rep.China;Eng.)-Mais
+    00
+    aR1,R2:-H
+    83%
+    R2Qin Pn R2
+    Qin b R1:-H;R2:-Me
+    78%
+    RI人人Phc1R1-R2:◇
+    72%
+    d R1:-Me R2;-H92%eR1:-0-Me;R2:-H85%
+    A):1 equiv.PivOH,.75 equiv.NaCIO3.Co(OAc)2'4H2O (cat.)
+    f R1:-CN:R2:-H
+    47%
+    dioxane,120℃，[24h]
+    g R1:-F:R2:-H
+    92%
+    ain
+    0v一Qin_(0
+    0°
+    Qin
+    YH
+    P
+    V75%
+    aR3:-CO-O-Me
+    R3一C三CH(WI)
+    86%
+    Id
+    Qin b R3:-SiMe
+    88%
+    A
+    cR3:<
+    81%
+    人R3
+    dR函：○
+    75
+    eR:Pr
+    88%
+    f时C0-Me9x
+    9R3:Br
+    68%
+    h晒：G
+    64%
+    p
+    aR4:-Pr
+    6B%
+    R1-C=C-R+(VIII)
+    Qin
+    bR4:-CD-0-Me65%
+    Id
+    c R4:-Ph
+    A
+    87%
+    Me
+    R4
+    90%
+    守
+    87%
+    fR:灯
+    82%
+    ChemInform 2016,47,issue 47
+    @2016 Wiley-VCH Verlag GmbH Co.KGaA,Weinheim
+
+==========第1页==========
+    Wiley Online Library
+    요Qin
+    入Ph
+    XI82%
+    ChemInform 2016,47,issue 47
+    @2016 Wiley-VCH Verlag GmbH Co.KGaA,Weinheim
+
+==========第2页==========

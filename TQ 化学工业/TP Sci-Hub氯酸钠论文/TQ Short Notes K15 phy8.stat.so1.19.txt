@@ -1,0 +1,68 @@
+    Short Notes
+    K15
+    phy8.stat.so1.19,K15(1967)
+    Subject classification:14.4,22.8
+    Solid State Physics Laboratory,Physics Department,
+    Indian Institute of Technology,Madras
+    Dielectric Constant of Sodium Chlorate Crystals at
+    Microwave Frequencies
+    By
+    C.RAMASASTRY and C.V.RAMAIAH
+    Earlier work on the dielectric properties of sodiumchlorate crystals was due to Narayana Rao (1)and Mason (2).
+    They studied the crystals at 1.6 MHz and 1 kHz,respectively,and reported a room temperature value of about 5.8 for thedielectric constant e'.Mason determined also the variationof e'with temperature.In the present investigation,crystalsgrown from solution by slow evaporation (3)were properlyground to 2.286x1.016 cm to fit into the wave guide for the3 cm region.The method employed is that described by Von
+    Hippel and Roberts (4)and consists of measuring the shiftof a minimum of the standing wave pattern by a probe movingin a slotted wave guide.The material used is extra pure andis specially prepared by the Electro-Chemical Research Insti-tute,Karaikudi.
+    The dielectric constant e'determined experimentally atthe microwave frequencies is shown as a function of temperature(Fig.1,curve 1).A steady increase with temperature can beseen.In the same figure,the decrease of n2 (square of therefractive index at optical frequencies)with temperature (5)is also shown (curve 2).As n represents the contributionof the electronic polarisability to the total dielectricconstant,the difference (e'-n)would primarily depend onthe polarisability due to the ionic displacement.This isplotted as curve 3 in the same figure.Its linear dependenceon temperature is evident.A similar curve computed from
+    Mason's data is also given (curve 4).The increase of theionic part of the dielectric constant can be attributed tothe reduction of the force constant between the ions forlarger interionic distance at higher temperatures due to
+
+==========第1页==========
+    K16
+    physica status solidi 19
+    50
+    70
+    2.30
+    40
+    22B
+    50
+    226
+    20-+
+    060120
+    上上山2240
+    Fig.1.Variation of the dielectric constant e',of single
+    crystals of sodium chlorate with temperature.(Appro-priate ordinate scales should be used for the differentcurves.)
+    curve 1:e'for 3 cm waves,
+    curve 2:n for optical frequencies,
+    curve 3:(e'-n)representing the contribution due
+    to ionic displacement,
+    curve 4:the same as 3 but computed from Mason's data
+    at↑Hz
+    thermal expansion。
+    In fact a correlation exists between the ionic displacementpolarisability and the lattice parameter.Full details willbe published in due course.
+    The important points of interest are:
+    i)Increase of dielectric constant with temperature.ii)Linear dependence of (e'-n2)on temperature.Its
+    correlation with the lattice parameter may lead to thepossibility of studying the variation of the force con-stant for various internuclear distances.
+    iii)Absence of any additional contribution to the dielectric
+    constant by the orientational polarisation at temperaturesnear the melting point for these highly pure crystals.
+    Rao and Smakula (6)and Mason (2)reported a higher rate
+
+==========第2页==========
+    Short Notes
+    K17
+    of increase of e'for ionic crystals at higher temperatures.iv)The room temperature value of e'at microwave frequency is
+    4.8 as compared with the value of 5.8 reported earlierat lower frequencies.
+    Acknowledgements
+    The authors wish to thank Prof.B.Sen Gupto,Director
+    of our Institute for the encouragement and Dr.W.Koch and
+    T.N.Seshadri for their interest in the work.Prof.S.Sampathhas kindly lent us some of the microwave equipment.Our thanksare due to Dr.K.S.G.Doss,Director of the Electro-Chemical
+    Research Institute for arranging the supply of pure materials.
+    References
+    (1)D.A.A.S.NARAYANA RAO,Proc.Indian Acad.Sci.30A,82
+    (1949).
+    (2)W.P。MAS0N,Phys·Rev.70,529(1946).
+    (3)C.RAMASASTRY and S.B.S.SASTRY,J.Phys.Soc.Japan 18,
+    1220（1963).
+    (4)S.ROBERTS and A.VON HIPPEL,J.appl.Phys.17,610 (1946).
+    (5)International Critical Tables.
+    (6)K.V.RAO and A.SMAKULA,J.appl.Phys.37,319 (1966).
+    (Received December 1,1966)
+
+==========第3页==========

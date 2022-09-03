@@ -1,0 +1,301 @@
+    P.BENNEMA:Crystal Growth Measurements
+    563
+    phys.stat.sol.17,563 (1966)
+    Laboratory of Solid State Physics of the University of Groningen
+    Crystal Growth Measurements on Potassium Aluminium Alum and
+    Sodium Chlorate from Slightly Supersaturated Solutions
+    By
+    P.BENNEMA
+    Measurements of the rate of growth R of a potassium aluminium alum crystal and asodium chlorate crystal are presented.For alum,when the relative supersaturation o liesbetween 3x10-5 and 10-2,R is found to be proportional to o but for o greater than 10-2when spontaneous nucleation occurs,some points(showing considerable scatter)are obtainedwhich lie above the linear curve..For sodium chlorate in the range3×l0-5≤g≤5×l0-4adistinctly non-linear (nearly parabolic)(R,o)law is observed and for the range5×l0-4≤o≤1.5×l0-3 a linear curve is found which upon extrapolation to low values of odoes not pass through the origin.The theoretical (R,o)curve resulting from the surfacediffusion model of Burton,Cabrera,and Frank [1,2]fits the measured (R,o)points ofsodium chlorate in a satisfactory way.It follows from the experiments that R does notdepend on the velocity of flow of the solution.
+    Messungen der Wachstumsgeschwindigkeit R in Abhangigkeit von der relativen Uber-sattigung o werden fuir einen Kalium-Aluminium-Alaun-Kristall und einen Natriumchlorat-
+    Kristall beschrieben.Fir Alaun wird im Gebiet der relativen Ubersattigung 3x1010-2eine lineare(R,o)-Kurve,die durch den Ursprung geht,beobachtet.Fuir Werte o>10-2,wenn spontane Keimbildung in der Losung auftritt,liegen die(R,o)-Punkte (mit einergroBen Streuung)tber der linearen Kurve.Fiir Natriumchlorat wird im Gebiet3X10-55x10-eine nichtlineare (nahezu parabolische)Kurve und im Gebiet5X10-41,5x10-3 eine lineare Kurve beobachtet,die nach Extrapolation zuniedrigen Werten nicht durch den Ursprung geht.Die theoretische(R,o)-Kurve,abgeleitetaus dem Oberflachendiffusionsmodell nach Burton,Cabrera und Frank [1,2],liefert einebefriedigende Wiedergabe der MeBpunkte.Die R-Werte sind unabhangig von der Stro-mungsgeschwindigkeit der Losung.
+    1.Introduetion
+    As mentioned before [1,3]very few measurements to determine the relationbetween R and o for low o values have been carried out.In order to examinethe validity of existing growth models it is essential to know if for low o valuesthere is growth or not and to determine what kind of (R,o)law holds.Forexample,Follenius [4]reports that in the range 0o2.3x 10-2 there isno growth for a small sodium chlorate crystal.Making use of our sensitivemethod we find for the range 3x10-5sos1.5x10-3 always measurable(R,o)points obeying more or less the theoretical (R,o)law derived by Burton,
+    Cabrera,and Frank [2].Follenius'negative conclusion is questionable becauseher technique is not sufficiently accurate to measure such low R and o values.
+    In order to obtain a large number of (R,o)points a weighing technique hasbeen developed which has been described in a previous paper [3].
+    The principle of the method is as follows:The weight of a large clear singlecrystal suspended from an analytical balance in a closed supersaturated solution37 physica
+
+==========第1页==========
+    564
+    P.BENNEMA
+    F.1
+    Fig.2
+    Fig.3
+    07250
+    1ha200
+    10.6070
+    1H3150
+    是
+    '107225
+    h3100
+    06060
+    113050
+    07200
+    0.6050
+    113000
+    112950
+    10.60406
+    7175
+    1h2900
+    800
+    200
+    600
+    90
+    a00
+    1z00
+    900
+    1300
+    亿00
+    Fig.4
+    Fig.5
+    f.6
+    H690
+    12.5700
+    32300
+    116800
+    12.5600
+    3.2200
+    曼
+    132100
+    116700
+    125500아
+    13.2000
+    116600
+    12500
+    3.900
+    116500L
+    25300
+    131800L2L
+    900
+    13.00
+    1亿00
+    800
+    1000
+    2.00
+    13.00
+    500
+    1z00
+    1(h)
+    张3200FFig.7
+    49600外Fig.8
+    49500
+    1张3100
+    曼
+    华9400
+    14.9300
+    k3000
+    %.9200
+    2900
+    49100P
+    1
+    50
+    600
+    1Z00
+    00
+    1100
+    300
+    (h)
+    thl。
+    Fig.1 to 8.Weight vs.timeof the growing crystal for eight arbitrarily chosen(W,t)groups of experiment 1II
+    of alum
+
+==========第2页==========
+    Crystal Growth Measurements on K-Al-Alum and NaClO
+    565
+    is determined at given times,and at the same time the temperature of thesupersaturated solution is measured.From these data R and o values can becalculated using a computer.
+    2.Results of Potassium Aluminium Alum
+    Three experiments were carried out as described in our previous paper [3].
+    The crystals used were limited for about 99%of the total surface by faces ofthe octahedral form $111}.(The first experiment was a preliminary run whichgave essentially the same results as the next two.Therefore,we shall not discussit here.)The apparent weight W of the crystal is plotted vs.time 4,so that thedata obtained in one day are collected in one figure.They were divided intogroups as described in [3]and passed to the computer centre where the standardprogram described in [3]is carried out.Some arbitrarily chosen (W,t)data ofsome groups of experiment III are plotted in Fig.I to Fig.8.It can be seenthat the dispersion is low.The data of R and o resulting from the experimentsII and III are plotted in Fig.9 and 10,respectively.
+    The numbers given correspond to the group numbers of the (t,W,T)observations which in turn correspond to the time sequence of the observations.
+    8
+    。分
+    5阳
+    好的
+    5
+    金物安
+    35
+    五
+    ------
+    名
+    2
+    3
+    5
+    0
+    5
+    Ox 104
+    0
+    Fig.9.R vs.o resulting from experiment II of potas-
+    Fig.10.R vs.o resulting from experiment III of alum
+    sium aluminium alum.
+    with normal ()and deviating ()points as discussed
+    above.For the linear curve 4 0.43 mm/h,
+    curve R-A o +B has been ''drawn"through the
+    B=0.80×10-6m1n/h
+    normal points by the least square inethod using a
+    computer.Here A-0.50 mm/h,B-0.36x10-mm/h37◆
+
+==========第3页==========
+    566
+    P.BENNEMA
+    (The data are calculated with our solubility curve obtained from ourspheremethod”[3)
+    It can be seen from these figures that,though there is some scatter (whichis low in comparison with most observed (R,o)curves [1]),the points 1 to 33and 1 to 31 of the experiments II and III,respectively,for values of o10-2roughly oscillate within the calculated (and observed)error of o of say 3x10-4around a linear function
+    R=A0+B.
+    (1)
+    These linear functions are determined by the method of least squares and re-presented in Fig.9 and 10 for the two experiments II and III,respectively.
+    The values of 4 and B are given in Table 1.The following interesting pointscan be remarked:
+    1.We see from the (R,o)points,as for example 3 and 4,9 and 10,and 15and 16 of experiment II,16 and 17 and 25 and 26 of experiment III,respecti-vely,that R changes not only proportional to o if o increases in time,but alsoif o decreases,so that the normal (R,o)points are reproducible.
+    2.The fact that the obtained (R,o)curves do not exactly pass through theorigin can be attributed either to scatter in the (R,o)points or to an error inthe determination of the saturation points [1].
+    3.We also have calculated (R,o)data with the solubility data of Schlain,
+    Prater,and Ravitz [5].It can be shown that although the slope of the (R,o)curve changes somewhat the shape of the obtained (R,o)curve is not essentiallyinfluenced.This is in agreement with the almost equal slopes of our solubilitycurve [1]and the curve of Schlain et al.[5].
+    4.It is a very remarkable fact that for values of o10-2 for experiment IIthe points 34 to 46,showing a large scatter,all are lying without the error limitabove the linear curve.For the points 34 to 37 of experiment II this can beascribed to an interruption of this experiment [l].However,for the otherpoints of both experiments no reasons could be found so that this effect mustbe real [1].This may have some relation to nucleation in the solution becausesome time after or during the occurence of the deviating (R,o)points very smallcrystals appeared on the bottom of the crystallization vessel.
+    5.In order to ascertain the influence on R of the flow rate of the solutionacross the crystal surface,a growing crystal was observed,W and t being meas-ured for two different rates of stirring.Some results are plotted in Fig.11
+    It can be seen from the (I7,t)plots that the slope of the curves is independentof the measured rates of stirring.We therefore conclude that the flow velocityof the solution does not essentially influence R,i.e.that the transport of thesolute to the growing crystal face is not a rate determining step.
+    6.We note that during the whole experiment from the first stage (no visible
+    Table 1
+    Exper-
+    Solubility curve of Schlain et al.[5]
+    Our solubility curve
+    iment
+    A (mm/h)
+    B(mm/h)
+    4 (mm/h)
+    B(mm/h)
+    II
+    0.48
+    0.94×10-0
+    0.50
+    0.36×10-4
+    1
+    0.40
+    0.32×10-4
+    0.43
+    0.80×10-5
+
+==========第4页==========
+    Crystal Growth Measurements on K-Al-Alum and NaCIO
+    567
+    Fig.11.W vs.t (time)for 27 and 52 rev/min of the stirrer,
+    respectively,at constant o for alum
+    Rev/min52
+    Rev/min 27
+    0
+    th)-*
+    boundary layer between the original seed crystal and the fresh-grown partcould be observed)to the end and also after an interruption (by hanging thecrystal in the liquid paraffin layer above the mother liquid),the crystal re-mained absolutely clear.Thus it follows that in these experiments the crystalgrowth process can be considered as a regular process.
+    3.Results of Sodium Chlorate
+    Two experiments were carried out.(Since experiment II agreed with theresults of experiment I and since experiment I has given the largest numberof points,we shall only discuss the results of experiment I here.)The experi-ments were carried out as mentioned above.The calculated (R,o)pointsare plotted in Fig.12.The crystals used were bounded by about 94%of theirtotal surface by faces of the form {100}so that in practice the R values obtainedapply to the cube faces {100}alone.
+    Considering Fig.12 in more detail,the following points can be remarked:
+    1.The (R,o)points show that they are reproducible.
+    2.The points 40 and 41 and 45 to 50 are omitted here,since these had to beattributed to a temporal interruption of theexperiments [1].Deviating points analogousto those obtained for alum are not so clearly
+    的
+    observed.Although the points 62 and 63can be considered as deviating (nucleationwas also observed at point 62),this is not
+    6
+    very convincing since the deviation seems
+    1
+    to be within the error limits.
+    3.Fig.12 suggests that,instead of alinear relation between R and o:a sortof "parabolic law'must hold for va-lues of o s4x10-4,while for values of4X10-4 a linear relation R=4 o-B
+    3
+    seems to hold.If it is assumed that the
+    8
+    1
+    Ge
+    Fig.12.R vs.o resulting from experiment I of sodlum chlorate.A BCF curve R =Catlo,tanh ovlo has been"drawn"
+    07
+    03
+    ihrough the (R,o)points by the least square method using
+    0
+    仍
+    a computer.Here C=4.19 mm/h and'o,-0.63x10-3
+    0
+
+==========第5页==========
+    568
+    P.BENNEMA
+    Table 2
+    calculated with
+    Exper-solubility curves
+    C
+    C
+    C
+    iment
+    I-II and III
+    01
+    1
+    (mm/h)
+    (cm/s)
+    (cm/s)
+    (see[1])
+    I
+    I-II
+    4.19
+    1.2×10-4
+    0.63×10-3
+    1.6×10-4
+    0.63×10-3
+    III
+    6.67
+    1.9×10-4
+    0.62×10-3
+    II
+    I-II
+    4.03
+    1.1×10-4
+    0.68×10-8
+    relation is in reality a straight line R=A o,then the fact Bo mustbe attributed to an error in the determination of the saturation point.It canbe shown,however,that such an error lies outside the limits of the experimentalerrors.Therefore,the depression for low o values must be real the more sosince experiment II (as well as a preliminary run not discussed here)gives thesame depression.
+    4.Comparing the existing solubility data of sodium chlorate it can be shownthat all solubility curves are linear for the range from 20 to 60 C [1].Howeverit is not very satisfactory for the calculation of o to find such a wide range ofvariation in the slope of these curves.Probably,due to the high solubility wewere not able to.measure a very accurate solubility curve.In spite of these diffi-culties it was possible by a trial and error method [I]to select the most accuratesolubility curves from the available curves and to show that the shape of themeasured (R,o)curves was not influenced by smalldifferences in the slope ofthese solubility curves.A statistical error analysis of this and other problemswill be given elsewhere [6].
+    5.The (R,o)data plotted in Fig.12 suggest a shape closely related to thetheoretical function of Burton,Cabrera,and Frank resulting from their surfacediffusion model [2]:
+    R=C tanh
+    (②)
+    01
+    0
+    Therefore,in Fig.12 this function has been "drawn''through the measured(R,o)points by the method of least squares using the computer [6].The values
+    C and o are given in Table 2.We see that the experimental data conform thistheoretical BCF function in a satisfactory way,i.e.within the experimental andestimated error of o of say 2x 10-4.This error has the same order of magnitude
+    9
+    30
+    Rev/min 13
+    20
+    10
+    0
+    Fig.13.W vs.time t for 13 and 39 rev/min of the stirrer,re-
+    1)
+    spectively,at constant o for sodium chlorate
+
+==========第6页==========
+    Crystal Growth Measurements on K-Al-Alum and NaClO
+    569
+    as the error of alum given above.The fact that the scatter seems to be larger asin the case of alum must be ascribed to the fact that in Fig.12 the o scale forsodium chlorate is 10 times larger than the o scale for alum.
+    6.In Fig.13 we see again from a (W,4)plot that a change from 13 to 39 rev/min of the stirrer did not change the slope of the (W,t)plot (o was kept constant)so that we conclude that the transport of growth units to the surface of thegrowing crystal is also not rate determining in the growth process for sodiumchlorate.
+    7.As in the case of alum the crystal remained absolutely clear in all stages ofthe experiment.
+    4.Summary
+    4.1 Results of alum
+    It follows from the three experiments described in Section I that the relationbetween R and o for values of
+    0≤0≤10-2
+    can be described by
+    R=AO十B,
+    where 4 and B have the values given in Table 1.
+    We conclude:
+    1.B can be considered equal to zero since small deviations (see experimentsII and III)of B from zero must be attributed either to scatter or to errors inthe determination of the saturation point.
+    2.The values of 4 for experiments II and III can be considered as roughlyequal.They are not essentially dependent on the solubility curves nor on theflow velocity of the solution.For theoretical considerations we can take for theslope the mean value of the four values of 4 calculated for experiments II andIII.Thus,
+    A=0.45mm/h=1.3×10-5cm/s.
+    3.For values of oz10-2 the linear law no longer appears to hold.(R,o)poiuts are observed to show larger scatter as rates of growth below o 5 10-2.
+    No variations in experimental circumstances could be found which could explainthis effect,so it must be attributed to a change in the growth mechanism.Prob-ably it has some relation to the occurrence of spontaneous nucleation.
+    4.2 Results of sodium chlorate
+    It follows from the experiments I and II,that,although the dispersion israther high (this must be attributed to the scatter at very low supersaturations),the "depression"in the (R,o)curve at the lowest supersaturations is real andthat the observed data of both experiments can be described in a satisfactoryway by the BCF function(2).
+    The values of C and o are given in Table 2.For theoretical considerationswe will use the mean values of C and o of experiment I.
+    Acknowledgemnents
+    I wish to express my gratitude to the staff of the Laboratory of Crystallog-raphy of the Technical University of Delft where this work has been carriedout,and especially to the head of the laboratory,Dr.W.F.de Jong,for giving
+
+==========第7页==========
+    570
+    P.BENNEMA:Crystal Growth Measurements
+    me the opportunity to do this work,to Mr.C.van Zeumeren for his carefulexperimental assistance,to Mr.J.F.Mulder for his assistance during the laststages of this investigation.My sincere thanks are due to the Computer Centreof the Mathematical Department of the University of Delft -particularly
+    Mrs.J.C.van Poeteren -for making the programs and carrying out the nume-rous calculations.Finally I want to thank Prof.Dr.W.G.Perdok for hisinterest in this work and valuable suggestions for improving the content of thispaper and my promotors Prof.Dr.W.G.Burgers and Prof.Dr.H.G.van Buerenfor all their help to finish my thesis.
+    References
+    [1]P.BENNEMA,Thesis,Technical University Delft,Groningen 1965.
+    [2]W.K.BURTON,N.CABRERA,and F.C.FRANK,Phil.Trans.A 248,299 (1951).[3]P.BENNEMA,phys.stat.sol.17,555 (1966).
+    [4]M.FoLLENIUS,Bull.Soc.Frang.Miner.Crist.82,343 (1959).
+    [5]D.SCHLAIN,J.D.PRATER,and S.F.RAVITZ,Ind.Eng.Chem.39,74 (1947).
+    [6]P.BENNEMA and H.B.KLEIN HANEVELD,to be published in the new Journal of
+    Crystal Growth.
+    Received June 1,1966)
+
+==========第8页==========

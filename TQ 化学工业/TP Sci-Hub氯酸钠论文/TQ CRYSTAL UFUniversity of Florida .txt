@@ -1,0 +1,1870 @@
+    CRYSTAL
+    UFUniversity of Florida
+    GROWTH
+    Libraries
+    DESIGN
+    Subscriber access provided by University of Florida Smathers Libraries
+    Article
+    Chiral Symmetry Breaking and Deracemization
+    of Sodium Chlorate in Turbulent Flow
+    JaekyuKyu Ahn,Do Hyun Kim,Gerard Coquerel,and Woo-Sik Kim
+    Cryst.Growth Des.,Just Accepted Manuscript.DOl:10.1021/acs.cgd.7b01247.Publication Date (Web):12 Dec 2017
+    Downloaded from http://pubs.acs.org on December 21,2017
+    Just Accepted
+    "Just Accepted"manuscripts have been peer-reviewed and accepted for publication.They are postedonline prior to technical editing,formatting for publication and author proofing.The American Chemical
+    Society provides "Just Accepted"as a free service to the research community to expedite thedissemination of scientific material as soon as possible after acceptance."Just Accepted"manuscriptsappear in full in PDF format accompanied by an HTML abstract."Just Accepted"manuscripts have beenfully peer reviewed,but should not be considered the official version of record.They are accessible to allreaders and citable by the Digital Object Identifier(DOI)."Just Accepted"is an optional service offeredto authors.Therefore,the "Just Accepted"Web site may not include all articles that will be publishedin the journal.After a manuscript is technically edited and formatted,it will be removed from the "Just
+    Accepted"Web site and published as an ASAP article.Note that technical editing may introduce minorchanges to the manuscript text and/or graphics which could affect content,and all legal disclaimersand ethical guidelines that apply to the journal pertain.ACS cannot be held responsible for errorsor consequences arising from the use of information contained in these "Just Accepted"manuscripts.
+    ACS Publications
+    Crystal Growth Design is published by the American Chemical Society.1155
+    Sixteenth Street N.W.,Washington,DC 20036
+    Published by American Chemical Society.Copyright American Chemical Society
+    However,no copyright claim is made to original U.S.Government works,or worksproduced by employees of any Commonwealth realm Crown government in the courseof their duties.
+
+==========第1页==========
+    Page 1 of 32
+    Crystal Growth Design
+    23456
+    7
+    9
+    Chiral Symmetry Breaking and Deracemization of Sodium Chlorate in
+    12
+    Turbulent Flow
+    345678901234567890123456789
+    Jaekyu Ahn',Do Hyun Kim2,Gerard Coquerel3 and Woo-Sik Kim'*
+    Functional Crystallization Center,Department of Chemical Engineering,Kyung Hee
+    University,Kyungki-do,Korea
+    2 Department of Chemical Engineering,KAIST,Daejeon,Korea
+    3 SMS laboratory EA3233,University of Rouen Normandy,F-76821 Mont Saint
+    Aignan CEDEX,France
+    01235445678
+    1950
+    Corresponding author:Woo-Sik Kim (wskim@khu.ac.kr)
+    7234567890
+    ACS Paragon Plus Environment
+
+==========第2页==========
+    Crystal Growth Design
+    Page 2 of 32
+    1
+    23456
+    Abstract
+    78
+    The chiral symmetry breaking and deracemization of sodium chlorate was investigated when
+    10
+    varying the agitation speed and cooling rate in cooling crystallization.At a low agitation speed,almost
+    11
+    12
+    zero crystal enantiomeric excess occurred at the induction period.When increasing the agitation speed,
+    13
+    14
+    the crystal enantiomeric excess at the induction period(called the 'initial CEE')increased due to the
+    5
+    16
+    promotion of chiral symmetry breaking.The chiral symmetry breaking at the induction period(called
+    17
+    18
+    the 'initial chiral symmetry breaking')also varied with the cooling rate.At a low cooling rate of
+    19
+    20
+    0.0738C/min,the initial CEE reached up to about 90%and was rapidly reduced when increasing the
+    12
+    cooling rate.The experiments also showed enhanced deracemization of the chiral crystals when
+    24
+    increasing the initial CEE.Thus,complete deracemization was achieved when the initial CEE was
+    26
+    over 60%.The influence of the agitation speed and cooling rate on the initial CEE originated from
+    28
+    secondary nucleation depending on the supersaturation at the induction period (called the induction
+    0
+    supersaturation').Using a nucleation rate equation,the initial CEE was found to correlate well with
+    the induction supersaturation.Also,varying the final setting temperature and agitator confirmed that
+    33
+    secondary nucleation was significantly involved in the chiral symmetry breaking at the induction
+    5
+    period.
+    3
+    40
+    Key words:chiral symmetry breaking;deracemization;induction supersaturation;
+    Eve crystals;secondary nucleation
+    42345678907234567890
+    ACS Paragon Plus Environment
+
+==========第3页==========
+    Page 3 of 32
+    Crystal Growth Design
+    1
+    23
+    1.INTRODUCTION
+    5
+    The isolation of chiral enantiomers is currently a special area of interest for research on fine chemicals
+    >
+    8
+    and pharmaceuticals,as the biological and pharmacological actions of two enantiomers can differ
+    10
+    distinctly despite identical non-vectorial physico-chemical properties,such as:density,solubility in
+    11
+    12
+    non-chiral solvents,pKa,melting points,hardness,etc.Thus,many studies have investigated chiral
+    13
+    14
+    symmetry breaking and deracemization to obtain homochiral crystals.Sodium chlorate is an
+    15
+    16
+    interesting chiral substance,being optically inactive in a solution and generating optically active L-
+    17
+    18
+    form and D-form crystals via crystallization.Since Kipping and Pope first demonstrated chiral
+    19
+    20
+    symmetry breaking over 100 years ago by adding D-glucose to the crystallization of sodium chlorate,
+    21
+    22
+    many studies have used sodium chlorate as a model substance for investigating the mechanism and
+    23
+    24
+    effective ways for chiral symmetry breaking and deracemization.The milestone study on chiral
+    25
+    6
+    symmetry breaking was reported by Kondepudi et al.2.While symmetric chiral crystals were produced
+    27
+    8
+    with unstirred evaporation crystallization,complete chiral symmetry breaking was only obtained
+    29
+    30
+    when stirring the crystallization,supposedly due to secondary nucleation by the stirring.They also
+    31
+    32
+    used a stochastic kinetic model to explain the chiral symmetry breaking mechanism via secondary
+    33
+    34
+    nucleation.3 Many subsequent studies have also examined chiral symmetry breaking.For example,
+    35
+    36
+    McBride and Carter suggested the Eve effect(authors called it the Adam effect')on chiral symmetry
+    37
+    38
+    breaking,where the initial Eve'crystal is formed and grows to a certain size,and then hundreds of
+    39
+    40
+    offspring crystals are cloned via secondary nucleation in stirred crystallization.Plus,using the
+    41
+    42
+    Metcalfe and Ottino model,Cartwright et al.developed an advection-mediated nonlinear autocatalytic
+    43
+    44
+    process to describe chiral symmetry breaking by secondary nucleation in a fluid flow.3.6 Viedma also
+    45
+    46
+    explained chiral symmetry breaking in terms of supersaturation in stirred crystallization.?With a low
+    47
+    48
+    supersaturation,the primary nucleation slowly generates a few homo-chiral crystals,which then
+    49
+    50
+    become mother crystals breeding many daughter crystals via secondary nucleation,resulting in chiral
+    51
+    symmetry breaking.However,with a high superstation,the primary nucleation generates
+    52
+    53
+    stochastically a high number of two crystal forms with almost equal kinetics.resulting in a nearly
+    54
+    55
+    56
+    symmetric amount of chiral crystals.Similar results were also reported by Szurgot and Szurgot.
+    575
+    59
+    60
+    ACS Paragon Plus Environment
+
+==========第4页==========
+    Crystal Growth Design
+    Page 4 of 32
+    1
+    3
+    4
+    Meanwhile,Botsaris studied the influence of the seed and supersaturation on chiral symmetry
+    6
+    breaking in crystallization.When using seeds,chiral symmetry breaking was always obtained via
+    >
+    6
+    secondary nucleation,regardless of stirring the crystallization.However,the chiral symmetry breaking
+    10
+    varied according to the seed size and supersaturation.The secondary nucleation was enhanced when
+    11
+    12
+    increasing the seed size,thereby increasing the chiral symmetry breaking.Thus,the secondary
+    13
+    14
+    nucleation of sodium chlorate was suggested to be proportional to L(L=seed size).Meanwhile,
+    15
+    16
+    when increasing the supersaturation,spontaneous primary nucleation became more predominant in
+    17
+    18
+    the seed crystallization,thereby diminishing the chiral symmetry breaking of the product crystals.In
+    19
+    20
+    contrast,Qian and Botsaris observed complete chiral symmetry breaking with unseeded
+    21
+    22
+    crystallization,even at a high supersaturation inducing spontaneous primary nucleation.Yet,while
+    23
+    24
+    this result is the opposite of other studies,their study did not measure the chirality of the crystals
+    25
+    26
+    generated at the induction period of nucleation in the unseeded crystallization.Moreover,the
+    27
+    28
+    crystallization time was long at about 18 days and the chiral symmetry breaking was only analyzed at
+    29
+    30
+    end of the crystallization.Thus,it is possible that the unseeded crystallization achieved complete
+    31
+    32
+    chiral symmetry breaking via deracemization during the long crystallization,even though symmetric
+    33
+    34
+    chiral crystals were initially formed at a high supersaturation.Most previous studies have found that
+    35
+    36
+    seed crystals duplicate crystals of the same form via secondary nucleation.Notwithstanding,the
+    37
+    38
+    formation of crystals dissimilar to the seed via secondary nucleation has been observed in stirred tank
+    39
+    40
+    and oscillatory crystallizers due to the fluid shear.Niinomi et al.explained chiral symmetry breaking
+    41
+    42
+    in unseeded crystallization at a high supersaturation using the phase transformation of achiral
+    43
+    44
+    metastable crystals.At a high supersaturation,the primary nucleation quickly generates achiral
+    45
+    46
+    metastable crystals,which are optically inactive.These metastable crystals are then slowly
+    47
+    48
+    transformed into optically active chiral crystals due to the solubility difference between metastable
+    49
+    50
+    crystals and chiral crystals.During this phase transformation,chiral symmetry breaking was induced
+    via secondary nucleation.Other influences on chiral symmetry breaking in crystallization have also
+    52
+    53
+    54
+    been investigated,such as ultrasonication,magnetic fields,and additives.-7
+    55
+    56
+    While most of the above-mentioned studies of chiral symmetry breaking were carried out in a non-
+    575
+    59
+    60
+    ACS Paragon Plus Environment
+
+==========第5页==========
+    Page 5 of 32
+    Crystal Growth Design
+    1
+    23
+    equilibrium where nucleation plays an important role,a quasi-equilibrium where classical nucleation
+    5
+    was not involved has been adopted for the enantiomeric enrichment of chiral crystals by
+    >
+    6
+    deracemization.In the case of deracemization,the milestone study was reported by Viedma.In this
+    10
+    study,a symmetric mixture of chiral crystals was completely shifted to a pure enantiomer using glass
+    11
+    12
+    beads.The explanation provided for this enantiomeric enrichment by glass beads was attrition that
+    13
+    14
+    produces tiny crystal fragments.These tiny fragments are then dissolved in the solution due to
+    15
+    16
+    fluctuation of the equilibrium and consumed for the growth of large crystals,like Ostwald ripening.9
+    17
+    18
+    2They could also be directly incorporated on the surface of crystals of the same handedness.This
+    19
+    20
+    process was known as:Viedma ripening.20 Meanwhile,Uwaha and Katsuno suggested that chiral
+    21
+    22
+    clusters were formed by grinding,which caused a significant initial chiral imbalance,resulting in
+    23
+    24
+    enantiomeric enrichment.23 To promote deracemization,temperature cycling and ultra-sonication
+    25
+    26
+    have both been applied.427 According to Coquerel,deracemization was significantly accelerated by
+    2
+    28
+    temperature cycling,as the dissolution of minor crystals and growth of major crystals were both
+    29
+    30
+    promoted.4 Plus,ultra-sonication was more effective for deracemization than glass beads,as the
+    31
+    32
+    mechanical impact of the cavitation by ultrasonic waves was stronger than the attrition by glass
+    33
+    34
+    beads.26.27
+    35
+    36
+    Most previous studies have demonstrated that secondary nucleation was induced by the fluid flow in
+    37
+    38
+    stirred crystallization,causing symmetry breaking.However,chiral symmetry breaking was
+    39
+    40
+    invariably confirmed based on the chirality of crystals after a long crystallization of several days and
+    41
+    42
+    weeks,and little attention has been paid to the nucleation in the early stage of crystallization,which
+    43
+    44
+    was practically critical for determining chiral symmetry breaking.Moreover,the deracemization of
+    45
+    46
+    chiral crystals during stirred crystallization has seldom been studied.Accordingly,the present study
+    47
+    8
+    systematically investigated the influence of a turbulent flow on chiral symmetry breaking via
+    49
+    50
+    secondary nucleation in the early stage of crystallization and the working mechanism of a turbulent
+    flow on chiral symmetry breaking.In addition,the influence of a turbulent flow on the deracemization
+    52
+    54
+    of chiral crystals during crystallization was also studied.
+    5
+    5678
+    59
+    ACS Paragon Plus Environment
+
+==========第6页==========
+    Crystal Growth Design
+    Page 6 of 32
+    1
+    2
+    4
+    2.EXPERIMENT
+    6
+    The sodium chlorate (NaC1O3,>98.0%)was purchased from Duksan Chemical Co.(Korea)and used
+    >
+    P
+    in the experiment without further purification.The feed solution was prepared by the dissolution of
+    10
+    96g of sodium chlorate in 100 g of water,which was saturated at 20 C,and then filtered using micro-
+    11
+    12
+    filter paper.A Rushton mixing tank was used as the crystallizer (called a mixing tank (MT)
+    13
+    14
+    crystallizer).The MT crystallizer made of glass was equipped with an agitator and four-baffle for a
+    15
+    16
+    turbulent eddy flow and thermal jacket on the outer wall for temperature control of the crystallization,
+    17
+    18
+    as shown in Fig.1.The working volume of the crystallizer was about 300 ml.Initially,the feed
+    19
+    20
+    solution of sodium chlorate in the crystallizer was maintained at 26 C for 20 min.It was then cooled
+    21
+    22
+    at a constant cooling rate to a final setting temperature of 13 C.Thereafter,the crystallizer was
+    23
+    24
+    maintained at the final setting temperature for up to 100 hrs for further crystallization.During the
+    25
+    26
+    crystallization,the agitation speed was varied from 300rpm to 1000rpm to adjust the hydrodynamic
+    27
+    28
+    intensity of the turbulent flow,and the cooling rate was changed from 0.074 C/min to 0.59 C/min.
+    29
+    30
+    For reproducibility,the crystallization was repeated at least three times under the same conditions.
+    31
+    32
+    The induction point of nucleation was visually measured.Suspension samples were taken
+    33
+    34
+    intermittently,quickly filtered using a vacuum pump,and dried in a desiccator.The chirality of the
+    35
+    36
+    crystals and crystal sizes of both enantiomers (L-and D-forms of sodium chlorate)were analyzed
+    37
+    38
+    using a polarized optical microscope (Olympus,BX53M,Japan).Over 500 crystals were counted
+    39
+    40
+    from each sample to analyze the chirality and crystal sizes of both forms.
+    41
+    42
+    43
+    3.RESULTS and DISCUSSION
+    44
+    45
+    46
+    The influence of the turbulent flow,generated by the propeller agitation in the mixing tank
+    47
+    48
+    (MT)crystallizer,on the chiral symmetry breaking and deracemization of the sodium chlorate crystals
+    49
+    50
+    was investigated when varying the agitation speed,as shown in Fig.2.The chirality of the crystals
+    51
+    was indexed based on the crystal enantiomeric excess(CEE),defined as
+    52
+    53
+    54
+    55
+    56
+    CEE of major crystals-no.of minor crystais100%
+    (1)
+    no.of major crystals +no.of minor crystals
+    59
+    60
+    ACS Paragon Plus Environment
+
+==========第7页==========
+    Page 7 of 32
+    Crystal Growth Design
+    1
+    23
+    5
+    In eq.(1),the major crystals indicated the enantiomeric crystals in excess,while the minor crystals
+    >
+    8
+    indicated the other enantiomeric crystals.With an agitation speed of 300rpm,the initial nucleation of
+    10
+    the two enantiomeric crystals was almost symmetric.Thus,the CEE at the induction period (here,
+    1
+    called the 'initial CEE')was close to zero.However,this crystal chirality slowly shifted to the major
+    13
+    14
+    form by deracemization during the crystallization.Yet,no further deracemization occurred after
+    15
+    16
+    reaching a CEE of 25%.When increasing the agitation speed,the initial CEE was also enhanced.
+    17
+    18
+    Moreover,the deracemization of the chiral crystals was also promoted.As a result,complete
+    19
+    20
+    deracemization was achieved with an agitation speed of 1000rpm.It should be mentioned that,in the
+    21
+    22
+    present study,the induction point of nucleation was detected by a slight color change of the clear
+    23
+    4
+    solution.However,at this point,the crystals were too tiny to clearly discriminate their chirality using
+    25
+    26
+    a polarized optical microscope.Thus,the first sample was taken one minute after the induction point
+    27
+    28
+    to analyze the crystal enantiomeric excess.This result was counted as the CEE at the induction period
+    29
+    30
+    (initial CEE).The influence of the agitation on the chiral symmetry breaking at the induction period
+    31
+    32
+    (called 'initial chiral symmetry breaking')was summarized in Fig.3(a).The initial CEE rapidly
+    33
+    34
+    increased from almost zero to 70%when increasing the agitation speed from 300rpm to 1000rpm.
+    35
+    36
+    This initial chiral symmetry breaking was due to secondary nucleation by agitation,as suggested by
+    37
+    38
+    Kondepudi and Viedma.23.7 Thus,if chiral L-and D-form crystals were spontaneously generated by a
+    39
+    40
+    high primary nucleation rate with equal stochastics,two symmetrical chiral crystals population would
+    41
+    42
+    be produced in the induction period.This symmetric formation of chiral crystals was usually observed
+    43
+    44
+    with a high supersaturation above S=1.5.However,if the primary nucleation rate were slow with a
+    45
+    46
+    low supersaturation,only a few enantiomeric crystals were initially generated.These enantiomeric
+    47
+    48
+    crystals then became 'Eve'crystals duplicating offspring crystals with the same form via secondary
+    49
+    50
+    nucleation,before crystals with the other form were nucleated and grown.Thus,the form of the Eve
+    51
+    crystal population in the induction period dominated the crystal population over the other form,
+    52
+    53
+    54
+    resulting in initial chiral symmetry breaking.Moreover,the secondary nucleation from the Eve
+    55
+    56
+    crystals suppressed the crystal formation of the other form by reducing the supersaturation,also
+    575
+    59
+    60
+    ACS Paragon Plus Environment
+
+==========第8页==========
+    Crystal Growth Design
+    Page 8 of 32
+    1
+    3
+    contributing to the initial chiral symmetry breaking.According to Viedma,the primary nucleation rate
+    6
+    was 2~3 homochiral nuclei/min under a low supersaturation.Thus,the interval between the crystal
+    >
+    nucleation of one form and the other form was long enough for the induction of secondary nucleation
+    9
+    10
+    from the Eve crystals,resulting in initial chiral symmetry breaking.'In the present study,the
+    11
+    12
+    promotion of secondary nucleation by agitation enhanced the initial chiral symmetry breaking,
+    13
+    14
+    thereby increasing the initial CEE.This influence of the agitation speed on the initial symmetry
+    15
+    16
+    breaking was also clearly reflected in the supersaturation at the induction period (called 'induction
+    17
+    18
+    supersaturation'),as shown in Fig.3(b).Since the induction of nucleation was promoted by the
+    19
+    20
+    turbulent flow,the primary nucleation was induced at a lower supersaturation when increasing the
+    21
+    22
+    agitation speed and the primary nucleation rate was lower.Thus,the interval between the nucleation
+    23
+    24
+    of the two forms increased,providing a higher chance for the secondary nucleation from the Eve
+    25
+    26
+    crystals at the induction period.Therefore,the initial chiral symmetry breaking was enhanced when
+    27
+    28
+    increasing the agitation speed.It should be mentioned that the induction supersaturation in the present
+    29
+    30
+    study varied at around S=1.04 with the agitation speed,which was consistent with the supersaturation
+    31
+    32
+    for chiral symmetry breaking by secondary nucleation reported by Viedma.'In addition,it was
+    33
+    34
+    interesting to note from Figs.2 and 3(a)that the deracemization of the chiral crystals during the
+    35
+    36
+    crystallization was related to the initial chiral symmetry breaking.Thus,when the initial chiral
+    37
+    38
+    symmetry breaking was low with a CEE of 3%,the deracemization was also limited below a final
+    39
+    40
+    CEE of 28%.When the initial chiral symmetry breaking was enhanced by the agitation,the limit of
+    41
+    2
+    the deracemization in the crystallization was also increased.Thus,total deracemization of the chiral
+    43
+    44
+    crystals was achieved when the initial CEE was 72%at 1000rpm.This experimental result suggested
+    45
+    46
+    that the initial chiral symmetry breaking (initial CEE)was an important factor determining the
+    47
+    48
+    deracemization of chiral crystals in crystallization and a certain initial level of chiral symmetry
+    49
+    50
+    breaking is required for the complete deracemization of chiral crystals.
+    The crystal size changes of the major and minor forms during deracemization were
+    52
+    53
+    monitored,as shown in Fig.4.At 300rpm,the major and minor crystals grew together during the
+    54
+    55
+    deracemization.Thus,the crystal size difference between the major and minor forms was small.When
+    56
+    7
+    59
+    60
+    ACS Paragon Plus Environment
+
+==========第9页==========
+    Page 9 of 32
+    Crystal Growth Design
+    1
+    23
+    increasing the agitation speed,the major crystal size increased faster than the minor crystal size due to
+    5
+    enantiomeric enrichment of the major form,resulting in a larger difference in the crystal sizes
+    >
+    6
+    between the two forms at the end of the crystallization.On further increase of the agitation speed up
+    10
+    to 1000rpm,the minor crystal size was rapidly reduced after reaching 65um in the early stage,and
+    11
+    12
+    eventually disappeared due to complete deracemization,whereas the major crystal size continuously
+    13
+    14
+    increased.Interestingly,the crystal size profiles for the two forms revealed that for all the agitation
+    15
+    16
+    conditions the initial major crystals were always larger than the initial minor crystals due to the Eve
+    17
+    18
+    crystals.That is,the form of enantiomeric crystals generated by secondary nucleation from Eve
+    19
+    20
+    crystals began to grow and consume the supersaturation earlier than the other form of enantiomeric
+    21
+    22
+    crystals.Thus,the form of enantiomeric crystals nucleated first in the induction period were larger in
+    23
+    24
+    size and higher in population than the other form of enantiomeric crystals.Furthermore,this high
+    25
+    26
+    population and large size of the major crystals might have been a driving force for enantiomeric
+    27
+    28
+    enrichment in the deracemization.
+    29
+    30
+    The deracemization of chiral crystals were also reflected in the crystal size
+    31
+    3
+    distributions of two forms (Supporting Information Figure S1).In this figure,it was
+    33
+    4
+    clearly observed that the crystal size distributions of two forms were shifted to large scale by
+    35
+    36
+    the deracemization.However,the crystal population of major form increased whereas the
+    37
+    38
+    39
+    crystal population was significantly reduced(Figure S1(a)and (b)).So,CEE at each class of
+    40
+    41
+    crystal size was enhanced by the deracemization at 700 rpm of agitation speed(Figure S1(c)).
+    42
+    43
+    When increasing the agitation speed to 1000 rpm,the crystal population of major form at the
+    44
+    45
+    induction period was much higher than that of minor form at the induction period (Figure
+    46
+    47
+    S1(d)),as estimated as high initial CEE in Figure 2.Due to complete deracemization,the no
+    48
+    49
+    crystal of minor form remained at the end of crystallization,resulting in 100%of CEE at each
+    50
+    52
+    class of crystal size (Figure S1(f)).This change of crystal size distribution was well
+    53
+    54
+    consistent with change of CEE in the deracemization
+    55
+    56
+    For a further examination of the influence of agitation on the deracemization of chiral
+    59
+    60
+    ACS Paragon Plus Environment
+
+==========第10页==========
+    Crystal Growth Design
+    Page 10 of 32
+    1
+    crystals,the agitation speed was changed during the crystallization,as shown in Fig 5.The
+    6
+    crystallization was initiated with an agitation speed of 700rpm and cooling rate of 0.197C/min.The
+    >
+    agitation speed was then suddenly increased to 1200rpm after the CEE reached its limit under these
+    9
+    10
+    crystallization conditions.As shown in Fig.5(a),the initial chiral crystals were generated at about 35%
+    11
+    12
+    of CEE and they were deracemized to about 67%of CEE at the end of crystallization (called the 'final
+    13
+    14
+    CEE'),which was similar to the deracemization at 700rpm in Fig.2,even though the agitation was
+    15
+    16
+    suddenly increased from 700rpm to 1200rpm during the deracemization.Furthermore,when
+    17
+    18
+    comparing with the complete deracemization at 1000rpm in Fig 2,the final CEE in this
+    19
+    20
+    deracemization was much lower.It was also interesting that the crystal sizes of both forms increased
+    21
+    22
+    continuously,even though the deracemization did not proceed further (Fig.5(b)).Here,the crystal-
+    23
+    24
+    size-increase of the two forms after suddenly increasing the agitation speed from 700rpm to 1200rpm
+    25
+    26
+    was slightly faster than that without a sudden increase of the agitation speed,as shown in Fig.4(c),
+    27
+    28
+    due to enhancement of the deracemization by a more rigorous turbulent flow.However,when the
+    29
+    30
+    agitation speed was suddenly changed from 700rpm to 1200rpm at the induction period of nucleation,
+    31
+    32
+    the deracemization was markedly different,as shown in Fig.5(c).While a similar initial chiral
+    33
+    34
+    symmetry breaking was obtained at 700rpm,the shift of chiral crystals to homo-chiral crystals was
+    35
+    36
+    continuously amplified by the deracemization at 1200rpm and complete enantiomeric enrichment was
+    37
+    38
+    achieved.Also,the crystal-size profiles of the two forms corresponded well to those in the complete
+    39
+    40
+    deracemization,as shown in Fig.5(d).From these results,it would seem that the agitation did not
+    41
+    42
+    modify the deracemization if the crystals of the two forms grew above a certain size.Thus,the crystal
+    43
+    44
+    size was identified as an influential factor determining deracemization.The turbulent flow was also
+    45
+    46
+    involved in deracemization;a more rigorous turbulent flow attained a faster and higher
+    47
+    deracemization.
+    48
+    49
+    50
+    In Fig 6,the cooling rate was changed to investigate its influence on the initial chiral
+    symmetry breaking and deracemization,as the induction supersaturation varied with the cooling rate.
+    52
+    53
+    At a high cooling rate of 0.59 C/min,symmetrical chiral crystals appeared at the induction period and
+    54
+    55
+    were partially deracemized up to about 40%of CEE after 100 hrs.When decreasing the cooling rate,
+    56
+    758
+    59
+    60
+    ACS Paragon Plus Environment
+
+==========第11页==========
+    Page 11 of 32
+    Crystal Growth Design
+    1
+    3
+    the initial chiral symmetry breaking was clearly amplified and reached an initial CEE to 90%at a
+    6
+    cooling rate of 0.0738 C/min.Correspondingly,the deracemization was enhanced when decreasing
+    >
+    8
+    the cooling rate.Thus,complete deracemization was achieved within 10 hours at a cooling rate below
+    10
+    0.15C/min.These experimental results could be consistently explained in terms of the secondary
+    11
+    12
+    nucleation depending on the induction supersaturation.When the induction supersaturation was
+    13
+    14
+    reduced by decreasing the cooling rate,this produced a slow nucleation rate.As a result,the interval
+    15
+    16
+    between nucleation of the two forms was enough for secondary nucleation from the Eve crystals,
+    17
+    18
+    resulting in an increase of the initial chiral symmetry breaking.This description of the initial chiral
+    19
+    20
+    symmetry breaking was also supported when the induction temperature and induction supersaturation
+    21
+    22
+    were varied according to the cooling rate,as shown in Fig.7.The induction supersaturation with a
+    23
+    24
+    low cooling rate was low enough for secondary nucleation predominantly dictating chiral symmetry
+    25
+    26
+    breaking at the induction period.When increasing the induction supersaturation,the crystal generation
+    27
+    28
+    at the induction period was predominantly dictated by the primary nucleation,producing symmetrical
+    29
+    30
+    chiral crystals,as suggested by Viedma (Fig.7(a)).'Therefore,the initial CEE was close to
+    31
+    32
+    symmetrical chiral crystals with a high cooling rate of 0.59C/min.The crystal-size profiles of the two
+    33
+    34
+    forms were also monitored during the crystallization,as shown in Fig.8.In case of complete
+    35
+    36
+    deracemization with a low cooling rate-e.g.below 0.015 C/min-the minor crystals grew initially and
+    37
+    38
+    then were completely dissolved out after reaching a maximum size,whereas the major crystals grew
+    39
+    40
+    continuously.However,with a high cooling rate above 0.20/min,both the major and minor crystals
+    41
+    42
+    grew together.
+    43
+    44
+    The effect of the induction supersaturation on chiral symmetry breaking was further
+    5
+    46
+    examined when varying the final setting temperature,as shown in Fig.9.In this case,different
+    47
+    48
+    induction supersaturations were designed by different final setting temperatures without changing the
+    49
+    50
+    crystallization conditions.Thus,at fixed crystallization conditions,including the agitation speed
+    51
+    (700rpm),cooling rate (0.295 C/min),and initial temperature (26 C),three different final setting
+    52
+    53
+    temperatures of 13C,16.3C and 18.1C were applied.When the final temperature was set at 13C,
+    54
+    55
+    the induction of nucleation occurred at 14.7C.Therefore,14.7 C was counted as the induction
+    56
+    758
+    59
+    60
+    ACS Paragon Plus Environment
+
+==========第12页==========
+    Crystal Growth Design
+    Page 12 of 32
+    1
+    2
+    supersaturation.However,when the final temperatures were set at 16.3C and 18.1C.the induction of
+    5
+    6
+    nucleation occurred after the solution was cooled to the final setting temperature,respectively.Thus,
+    >
+    the induction supersaturations were counted as 16.3C and 18.1C,respectively,for these two final
+    9
+    10
+    setting temperatures.Here,it is interesting to note that the induction times for the three different final
+    11
+    12
+    setting temperatures were similar at about 40 min,as shown in Fig.9(a).
+    13
+    14
+    At a high induction supersaturation of 14.7C (final setting temperature of 13C),the initial
+    15
+    16
+    CEE was low as 10%due to the high primary nucleation at the induction period,as shown in Fig.9(b).
+    17
+    18
+    Meanwhile,when the induction supersaturation was reduced to 16.3C and 18.1C,the secondary
+    19
+    20
+    nucleation was dominantly involved in the chiral symmetry breaking at the induction period increased,
+    21
+    22
+    resulting in high initial CEEs.In this experiment,it was also confirmed that the initial chiral
+    23
+    24
+    symmetry breaking was closely related to determining the deracemization.As such,when the initial
+    25
+    26
+    CEE was low as 10%at an induction supersaturation of 14.7C,the deracemization was limited to
+    27
+    28
+    about 40%of final CEE.The limit of deracemization increased when increasing the initial CEE.Thus,
+    29
+    30
+    100%deracemization was attained when the initial CEE was 67 at an induction supersaturation of
+    31
+    32
+    18.1C.
+    33
+    34
+    The relationship of the induction supersaturation to the initial chiral symmetry breaking
+    35
+    36
+    (initial CEE),and the initial chiral symmetry breaking (initial CEE)to deracemization (final CEE)are
+    37
+    38
+    described in Fig.10.Based on classical nucleation theory,Volmer's equation was used for the primary
+    39
+    40
+    nucleation rate expressed in terms of the supersaturation (S),and the interval between the crystal
+    41
+    42
+    nucleation of the two forms was assumed as inversely proportional to the nucleation rate.Thus,the
+    43
+    44
+    initial chiral symmetry breaking was correlated with the induction supersaturation on a plot of the
+    45
+    46
+    initial CEE to 1/(InS),as shown in Fig.10(a).The plot revealed that as the induction supersaturation
+    47
+    48
+    was reduced,the interval between the nucleation of the two forms (1/(InS))increased,predicting a
+    49
+    50
+    high initial CEE.Also,Fig.10(b)suggested that the initial chiral symmetry breaking (initial CEE)
+    51
+    dictated directly the deracemization of the chiral crystals(final CEE);a higher initial chiral symmetry
+    52
+    53
+    breaking resulted in higher deracemization.An initial chiral symmetry breaking of at least 55%was
+    54
+    55
+    required for complete deracemization.
+    56
+    58
+    60
+    ACS Paragon Plus Environment
+
+==========第13页==========
+    Page 13 of 32
+    Crystal Growth Design
+    1
+    3
+    Secondary nucleation was induced by collisions between mother crystals and between the
+    5
+    6
+    mother crystals and the agitator in a turbulent flow.The collision efficiency depended on the pattern
+    6
+    of the fluid motion and hardness of the agitator.When the fluid motion was vigorous and effective,
+    10
+    the collision frequency of crystals and fluid shear would increase to induce high secondary nucleation.
+    11
+    12
+    Also,harder agitator materials would be better for secondary nucleation by collision.Thus,three
+    13
+    14
+    kinds of agitator;a steel propeller,steel impeller,and plastic propeller,were applied to the
+    15
+    16
+    crystallization.Fig.11 showed the influence of the agitator type and agitator material on the initial
+    17
+    18
+    chiral symmetry breaking and deracemization.The steel agitators (steel propeller and steel impeller)
+    19
+    20
+    were more effective for secondary nucleation by collision than the plastic propeller due to hardness of
+    21
+    22
+    agitators.Thus,the initial chiral symmetry breaking by the steel agitators was much higher than that
+    23
+    24
+    by the plastic propeller.Between the steel agitators (steel propeller and steel impeller),the steel
+    25
+    26
+    propeller produced a higher initial chiral symmetry breaking than the steel impeller,as the strong
+    27
+    28
+    radial and axial fluid motion provided by the propeller agitator was more effective for collision than
+    29
+    30
+    the radial flow mainly generated by the impeller agitator.These experimental results also suggested
+    31
+    32
+    that secondary nucleation was directly involved in the initial chiral symmetry breaking,and turbulent
+    33
+    34
+    agitation was an influential parameter for chiral symmetry breaking and deracemization.
+    35
+    36
+    37
+    38
+    4.CONCLUSION
+    39
+    40
+    In the cooling crystallization of sodium chlorate,the induction supersaturation,depending
+    41
+    42
+    itself on the agitation and cooling rate,was identified as a key factor determining chiral symmetry
+    43
+    44
+    breaking and deracemization.At a low induction supersaturation,secondary nucleation was
+    45
+    46
+    significantly involved in the initial chiral symmetry breaking due to slow primary nucleation.
+    47
+    48
+    However,when increasing the induction supersaturation,the contribution of secondary nucleation in
+    49
+    50
+    the induction period was significantly reduced,resulting in the symmetric formation of chiral crystals
+    51
+    due to high spontaneous primary nucleation.Agitation of the supersaturated solution promoted the
+    52
+    53
+    induction of nucleation and a slow cooling rate induced nucleation at a high temperature
+    54
+    55
+    (corresponding to a low supersaturation).Therefore,the initial chiral symmetry breaking was
+    56
+    7
+    59
+    60
+    ACS Paragon Plus Environment
+
+==========第14页==========
+    Crystal Growth Design
+    Page 14 of 32
+    2345
+    enhanced when increasing the agitation speed and decreasing the cooling rate.Deracemization was
+    6
+    predominantly determined by the initial chiral symmetry breaking.When it began with low initial
+    7
+    CEE,the deracemization of chiral crystals was limited to a low final CEE.When increasing the initial
+    10
+    CEE,the deracemization was also enhanced.Thus,100 deracemization was attained when the
+    11
+    12
+    initial CEE was above 55 %The initial chiral symmetry breaking was also examined by varying the
+    14
+    final setting temperature and agitator.The final setting temperature variations confirmed that the
+    15
+    16
+    induction supersaturation was a critical factor for the initial chiral symmetry breaking.When using
+    17
+    18
+    three different agitators,the initial chiral symmetry breaking was markedly influenced by the
+    19
+    20
+    turbulent flow.The correlation of the initial chiral symmetry breaking with the induction
+    22
+    supersaturation suggested that secondary nucleation played a key role in chiral symmetry breaking.
+    2
+    Acknowledgement
+    2
+    This work was supported by the Engineering Research Center of the Excellence Program of the
+    29
+    Korean Ministry of Science,ICT Future Planning (MSIP)/National Research Foundation of Korea
+    3
+    (NRF)(Grant NRF-2014R1A5A1009799)
+    4567890424456789072545678960
+    ACS Paragon Plus Environment
+
+==========第15页==========
+    Page 15 of 32
+    Crystal Growth Design
+    1
+    23
+    REFERENCES
+    5
+    >
+    (1)Kipping,W.S.;Pope,W.J.LXIII-Enantiomorphism,J.Chem.SOC.Trans.1898,73 606-617.
+    6
+    (2)Kondepudi,D.K.;Kaufman,R.J.;Singh N.Chiral symmetry breaking in sodium chlorate
+    10
+    crystallization.Science.1990,250 (4983),975-976.
+    11
+    12
+    (3)Kondepudi,D.K.;Bullock,K.L.;Digits,J.A.;Hall,J.K.;Miller,J.M.Kinetics of chiral
+    13
+    タ
+    symmetry breaking in crystallization.J.Am.Chem.Soc.1993,115 (22),10211-10216.
+    15
+    16
+    (4)McBride,J.M.;Carter,R.L.Spontaneous Resolution by Stirred Crystallization.Angew.Chem.,
+    17
+    Int.Ed.Engl.1991,30(3),293-295.
+    18
+    19
+    (5)Cartwright,J.H.E.;Garcia-Ruiz,J.M.;Piro,O.;Sainz-Dias,C.I.;Tuval,I.Chiral Symmetry
+    20
+    21
+    Breaking during Crystallization:An Advection-Mediated Nonlinear Autocatalytic Process.Phys.
+    2
+    Rev.Leti.2004,93(3),035502(4).
+    2
+    4
+    2
+    (6)Metcalfe,G.;Ottino,J.M.Autocatalitic Processes in Mixing Flows,Phys.Rev.Lett.1994,72,
+    2875-2878.
+    27
+    2
+    (7)Viedma,C.Experimental evidence of chiral symmetry breaking in crystallization from primary
+    29
+    0
+    nucleation.J.Cryst.Growth.2004,261(1),118-121.
+    31
+    (8)Szurgot,J.;Szurgot,M.Enantiomorphism in sodium chlorate crystals.Cryst.Res.Technol.1995,
+    33
+    30(1),71-79.
+    34
+    35
+    (9)Qian,R.-Y.;Botsaris,G.D.Nuclei breeding from a chiral crystal seed of NaC1O3.Chem.Eng.Sci.
+    36
+    37
+    1998,53(9),1745-1756.
+    38
+    39
+    (10)Denk,E.G.;Botsaris,G.D.Fundamental Studies in Secondary Nucleation,J.Crystal Growth,
+    40
+    1972,13/14,493-499
+    41
+    2
+    (11)Mayer,C.;Lacmann,R.Secondary Nucleation of Sodium Chlorate Studied with the Aid of
+    43
+    44
+    Asymmetric Crystallization.Chem.Eng.Technol.1997,20(9),633-640.
+    45
+    46
+    (12)Callahan,C.J.;Ni,X.-W.An investigation into the effect of mixing on the secondary nucleation
+    47
+    48
+    of sodium chlorate in a stirred tank and an oscillatory baffled crystallizer.CrystEngComm.2014,
+    49
+    16,690-697.
+    50
+    51
+    (13)Niinomi,H.;Yamazaki,T.;Harada,S.;Ujihara,T.;Miura,H.;Kimura,Y.;Kuribayashi,T.;
+    Uwaha,M.;Tsukamoto,K.Achiral Metastable Crystals of Sodium Chlorate Forming Prior to
+    54
+    Chiral Crystals in Solution Growth.Cryst.Growth Des.2013,13(12),5188-5192
+    55
+    56
+    (14)Niinomi,H.;Miura,H.;Kimura,Y.;Uwaha,M.;Katsuno,H.;Harad,S.;Ujihara,T.;Tsukamoto,
+    0
+    59
+    60
+    ACS Paragon Plus Environment
+
+==========第16页==========
+    Crystal Growth Design
+    Page 16 of 32
+    1
+    2345
+    K.Emergence and Amplification of Chirality via Achiral-Chiral Polymorphic Transformation in
+    Sodium Chlorate Solution Growth.Cryst.Growth Des.2014,14(7),3596-3602.
+    >
+    (15)Song,Y.;Chen,W.;Chen,X.Ultrasonic Field Induced Chiral Symmetry Breaking of NaClO3
+    9
+    Crystallization.Cryst.Growth Des.2008,8(5),1448-1450.
+    O
+    (16)Zorzano,M.-P.;Susana,O.-E.;Marta,R.-B.;Cesar,M.-S.;Sabino,V.-V.Enantioselective
+    11
+    12
+    Crystallization of Sodium Chlorate in the Presence of Racemic Hydrophobic Amino Acids and
+    13
+    Static Magnetic Fields.Challenges 2014,5(1),175-192.
+    14
+    15
+    16
+    (17)Alexander,A.J.Crystallization of Sodium Chlorate with d-Glucose Co-Solute Is Not
+    17
+    Enantioselective.Cryst.Growth Des.2008,8(8),2630-2632.
+    18
+    19
+    (18)Viedma,C.Chiral symmetry breaking during crystallization:complete chiral purity induced by
+    20
+    nonlinear autocatalysis and recycling.Phys.Rev.Lett.2005,94(6),065504(4).
+    22
+    (19)Hein,J.E.;Cao,B.H.;Viedma,C.;Kellogg,R.M.;Blackmond,D.G.Pasteur's Tweezers
+    4
+    Revisited:On the Mechanism of Attrition-Enhanced Deracemization and Resolution of Chiral
+    2
+    Conglomerate Solids.J.Am.Chem.Soc.2012,134 (30),12629-12636.
+    26
+    27
+    (20)Noorduin,W.L.;Enckevort,W.J.;Meekes,H.;Kaptein,B.;Kellogg,R.M.;Tully,J.C.;
+    28
+    McBride,J.M.;Vlieg,E.The driving mechanism behind attrition-enhanced deracemization.
+    29
+    30
+    Angew.Chem.Int.Ed.2010,49(45),8435-8438.
+    31
+    2
+    (21)Viedma,C.Chiral symmetry breaking and complete chiral purity by thermodynamic-kinetic
+    33
+    feedback near equilibrium:implications for the origin of biochirality.Astrobiology 2007,7 (2),
+    35
+    312-319
+    36
+    (22)Cartwright,J.H.E.;Piro,O.;Tuval,I.Ostwald ripening,chiral crystallization,and the common-
+    38
+    ancestor effect.Phys.Rev.Lett.2007,98 (16),165501(4).
+    39
+    40
+    (23)Uwaha,M.;Katsuno,H.Mechanism of chirality conversion by grinding crystals:Ostwald
+    41
+    2
+    ripening vs crystallization of chiral clusters.J.Phys.Soc.Jpn.2009,78(2),023601(4).
+    43
+    44
+    (24)Suwannasang,K.;Flood,A.E.;Rougeot,C.;Coquerel,G.Using programmed heating-cooling
+    5
+    cycles with racemization in solution for complete symmetry breaking of a conglomerate forming
+    46
+    47
+    system.Cryst.Growth Des.2013,13 (8),3498-3504.
+    48
+    49
+    (25)Suwannasang,K.;Flood,A.E.;Rougeot,C.;Coquerel,G.Use of programmed damped
+    50
+    51
+    temperature cycles for the deracemization of a racemic suspension of a conglomerate formingsystem.Org.Process Res.Dev.2017,21 (4),623-630.
+    53
+    54
+    (26)Rougeot,C.;Guillen,F.;Plaquevent,J.-C.;Coquerel,G.Ultrasound-enhanced deracemization:
+    55
+    56
+    toward the existence of agonist effects in the interpretation of spontaneous symmetry breaking.
+    58
+    59
+    60
+    ACS Paragon Plus Environment
+
+==========第17页==========
+    Page 17 of 32
+    Crystal Growth Design
+    1234567
+    Cst.Growth Des..2015,15(5),2151-2155.
+    (27)Xiouras,C.;Aeken,J.V.;Panis,J.;Horst,J.H.;Gerven,T.V.;Stefanidis,G.D.Attrition-enhanced deracemization of NaClO3:comparison between ultrasonic and abrasive grinding.Cryst.
+    89
+    Growth Des.2015,15(11),5476-5484.
+    1012345678901234567890323456789042445678907254567890
+    ACS Paragon Plus Environment
+
+==========第18页==========
+    Crystal Growth Design
+    Page 18 of 32
+    1
+    23
+    45
+    List of Figures
+    6
+    Figure 1.Experiment apparatus for cooling crystallization of sodium chlorate in mixing tank (MT)
+    >
+    crystallizer
+    P
+    Figure 2.Deracemization of sodium chlorate when varying agitation speed in cooling crystallization.
+    10
+    11
+    The cooling rate and final setting temperature were fixed at 0.197C/min and 13C,
+    2
+    73
+    respectively.A stainless steel propeller was used for the agitation.
+    14
+    15
+    Figure 3.(a)Chiral symmetry breaking in induction period and (b)supersaturation in induction period
+    16
+    when varying agitation speed in cooling crystallization.The agitation speed and final setting
+    17
+    18
+    temperature were fixed at 700rpm and 13C,respectively.A stainless steel propeller was used
+    19
+    for the agitation.
+    20
+    21
+    Figure 4.Crystal-size profiles of two forms during deracemization with various agitation speeds.(a)
+    23
+    300rpm agitation speed,(b)500rpm agitation speed,(c)700rpm agitation speed,and (d)1000rpm agitation speed.The cooling rate and final setting temperature were fixed at
+    2
+    0.197C/min and 13C,respectively.A stainless steel propeller was used for the agitation.
+    28
+    Figure 5.Deracemization of sodium chlorate with sudden change of agitation during crystallization.(a)
+    29
+    CEE profile with sudden change of agitation speed when CEE reached limit of
+    3
+    deracemization,(b)crystal-size profiles of two forms with sudden change of agitation speed
+    2
+    when CEE reached limit of deracemization,(c)CEE profile with sudden change of agitation
+    34
+    speed after induction period,(b)crystal-size profiles of two forms with sudden change ofagitation speed after induction period.The cooling rate and final setting temperature were
+    36
+    fixed at 0.197C/min and 13C,respectively.A stainless steel propeller was used for the
+    38
+    agitation
+    9
+    40
+    Figure 6.Deracemization of sodium chlorate when varying cooling rate in cooling crystallization.The
+    41
+    agitation speed and final setting temperature were fixed at 700rpm and 13C,respectively.A
+    42
+    43
+    stainless steel propeller was used for the agitation.
+    44
+    5
+    Figure 7.(a)Supersaturation in induction period and(b)chiral symmetry breaking in induction period
+    when varying cooling rate in cooling crystallization.The agitation speed and final setting
+    47
+    48
+    temperature were fixed at 700rpm and 13C,respectively.A stainless steel propeller was used
+    49
+    for the agitation.
+    50
+    51
+    Figure 8.Crystal-size profiles of two forms during deracemization with various cooling rates.(a)
+    0.074C/min cooling rate,(b)0.148C/min cooling rate,(c)0.197C/min cooling rate,(d)
+    54
+    0.295C/min cooling rate,and (e)0.59C/min cooling rate.The agitation speed and final
+    55
+    setting temperature were fixed at 700rpm and 13C,respectively.A stainless steel propeller
+    678
+    59
+    60
+    ACS Paragon Plus Environment
+
+==========第19页==========
+    Page 19 of 32
+    Crystal Growth Design
+    234567
+    was used for the agitation.
+    Figure 9.Deracemization of sodium chlorate with various final setting temperatures in cooling
+    crystallization.(a)Temperature profiles and (b)CEE profiles.The agitation speed and
+    9
+    cooling rate were fixed at 700rpm and 0.295C/min,respectively.A stainless steel propeller
+    10
+    was used for the agitation
+    11
+    12
+    Figure 10.(a)Correlation of initial CEE to induction supersaturation,and(b)correlation of final CEE
+    to initial CEE.
+    14
+    6
+    Figure 11.Influence of agitator type and material on deracemization.(a)CEE profile with different
+    agitator types and materials,and (b)initial CEE with different agitator types and materials.
+    1
+    The agitation speed,cooling rate,and final setting temperature were fixed at 700rpm,
+    0.295C/min and 13C,respectively.
+    901234567890123456789042445678907254567890
+    ACS Paragon Plus Environment
+
+==========第20页==========
+    Crystal Growth Design
+    Page 20 of 32
+    123456789
+    Motor
+    Coolant
+    Crystallizer
+    012345678901234567890123456789042345678905234567890
+    Impeller
+    Solution
+    Figure 1.Experiment apparatus for cooling crystallization of sodium chlorate in mixing tank (MT)
+    crystallizer
+    ACS Paragon Plus Environment
+
+==========第21页==========
+    Page 21 of 32
+    Crystal Growth Design
+    123456789
+    100
+    80
+    60
+    中
+    20
+    1000 RPM
+    700 RPM
+    0
+    ●500 RPM
+    012345678901234567890123456789042345678905234567890
+    ◆300 RPM
+    20
+    40
+    60
+    80
+    100
+    Time [hr]
+    Figure 2.Deracemization of sodium chlorate when varying agitation speed in cooling crystallization.
+    The cooling rate and final setting temperature were fixed at 0.197C/min and 13C,respectively.A stainless steel propeller was used for the agitation.
+    ACS Paragon Plus Environment
+
+==========第22页==========
+    Crystal Growth Design
+    Page 22 of 32
+    123456789
+    100
+    80
+    %
+    40
+    0
+    200
+    400
+    600
+    800
+    1000
+    012345678901234567890123456789042345678905234567890
+    Agitation Speed [RPM]
+    (a)
+    20
+    1.10
+    1.08
+    6
+    1.06
+    12
+    1.04
+    1.02
+    1.00
+    200
+    400
+    600
+    800
+    1000
+    Agitation Speed [RPM]
+    (b)
+    Figure 3.(a)Chiral symmetry breaking in induction period and (b)supersaturation in induction period
+    when varying agitation speed in cooling crystallization.The agitation speed and final settingtemperature were fixed at 700rpm and 13C,respectively.A stainless steel propeller was used
+    for the agitation.
+    ACS Paragon Plus Environment
+
+==========第23页==========
+    Page 23 of 32
+    Crystal Growth Design
+    123456789
+    100
+    100
+    80
+    ◆
+    101
+    80
+    60
+    [wri]ezIs su
+    60
+    ■Major form
+    40
+    Nino.om
+    ●Minor form
+    20
+    40
+    60
+    80
+    100
+    20
+    4060
+    80
+    100
+    Time [hr]
+    Time [hr]
+    (a)
+    (b)
+    2345678901234567890123456789042545678905234567890
+    100
+    100
+    ●
+    80
+    R.
+    60
+    ●
+    40
+    ■Major form
+    ■Major form
+    ●Minor form
+    40
+    ●Minor form
+    0
+    4060
+    100
+    0
+    12
+    16
+    Time [hr]
+    Time [hr]
+    (c)
+    (d
+    Figure 4.Crystal-size profiles of two forms during deracemization with various agitation speeds.(a)
+    300rpm agitation speed,(b)500rpm agitation speed,(c)700rpm agitation speed,and (d)1000rpm agitation speed.The cooling rate and final setting temperature were fixed at
+    0.197C/min and 13C,respectively.A stainless steel propeller was used for the agitation.
+    ACS Paragon Plus Environment
+
+==========第24页==========
+    Crystal Growth Design
+    Page 24 of 32
+    123456789
+    8100
+    700pm4-
+    1200 rpm
+    80
+    60-
+    ●
+    101
+    0、
+    ●
+    20
+    40
+    60
+    80
+    Time [hr]
+    (a)
+    2345678901234567890123456789042545678905234567890
+    100
+    700 rpm
+    1200 rpm
+    ■
+    ●
+    60
+    40
+    Major form
+    ●Minor form
+    20
+    40
+    60
+    80
+    Time [hr]
+    (b)
+    Figure 5.Deracemization of sodium chlorate with sudden change of agitation during crystallization.(a)
+    CEE profile with sudden change of agitation speed when CEE reached limit ofderacemization,(b)crystal-size profiles of two forms with sudden change of agitation speedwhen CEE reached limit of deracemization,(c)CEE profile with sudden change of agitationspeed after induction period,(b)crystal-size profiles of two forms with sudden change ofagitation speed after induction period.The cooling rate and final setting temperature werefixed at 0.197C/min and 13C,respectively.A stainless steel propeller was used for theagitation.
+    ACS Paragon Plus Environment
+
+==========第25页==========
+    Page 25 of 32
+    Crystal Growth Design
+    100
+    80
+    ■
+    60
+    123456789012345678901234567890123456789042845678907254567890
+    40
+    -----------
+    20
+    700 rpm
+    1200 rpm
+    0
+    8
+    る
+    Time [hr]
+    (c)
+    80
+    ■Major form
+    ●Minor form
+    60
+    ◆
+    %
+    700 rpm
+    1200 rpm
+    6
+    る
+    Time [hr]
+    (d)
+    Figure 5.Continued
+    ACS Paragon Plus Environment
+
+==========第26页==========
+    Crystal Growth Design
+    Page 26 of 32
+    123456789
+    100
+    80
+    60
+    40
+    20◆0.074
+    C/min
+    0.148 C/min
+    0.197 oC/min
+    0
+    ●0.295oC/min
+    ■0.59c/min
+    012345678901234567890123456789042345678905234567890
+    0
+    20
+    40
+    60
+    80
+    100
+    Time [hr]
+    Figure 6.Deracemization of sodium chlorate when varying cooling rate in cooling crystallization.The
+    agitation speed and final setting temperature were fixed at 700rpm and 13C,respectively.Astainless steel propeller was used for the agitation.
+    ACS Paragon Plus Environment
+
+==========第27页==========
+    Page 27 of 32
+    Crystal Growth Design
+    123456789
+    20
+    1.10
+    1.08
+    16
+    1.06
+    1.04
+    8
+    1.02
+    1.00
+    0.0
+    0.1
+    0.2
+    0.3
+    0.4
+    0.5
+    0.6
+    012345678901234567890123456789042345678905234567890
+    Cooling Rate [C/min]
+    (a)
+    100
+    60
+    40
+    0.0
+    0.1
+    0.2
+    0.3
+    0.4
+    0.5
+    0.6
+    Cooling Rate [C/min]
+    (b)
+    Figure 7.(a)Supersaturation in induction period and(b)chiral symmetry breaking in induction period
+    when varying cooling rate in cooling crystallization.The agitation speed and final settingtemperature were fixed at 700rpm and 13C,respectively.A stainless steel propeller wasused for the agitation.
+    ACS Paragon Plus Environment
+
+==========第28页==========
+    Crystal Growth Design
+    Page 28 of 32
+    123456789
+    100-
+    100
+    ◆
+    80
+    80
+    ◆
+    ●
+    60
+    ◆
+    40
+    40
+    101
+    20
+    20-
+    0
+    Mior fom
+    0
+    Mnor fomMinor form
+    0
+    1
+    2
+    3
+    45
+    7
+    0
+    2
+    468
+    10
+    12
+    Time [hr]
+    Time [hr]
+    (a)
+    (b)
+    234567890123456789012345678904234567890
+    100
+    ◆
+    ◆
+    120
+    ◆
+    100
+    ■0
+    80
+    80
+    60
+    8
+    %
+    ■Major form
+    ●Minor form
+    40
+    ·C6m
+    %
+    60
+    80
+    100
+    20
+    80
+    100
+    Time [hr]
+    Time [hr]
+    (c)
+    (d)
+    120
+    100
+    8
+    60-
+    ■Major form
+    ●Minor form
+    20
+    40
+    60
+    100
+    Time [hr]
+    (e)
+    Figure 8.Crystal-size profiles of two forms during deracemization with various cooling rates.(a)
+    0.074C/min cooling rate,(b)0.148C/min cooling rate,(c)0.197C/min cooling rate,(d)
+    7254567890
+    0.295C/min cooling rate,and (e)0.59C/min cooling rate.The agitation speed and finalsetting temperature were fixed at 700rpm and 13C,respectively.A stainless steel propellerwas used for the agitation.
+    ACS Paragon Plus Environment
+
+==========第29页==========
+    Page 29 of 32
+    Crystal Growth Design
+    123456789
+    1:18.1oC
+    2:16.3C
+    24
+    3:13℃
+    20
+    2
+    16
+    3
+    12-
+    0
+    20
+    9040
+    50
+    60
+    70
+    012345678901234567890123456789042345678905234567890
+    Time [min]
+    (a)
+    %
+    c%
+    ●
+    40
+    20
+    18.1C
+    16.3oC
+    13C
+    20
+    3040
+    50
+    60
+    70
+    Time [min]
+    (b)
+    Figure 9.Deracemization of sodium chlorate with various final setting temperatures in cooling
+    crystallization.(a)Temperature profiles and (b)CEE profiles.The agitation speed andcooling rate were fixed at 700rpm and 0.295C/min,respectively.A stainless steel propeller
+    was used for the agitation.
+    ACS Paragon Plus Environment
+
+==========第30页==========
+    Crystal Growth Design
+    Page 30 of 32
+    123456789
+    5
+    Final setting temp.gAgitation speed
+    0
+    Coolina rate
+    2000
+    4000
+    6000
+    8000
+    10000
+    12000
+    012345678901234567890123456789042345678905234567890
+    1/(InS
+    (a)
+    100
+    80
+    60
+    40
+    20
+    Cooling rate
+    0
+    Agitation speed
+    Finial setting temp.
+    中
+    0
+    20
+    40
+    60
+    80
+    100
+    Initial CEE[%]
+    (b)
+    Figure 10.(a)Correlation of initial CEE to induction supersaturation,and (b)correlation of final CEE
+    to initial CEE.
+    ACS Paragon Plus Environment
+
+==========第31页==========
+    Page 31 of 32
+    Crystal Growth Design
+    123456789
+    100
+    ■Steel propeller
+    Steel impeller
+    足
+    ●Plastic propeller
+    60
+    40
+    20
+    40
+    60
+    80
+    100
+    120
+    012345678901234567890123456789042345678905234567890
+    Time [hr]
+    (a)
+    100
+    90
+    60
+    40
+    20
+    Steel Propeller
+    Steel Impeller
+    Plastic Propeller
+    Agitator Type
+    (b)
+    Figure 11.Influence of agitator type and material on deracemization.(a)CEE profile with different
+    agitator types and materials,and (b)initial CEE with different agitator types and materials.
+    The agitation speed,cooling rate,and final setting temperature were fixed at 700rpm,
+    0.295C/min and 13C,respectively
+    ACS Paragon Plus Environment
+
+==========第32页==========
+    Crystal Growth Design
+    Page 32 of 32
+    23456789
+    Graphical Abstract
+    10
+    For Table of Contents Use Only
+    13
+    승
+    Title:Chiral Symmetry Breaking and Deracemization of Sodium Chlorate in Turbulent Flow
+    8
+    20
+    Authors:Jaekyu Ahn,Do Hyun Kim,Gerard Coquerel and Woo-Sik Kim*
+    Secondary
+    123456789012
+    Low S
+    Chiral
+    non-symmetry
+    Primary
+    High S
+    Chiral
+    symmetry
+    34
+    The chiral symmetry breaking in the induction period was caused by the secondary nucleation
+    56
+    in the crystallization.
+    3
+    The secondary nucleation in the induction period was predominantly controlled by theturbulent flow supersaturation.
+    40
+    The supersaturation in the induction was markedly dependent on the agitation speed and
+    42
+    cooling rate in the crystallization.
+    4567890723456789
+    0
+    ACS Paragon Plus Environment
+
+==========第33页==========

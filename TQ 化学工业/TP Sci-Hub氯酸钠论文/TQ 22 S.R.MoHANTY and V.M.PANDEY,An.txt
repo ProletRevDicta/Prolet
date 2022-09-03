@@ -1,0 +1,499 @@
+    22
+    S.R.MoHANTY and V.M.PANDEY,Annealing of Gamma-Irradiation Damage in Crystalline PotassiumRadiochiActa
+    Table 5
+    phase is greater by a factor of 10-20 [7,19,21,23]thanin gaseous phase.The liquid-phase yield is quite
+    Phase
+    Yield of CCl,C1(%)
+    Ref.
+    similar in distribution of products to that observed in
+    Solid
+    61.2
+    西
+    gaseous phase,however,with higher yields [19,20,23]which can be explained a cage effect in liquid phase.
+    Liquid
+    43.0
+    20
+    41.4
+    37.0±6
+    21.0
+    22
+    17.N.CoLEBOURNE,J.F.J.TODD and R.WoLFGANG
+    36.56
+    23
+    Chemical Effects of Nuclear Transformations,Vol.I,p.149,
+    34.3
+    19
+    IAEA,Vienna (1965).
+    30.6
+    15
+    18.J.F.J.ToDD,N.CoLEBOURNE and R.WoLFGANC,J.
+    Physic..Chem.71,2875(1967).
+    Gaseous
+    1.7 scav.
+    7
+    19.K.BEREI and L.VASAROS,Isotopenpraxis 4,19 (1968).
+    26.1 unscav.
+    7
+    20.J.M.MILLEg and R.W.DoDSoN,J.Chem.Physics 18,
+    1.918cav.
+    this work
+    865(1950).
+    2.9 unscav.
+    this work
+    21.A.H.W.ATEN JR.and J.G.VAN RAAPHORST,Chemica
+    Effects of Nuclear Transformations,Vol.1,p.203,IAEA,
+    4.Chlorine-atom reactions with carbon tetrachloride
+    Vienna (1961).
+    show a very substantial phase effect (Table 5).
+    22.S.ADITYA and J.E.WILLARD,J.Amer.Chem.Soc.79,3367(1961).
+    The yield of CCla38Cl in solid phase is about twice as big23.G.STockLIN and W.ToRNAU,Radiochim.Acta 6,86as that for liquid phase [19].This yield in condensed(1966).
+    Annealing of Gamma-Irradiation Damage in Crystalline Potassium and Sodium Chlorates
+    By S.R.MOHANTY and V.M.PANDEY,Nuclear Chemistry Laboratory,Department of Chemistry,Utkal University,
+    Bhubaneswar-4,India
+    With 10 figures.(Received June 22,1971)
+    Summary
+    O->C1O3-,tandis que le processus bimoleculaire obeit a lareaction 2 C1O2-+02>2 C1O3-.
+    Kinetics of annealing of damage chlorite in y-irradiated potassium and sodium chlorates has been studied.It is found thatannealing in both these substances is a combination of a uni.
+    Although a considerable amount of information has
+    molecular and a bimolecular process.The unimolecular reac.tion is the recombination of close ClO2 and o fragments
+    accumulated on the annealing of chemical radiation
+    CIO2+->ClOa,whilst the bimolecular process is 2 ClO.
+    damage in nitrates [1]and bromates [2]annealing in
+    +02→2Cl03.
+    chlorates has not received much attention.VLATKovIcand ArEN [3]reported that thermal annealing of chlo-
+    Zusammenfassung
+    ride in the Szilard-Chalmers damage in alkali chloratesis similar to that in most other salts containing oxy-
+    Die Kinetik der Ausheilung des Chlorits,das entstanden war
+    anions but BoyD and LARSON [4]have ruled out the
+    in mit Gammastrahlung behandeltem Kalium-und Natrium-chlorat,wurde untersucht.Bei beiden Substanzen erweist
+    possibility of conversion of the chloride to chlorate ion.
+    sich die Ausheilung als kombinierter unimolekularer und
+    PATRICK and McCALLUM 15]showed that whereas the
+    bimolekularer ProzeB.Die unimolekulare Reaktion ist die
+    yield of chloride in y-irradiated sodium chlorate reached
+    Rekombination von eng benachbarten ClO,--und 0-Bruch-
+    a maximum and then decreased to a stationary
+    stuicken,C1O2+0>ClO-a,wahrend es sich beim biomole-kularen ProzeB um 2 CIO2+O2>2ClO3-handelt.
+    value on heating at 50C,at higher temperatures the
+    1.S.R.MoHANTY and S.M.K.NAIR,Indian J.Chem.8,158
+    R sume
+    (1970)and references therein.
+    2.J.S.DUBE and S.R.MoHANTY,Radiochim.Acta 16,46
+    Les etudes ont porte sur la cinetique de recuit de chlorite forme
+    (1971)and references therein.
+    par irradiation y de chlorates de potassium et de sodium.On a
+    3.M.VLATKovI and A.H.W.ATEN JR.,J.Inorg.Nucl
+    trouve que le processus de recuit dans ces deux substances est
+    Chem.24,139(1962).
+    une combinaison d'un processus monomoleculaire et d'un4.G.E.BoyD and Q.V.LARSON,J.Amer.Chem.Soc.90,processus bimoleculaire.La reaction monomoleculaire est la
+    5092(1968).
+    recombinaison de fragments voisins de C1O2-et d'O,ClO2-+
+    5.P.F.PATRICK and K.J.McCALLUM,Nature 194,766(1962).
+    Brought to you by New York University Bobst Library Technical Services
+    Authenticated
+    Download Date 6/24/15 2:02 AM
+
+==========第1页==========
+    .eS.R.MoA and V.M.PAD,Annealing of Gamma-Irradiation Damage in Crystalline Potaseium
+    3
+    yield increased progressively.It was considered that
+    Results
+    the increase in the chloride yield was due to thermaldecomposition and the latter decrease due to recombi-
+    The golden brown coloration induced by irradiation in
+    nation of chloride and oxygen.We have already re-
+    potassium and sodium chlorates faded on heating the
+    ported on the annealing of hypochlorite in y-irradiated
+    irradiated substances.The oxygen trapped in the
+    sodium chlorate [61.The present communication deals
+    crystals was evolved when the salts were dissolved.
+    with the annealing of damage chlorite in potassium
+    Chloride,hypochlorite,and chlorite were found in
+    and sodium chlorates.A short communication on the
+    sodium chlorate and only chloride and chlorite inpotassium chlorate.
+    subject has already appeared [7].
+    Thermal annealing
+    Experimental
+    The kinetics of isothermal annealing of the damage
+    Materials
+    Cl-and C1O2-in potassium and sodium chlorates was
+    A.R.grade potassium and sodium chlorates were fur-
+    investigated at different temperatures between 100
+    ther purified by recrystallization from hot aqueous
+    and 160C for various time intervals up to 50 h.Time
+    solution.The recrystallized substances were dried at
+    dependence of the cl-concentration in potassium
+    110 C to constant weight and sieved to obtain crystals
+    chlorate is shown in Fig.1.At the lowest temperature
+    in the 85-100 mesh range.The crystals were preserved
+    investigated,viz.100C,the concentration of CI-first
+    in a desiccator over phosphorus pentoxide.
+    decreases and then increases to a stationary value.Athigher temperatures,on the other hand,Cl-initially
+    Irradiation
+    increases with time and then decreases levelling off
+    Samples of the dry crystals,sealed in vacuo in glass
+    subsequently.In sodium chlorate,there is a small in-crease in the Cl-concentration in the initial period of
+    ampoules,were irradiated at room temperature with50 Mrad of cobalt-60 y-rays at a dose rate of
+    heating at any temperature following which the Cl-
+    0.83 Mrad h-1.
+    concentration remains virtually constant.
+    0.60
+    Analytical procedure
+    otassium chlorat
+    The damage Cl-,CIO-,and C1O2-ions in the irradiated
+    0.55
+    100
+    chlorates were determined by potentiometric micro-
+    △1200
+    90.50
+    160℃titrations making use of a saturated mercurous sul-phate electrode as the reference electrode.Chloride ion
+    40.45
+    was estimated by dissolving weighed portions of theirradiated crystals in 0.01 M borax and titrating with
+    040
+    standard silver nitrate solution.Hypochlorite andchlorite ions were determined by an adaptation of the
+    0.35
+    method due to ANDERSEN and MADSEN [8]for BrO-and Br02-.Weighed portions of the salts were dissolved
+    0.30
+    20
+    30
+    50
+    in 0.3 M sodium bicarbonate and titrated with stand-
+    Time of heating,hr
+    ard arsenious acid solution.Osmium tetroxide was
+    Fig.1.Dependence on heating time of chloride in y-irradiated
+    added as catalyst after the ClO-end point had been
+    potassium chlorate
+    reached and the titration of CIO2-completed.
+    The annealing pattern for ClO2 in potassium and so-
+    Thermal annealing
+    dium chlorates,recorded in Figs.2 and 3 respectively,
+    Isothermal annealing runs were made in air in ais similar to that found in other systems.The fractionthermostatic electric hot air oven maintained to withinannealed p at a given temperature increases initially+0.5C of the desired temperature.For isochronal
+    rapidly with heating time and then slowly.Thus,in
+    annealing,samples of the irradiated crystals taken in
+    sodium chlorate,the fraction annealed in the first 5 h
+    thin-walled glass tubes were heated at different in-
+    of heating at 120C is 0.486.Subsequently,only a
+    creasing temperatures between 70 and 230C for 5 h
+    small recovery (0.176)is produced on further heating
+    at each temperature.In linear tempering,the irradiat-
+    for as long as 45 h.
+    ed material was heated at a constant rate (4 C/min)
+    Isochronal annealing and annealing in linear tempering
+    to increasing temperatures(70-270C).Samples of the
+    have been studied in potassium chlorate.The plot of
+    irradiated material were taken in thin-walled glass
+    tubes and were withdrawn for analysis after every6.S.R.MoHANTY and V.M.PANDEY,Radiochim.Acta 15,
+    152(1971).
+    10C rise of temperature
+    7.S.R.MoHANTY and V.M.PANDEY,Current Sci.23,563(1969).
+    Photoannealing
+    8.T.ANDERSEN and H.E.L.MADSEN,Analytic.Chem.37,49(1965).
+    Photoannealing was studied making use of procedures9.J.S.DUBe and S.R.MoHANTy,Radiochim.Acta 15,100already described [9].
+    (1971).
+    Brought to you by New York University Bobst Library Technical Services
+    Authenticated
+    Download Date 6/24/15 2:02 AM
+
+==========第2页==========
+    24
+    S.R.MoHANTy and V.M.PANDEY,Annealing of Gamma-Irradiation Damage in Crystalline Potassium
+    the fraction of ClO2-that still remains to be annealed,p of solutions of irradiated potassium
+    i.e.1-g,against temperature shows in each case a
+    chlorate
+    break at150℃(Fig.4).
+    The p of a 0.5%solution of potassium chlorate,
+    1.0
+    unirradiated,in water was 6.05.Measurements on
+    Potassium chlorate
+    samples irradiated and subsequently annealed at
+    CI02)
+    130C for different time intervals gave the following
+    0100°C
+    0.8
+    A110°C
+    results.
+    ロ120c
+    口1L0C
+    Time,h
+    0
+    1
+    5
+    10
+    20
+    g160℃
+    PH
+    7.1
+    6.2
+    6.1
+    6.06
+    6.06
+    0.e
+    0.5
+    Photoannealing
+    0.4
+    It is seen from Fig.5 that the damage chlorite in po-tassium chlorate recovers on exposure to light in the
+    0.3
+    visible region according to a first order rate law;the
+    0.2
+    velocity constant is 0.000362 h-1.The recovery is pro-
+    0.1
+    portional to the light frequency (Fig.6)with a thresh-old at 42 x 1013 sec-1 corresponding to 1.74 ev
+    0
+    10
+    30
+    50
+    (40.0 kcal mole-1).
+    Fig.2.Variation with heating time of the fraction of chlorite
+    3.78
+    annealed in y-irradiated potassium chlorate
+    o
+    Potassium chlorate
+    o
+    376
+    0.9
+    8
+    08
+    0.7
+    3.74
+    0.5
+    372
+    0
+    100
+    200
+    300
+    0.4
+    Time,h
+    Sodium chlorate
+    0.
+    C105)
+    Fig 5.Kinetics of photoannealing of chlorite in y-irradiated
+    potassium chlorate
+    0.2
+    800
+    口120℃
+    7130C
+    0150℃
+    Potassium chlorate
+    10
+    40
+    50
+    600
+    Time of heating,h
+    Fig.3.Variation with heating time of the fraction of chlorite
+    annealed in y-irradiated sodium chlorate
+    400
+    1.0
+    0.9
+    Potassium chlorate
+    200
+    C0)
+    ●Linear tempering
+    0.8
+    Isochronal annealing
+    0.7
+    Effective mean frequency,x1-13
+    0.6
+    Fig.6.Dependence of photoannealing of chlorite iny-irradiated
+    0.5
+    potassium chlorate on light frequency
+    0.4
+    Discussion
+    0.3
+    The identity and the yield of various fragments in
+    0.2
+    irradiated chlorates have already been established.
+    Absorption studies in the infrared [101,visible [111,
+    0.1
+    and the ultraviolet [l1]have revealed the existence of
+    50
+    100
+    200
+    250
+    300
+    10.L.C.BRown and G.E.BoyD,J.Physic.Chem.73,396(1969).
+    Fig.4.Isochronal annealing and annealing in linear tempering
+    11.C.RAMASASTEY andS.B.S.SASTRY,J.Physic.Chem.Solids
+    of chlorite in y-irradiated potassium chlorate
+    29,399(1968).
+    Brought to you by New York University Bobst Library Technical Services
+    Authenticated
+    Download Date 6/24/15 2:02 AM
+
+==========第3页==========
+    .S.R.MoHA and V.M.PANDEY,Annealing of Gamma-Irradiation Damage in Crystalline Potassium
+    25
+    CIO-,CI-,CIO2,ClO2,CIO-,O2 and Os-.In addition,
+    10
+    ESR measurements [12,13]have brought to light
+    09
+    Sodium chlorate
+    ClO and ClO radicals.The yields of the various prod-
+    o100
+    08
+    110
+    ucts in potassium chlorate are as follows [14]:
+    g=040-em101.2☑07
+    GC102）2.07,G(C10-)0.27,G(C02)0.21,GC-）1.64,
+    1600
+    06
+    G(CIO-)1.13,and G(O2)2.76.We are concerned in thepresent work with the fragments Cl-,CIO-,and ClO2-.
+    04
+    These species are produced by dissociation of excitedchlorate ions [15]:
+    C10-+02
+    01
+    Cl03--w→Cl03
+    →C102+0
+    10
+    10
+    102
+    Equivalent annealing time at 120C,h,t
+    4Cl-+02+0
+    Fig.8.The FLETCHER-BROWN composite annealing curve for
+    The formation of oxychlorine anions ClO-and ClO2is
+    chlorite in y-irradiated sodium chlorate
+    more likely than that of radicals ClO and ClO,becauseof the higher electron affinity of chlorine oxides com-
+    These equations are represented by continuous curves
+    pared with that of oxygen [16,171.The fragments Cl-,
+    ClO-,and ClO2-would be situated in the lattice posi-in Figs.7 and 8 respectively.The logarithm of the rela-tion of the original CIOs-ion and the neutral fragments,
+    tive jump time t (393K)/(T)is linearly related to
+    such as O and O2,either at the interstitial position1/T'and values for the activation energy are 23.2 and
+    29.9 kcal respectively for potassium chlorate (Fig.9)
+    adjacent to the damage site or they may diffuse out
+    and sodium chlorate (Fig.10).
+    and end up trapped some distance away in the lattice.
+    In the annealing process,these latter species are
+    Analysis of the data for both the substances along
+    remobilized and react with the charged fragments Cl-,
+    conventional lines also reveals that the annealing ineach case is a combination of one unimolecular and one
+    CIO-,and C1O2-.
+    bimolecular process.The Arrhenius plots are shown in
+    Figs.9(potassium chlorate)and 10 (sodium chlorate).
+    The kinetics of thermal annealing
+    Following FLETCHER and BROWn [18,19]the anneal-
+    50
+    30
+    ing data for various temperatures and time intervalshave been superimposed at a reference temperature of120C for both potassium chlorate (Fig.7)and sodium
+    6.614
+    chlorate(Fig.8).The data for potassium chlorate fitthe following combination of a first order and a second
+    0
+    order process:
+    6212
+    p=03n-eny+05[h+1e]
+    T393°K/Tm
+    78
+    04
+    0
+    The data for sodium chlorate also fit a similar combi-nation of processes:
+    7
+    27
+    10
+    23
+    24
+    25
+    26
+    =04-cn+04[1+2407]
+    (1/7)103
+    Fig.9.Energetics of kinetic processes for chlorite in y-irradiated
+    potassium chlorate
+    10
+    Potas
+    09
+    12.F.T.GAMBLE,J.Chem.Physics 42,3542 (1965).
+    13.P.F.PATEICK and F.P.SARGENT,Canad.J.Chem.46
+    07
+    1818(1968).
+    1600
+    =031-et13+05
+    14.C.E.BURCHILL,P.F.PATRICK,and K.J.McCALLUM,J.
+    05
+    Phy8ic.Chem.71,4560(1967).
+    15.H.G.HEAL,Canad.J.Chem.37,979 (1959).
+    04
+    16.Handbook,Energii Razryva Svyazei,Potentsialy Ioni-zatsii i Srodstov k Elektronu (Bond Dissociation Energies,
+    02
+    Ionisation Potentials,and Electron Affinities),Izd.Akad.Nauk
+    SSSR,1962.
+    17.YU.A.ZAKHAROV and V.A.NEVOSTRUEV,Russ.Chem
+    10
+    10102
+    03
+    Rev8.37,61(1968).
+    18.R.C.FLETCHER and W.L.BRowN,Physic.Rev.92,585
+    Equivalent annealing time at 120C,h,t
+    (1953).
+    Fig.7.The FLETCHER-BRowN composite annealing curve for 19.W.L.BROWN,R.C.FLErCHER,and K.A.WRIGT,Physic.
+    chlorite in y-irradiated potassium chlorate
+    Rev.92,591(1953).
+    Brought to you by New York University Bobst Library Technical Services
+    Authenticated
+    Download Date 6/24/15 2:02 AM
+
+==========第4页==========
+    26S.R.MoHANTY and V.M.PANDEY,Annealing of Gamma-Irradiation Damage in Crystalline Potassium
+    Radiochi
+    Values for the activation energy are 3.5 and 11.7 kcal The second order process is presumablyrespectively for the first and the second order processes
+    2C1l02+02→2C103.
+    in potassium chlorate;the corresponding values insodium chlorate are 4.7 and 7.2 kcal.
+    This reaction is endothermic to a small extent but theenergy of activation of the process is sufficient to makeit occur.
+    1.6
+    3.0
+    The annealing of hypochlorite in sodium chlorate,as
+    Sodium chlorate
+    has already been reported [6],is the first order process
+    (C0)
+    145.0
+    0
+    0
+    20E
+    C10-+02→C103.
+    The change in Cl-upon heating (Fig.1)may be
+    0
+    8
+    accounted for if it is postulated that in the irradiated
+    i26.54
+    crystals,in addition to Cl-,a species,say X,occurs8
+    which on dissolution forms ClOs-but which on heating
+    △
+    T(393K)/T(T)
+    forms another species,say y.Species Y dissolves to
+    i0608
+    0
+    form Cl-but upon heating anneals itself to ClOa-.The
+    Cl-found at any given heating time will thus dependupon the extents to which the two thermal reactionshave proceeded.Thus,an increase in Cl-would indi
+    83
+    24
+    2.5
+    2.6
+    2.7
+    cate that the reaction X>Y is more important than
+    (1/7)103
+    the reaction Y->C1Os-whereas a decrease in Cl-would
+    Fig.10.Energetics of kinetic processes for chlorite in y-irradi-
+    indicate that the latter reaction preponderates.These
+    ated sodium chlorate
+    reactions are shown schematically below.
+    Dissolution
+    The mechanism of annealing
+    之C03
+    In the annealing of chlorite ion the first order reaction
+    Heat
+    is the interaction of correlated ClO,-and O pairs (inadjacent positions):
+    Dissolution
+    CI-
+    C102+0→C103.
+    This is a highly exothermic reaction.This is also the
+    Acknowledgements
+    first order reaction which occurs in the photoannealing
+    Grateful thanks of the authors are due to the Biology
+    of chlorite(Fig.5).In photoannealing,energy absorbed
+    Division,Bhabha Atomic Research Centre,Bombay.
+    from the illuminating light is transmitted through the
+    for assistance with the irradiations.One of them
+    crystal in the form of excitons which release their
+    (V.M.P.)also thanks the Council of Scientific and
+    energy at damage sites thus supplying the energy of Industrial Research,New Delhi,for a research fellow-activation needed for the reaction.
+    ship.
+    Brought to you by New York University Bobst Library Technical Services
+    Authenticated
+    Download Date 6/24/15 2:02 AM
+
+==========第5页==========

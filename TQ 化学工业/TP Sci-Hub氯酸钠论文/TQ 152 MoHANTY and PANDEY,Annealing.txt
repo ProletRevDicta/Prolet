@@ -1,0 +1,101 @@
+    152
+    MoHANTY and PANDEY,Annealing of Damage Hypochlorite in Gamma-Irradiated Sodium Chlorate
+    Annealing of Damage Hypochlorite in Gamma-Irradiated Sodium Chlorate
+    By S.R.MOHANTY and V.M.PANDEY,Nuclear Chemistry Laboratory,Department of Chemistry,
+    Utkal University,Bhubaneswar-4,India
+    With 3 figures.(Received January 5,1971)
+    MoHANTY and coworkers [1]have studied annealing
+    The plot of the logarithm of the hypochlorite con-
+    of chemical radiation damage in a variety of systems.
+    centration against the time of heating (Fig.2)is
+    Generally,annealing is a combination of processes.
+    linear indicating that the process is of the first order.
+    For example,it was found that the annealing ofchlorite in y-irradiated sodium chlorate is a combi-
+    500
+    nation of one first order and one second order reaction[2,3].We have now found that the damage hypochlorite in y-irradiated sodium chlorate recovers onheating rapidly,within minutes,by purely a first
+    A
+    0
+    order process.
+    100
+    A.R.grade sodium chlorate was recrystallized fromhot aqueous solution.The material was thoroughly
+    50-
+    dried at 110C for 25 h and was sieved to obtain
+    Sodium chlorate
+    crystals in the 85-100 mesh range.The crystals were
+    080°℃
+    △90
+    preserved in a desiccator over P2Os.Samples were
+    ▣100
+    irradiated in sealed glass ampoules at room tempera
+    v110
+    ture with 50 Mrad of eCo y-rays at a dose rate of
+    10L
+    0.83 Mrad h-1.The damage hypochlorite was deter-
+    20
+    40
+    60
+    80
+    Time of heating min]
+    mined by an adaptation of the ANDERSEN andMADSEN [4]method for hypobromite.For this pur-
+    Fig.2.The first order plot for thermal annealing of hypo
+    chlorite in y-irradiated sodium chlorate
+    pose,weighed amounts of the irradiated material weredissolved in 0.3 M sodium bicarbonate and titrated
+    25
+    micropotentiometrically with standard arsenious acid
+    0
+    Sodium chlorate
+    The thermal annealing of the damage was investigatedat various temperatures between 80 and 110C.
+    The annealing of hypochlorite is shown in Fig.I in
+    82.0
+    which the fraction of the damage hypochlorite an-nealed is plotted against the heating time.It is seenthat the fraction of the damage annealed at a giventemperature increases with the time of heating in the
+    35
+    usual manner,i.e.,initially rapidly and then slowly.
+    2.6
+    2.7
+    2.8
+    2.9
+    Thus,the fraction annealed in the first 20 min at
+    (1/T)103
+    100C was 0.52 and increased to only 0.70 on further
+    Fig.3.The Arrhenius plot for thermal annealing of hypo.
+    heating up to 75 min.
+    chlorite in y-irradiated sodium chlorate
+    1.0m
+    The Arrhenius plot (Fig.3)yields an activation energy
+    0.9
+    of 8.1 kcal mole-1.The process is presumably thecombination of ClO-and 02 to reform C1O:
+    08
+    C10-+02→C10g;
+    the reaction is quite probable from energy considera-tions
+    0.6
+    0.5
+    The authors are indebted to the Biology Division,
+    Bhabha Atomic Research Centre,Bombay,for theirradiations.One of them (V.M.P.)also thanks the
+    0.3
+    Council of Scientific and Industrial Research,New
+    Sodium chlorate
+    Delhi,for a research fellowship.
+    0.2
+    00℃
+    ,90
+    口100
+    0.
+    1.S.R.MoHANTY and S.M.K.NAIR,Indian J.Chem.8,
+    ~110
+    158 (1970)and references there in.
+    50
+    75
+    2.S.R.MOHANTY and V.M.PANDEY,Current Sci.38,563
+    25
+    (1969).
+    Time of heating [min]
+    3.S.R.MoRANTy and V.M.PANDEY,unpublished results.
+    Fig.1.Thermal annealing of damage hypochlorite in y-irra-
+    4.T.ANDERSEN and H.E.L.MADSEN,Analytic.Chem.37
+    diated sodium chlorate
+    49(1965).
+    Brought to you by New York University Bobst Library Technical Services
+    Authenticated
+    Download Date 9/16/15 12:36 PM
+
+==========第1页==========

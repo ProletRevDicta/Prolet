@@ -1,0 +1,191 @@
+    AIPIThe Journal of
+    Chemical Physics
+    Line Width of the Pure Quadrupole Resonance of Chlorine in Sodium Chlorate
+    Tokujiro Fuke and Yoshitaka Koi
+    Citation:The Journal of Chemical Physics 29,973(1958);doi:10.1063/1.1744642
+    View online:http://dx.doi.org/10.1063/1.1744642
+    View Table of Contents:http://scitation.aip.org/content/aip/journal/jcp/29/4?ver=pdfcov
+    Published by the AlP Publishing
+    Articles you may be interested in
+    Pure Nuclear Quadrupole Resonances of Several Chlorinated Cyclopropanes
+    J.Chem.Phys.39,404(1963);10.1063/1.1734261
+    Line Width of the Pure Quadrupole Resonance of Bromine in KBrO3
+    J.Chem.Phys.27,603(1957);10.1063/1.1743792
+    Origin of the Line Width of Pure Quadrupole Resonance
+    J.Chem.Phys.23,1346(1955);10.1063/1.1742274
+    Cl35 Pure Quadrupole Resonances in Acid Chlorides and Chlorates
+    J.Chem.Phys.23,703(1955);10.1063/1.1742082
+    Chlorine Pure Quadrupole Resonances
+    J.Chem.Phys.21,1300(1953);10.1063/1.1699193
+    SUBSCRIBE TO
+    physics
+    today
+    This article is copyrighted as indicated in the article.Reuse of AlP content is subject to the terms at:http://scitation.aip.org/termsconditions.Downloaded to IP:
+    128.138.73.68○n:Sun,21Dec201415:09:37
+
+==========第1页==========
+    LETTERS TO THE EDITOR
+    973
+    C and/or NS center excited electrons entering the
+    TABLE I.The line width at 0C
+    conduction band and falling into states of anothercenter.It is curious that the luminescence bands are
+    △ym.located at the 41 (615 mu)and the 42 (very broad,
+    Isotope
+    ke/sec
+    △h.m
+    (A2)。
+    (kc/sec
+    (△v2)calo
+    kc/sec(kc/sec)2
+    maximum usually placed at 470 mu)bands,butthis may be accidental since,in general,luminescence isC135
+    0.713±0.0251.014±0.0280.210±0.0150.204
+    C137
+    0.595±0.03240.876±0.045a0.149土0.0140.142
+    displaced to considerably longer wavelengths and hasbroader bands than the absorption associated with thesame center while here there is little displacement and
+    *The true value would be somewhat smaller than this valuebecause the amplitude of frequency modulation was not able to
+    the luminescence band is the narrower.The lumi-
+    be reduced sufficiently small compared to the line width.
+    nescence does not seem to give rise to absorption in theregion of the luminescence band,and the results of
+    CI35 line is 0.204 (kc/sec)2 and that of the Cl37 line,
+    otherss indicate that bleaching of the c and Az band
+    0.142(kc/sec).2
+    accompanies the excitation.However,this bleaching
+    The resonance frequencies of Cl35 and Cl37 are 30.03
+    may be an independent simultaneous process.It would
+    and 23.67 Mc/sec,respectively,at 0C.3 The line width
+    thus seem to be necessary to observe the detailed be-
+    also has been measured by several workers.Wang
+    havior of the absorption bands during luminescence in reported the following values for the full width at half-order to identify the luminescence centers.However,
+    maximum (h.m.)intensity,Avn.m.,at room tempera-
+    although the luminescence centers remain unidentified,ture:0.57 kc/sec for Cl35 and 0.52 kc/sec for Cl37 in athe present work does identify the excitation centers as polycrystalline sample,and 1.35 kc/sec for the formerbeing those with which the tail of the ultraviolet absorp-
+    and 1.13 kc/sec for the latter in a single crystal sample.
+    tion is associated,probably the C and NS centers
+    He reported also that the line broadened considerably
+    Gratefully acknowledged are Leonard Grossweiner's
+    at liquid nitrogen temperature because of a possible
+    attempts to measure the luminescence decay time and
+    increase of strains in the crystal.Shimomura5 reported
+    to photograph the luminescence spectra
+    a value of 0.8 kc/sec for the width between maximum
+    *Based on work performed under the auspices of the U.S.deflections (m.d.)of the derivative curve,Aym.d.,of
+    Atomic Energy Commission.
+    C135.Proctor and Tantillas reported a value of 1.2
+    1 F.S.Dainton and J.Rowbottom,Trans.Faraday Soc.50,kc/sec for the Avp.m.of C135.More recently Zeldes and488(1954).
+    Doses in damaging neutrons per second per cm2 as describedLivingston?reported a value of 1.2 kc/sec for the widthby W.Primak,Nuclear Sci.and'Eng.2,320(1957).
+    between flexes of the second derivative curve of Cl5.
+    Described by L.E.Grossweiner and M.S.Matheson,J.Phys.
+    Chem.61,1089(1957).
+    There is,however,no report on the second moment
+    4 Primak,Fuchs,and Day,J.Am.Ceram.Soc.38,135(1955).which is the only quantity calculable using the theory.5 R.Audubert et al.,Compt.rend.230,1771 (1950).
+    It is the purpose of this note to report experimental
+    6R.W.Ditchburn e al.,Defects in Crystalline Solids (The
+    Physical Society,London,1955),p.92.
+    second moments and a comparison of them with the
+    7A.J,Cohen,Phys.Rev.105,1151(1957).
+    theoretical ones.
+    8 M.W.J.Mitchell and E.G.S.Paige,Phil.Mag.1,1085(1956).
+    The sample used was a single crystal of about10X20X20 mm3 in size grown from a saturated aqueoussolution of very pure NaClO3.Measurements weremade with a frequency-swept,frequency-modulated
+    Line Width of the Pure Quadrupole Reso-
+    Pound-Knight-Watkins spectrometers at melting ice
+    nance of Chlorine in Sodium Chlorate
+    and liquid oxygen temperatures.Care was taken toinsure temperature homogeneity in the sample and to
+    TOKUJIRO FUKE AND YOSHITAKA KOI
+    prevent saturation broadening of the line.Table I
+    Faculty of Technology,Tokushima University,Tokushima,Japan
+    gives the results of our measurements together with
+    (Received July 9,1958)
+    the calculated second moments.The second momentsare corrected for the finite amplitude of frequency
+    o the b te lemodulation?and the earth's magnetic field.10
+    The values of the width are in rough agreement with
+    width of pure quadrupole resonance under the assump-
+    those reported by the above-mentioned workers except
+    tion that the electric field gradients at all nuclear sites
+    Wang's very small values in a polycrystalline sample.
+    have a common direction.There are,however,many
+    Polycrystalline samples were also used in our measure-
+    interesting crystals in which this assumption is notments,but no sample had a sharper line than the singlesatisfied.In view of this unsatisfactory circumstance,
+    crystal.The line width at liquid oxygen temperature
+    Kan2 has recently extended Abragam and Kambe's seems to be a few percent larger than that at 0C.Thisformula to the case of semi-like nuclei,where the is in accordance with our previous observation thatelectric field gradients have different directions,and the line width of bromine in NaBrOs has no dependenceapplied his formula to NaClO3.The result of his on temperature within the experimental error,1 butcalculation is as follows:the second moment of the in disaccord with Wang's observation.
+    This article is copyrighted as indicated in the article.Reuse of AlP content is subject to the terms at:http://scitation.aip.org/termsconditions.Downloaded to IP
+    128.138.73.68○n:Sun,21Dec201415:09:37
+
+==========第2页==========
+    974
+    LETTERS TO THE EDITOR
+    Now,in order to compare the experiment with the cm1.Evans4 showed that the intensity was stronglytheory,it is necessary to know the origin of the lineinfluenced by absorbed oxygen,and that no absorptionwidth.Unlike the case of NaBrOs,1 the ratio of thecould be detected in a path of 50 cm of benzene whichwidths for the two isotopes Clss and Cl does not give had been deoxygenated,thus raising the question of
+    much information about the origin because the ratiowhat,if any,the residual oxygen-free,intensity is.Weof their quadrupole coupling constants is nearly equal now report that the absorption cannot be detected in ato that of their magnetic moments.However,the result
+    22.5 m path of liquid,and conclude that the oscillator
+    on NaBrOs serves for this purpose.In NaBrOs whichstrength at 20C is less than about f=7X10-12.Ac-has the same crystal structure as NaClOs,dipole-cording to the usual relation2 between oscillator strengthdipole interaction is the main cause of the bromine line
+    and radiative lifetime,this leads to a lifetime of about
+    width.1 Since the quadrupole coupling constant of
+    300 sec.If however,the lifetime formula is used with
+    chlorine in naclOa is about one-fifth of that of brominerefractive index unity as in the extensive work ofin NaBrO3 and the magnetic moment of chlorine isMcClure,5 the value is about 700 sec.about one-third of that of bromine,contributions to
+    Benzene was purified by standard methods and finally
+    line width from crystal strain and relaxation mecha-
+    refluxed with Raney nickel to remove the last traces of
+    nism are less important in NaClOs than in NaBrOs.
+    sulfur compounds.It was transferred and sealed into
+    In fact,the relaxation time shows that relaxation mecha-an all-glass apparatus which included a multiple reflec-nism contributes negligibly to the width.4.6.12 Thetion absorption cell and a set of vessels between whichtransparent single crystal sample is as perfect as thethe benzene could be transferred by low temperature
+    NaBrOa sample.Therefore,it can be consideredvacuum sublimation.After several sublimations duringthat the width is mainly due to dipole-dipole interac-
+    which dissolved oxygen was pumped off,the benzene
+    tion.The observed second moments are to be compared
+    was transferred to the absorption cell,allowed to warm
+    with the theoretical ones.The agreement of the experi-
+    to 20C,and its spectrum photographed in a Hilger
+    ment with the theory is excellent.
+    large-quartz spectrograph E492 with xenon arc illumi-
+    The authors wish to express their thanks to Mr.Knation.None of the previously reported absorption
+    Kano of the University of Kagawa for communicating
+    bands were observed,using a wide range of liquid
+    to them the result of his calculation before publication.
+    absorbing paths.In particular,no absorption was
+    This work was supported by the Scientific Expendituredetectable at the position of the first of the strongerof the Ministry of Education of Japan.
+    band groups,namely that at 29 410 cm-,in a path of
+    1A.Abragam and K.Kambe,Phys.Rev.91,1184(1953).
+    22.5 m.This was the limit attainable because of scat-
+    2K.Kan,J.Phys.Soc.Japan (to be published).
+    tering and other losses,and absorption by the long-wave
+    3 Wang,Townes,Schawlow,and Holden,Phys.Rev.86,809tail of the 2600 A singlet system.The results quoted(1952).
+    4T.Wang,Phys.Rev.99,566(1955),
+    assume that the limit of detectability of absorption is
+    sK.Shimomura,paper presented at the meeting of the Physicalan optical density of 0.02,and that this limit would
+    SoeB없 H 11  i, 1357have been reached in a path fractionally longer than
+    (1956).
+    the one used.The limit of 0.02 was arrived at by experi-
+    7H.Zeldes and R.Livingston,J.Chem.Phys.26,1102(1957)
+    ments on the 2600 A benzene system in cyclohexane
+    RwaH8awe2设08：
+    solution under otherwise similar experimental condi
+    9 E.R.Andrew,Phys.Rev.91,425 (1953).
+    tions,i.e.,photographic recording followed by micro-
+    10M.Buyle-Bodin,Ann.phys.10,543(1955)
+    photometering of the spectrum and analysis of the
+    11Y.Koi.J.Phys.Soc.Japan 12,49 (1957).
+    12 Bloom,Hahn,and Herzog,Phys.Rev.97,1699(1955).
+    trace for curvature in the region of the expected bandmaximum.
+    The oxygen-enhanced bands have been analyzed andinterpreted as giving the symmetry of the metastable
+    Upper Limit to the Intensity of the 3400 A
+    triplet benzene state (5,6).Since our results indicate
+    Singlet-Triplet Absorption in Benzene
+    that the benzene transition is considerably weaker-ifpresent at all-than has been presumed hitherto,such
+    D.P.CRAIG,J.M.HOLLAS,AND G.W.KING*
+    interpretations may not be conclusive.It is interesting
+    Sir William Ramsay and Ralph Forster Laboratories,University
+    College,London W.C.1,England
+    to note that Hameka's recent calculations?give a life-time of 260 sec for radiative transitions from a 3B
+    (Received June 26,1958)
+    level and 2100 sec from 3B1.
+    SINGLET-triplet transition of benzene was re-
+    ported by Sklar at about 3400 A in a 20-cmNow at McMaster University,Hamilton,Ontario1A.L.Sklar,J.Chem.Phys.5,669 (1937).
+    length of the liquid.The transition has been observed
+    2 G.N.Lewis and M.Kasha,J.Am.Chem.Soc.67,944 (1945)3A.C.Pitts,J.Chem.Phys.18,1416 (1950).
+    several times since in absorption (as well as in emis-
+    4D.F.Evans,J.Chem.Soc.1351,3885(1957).
+    sion)and measured more precisely2-6 with maxima
+    5D.S.McClure,J.Chem.Phys.17,905(1949).
+    located at about 29 410,30 350,31 200,and 32 150
+    e M.Shull,J.Chem.Phys.17,295 (1949).7 Hameka,thesis,Leiden (1956).
+    This article is copyrighted as indicated in the article.Reuse of AlP content is subject to the terms at:http://scitation.aip.org/termsconditions.Downloaded to IP:
+    128.138.73.68○n:Sun,21Dec201415:09:37
+
+==========第3页==========

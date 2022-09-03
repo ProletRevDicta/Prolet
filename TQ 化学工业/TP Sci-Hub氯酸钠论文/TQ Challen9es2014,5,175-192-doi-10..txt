@@ -1,0 +1,2515 @@
+    Challen9es2014,5,175-192:doi:10.3390/challe5010175
+    OPEN ACCESS
+    challenges
+    ISSN2078-1547
+    www.mdpi.com/journal/challenges
+    Article
+    Enantioselective Crystallization of Sodium Chlorate in the
+    Presence of Racemic Hydrophobic Amino Acids and Static
+    Magnetic Fields
+    Maria-Paz Zorzano1*,Susana Osuna-Esteban,Marta Ruiz-Bermejo,Cesar Menor-Salvanand Sabino Veintemillas-Verdaguer2
+    Centro de Astrobiologia(CSIC-INTA),Carretera de Ajalvir km 4,Torrejon de Ardoz 28850,
+    Madrid,28850,Spain;E-Mails:osunaes @cab.inta-csic.es (S.O.-E.);ruizbm@cab.inta-csic.es (M.R.-B.);menorsc@cab.inta-csic.es (C.M.-S.)
+    Department of Particulate Materials ICMM-CSIC,Sor Juana Ines de La Cruz 3,Cantoblanco 28049,
+    Madrid,28049,Spain;E-Mail:sabino@icmm.csic.es
+    Author to whom correspondence should be addressed;E-Mail:zorzanomm@cab.inta-csic.es;
+    Tel.:+34-91-520-6451;Fax:+34-91-520-2014.
+    Received:27 March 2014;in revised form:7 May 2014 /Accepted:13 May 2014/
+    Published:5 June 2014
+    Abstract:We study the bias induced by a weak (200 mT)external magnetic field on thepreferred handedness of sodium chlorate crystals obtained by slow evaporation at ambientconditions of its saturated saline solution with 20 ppm of added racemic (DL)hydrophobicamino acids.By applying the Fisher test to pairs of experiments with opposing magneticfield orientation we conclude,with a confidence level of 99.7%,that at the water-air interfaceof this saline solution there is an enantioselective magnetic interaction that acts uponracemic mixtures of hydrophobic chiral amino acids.This interaction has been observedwith the three tested racemic hydrophobic amino acids:DL-Phe,DL-Try and DL-Trp,atambient conditions and in spite of the ubiquitous chiral organic contamination.Thisenantioselective magnetic dependence is not observed when there is only one handednessof added chiral amino-acid,if the added amino acid is not chiral or if there is no additive.
+    This effect has been confirmed with a double blind test.This novel experimental observationmay have implications for our view of plausible initial prebiotic scenarios and of the rolesof the geomagnetic field in homochirality in the biosphere.
+
+==========第1页==========
+    Challenges 2014,5
+    176
+    Keywords:astrobiology;prebiotic organic reactions in water;homochirality;magneticfield;racemic hydrophobic amino acids;geomagnetic field;terrestrial planets
+    1.Introduction
+    All the organic chemistry of terrestrial organisms is based on the L form of amino acids.Despite mucheffort devoted to elucidating how and why L-amino acids were preferentially selected with respect tothe D-enantiomer no clear solution has yet been obtained [1].Some enantioselective mechanisms havebeen proposed however none of them deal with organic molecules in plausible prebiotic Earthenvironments [2-4].In the prebiotic chemistry research community,there is no unique,single,universal model of the prebiotic environmental conditions.There is no agreement as to what the exactconditions were regarding temperature,pH,red-ox potential,inorganic precursors,pressure (surface ofliquid,gaseous phase,deep ocean)or even which were the first organic molecules that launched theauto-catalytic reactions.In practice,all plausible situations are explored experimentally because theymay be representative of the present or past environmental conditions in the ancient Earth and alsobecause they may be relevant to investigate the habitability of other outer Earth environments,such as
+    Mars,Titan,Europa or even extra solar planets.Given that the prebiotic scenario has not yet beenunequivocally identified,there is no agreement either as to what mechanism may have caused theoriginal selection of one chiral handiness over the other.All scenarios are currently considered but todate no experiment has explored the plausible interaction of geomagnetic fields and primitive organicchiral molecules,such as amino acids,on the primordial ocean surface.
+    Simple symmetry arguments demonstrate that a static magnetic field cannot induce absoluteenantioselection at thermodynamical equilibrium [5,6].However,for far-from-equilibrium processesa magnetic field might induce enantioselection if the molecules are aligned since this constitutesa falsely chiral (i.e.,time-noninvariant enantiomorphous)arrangement [5,6].According to this,a magneticfield alone might induce deracemization if the molecules are pre-aligned,as in a crystal or on theliquid-air surface and the process is far from equilibrium [5].For this research,we shall investigatean out-of-equilibrium process where amino-acid arrangement is possible:the crystallization,at theair-liquid interface,of a sodium chlorate solution with racemic aminoacid additives.This experimentalobservations illustrates how the geomagnetic field,i.e.,a falsely chiral influence,can inducederacemization and enantioselection in interaction with racemic amino-acid mixtures.
+    To investigate this effect,one needs a technique that is sensitive to tiny amounts of chiralhydrophobic amino acids located only at the upper molecular layers of a saline water solution.
+    We propose to use the crystallization of sodium chlorate NaClO3 (a process which has proven to beparticularly sensitive to tiny amounts of hydrophobic chiral amino acids)as a probe for plausibleamino acid enantiomeric interactions at this interface.NaClO3 is an achiral molecule but when severalmolecules join into small crystal nuclei they crystallize in an ordered spiral-like structure which can beeither levo (1)or dextro (d)rotatory.A saturated NaClO3 solution left at room temperature in a widevessel crystallizes into an almost racemic mixture of crystals,i.e.,on average there are no preferencesfor (1)or (d)crystals [7].The crystallization of NaC1O3 has shown to be a very convenient process to
+
+==========第2页==========
+    Challenges 2014,5
+    177
+    detect tiny chiral effects that take place within the water-air interface as well as to detect the chiral signof amino acid impurities [8-11].We shall test for biases in the water-air induced crystallization of
+    NaClO3 crystallized with racemic additives (of the order of a few ppms)of hydrophobic amino acids(which will tend to be at the water-air interface of the solution)and an upwards or downwards externalmagnetic field.Three additional sets of control experiments,one without additives,one with theachiral hydrophobic amino-acid Gly additive and one with only one handedness of chiral hydrophobicamino acid (D-Trp),are investigated for comparison.
+    2.Experimental Section
+    In order to overcome the geomagnetic field at Madrid,where the experiments took place,and beable to control the direction of the local (downwards pointing)magnetic field we need to usean external magnetic field greater than 0.05 mT.We used a set of small Neodymium dipole magnets ofabout 5 mm height and 17 mm diameter.The magnetic field at the center has been measured and foundto be 100 mT at a distance of 7 mm and 200 mT at 3 mm.This is the range of distances between themagnets and the water-air interface in our two different types of experimental setups.Which meansthat at the water-air interface which is right above the center of the magnets,where the maximal fieldis experienced,there is a magnetic field of 200 mT at most,i.e.,roughly 4000 times greater than theactual maximal geomagnetic field.
+    All glass material was steamed for sterilization during 2 h.The experiments were run at roomtemperature.We used NaCIO3 from Sigma-Aldrich S.A.(ACS quality)and ultrapure water (Millipore
+    Milli-Q Q.Gard).The NaClO3 used has a 99.91%purity.The ferromagnetic metals Fe,Mn and Co arepresent as impurities in amounts of maximum 5 ppm each.These metallic impurities are unavoidableand constantly present as a background together with the salt ions and ambient impurities.For eachcrystallization process 50 mL of a NaClO3 aqueous solution (48.8 g NaC1O3 in 100 g of dissolution,saturated 51.2%,9.86 molal saturated at 30 C)was prepared at 45 C under vigorous stirring (500 rpm)together with a small amount (4 ppm for the aerosol experiments,and 20 ppm for the steadycrystallization ones)of one or several amino acid forms,depending on the experiment.All the aminoacids were obtained from Sigma-Aldrich.The hot solution was filtered,through a 0.2 um-pore sizesterile nylon.
+    To guarantee the independence of the observations with respect to the specific details of theexperimental setup we propose two different techniques where the interface between the bulk liquidand the air is relevant.The solution described above is put to crystallize under two possible setups:an aerosol-liquid cycle (see Figure 1-Left)or a steady crystallization (see Figure 1-Right).For theaerosol-liquid setup,a round-bottom flask,with 5 mL of the liquid solution,was placed within a bathof the ultrasonic aerosol generator (a commercial,small ultrasound generator of 1'8 MHz,30 W)[10].
+    After 2 min,the ultrasonic device induces the formation of an optically thick cloud of aerosolsgenerated from the water-air interface solution.There is a continuous recycling process,from theaerosol phase to the liquid bulk interface and back.Because of the intense evaporation in the aerosols,this is the first environment to reach supersaturation and crystal nucleation of NaClO3 is initiated at theaerosol phase roughly after 2 h.This method induces in about 4 h the homochiral crystallization of
+    NaC1O3 for the steady crystallization setup we have crystallized 1 mL of the solution described above
+
+==========第3页==========
+    Challenges 2014,5
+    178
+    in a small open crystal vessel,of about 2 cm diameter and 4 cm height under different experimentalconditions.The first crystal nuclei are formed on the liquid pool surface which,due to the evaporation,is the first place to reach supersaturation.These crystals then grow further at the bottom of the vessel,reducing the supersaturation in NaClO3 and preventing the formation of new crystals nuclei.
+    After between one and three days there are observable crystals of few mm size within the remainingliquid solution.
+    Figure 1.Water-air induced crystallization setups.(Left)Aerosol experimental setup.
+    Here the flask has a magnet within the crystal vessel with the South pole facing upwards.(Right)Steady crystallization experimental setup,one vessel with magnetic field andone without.
+    0
+    1
+    g
+    Both crystallization setups share an essential feature:they initiate the crystallization withconstituents of the solution at the interface between air and the liquid bulk and are very sensitive towater-air surface impurities [10,11].As we will show later the final preferred handedness of NaC1O3may be biased by chiral impurities (such as amino acids)located within this environment and isindependent of the procedure used.Once this is confirmed and to run a larger number of experimentsin parallel improving the statistics,the steady crystallization procedure will be the only one used.
+    The chirality of the crystals obtained under either crystallization setup was determined from theiroptical activity using a stereomicroscope and two linear polarizers [12-15].See Figure 2 for twoexamples of homochiral crystallization distributions.We count the experiments that lead to
+    (1)homochiral experiments no,and (d)homochiral experiments nd)for a set of experimental cases.
+    If all (either one or many)the crystals in the vessel are levorotatory the result is marked as (1),if all aredextrorotatory the result is (d).The rest which have both (1)and (d)crystals in arbitrary rate areclassified as (r)[14,15].
+
+==========第4页==========
+    Challenges 2014,5
+    179
+    Figure 2.Examples of NaC1O3 homochiral distributions of crystals obtained froman aerosol crystallization experiment (Left)and a steady crystallization experiments(Right).The biggest crystals are a few mm size.(Left)Dextro homochiral NaC1O3 crystals(here seen as light crystals)obtained from the co-crystallization with 4 ppm of DL-Phe andan external upwards pointing magnetic field (B).(Right)Levo (here seen as dark crystals)homochiral crystals obtained from the co-crystallization with 20 ppm of DL-Phe andan external downwards pointing magnetic field (B).
+    In order to detect chiral effects at the interfaces,we first need to confirm that the handedness of
+    NaCIO3 can be biased by the only presence of a chiral amino acid,the results are summarized in Table 1.
+    We performed an approximately equal number of experiments with each setup using solutions with
+    D-and L-Phe,D-and L-Tyr.To guarantee the independence of the observations with respect to thespecific details of the experimental setup (aerosol cycle vs.steady crystal vessel),the observations ofboth crystallization setups were added.The biased is observed in both experimental setups equally,confirming that the water-air interface is the place where the final handedness is determined.
+    Roughly 69%+4%of the experiments with homochiral amino acid additives lead to pure homochiral
+    NaCIO3 crystallizations,the rest which have both (1)and (d)crystals are discarded in this analysis.
+    In addition,experiments with D-and L-Trp have been performed however using only the steadycrystallization process.In this later case,roughly 54%+12%of the experiments are homochiral.
+    A control experiment (using only the steady crystallization process),has been run adding an achiralamino acid instead,Gly,see Table 1.In this case roughly 55%+9%of the experiments arehomochiral.Using the experimental data of Table 1 we derive,with a confidence level of 95%,the trueproportion p of each handedness of NaClO3 which varies depending upon the added amino acid.
+    These probabilities are plot in Figure 3.
+
+==========第5页==========
+    Challenges 2014,5
+    180
+    Table 1.Amino acid effect on the crystallizations of NaClO3 with amino acid impuritiesunder water-air induced crystallization conditions.The addition of chiral hydrophobic aminoacids favors a preferred handedness in the sodium chlorate crystallization,the achiralhydrophobic amino acid Gly does not induce a significant bias.
+    Chiral Amino Acid Impurity
+    no
+    n(d)
+    (a)L-Phe
+    31
+    41
+    (b)D-Phe
+    38
+    24
+    (c)L-Tyr
+    31
+    23
+    (d)D-Tyr
+    18
+    25
+    (e)L-Trp
+    69
+    73
+    (f)D-Trp
+    66
+    51
+    (g)Gly
+    90
+    82
+    Figure 3.True proportion or probability of sodium chlorate handedness,(1)vs.(d),as a function of added hydrophobic amino acid.Both handedness are equiprobable,up tothe statistical error,in the case of Gly,whereas with chiral amino acids (L or D)Phe,Tyrand Trp additives,there is a significant bias in the proportion towards one or other handednessthat depends on the chiral sign of the amino acid and on the amino acid type.
+    Probability of sodium chlorate handedness
+    Amino acid additive
+    70%
+    50%
+    口p(0
+    40%
+    ▣p(d
+    3
+    10%
+    0%
+    L-Phe DPhe
+    L-Tyr D-Tyr
+    L-Trp D-Trp
+    Gly
+    The crystallization of sodium chlorate is exposed to ambient contaminants and also to theunavoidable salt and additive impurities.To assess if the handedness of an amino acid additive alonedrives a non-random biased output,we apply Fisher's exact statistical test to pairs of experiments withopposing conditions.In each pair we shall evaluate if the variation of one single factor induces asignificantly different output from one setup to the other,keeping in mind that all background effects(ambient,solute and solvant impurities)are common in both situations.By applying Fisher test to theresults in Table 1,we conclude that the handedness of NaC1O3 is biased by the presence of one orother enantiomer of the amino acid,with a level of confidence of 98.89%for Phe (rows a and b),witha level of confidence of 95.81%for Tyr (rows c and d)and with a level of confidence of 91.61%for
+    Trp (rows e and f).In the case of Gly,the outcome is almost equally probable (52%+8%for (1)handedness)for one and other handedness showing that an achiral amino acid additive does not biasthe crystallization of sodium chlorate.These tests confirm that these experimental setups can be usedto detect the footprint of the organization of chiral hydrophobic amino acids at the water air interface.
+
+==========第6页==========
+    Challenges 2014,5
+    181
+    3.Results and Discussion
+    3.1.Results
+    Next we shall elucidate if,at the water-air interface of a saline solution and starting from a racemicsituation,a magnetic field can strengthen the influence of one chiral form of the amino acid.
+    Again,other background influences such as ambient and salt contaminants,ferromagnetic metallicimpurities,or enantiomeric excesses of commercial racemic DL amino-acids cannot be discardeda priori.In order to avoid this systematic and unavoidable influence the experiments are always testedusing the same solution simultaneously under different configurations,namely upwards pointing anddownwards pointing field,to apply the Fisher test to a common situation with disregard of backgroundcommon effects.We have therefore performed experiments with racemic amino acid mixtures and anexternal magnetic field pointing upwards (B)or downwards (B).Roughly 52%+4%of theexperiments with magnetic field and racemic amino acid mixtures lead to pure homochiraldistributions,the rest which have both (1)and (d)crystals in arbitrary rates are discarded.The resultsare summarized in Table 2.To determine if the variation of the magnetic field orientation alone canbias the output we apply Fisher's exact statistical test to pairs of experiments where only this factor ischanged.The hypotheses tested are summarized in Table 3.
+    Table 2.Magnetic field orientation effect (upwards B or downwards B pointingexternal field)on the water-air induced crystallization of NaClO3 with racemic mixtures ofhydrophobic amino acids impurities,DL-Phe,DL-Tyr and DL-Trp.
+    Magnetic Field Orientation
+    n①
+    n(d)
+    (I)DL-Phe B+
+    25
+    49
+    (II)DL-Phe B
+    49
+    45
+    (III)DL-Tyr B
+    25
+    14
+    (IV)DL-Tyr B
+    25
+    32
+    (V)DL-Trp B
+    39
+    54
+    (VI)DL-Trp B
+    58
+    38
+    Table 3.By applying the Fisher test to pairs of experiments of Table 2 where only onecondition is changed all hypotheses with confidence level above 95%are accepted.
+    Confidence
+    Pair of
+    Fisher Test:Hypothesis Tested Using n(l)and n(d)
+    Level
+    Experiments
+    The orientation of the external magnetic field has an effect on the preferred
+    99.46%
+    I and II
+    handedness of NaCIO3 crystallized with DL-Phe.
+    The orientation of the external magnetic field has an effect on the preferred
+    98.49%
+    Ⅲand IV
+    handedness of NaClO3 crystallized with DL-Tyr.
+    The orientation of the external magnetic field has an effect on the preferred
+    99.30%
+    V and VI
+    handedness of NaCIO3 crystallized with DL-Trp.
+    The bias induced by B on the preferred handedness of NaC1O3 crystallized withracemic additives depends on the type of amino acid added (Phe
+    99.95%
+    I and III
+    vs.Tyr).
+    The bias induced by B on the preferred handedness of NaC1O3 crystallized withracemic additives depends on the type of amino acid added (Tyr
+    99.19%
+    IV and VI
+    vs.Trp).
+
+==========第7页==========
+    Challenges 2014,5
+    182
+    These tests indicate that the output does depend on the orientation of the field,i.e.,that there isan enantioselective interaction where the magnetic field orientation is relevant,and that theenantioelective effect of the field is dependent on the type of amino-acid.This suggests that the chiralamino-acids and the static magnetic field mediate the enantioselective deracemization
+    Double Blind Study and Control Experiments
+    Given the relevance of this assertion,the experiment has been re-run with an specifically designeddouble-blind test using two amino acids and a control solution to elucidate with no preconceivedexpectations if there is a selective interaction of the magnetic field with the added chiral amino acids.
+    Three solutions with either DL-Phe additive,DL-Tyr additive or none additive (control group)wereprepared as described above by one of the team members.The solutions were blindly labeled as"RED","GREEN"and "BLUE"by one of the authors.The blind test consists in the statisticalinvestigation of the chiral sign of the crystallization products of amounts of 1 mL of each one of thesesolutions in crystallization vessels (the aerosol setup was not used in this test)with a magnet below ineither orientation.After 1 or 3 days there were observable crystals.Again,images of the vesselsbottom with the NaClO3 crystals were taken using the two polarized filters and the microscope.
+    The images were inspected a posteriori by a second investigator who was physically away from thelaboratory during the months that the experiments took place.Each image file,corresponding toone crystallization experiment,was assigned to one of the three possible options (1),(d)or(r).All theresults (images)of this double-blind test as well as their classification are accessible for the reader as
+    Supporting Information.The results are summarized in Table 4,allowing the reader to perform the fullclassification exercise.
+    Table 4.Double blind experiment:statistical analysis of the crystallization products ofa solution of NaClO3(control test)and of the same solution with chiral racemic impuritiesunder an external magnetic field.The three solutions are labeled RED,GREEN and BLUE.
+    Magnetic Field Orientation
+    no n(d)
+    (①)REDB
+    46
+    26
+    (ii)RED B
+    34
+    46
+    (iii)GREEN B
+    26
+    18
+    (iv)GREEN B
+    24
+    17
+    (v)BLUE B
+    32
+    45
+    (vi)BLUE B
+    4929
+    The crystallization of solutions with magnetic fields (in either north or south configuration)ishomochiral (i.e.,either (1)or (d))in 26%+4%of samples in the solution labeled as GREEN,42%+4%for solution RED and 44%+4%for solution BLUE.The difference in the homochiral ratio suggeststhat solution GREEN is of different nature.Furthermore,we observe that solutions RED and BLUE dohave a differentiated crystallization preference when exposed to a magnetic field and that the pattern isopposite,whereas solution GREEN has no differentiated response to upwards or downwards magneticfield and in both cases the preferential homochiral crystallization is (1).By comparison of the double-blindtest (with crystallization vessels only)with the ones summarized in Table 2 (which include both
+
+==========第8页==========
+    Challenges 2014,5
+    183
+    aerosol and crystallization vessels)we conclude first that the solution can be unequivocally identifiedaccording to its behavior when exposed to a magnetic field.We therefore identify solution GREEN asthe one with no additive.Notice that the GREEN solution shows the crystallization of NaC1O3 exposedsolely to ambient contaminants (organic and inorganic ambient impurities that deposit slowly at theair/water interface during the 1-3 days of crystallization)or inner contaminants (impurities in the saltsolute or mili-Q water)with an external upwards or downwards magnetic field and that bothexperiments favor (1)vs.(d).Finally by comparison with Table 2 we identify RED as the one havingDL-Tyr additive and BLUE as the one having DL-Phe additive.This identification is correct.
+    The above summarized results can be easily obtained by the reader by reviewing and classifying all theimages in the Supporting Information.Table 5 summarizes the hypotheses tested using of experimentsof the double blind test.The level of confidence of acceptance of the hypotheses has increased becauseof the greater sample size of the homochiral observations.
+    Table 5.By applying the Fisher test to pairs of experiments of Table 4 where only onecondition is changed all hypotheses with confidence level above 95%are accepted.
+    Confidence
+    Pair of
+    Fisher Test:Hypothesis Tested Using n(l)and n(d)
+    LevelExperiments
+    The orientation of the external magnetic field has an effect on the preferred
+    99.80%
+    i and ii
+    handedness of NaCIO3 crystallized with DL-Tyr.
+    The orientation of the external magnetic field has an effect on the preferred
+    99.80%
+    v and vi
+    handedness of NaClO3 crystallized with DL-Phe.
+    The bias induced by B on the preferred handedness of NaClO3crystallized with racemic additives depends on the type of amino acid
+    99.82%
+    i and v
+    added (Phe vs.Tyr).
+    The bias induced by B on the preferred handedness of NaClO3crystallized with racemic additives depends on the type of amino acid
+    99.68%
+    ii and vi
+    added (Phe vs.Tyr).
+    In summary,according to Fisher test,the results are statistically significant with a confidence levelof 99.7%or greater for all the study cases.This means that it is unlikely that these field dependent andamino acid dependent results occurred by chance alone.We conclude that "there is an enantioselectiveinteraction at the water-air surface of a NaClO3 saline solution with racemic amino acid additivesinduced by the magnetic field and the amino-acids."
+    To elucidate the relevance of the chiral character of the additive,the same investigation isperformed in a control experiment,using as additive the achiral amino acid Gly.For the experimentswith Gly additives roughly 56%+6%of the results are homochiral.In the case of Gly,the two resultsare not significantly different,but differ from the ones obtained without additives (Green solution ofthe double blind test),see Table 6.We can then state that this enantioselective effect of the field is onlypresent if the amino acid which is acting as seed is chiral.
+
+==========第9页==========
+    Challenges 2014,5
+    184
+    Table 6.Control experiment with an achiral additive:Gly.
+    Magnetic Field Orientation no nd)
+    (a)Gly B
+    9089
+    (b)Gly B
+    7594
+    To weight the relevance of the competition between either handedness a test is performed usingonly one chiral additive,namely 20 ppm of D-Trp,roughly 49%7%of the results are homochiral,see Table 7.The result with either orientation of the magnetic field are equivalent.
+    Table 7.Control experiment with only on chiral amino acid:D-Trp.
+    Magnetic Field Orientation no n
+    (a)D-Trp B
+    2336
+    (b)D-Trp B
+    1219
+    3.2.Discussion
+    In the absence of perturbations,the homochiral crystallization of sodium chlorate followsa binomial distribution,that is there are only two mutually exclusive possible outcomes,(1)and (d),and p is the probability of one outcome and (1 -p)the probability of the other one.The shape ofa binomial distribution is symmetrical when p=0.5.Under the presence of chiral effects thedistribution of sodium chlorate homochiral crystals is asymmetric and the probability of the favoredstate p deviates from 0.5.This work is not aimed at calculating the exact probability or proportion p ofone handedness over the other one.It is clear from all the tests in this manuscript that the trueproportion,for this experimental setup,shows very weak deviation from equiprobability (has a valueof circa 60%).To assert with a significant confidence level that the p value in one experiment differsfrom 50%knowing that this deviation is small,we need much bigger sample sizes.However a fewconclusions may be derived by a quick analyzes of the reported data.In particular,using the results ofall the experiments (shown in Tables 2 and 4),we can state with a confidence level of 95%(i.e.,thereis one chance in twenty that the true population proportion falls outside the range that is given)that thetrue proportion of the preferred handedness is pa)=57%+7%for experiments with DL-Phe and B,p(d)=62%+8%for DL-Phe and B1,pa)=64%+9%for DL-Tyr and B and p(d)=57%+8%forDL-Tyr and B.Po)=58%+10%for DL-Trp and Bt and p(d)=61%+9%for DL-Trp and B.In eithercase,p shows a significant deviation towards one handedness,(1)or (d),and the two outcomes are notequiprobable.See the chart in Figure 4 summarizing the probabilities for the cases with DL amino acids.
+    As for the control experiments the results are summarized in Figure 5.For the solution with Glyadditive (Table 6)then for B po)=50%+8%and for Bpo=56%+9%showing in either case nosignificant deviation from equiprobability.In the case of solutions with D-Trp,both for B
+    Po)=61%+11%and for B po)=61%+15%,show a preferred (d)handedness.For the GREENcontrol experiment (saline solution without amino acid additive)the sample size is too small and theerror margin of the p estimate is therefore big.However,if we evaluate the p value of the solutionswith no amino acids,exposed solely to ambient contamination and with the action of a magnetic field(named GREEN in the double-blind test)in Table 4,then for B po)=59%+15%and for
+
+==========第10页==========
+    Challenges 2014,5
+    185
+    B po)=59%+15%,that is both experiments show a preferred (1)handedness which is attributed tothe influence of ambient contaminants which act after the long time exposure required for evaporation.
+    In the case of solutions with Gly,the achiral additive that is present from the beginning in the solution,serve as seed to launch quickly the scalemic nucleation of crystals and the outcome is thereforeequiprobable.This internal additives act earlier as nucleation seeds than ambient in-falling contamination.
+    The unavoidable salt metallic ferromagnetic impurities are present at levels of 15 ppm,which arecomparable with the concentration of the added amino acids (20 ppm).These metallic impurities mayserve as ordering structure where racemic amino acids arrange in one or another preferred scalemicarrangement depending on the magnetic field orientation.What is significant and common to all thecontrol experiments is that when there are no racemic chiral additives in the solution then the preferredcrystal handedness does not vary with the magnetic field orientation.There is no enantioselectiveeffect unless the two handedness of a chiral amino acid are present.See the chart in Figure 5summarizing the probabilities of these control experiments.
+    Our experimental work shows the existence of an interaction at the water-air interface that dependson the magnetic field orientation and that strengthens the influence of one or other handedness whenthere are racemic mixtures of chiral amino acids in the saline solution.
+    Figure 4.True proportion or probability of sodium chlorate handedness,(1)vs.(d),as function of the magnetic field orientation,for different racemic chiral additives,DL-Phe,DL-Tyr and DL-Trp,in the initial solutions and for opposing magnetic field orientation.Thepreferred handedness varies with magnetic field orientation suggesting that there isan interaction of the field with chiral amino acids.
+    Probability of sodium chlorate handedness
+    DL amino acid additives
+    80%
+    70%
+    60%
+    506406
+    口p(0
+    ▣p(d)
+    30%
+    20%
+    10%
+    0%
+    DL-PheB↑DL-Phe BI
+    DL-TyrB↑DL-Tyr BL
+    DL-TrpB↑DL-Trp BL
+    Magnetic field orientation
+
+==========第11页==========
+    Challenges 2014,5
+    186
+    Figure 5.True proportion or probability of sodium chlorate handedness,(1)vs.(d),in thecontrol experiments,as function of the magnetic field orientation and initial solution,withonly 20 ppm of the achiral amino acid Gly,with 20 ppm of the chiral amino acid D-Trp orwithout amino acid and exposed solely to ambient chiral.The preferred handedness doesnot vary with magnetic field orientation indicating that in these control experiments there isno enantioselective interaction.
+    Probability of sodium chlorate handedness
+    Control experiments
+    80%
+    70%
+    60%
+    50%
+    ▣p(0
+    40%
+    ▣p(d
+    30%
+    20%
+    10%
+    0%
+    GyB↑
+    Gly BI
+    D-TrpB↑D-Trp BL
+    No aa B↑No aa B↓
+    Magnetic field orientation
+    4.Conclusions
+    4.1.Review of Plausible Effects
+    Providing a detailed physicochemical molecular model of the water-air interface processes andenergy differences associated to a plausible interaction between amino acids,water molecules,solventsaline ions,unavoidable metallic impurities and external magnetic field is beyond the scope of thisexperimental work.For completeness,we review here some mechanisms that have been put forward inthe literature and may be relevant to interpret and contextualize these observations.
+    Ordered packing and self-assembling processes at the water interface between neighboring aminoacids may induce the formation of ordered clusters and conglomerates with segregated enantiomers.
+    For example,it is known that racemic mixtures of amphiphilic molecules at water interfaces canself-assemble into 2D crystallites of three types:(I)enantiomerically disordered solid solutions,(ID)enantiomorphous conglomerates with segregated enantiomers and (III)racemic compounds inwhich both enantiomers are packed together.In this latter case,it has been experimentally shown thata-activated amino acids derivatives polymerize in oligopeptides with an enhanced homochiralsequence [16].In this context we may postulate that,in this saline solution,the external magnetic fieldmay exert some influence on the effectiveness of chiral amino acid self-assemblies at the water-airinterface or on the metallic impurities of the salt and that these enantiopure clusters would in turn favorthe nucleation of one handedness of the probe,i.e.,the NaC1O3 crystals.
+    Alternatively,a severely debated proposal suggested in 1985 by Gilat [17-20]postulated theexistence of what he named "chiral interaction"between chiral biomolecules (such as amino acids andproteins)and a polar solvent (such as water)in the presence of an interface,that leads to the formationof a magnetic moment of opposite direction for each enantiomer for L and u for D).In this model,
+
+==========第12页==========
+    Challenges 2014,5
+    187
+    under an external magnetic field the L and D enantiomers located at the water-air interface would havedifferent energies and this would in turn induce (according to Boltzmann law)different populationwithin this interface.This hypothesis has been seriously questioned because,as pointed out firstin 1986 by Barron,who formulated the symmetry requirements for a reaction to yield a chiral result,enantioselectivity induced by magnetic fields per se is not allowed [5].However this work alsoemphasized that this conclusion only applies at thermodynamic equilibrium,and goes on to say that forfar-from-equilibrium processes a magnetic field might induce enantioselection if the molecules arealigned since this constitutes a falsely chiral (i.e.,time-noninvariant enantiomorphous)arrangement [5,6].
+    Thus,for a magnetic field to genuinely induce preferential deracemization of sodium chlorate crystalsaided by racemic amino acids,this would require a process well away from equilibrium,with theamino acids aligned at the surface.Here the far from-equilibrium conditions are driven by the phasetransition process of the crystallization of a sodium chlorate solution.Similarly Micali et al.[21]haverecently shown how a falsely chiral influence (consisting of combined rotational and magneticallytuned effective gravity,together with the magnetic orientation of the self-assembled helicalsupramolecular aggregates)induces enantioselection in a far-from-equilibrium process involving theformation of chiral J-aggregates.These external forces were only applied during the nucleation step ofthe aggregation and it was shown to be sufficient to achieve chiral selection.The experimental resultsreported here describe the effect of the static magnetic fields on the chiral crystallization of sodiumchlorate which deracemizes in the presence of racemic amino acids providing an example ofenantioselection in a far-from-equilibrium process (namely the crystallization of a super saturatedsolution)under a falsely chiral influence.The statistical analysis shows that the orientation of themagnetic field influences the absolute configuration of the crystals.
+    Other experimental works have explored the induction of enantioselectivity by magnetic fields dueto changes in the optical properties of materials.Among them the one on chemical synthesis in 1994by Zadel et al.,which was later on publicly declared as fraudulent [22,23].An example of othersuccessful and relevant results are those regarding the study of a static magnetic field collinear with anunpolarized light beam [24].Also other experiments have explored the interaction of extremely intensemagnetic fields (of the order of 5T)with the crystal growth rate of L-alanine in aqueous solution [25].
+    Regarding crystallization rates it is also important to emphasize that in the presence of an appropriatechiral impurity primary and secondary nucleation processes may be affected.For example if DL-Glu iscrystallized in the presence of L-Lys,D-Glu crystallizes first followed by L-Glu.However,thenucleation effects reported here required very intense magnetic fields y contrast to the weak magneticfield of circa 200 mT used in this work.
+    4.2.Conclusions and Plausible Implications
+    We have presented a novel technique,the statistical investigation of the chiral sign of thecrystallization products of NaClO3 solutions with chiral additives,to detect tiny enantiomeric excessesof chiral impurities located at the water-air interface.The technique is robust and all the steps involvedare relatively simple and require inexpensive and common equipment and products which makes thistest accessible for standard laboratories.Furthermore,since there are two differentiated experimentalsteps (solution and crystallization preparation vs.images and sample counting)this procedure can be
+
+==========第13页==========
+    Challenges 2014,5
+    188
+    easily used for double-blind tests.This technique provides promising results and this work will befurther extended to explore the interactions of other amino acids peptides,mixtures of amino acidsand other chiral compounds.
+    We have shown that the orientation of the magnetic field does have a significant effect on thepreferred handedness of the NaClO3 crystallized with a few ppm of racemic mixtures of chiralhydrophobic amino acids such as DL-Phe,DL-Tyr and DL-Trp and that this effect is due toan enantioselective interaction with the chiral amino acids in the solution.This enantioelective effect isnot observed when there is only one handedness of added chiral amino-acid (for instance D-Trp),if theadded amino acid is not chiral (Gly)or if there is no additive (and thus the solution is exposed solely toambient and solute impurities),confirming that the magnetic field interacts only with the few ppmsof added DL-amino acids.It is unclear what the exact role of the metallic ferromagnetic impurities andsalt ions in the solution may be in this enantioselective print of the DL amino acids,however they areconstantly present in all compared cases and show no enantioselective interaction with the magneticfield in the absence of racemic amino acids.This enantioselective interaction is robust,observed in thethree cases tested (Phe,Try and Trp),and biases the handedness of the output in spite of the smallamount of amino acids (20 ppm's)and the unavoidable constant background chiral contamination oflaboratories.The experiments have been run systematically using the same solution in parallel underdifferent conditions as control.According to our observations,the orientation of the magnetic field canstrengthen the influence of one chiral form of the amino acid at the water air interface.Let us remarkthat the three type of hydrophobic amino acids chosen,are similar in structure and have one (Phe and
+    Tyr)or two (Trp)aromatic rings.The presence of the aromatic ring may be important for theinteraction with the magnetic field.In the future,these tests shall be extended to other classes of aminoacids,other pHs and other metallic additives to elucidate the role of other intermediate factors in theformation of chiral structures.
+    These experimental results describe the effect of the static magnetic fields in the chiral crystallizationof sodium chlorate which deracemizes in the presence of racemic amino acids providing a plausibleexample of enantioselection in a far-from-equilibrium process under a falsely chiral influence.
+    We believe that the experimental results reported in this manuscript,namely the existence ofan enantioselective interaction with racemic mixtures of chiral amino acids at the water-air interfacein a saline solution,may have far-reaching implications.In particular,and regarding the prebiotic
+    Terrestrial environment,it suggests that the geomagnetic field of the Earth could have playeda significant role on the prebiotic origin of homochirality acting enantioselectivelly on all hydrophobicchiral amino acids and peptides participating in the ocean-atmospheric chemistry of the primordialaerosol cycle [26-30].Of the four solar terrestrial planets the Earth is the only one that hasan atmosphere such that the pressure and temperature conditions below it can sustain liquid water.
+    The huge water pool of saline water in the oceans,which covers approximately 71%of the Earth'ssurface,and the atmosphere are connected through an evaporation,condensation and rain cycle.
+    Furthermore,the Earth has a geomagnetic field [31](which now ranges between 0.03 mT and
+    0.06 mT,depending on the location)which is the strongest of the four terrestrial planets.It is has beenrecently shown that an appreciable magnetic field had developed as early as 3.45 billion yearsago (Ga),right after the Late Heavy Bombardment (3.90 Ga)and before the development of anoxygen-rich atmosphere (2.30 Ga)suggesting that the magnetic field may have predated the
+
+==========第14页==========
+    Challenges 2014,5
+    189
+    establishment of life [32].The measured field strengths,while less than that of the present-day Earth,may have been sufficient to shroud the Earth in a protective shield that prevented ionization anderosion by the charged particles in the solar wind.The geomagnetic field orientation has changed inintensity and orientation [31].However,prebiotic chemistry,must have had one location where therewas a higher concentration of products or where the transport processes were more intense or whereplausible intermediate factors (such as solved metallic ions)may be available.This place had onegiven magnetic field orientation.As shown in this experimental work every amino acid type(hydrophobic,less hydrophobic,achiral,etc.)may have a different interaction with a magnetic fieldorientation.Therefore,the final outcome of the selection process (i.e.,L or D)shall depend on theoverall interaction of a network of organic molecules at the location where organic chemistry reactionstake place,with the local magnetic field and the global water transport cycle.Other effects,such asfluctuations or chiral interactions with minerals such as clays,may have induced also localenantiomeric excesses,but this geomagnetic effect must have been ubiquitous,constantly present overtime,unavoidable for all the water-based prebiotic chemistry and relevant for all amino acids andpeptides.Furthermore,the existence of such a magnetic interaction may help explaining the role ofmetals in the prebiotic origin of life.We believe that this experiment shall provide interestingexperimental information for those elucidating what may have been the initial prebiotic conditions.
+    Acknowledgments
+    We acknowledge an anonymous referee for the well documented comments and suggestionsfor improvement,as well as by urging the team to double-blind test the experiment to validatethe robustness of this result.We acknowledge the interest of Meir Lahav and his suggestion for furthercontrol experiments.We acknowledge both Meir Lahav and Laurence David Barron for reviewing thiswork and pointing out the possible role of magnetic impurities.We also are thankful to all theparticipants of the Working Group meeting "Chirality in Systems Chemistry",Toledo,Spain,8-10
+    April 2011 of the COST CM0703 "Systems chemistry"project,where the members of this work wereinvited to present this work for open discussion.The authors acknowledge Rafael Perez del Real andthe Optoelectronics Laboratory of INTA,for the measurements of the magnetic field generated by themagnets used in the experiments.The pictures of the experimental setup have been taken by
+    Rogelio Sanchez Verdasco from CAB at INTA.We also thank the scientific support and advice of
+    David Hochberg.This research was supported by the Instituto Nacional de Tecnica Aerospacial(INTA)and by the grant AYA2006-15648-C02-02 of the Ministerio de Educacion y Ciencia(Spain)and by the project grants AYA2011-25720 and AYA2012-38707 of MINECO(Spain).
+    Author Contributions
+    Maria-Paz Zorzano has designed the experiments,analyzed the data and written the manuscript.
+    Susana Osuna-Esteban has performed the experiments and analyzed the data.Susana Osuna-Esteban,
+    Marta Ruiz-Bermejo and Sabino Veintemillas-Verdaguer have helped in the contextual interpretationof the results.Cesar Menor-Salvan has performed an independent analysis of the data.
+
+==========第15页==========
+    Challenges 2014,5
+    190
+    Conflicts of Interest
+    The authors declare no conflict of interest.
+    References and Notes
+    1.Avalos,M.;Babiano,R.;Cintas,P.;Jimenez,J.L.;Palacios,J.C.;Barron,L.D.Absoluteasymmetric synthesis under physical fields:Facts and fictions.Chem.Rev.1998,98,2391-2402.
+    2.Rikken,G.L.J.A.;Raupach,E.Enantioselective magnetochiral photochemistry.Nature 2000,405,
+    932-935.
+    3.Szabo-Nagy,A.;Keszthelyi,L.Demonstration of the parity-violating energy difference betweenenantiomers.Proc.Natl.Acad.Sci.1999,96,4252-4255.
+    4.Kojo,S.;Tanaka,K.Enantioselective crystallization of D,L-amino acids induced by spontaneous
+    asymmetric resolution of D,L-Asparagine.Chem.Commun.2001,19,1980-1981.
+    5.Barron,L.D.Can a magnetic field induce absolute asymmetric synthesis?Science 1994,266,
+    1491-1492.
+    6.Barron,L.D.True and false chirality and absolute enantioselection.Rend.Lincei 2013,24,
+    179-189.
+    7.Kondepudi,D.K.;Kaufman,R.J.;Singh,N.Chiral symmetry breaking in sodium chlorate
+    crystallization.Science 1990,250,975-976.
+    8.Veintemillas-Verdaguer,S.;Osuna-Esteban,S.;Herrero,M.A.The effect of stirring on sodium
+    chlorate crystallization under symmetry breaking conditions.J.Cryst.Growth 2007,303,562-
+    567.
+    9.Viedma,C.Selective Chiral Symmetry breaking during crystallization:Parity violation orcryptochiral environment in control?Cryst.Growth Des.2007,7,553-556.
+    10.Osuna-Esteban,S.;Zorzano,M.P.;Menor-Salvan,C.;Ruiz-Bermejo,M.;Veintemillas-Verdaguer,S.
+    Asymmetric chiral growth of micron-size NaClO3 crystals in water aerosols.Phys.Rev.Lett.2008,100,doi:10.1103/PhysRevLett.100.146102.
+    11.Viedma,C.Chiral symmetry breaking during crystallization:Complete chiral purity induced by
+    nonlinear autocatalysis and recycling.Phys.Rev.Lett.2005,94,doi:10.1103/PhysRevLett.94.065504.
+    12.Kondepudi,D.K.;Crook,K.E.Theory of conglomerate crystallization in the presence of chiral
+    impurities.Cryst.Growth Des.2005,5,2173-2179.
+    13.As the light travels toward the observer,the plane of polarization of a linearly polarized beam is
+    rotated by the crystal either to the left (counterclockwise)or to the right (clockwise)relative to itsplane upon entry.If the former holds,the crystal is levorotatory (1);if the latter,it isdextrorotatory (d)[14].To observe the optical activity using a microscope place the first linearpolarizer at the exit of light,below the crystals,to create a linearly polarized light beam.
+    Then place the second polarizer at the end of the microscope above the crystals and rotate to leftor right until the brightness of the crystals is maximized.If we must rotate the second polarizer tothe right of the first one,to maximize the brightness of the crystals,this means that they aredextrotatory.If for the same second polarizer position,the crystals are seen dark,this means that
+
+==========第16页==========
+    Challenges 2014,5
+    191
+    they are levorotatory.In this case,by rotating the second polarizer the same angle to the left,thecrystals shall be seen bright.
+    14.Donald Bloss,F.Crystallography and Crystal Chemistry,Mineralogical Society of America;
+    Monograph Series;Holt,Rinehart and Winston:Washington,DC,USA,1994.
+    15.We have chosen to evaluate the handedness of the crystallization per vessel,considering eachvessel output as one single experiment.We chose this method instead of counting individualcrystals and weighting their contribution through crystal surface size or mass (i.e.,measuring theexcess fraction per experiment)because of the following reason.For both experimental set-upsthe crystal size usually ranges between 1 and 2 mm,many crystals are superposed formingaggregates and in some cases there are in addition multiple smaller crystals induced by secondarynucleation (in this case the handedness of secondary nuclei is inherited from the mother crystal).
+    Separating and weighting these 1-2 mm sized of the crystal distribution and distinguishingsecondary crystals for the circa 2000 experiments that have been run for this test is not a practicalexperimental approach for this setup.Furthermore,our approach,namely saving the images ofeach crystallization experiment and defining the output as either homochiral-(1)or (d)orarbitrary rate (r),allows the non-expert reader or any other parties outside the laboratory team,toevaluate the outcome of the experiments easily and independently.
+    16.Zepik,H;Shavit,E.;Tang,M.;Jensen,T.R.;Kjaer,K.;Boldbach,G.;Leiserowitz,L.;Weissbuch,I.;
+    Lahav,M.Chiral amplification of oligopeptides in two-dimensional crystalline self-assemblies onwater.Science2002,295,1266-1269.
+    17.Gilat,G.;Schulman,L.S.Chiral interaction,magnitude of the effects and application to natural
+    selection of L-enantiomer.Chem.Phys.Lett.1985,121,13-16.
+    18.Gilat,G.Chiral interactions in biomolecules.Chem.Phys.Lett.1985,121,9-12
+    19.Gilat,G.On the Biological Advantage of Chirality.Available online:http://arxiv.org/abs/
+    physics/9911041v1 (accessed on 18 November 1999).
+    20.Gilat,G.Chiral interaction and thermodynamics.Chem.Phys.Lett.1987,137,492-494.
+    21.Micali,N.;Engelkamp,H.;van Rhee,P.G.;Christianen,P.C.M.;Monsu,S.L.;Maan,J.C.
+    Selection of supramolecular chirality by application of rotational and magnetic forces.Nat.Chem.2012,4,201-207.
+    22.Zadel,G.;Eisenbrdun,C.;Wolff,J.;Breitmaier,E.Enantioselective reactions in a static magnetic
+    field.Angew.Chmi.Int.Ed.Engl.1994,33,454-456.
+    23.Breitmaier,E.Letter to the Editors:No enantioselective reactions in a static magnetic field.
+    Angew.Chmi.Int.Ed.Engl.1994,33,454456.
+    24.Rikken,G.L.J.A.;Raupach,E.Enantioselective magnetochiral photochemistry.Nature 2000,405,
+    932-935.
+    25.Zhao,B.;Guzman,L.A.;Ogawa,K.;Shimizu,K.Effect of magnetic field on the growth rate of
+    L-Alanine crystal.J.Chem.Eng.Jpn.2003,36,959-962.
+    26.Armstrong,D.W.;Kullman,J.P.;Xianghong,C.;Rowe,M.Composition and chirality of amino
+    acids in aerosol/dust from laboratory and residential enclosures.Chirality 2001,13,153-158
+    27.O'Dowd,C.D.;Facchini,M.C.;Cavalli,F.;Ceburnis,D.;Mircea,M.;Decesari,S.;Fuzzi,S.;
+    Yoon,Y.J.;Putaud,J.P.Biogenically driven organic contribution to marine aerosol.Nature 2004,431,676-680.
+
+==========第17页==========
+    Challenges 2014,5
+    192
+    28.Nilsson,E.D.;Martensson,E.M.;VanEkeren,J.S.;de Leeuw,G.;Moerman,M.;O'Dowd,C.
+    Primary marine aerosol emissions:Size resolved eddy covariance measurements with estimates ofthe sea salt and organic carbon fractions.Atmos.Chem.Phys.Discuss.2007,7,13345-13400.
+    29.Dobson,C.M.;Barney Ellison,G.;Tuck,A.F.;Vaida,V.Atmospheric aerosols as prebiotic
+    chemical reactors.Proc.Nat.Acad.Sci.2000,97,11864-11868.
+    30.Ruiz-Bermejo,M.;Menor-Salvan,C.;Osuna-Esteban,S.;Veintemillas-Verdaguer,S.Prebiotic
+    microreactors:A Synthesis of purines and dihydroxy compounds in aqueous aerosol.Orig.Life
+    Evol.Biosph.2007,37,123-142.
+    31.Valet,P.Time variations in geomagnetic intensity.Rev.Geophys.2003,41,1-44.
+    32.Tarduno,J.A;Cottrell,R.D.;Watkeys,M.K.;Hofmann,A.;Doubrovinel,P.V;Mamajek,E.E.;
+    Liu,D.;Sibeck,D.G;Neukirch,L.P.;Usui,Y.Geodynamo,solar wind,and magnetopause 3.4 to
+    3.45 billion years ago.Science 2010,5,1238-1240.
+    2014 by the authors;licensee MDPI,Basel,Switzerland.This article is an open access articledistributed under the terms and conditions of the Creative Commons Attribution license(http://creativecommons.org/licenses/by/3.0/).
+
+==========第18页==========
+    Supporting Information:Magnetically induced enantioselective crystallization of sodium
+    chlorate with hydrophobic aminoacid impurities.
+    Maria-Paz Zorzano,"Susana Osuna-Esteban,'Cesar Menor-Salvan,'Marta Ruiz-Bermejo,
+    Sabino Veintemillas-Verdaguer.2
+    Centro de Astrobiologia(CSIC-INTA),Carretera de Ajalvir km 4,28850 Torrejon de Ardoz,
+    Madrid,Spain.zorzanomm@inta.es
+    2 Department of Particulate Materials ICMM-CSIC,Sor Juana Ines de La Cruz 3,Cantoblanco28049,Madrid,Spain
+    This section contains all the images of the double-blind experiments with crystallization vessels andRED,GREEN or BLUE solutions obtained using a microscope and two linear polarizers.It includesalso the summary of images classification as (1),(d)or(r).
+    Three different solutions,named "RED*,"GREEN",or "BLUE",are prepared.The blind testconsists in the statistical investigation of the chiral sign of the crystallization products of amountsof 1 ml of each one of these solutions in vessels with a magnet below in either orientation NORTH(for upwards pointing field)or SOUTH (for downwards pointing field).The file name indicateslevo or dextro depending on the orientation of the polarized filter when the picture was taken.Formost of the experiments there are both levo and dextro images saved.
+    Each experiment is assigned to one of the three possibilities,(1),(d)or (r),and this is justified withthe name of one of the jpg files that proofs it.For each experimental setup the set of image files andtheir assignation to (1),(d)or (r)is ordered alphabetically.
+    In this case the names levo and dextro of the files are given when the picture is taken,according tothe rotation of the filter from the point of view of the observer(which is the opposite of the one ofthe light coming from below).In our setup,the chirality of the experiment is defined according tothe brightness of the crystals in the vessel with the following criteria,easy to be followed by thenon-expert eye:
+    If ALL (either one or many)the crystals in the vessel are dark when the filter is at levoposition -w.r.t.the observer-(or bright when the filter is at dextro position)the result is levo.
+    If ALL (either one or many)the crystals in the vessel are dark when the filter is at dextroposition (or bright when the filter is at levo position)the result is dextro.
+    If most (>90%,but not all)crystals in the vessel are dark when the filter is at levo position(or bright when the filter is at dextro position)the result is levo and marked as **
+    If most (>90%,but not all)crystals in the vessel are dark when the filter is at dextroposition (or bright when the filter is at levo position)the result is dextro and marked as **
+    The total counting includes first experiments marked as **In the final counting these experiments(where most but not all the crystals share a chirality)are erased from the homochiral classificationand re-classified as (r)or arbitrary rate.Marking this files as *motivates the reader to look forsmall crystals of opposite handedness that may have been ignored at a first glance.
+    DOUBLE BLIND
+    S1
+
+==========第19页==========
+    BLUE NORTH
+    (d)
+    (d)
+    10N 12ul10 levo**30N 12ul10 levo**
+    10N 01feb10 dextro
+    23N 12jul10 dextro**10N 07jul10 dextro18N 17feb10 dextro
+    29N 17feb10 dextro
+    10N 14ene10 levo30N 17feb10 levo
+    10N 08feb10 dextro
+    24N 07jul10 dextro 10N 23feb10 dextro 18N 25ene10 levo
+    2N 01feb10 dextro
+    10N 17feb10 levo3N 07jul10 levo
+    10N 25ene10 dextro**26N 12jul10 dextro11N 01feb10 levo
+    19N 01feb10 dextro
+    2N 07jul10 dextro
+    11N 12ul10 levo**3N 08feb10 levo*
+    11N 07jul10 dextro**28N 07jul10 dextro 11N 08feb10 levo
+    19N 12ul10 levo
+    3N 17feb10 dextro
+    11N 23feb10 levo4N 08feb10 levo
+    11N 25ene10 dextro
+    28N 12jul10 dextro11N 17feb10 levo
+    19N 23feb10 dextro3N 23feb10 dextro
+    13N 08feb10 levo
+    5N 17feb10 levo
+    12N 08feb10 dextro
+    2N 08feb10 dextro
+    12N 01feb10 dextro19N 25ene10 dextro
+    3N 25ene10 dextro
+    13N 23feb10 levo5N 23feb10 levo
+    12N 23feb10 dextro
+    2N 12jul10 dextro
+    12N 07jul10 levo
+    1N 08feb10 dextro
+    4N 01feb10 dextro
+    14N 08feb10 levo6N 08feb10 levo
+    12N 25ene10 dextro
+    2N 14ene10 dextro12N 12jul10 levo
+    1N 12jul10 dextro
+    4N 23feb10 dextro
+    16N 08feb10 levo
+    6N 23feb10 levo
+    13N 07jul10 dextro
+    2N 17feb10 dextro
+    12N 17feb10 dextro1N 17feb10 dextro
+    4N 25ene10 dextro
+    16N 17feb10 levo**7N 12ul10 levo**
+    14N 07jul10 dextro**
+    2N 25ene10 dextro
+    13N 01feb10 dextro20N 01feb10 dextro
+    5N 12jul10 dextro
+    17N 08feb10 levo
+    7N 23feb10 levo
+    15N 08feb10 dextro
+    30N 07jul10 dextro**13N 12ul10 levo
+    20N 07jul10 levo
+    5N 07jul10 dextro
+    17N 23feb10 levo8N 07jul10 levo
+    15N 12iul10 dextro
+    3N 01feb10 dextro
+    13N 14ene10 dextro 20N 17feb10 dextro
+    5N 25ene10 dextro
+    18N 07jul10 levo
+    8N 14ene10 levo
+    16N 07jul10 dextro**
+    3N 12jul10 dextro**13N 25ene10 levo20N 25ene10 dextro6N 01feb10 dextro
+    18N 12ul10 levo**
+    8N 25ene10 levo
+    16N 12jul10 dextro
+    4N 07jul10 dextro
+    14N 01feb10 dextro 21N 07jul10 dextro
+    6N 17feb10 dextro
+    18N 23feb10 levo
+    9N 08feb10 levo
+    16N 14ene10 dextro4N 12jul10 dextro**14N 12jul10 levo
+    21N 12jul10 dextro
+    7N 01feb10 dextro
+    20N 12ul10 levo
+    16N 25ene10 dextro**4N 14ene10 dextro14N 17feb10 dextro21N 17feb10 dextro
+    7N 07jul10 dextro
+    20N 23feb10 levo
+    17N 07jul10 dextro**
+    4N 17feb10 dextro
+    14N 23feb10 dextro22N 23feb10 dextro
+    7N 17feb10 levo
+    21N 23feb10 levo
+    17N 12jul10 dextro
+    5N 01feb10 dextro
+    14N 25ene10 levo
+    23N 07jul10 levo
+    7N 25ene19 levo
+    22N 12ul10 levo
+    17N 14ene10 dextro
+    5N 08feb10 dextro
+    L5N 01feb10 dextro23N 23feb10 dextro
+    8N 01feb10 dextro
+    23N 17feb10 levo*
+    18N 14ene10 dextro
+    5N 14ene10 dextro
+    15N 07jul10 levo
+    24N 17feb10 levo
+    BN 08feb10 dextro
+    24N 12ul10 levo**
+    18N 17feb10 levo
+    6N 07jul10 dextro
+    L5N 17feb10 dextro24N 23feb10 dextro
+    BN 17feb10 dextro
+    25N 12ul10 levo**
+    19N 07jul10 dextro
+    6N 12jul10 dextro**15N 23feb10 dextro25N 07jul10 dextro
+    8N 23feb10 dextro
+    25N 17feb10 levo
+    19N 17feb10 dextro
+    6N 25ene10 dextro15N 25ene10 dextro 26N 07jul10 levo
+    9N 01feb10 levo
+    25N 23feb10 levo**
+    1N 01feb10 dextro
+    7N 08feb10 dextro16N 01feb10 dextro 26N 23feb10 dextro
+    9N 07jul10 dextro
+    26N 17feb10 levo
+    1N 07jul10 dextro
+    7N 14ene10 dextro16N 23feb10 dextro 27N 07jul10 dextro
+    9N 14ene10 dextro
+    27N 12ul10 levo**
+    1N 14ene10 dextro
+    8N 12jul10 dextro
+    17N 01feb10 levo
+    27N 23feb10 dextro
+    9N 17feb10 levo
+    27N 17feb10 levo
+    1N 23feb10 dextro
+    9N 12jul10 dextro
+    17N 17feb10 dextro 28N 17feb10 dextro
+    9N 23feb10 levo
+    28N 23feb10 levo
+    1N 25ene10 dextro**
+    9N 25ene10 dextro17N 25ene10 levo
+    29N 07jul10 levo
+    2N 23feb10 levo
+    22N 07jul10 dextro
+    18N 01feb10 levo
+    29N 12jul10 dextro
+    BLUE SOUTH
+    ①
+    (d)
+    d
+    10S 19feb10 levo23S 19feb10 levo
+    10S 04feb10 dextro
+    4S 19feb10 dextro
+    10S 09feb10 dextro19S 14jul10 levo
+    4S 28dic dextro
+    11S 04feb10 levo**24S 19feb10 levo
+    12S 19feb10 dextro
+    5S 09feb10 dextro
+    10S 09jul10 dextro
+    19S 21ene10 dextro
+    5S 04feb10 dextro
+    11S 09feb10 levo
+    25S 14jul10 levo
+    13S 09feb10 dextro
+    5S 14jul10 dextro
+    10S 14jul10 dextro
+    19S 27ene10dextro
+    5S 09jul10 levo
+    11S 19feb10 levo26S 14iul10 levo
+    13S 19feb10 dextro
+    5S 19feb10 dextro
+    10S 21ene10 dextro 19s 28 dic dextro
+    5S 21ene10 dextro
+    11S 21ene10 levo27S 19feb10 levo
+    14S 09feb10 dextro
+    6S 28 dic dextro
+    10S 27ene10 dextro1S 04feb10 dextro
+    5S 27ene10 dextro
+    11S 28dic levo
+    28S 14jul10 levo
+    14S 19feb10 dextro**7S 21ene10 dextro
+    10S 28dic dextro
+    1S 09feb10 dextro
+    5S 28dic dextro
+    12S 04feb10 levo29S 14jul10 levo
+    15S 04feb10 dextro
+    9S 04feb10 dextro
+    11S 09jul10 levo
+    1S 09jul10 dextro
+    6S 04feb10 levo
+    12S 09feb10 levo
+    3S 14jul10 levo
+    15S 19feb10 dextro
+    9S 28dic dextro
+    11S 14jul10 dextro
+    1S 27ene10 dextro
+    6S 09feb10 levo
+    12S 14jul10 levo**3S 19feb10 levo
+    15S 28 dic dextro
+    11S 27ene10 dextro20S 18ene10 dextro
+    6S 09jul10 levo
+    13S 04feb10 levo
+    3S 28dic levo
+    16S 09feb10 dextro**
+    12S 09jul10 dextro20S 21ene10 levo
+    6S 14jul10 levo
+    13S 28 dic levo
+    4S 09feb10 levo
+    16S 19feb10 dextro
+    12S 27ene10 dextro20S 27ene10 dextro6S 21ene10 dextro
+    14S 21ene10 levo6S 19feb10 levo
+    16S 28dic dextro
+    12S 28dic dextro
+    21S 19feb10 levo
+    6S 27ene10 dextro
+    14S 28 dic levo
+    7S 04feb10 levo
+    17S 04feb10 dextro**
+    13S 09jul10 dextro
+    22S 19feb10 dextro
+    7S 09jul10 dextro
+    15S 09feb10 levo
+    7S 09feb10 levo
+    17S 09feb10 dextro
+    13S 14jul10 dextro
+    24S 14jul10 levo
+    7S 19feb10 dextro
+    15S 21ene10 levo
+    7S 14jul10 levo
+    17S 19feb10 dextro**
+    13S 21ene10 dextro25S 19feb10 dextro
+    7S 27ene10 levo
+    16S 21ene10 levo7S 28dic levo
+    18S 04feb10 dextro**
+    13S 27ene10 levo
+    27S 14jul10 dextro
+    8S 04feb10 dextro
+    16S 27ene10 levo8S 09feb10 levo
+    19S 09feb10 dextro
+    14S 04feb10 dextro29S 19feb10 dextro
+    8S 09jul10 dextro
+    17S 14jul10 levo
+    8S 14jul10 levo
+    19S 19feb10 dextro
+    14S 14jul10 dextro
+    2S 04feb10 dextro
+    8S 21ene10 dextro
+    17S 21ene10 levo8S 19feb10 levo
+    1S 14jul10 dextro
+    14S 27ene10 dextro
+    2S 09feb10 levo
+    8S 27ene10 dextro
+    17S 28 dic levo
+    8S 28dic levo
+    1S 21ene10 dextro**
+    15S 14jul10 dextro
+    2S 09jul10 dextro
+    9S 09jul10 dextro
+    18S 09feb10 levo
+    9s o9feb10 levo
+    20S 09feb10 dextro
+    15S 27ene10 dextro2S 14jul10 levo
+    19S 04feb10 levo9s 14jul10 levo
+    20S 28 dic dextro
+    16S 04feb10 dextro2S 21ene10 dextro
+    1S 19feb10 levo
+    9S 19feb10 levo
+    26S 19feb10 dextro
+    16S 14jul10 dextro
+    2S 27ene10 levo
+    1S 28dic levo
+    9S 21ene10 levo
+    28S 19feb10 dextro
+    17S 27ene10 dextro30S 19feb10 dextro
+    20S 14jul10 levo
+    2S 19feb10 dextro
+    18S 14jul10 levo
+    3S 04feb10 dextro
+    20S 19feb10 levo
+    2S 28dic dextro
+    18S 19feb10 dextro
+    3S 09jul10 dextro
+    21S 14jul10 levo
+    3S 09feb10 dextro**
+    18S 21ene10 dextro4S 04feb10 dextro
+    22S 14jul10 levo**
+    3S 27ene10 dextro**
+    18S 27 ene10 dextro 4S 09jul10 levo
+    23S 14jul10 levo**
+    4S 14jul10 dextro
+    18S 28dic levo
+    4S 27ene10 levo
+    DOUBLE BLIND
+    S2
+
+==========第20页==========
+    GREEN NORTH
+    (@
+    (0
+    (0
+    11N 08ene10 levo
+    7N 27may10 levo
+    10N 27may10 dextro 10N 08ene10 dextro 17N 29ene10 dextro
+    28N 6jul10 dextro
+    7N 6jul10 levo
+    12N 08ene10 levo
+    8N 09ene10 levo
+    11 6jul10 dextro**
+    10N 18feb10 dextro17N 6jul10 dextro
+    29N 18feb10 dextro8N 08ene10 levo
+    12N 27may10 levo**8N 24jun10 levo
+    11N 27may10 dextro10N 24jun10 dextro18N 18feb10 dextro
+    29N 24jun10 dextro8N 18feb10 levo
+    13N 08ene10 levo
+    8N 29ene10 levo
+    12N 6jul10 dextro
+    10N 29ene10 dextro19N 17dic dextro
+    29N 6jul10 dextro
+    8N 6jul10 levo
+    14N 24jun10 levo
+    9N 09ene10 levo**
+    13N 18feb10 dextro
+    10N 6jul10 dextro
+    19N 29ene10 dextro
+    2N 09ene10 dextro
+    9N 6jul10 levo
+    14N 27may10 levo
+    9N 18feb10 levo**
+    13N 24jun10 dextro
+    11N 18feb10 dextro19N 6jul10 dextro
+    2N 27may10 levo
+    16N 08ene10 levo
+    9N 24jun10 levo
+    15N 29ene10 dextro
+    11N 24jun10 dextro1N 18feb10 dextro
+    2N 29ene10 dextro
+    16N 6jul10 levo**
+    9N 27may10 levo**
+    15N 6jul10 dextro**
+    11N 29ene10 dextro1N 24jun10 dextro
+    2N 6jul10 dextro
+    18N 24jun10 levo
+    9N 29ene10 levo
+    17N 08ene10 dextro
+    12N 18feb10 dextro1N 27may10 dextro
+    30N 18feb10 dextro
+    18N 29ene10 levo
+    18N 08ene10 dextro*12N 24jun10 dextro1N 6jul10 dextro
+    30N 6jul10 dextro
+    18N 6jul10 levo**
+    19N 08ene10 dextro**12N 29ene10 dextro20N 08ene10 dextro
+    3N 08ene10 dextro
+    19N 24jun10 levo**
+    19N 18feb10 dextro**13N 17dic dextro
+    20N 18feb10 dextro
+    3N 18feb10 dextro
+    1N 29ene10 levo
+    1N 08ene10 dextro
+    13N 27may10 dextro 20N 24jun10 dextro
+    3N 27may10 dextro
+    21N 24jun10 levo**
+    1N 09ene10 dextro
+    13N 29ene10 dextro20N 29ene10 dextro
+    3N 6jul10 dextro
+    23N 24jun10 levo**
+    25N 24jun10 dextro
+    13N 6jul10 levo
+    20N 6jul10 dextro
+    4N 09ene10 dextro
+    24N 24jun10 levo
+    28N 24jun10 dextro
+    14N 08ene10 dextro21N 18feb10 dextro
+    4N 27may10 dextro
+    25N 18feb10 levo**
+    2N 08ene10 dextro
+    14N 18feb10 dextro21N 6jul10 dextro
+    5N 08ene10 dextro
+    26N 24jun10 levo
+    2N 18feb10 dextro*
+    14N 29ene10 dextro22N 18feb10 dextro
+    5N 09ene10 dextro
+    26N 6jul10 levo
+    2N 24jun10 dextro
+    14N 6jul10 dextro
+    22N 24jun10 dextro
+    5N 18feb10 dextro
+    27N 6jul10 levo
+    3N 09ene10 dextro
+    15N 08ene10 dextro22N 6Jul10 dextro
+    5N 24jun10 dextro
+    30N 24jun10 levo
+    3N 29ene10 dextro
+    15N 18feb10 dextro23N 18feb10 dextro
+    5N 29ene10 dextro
+    3N 24jun10 levo
+    4N 18feb10 dextro**
+    15N 24jun10 dextro23N 6jul10 dextro
+    5N 6jul10 dextro
+    4N 08ene10 levo
+    4N 29ene10 dextro
+    15N 27may10 dextro 24N 18feb10 dextro
+    6N 09ene10 dextro
+    4N 24jun10 levo
+    6N 08ene10 dextro
+    16N 24jun10 dextro24N 6jul10 dextro
+    6N 24jun10 dextro
+    4N 6jul10 levo
+    7N 08ene10 dextro**
+    16N 18feb10 dextro25N 6jul10 dextro
+    6N 27may10 dextro
+    5N 27may10 levo**
+    8N 27may10 dextro**16N 24jun10 dextro26N 18feb10 dextro
+    6N 29ene10 dextro
+    6N 18feb10 levo
+    9N 08ene10 dextro
+    16N 29ene10 dextro 27N 18feb10 levo
+    7N 18feb10 dextro
+    6N 6jul10 levo**
+    17N 18feb10 dextro27N 24jun10 dextro
+    7N 24jun10 levo
+    7N 09ene10 levo
+    17N 24jun19 dextro28N 18feb10 dextro
+    7N 29ene10 dextro
+    DOUBLE BLIND
+    S3
+
+==========第21页==========
+    GREEN SOUTH
+    0
+    (d)
+    10S 2jul10 levo
+    4S 12feb10 levo**
+    12S 2jul10 dextro
+    10S 12feb10 dextro 16S 2mar10 dextro 24S 12feb10 dextro
+    5S 26feb10 dextro
+    10S 2mar10 levo4S 2jul10 levo
+    15S 2jul10 dextro
+    10S 26ene10 dextro 17S 12feb10 dextro 24S 26feb10 dextro5S 28jun10 dextro
+    11S 2mar10 levo 5S 2jul10 levo
+    15S 2mar10 dextro
+    10S 26feb10 dextro17S 26ene10 dextro 24S 28jun10 dextro6S 12feb10 dextro
+    12S 28jun10 levo**5S 2mar10 levo**
+    16S 2jul10 dextro
+    10S 28jun10 dextro17S 28jun10 dextro 24S 2mar10 levo
+    6S 26ene10 dextro
+    12S 2mar10 levo6S 2jul10 levo
+    18S 12feb10 dextro**
+    11S 12feb10 dextro17S 2jul10 dextro25S 12feb10 dextro6S 26feb10 dextro
+    14S 12feb10 levo6S 2mar10 levo
+    18S 26ene10 dextro**
+    11S 26ene10 dextro1826ene10 levo
+    25S 26feb10 dextro6S 28jun10 dextro
+    14S 2mar10 levo8S 26feb10 levo**
+    1S 2mar10 dextro
+    11S 26feb10 dextro18S 26feb10 dextro 25S 2mar10 dextro7S 12feb10 levo
+    15S 28jun10 levo**9S 2mar10 levo
+    20S 2mar10 dextro
+    11S 28jun10 dextro
+    18S 2jul10 levo
+    26S 12feb10 dextro7S 26ene10 dextro
+    17S 26feb10 levo*
+    21S 2jul10 dextro
+    11S 2jul10 dextro
+    19S 12feb10 dextro26S 26feb10 levo
+    7S 26feb10 levo
+    17S 2mar10 levo
+    22S 12feb10 dextro**
+    12S 12feb10 dextro19S 26ene10 dextro 26S 28jun10 dextro7S 2mar10 dextro
+    18S 28jun10 levo*
+    22S 2jul10 dextro
+    12S 26ene10 dextro19S 28jun10 levo
+    27S 12feb10 dextro8S 12feb10 dextro
+    18S 2mar10 levo**
+    24S 2mar10 dextro
+    12S 26feb10 dextro
+    19S 2jul10 dextro
+    27S 28jun10 dextro8S 26ene10 dextro
+    19S 26feb10 levo*
+    24S 2jul10 levo
+    13S 12feb10 dextro1S 26ene10 dextro27S 2jul10 dextro
+    8S 28jun10 dextro
+    19S 2mar10 levo
+    25S 28jun10 dextro**
+    13S 26ene10 dextro1S 26feb10 levo
+    28S 12feb10 dextro
+    8S 2mar10 dextro
+    1S 12feb10 levo**
+    28S 2jul10 dextro*
+    13S 26feb10 dextro
+    1S 28jun10 dextro
+    28S 26feb10 dextro9S 12feb10 dextro
+    20S 2jul10 levo**
+    29S 2jul10 dextro
+    13S 28jun10 dextro
+    1S 2jul10 dextro
+    28S 28jun10 dextro
+    9S 26feb10 dextro
+    21S 2mar10 levo**
+    2S 26ene10 dextro
+    13S 2jul10 dextro
+    20S 12feb10 dextro29S 12feb10 levo
+    9S 28jun10 dextro
+    23S 2jul10 levo
+    2S 2jul10 dextro**
+    13S 2mar10 levo
+    20S 26ene10 dextro 29S 28jun10 dextro
+    9S 2jul10 dextro
+    23S 2mar10 levo
+    3S 2jul10 dextro
+    14S 26ene10 dextro20S 26feb10 dextro2S 12feb10 dextro
+    26S 2jul10 levo
+    4S 2mar10 dextro
+    14S 26feb10 dextro
+    20S 28jun10 dextro2S 29ene10 dextro
+    26S 2mar10 levo
+    5S 26ene10 dextro**
+    14S 28jun10 dextro
+    21S 12feb10 dextro30S 26feb10 levo
+    27S 26feb10 levo
+    7S 28jun10 dextro
+    14S 2jul10 dextro
+    21S 26feb10 dextro3S 12feb10 levo
+    27S 2mar10 levo**
+    7S 2jul10 dextro
+    15S 12feb10 dextro
+    21S 28jun10 dextro3S 26ene10 dextro
+    29S 26feb10 levo
+    8S 2jul10 dextro
+    15S 26ene10 dextro22S 26feb10 dextro3S 26feb10 dextro
+    2S 26feb10 levo
+    9S 26ene10 dextro**
+    15S 26feb10 dextro22S 28jun10 dextro3S 28jun10 dextro
+    2S 28jun10 levo
+    16S 12feb10 dextro
+    22S 2mar10 dextro 4S 26ene10 dextro
+    2S 2mar10 levo
+    16S 26ene10 dextro23S 12feb10 dextro 4S 26feb10 dextro
+    30S 28jun10 levo
+    16S 26feb10 dextro23S 26feb10 dextro 4S 28jun10 levo
+    3S 2mar10 levo
+    16S 28jun10 dextro23S 28jun10 dextro 5S 12feb10 levo
+    DOUBLE BLIND
+    S4
+
+==========第22页==========
+    RED NORTH
+    10N 05ene10 levo
+    21N 06mar10 levo
+    10N 06mar10 dextro10N 05mar10 dextro 19N 06mar10 levo
+    27N 24feb10 dextro7N 24feb10 levo
+    10N 21jul10 levo
+    23N 06mar10 levo
+    10N 24feb10 dextro
+    10N 30nov levo
+    1N 05mar10 levo
+    28N 05mar10 dextro7N 28ene10 levo
+    10N 28ene10 levo
+    24N 06mar10 levo
+    11N 05ene10 dextro
+    11N 21jul10 levo
+    1N 06mar10 dextro
+    28N 24feb10 dextro
+    7N 30nov dextro
+    10N 31may10 levo
+    25N 06mar10 levo
+    12N 10dic dextro
+    11N 28ene10 levo
+    1N 21jul10 dextro
+    29N 05mar10 dextro7N 31may10 dextro
+    11N 05mar10 levo
+    25N 21jul10 levo
+    15N 24feb10 dextro
+    11N 30nov levo
+    1N 28ene10 levo
+    29N 24feb10 dextro
+    8N 05ene10 dextro
+    11N 06mar10 levo
+    26N 24feb10 levo
+    15N 24feb10 dextro
+    12N 05ene10 dextro1N 30nov dextro
+    2N 05ene10 dextro
+    8N 05mar10 dextro
+    11N 24feb10 levo
+    27N 06mar10 levo
+    15N 30nov dextro
+    12N 05mar10 dextro 1N 31may10 dextro
+    2N 05mar10 dextro
+    8N 21jul10 dextro
+    11N 31may10 levo
+    3N 06mar10 levo
+    16N 24feb10 dextro
+    12N 21jul10 dextro
+    20N 05mar10 dextro
+    2N 06mar10 dextro
+    8N 28ene10 levo
+    12N 06mar10 levo
+    3N 21jul10 levo
+    17N 06mar10 dextro
+    12N 28ene10 levo
+    20N 21jul10 levo
+    2N 10jun10 levo
+    8N 30nov dextro
+    12N 24feb10 levo
+    3N 24feb10 levo**
+    17N 28ene10 dextro**12N 30nov dextro
+    20N 24feb10 dextro
+    2N 28ene10 dextro
+    9N 05ene10 dextro
+    12N 31may10 levo
+    4N 06mar10 levo
+    17N 30nov dextro
+    13N 05mar10 levo
+    20N 28ene10 levo
+    30N 24feb10 dextro
+    9N 05mar10 levo
+    13N 21jul10 levo
+    4N 24feb10 levo
+    18N 10dic dextro
+    13N 06mar10 dextro21N 05mar10 dextro3N 05ene10 dextro
+    9N 06mar10 dextro
+    13N 24feb10 levo
+    4N 28ene10 levo
+    19N 21jul10 dextro
+    13N 28ene10 dextro21N 21jul10 levo
+    3N 05mar10 dextro
+    9N 21jul10 dextro
+    14N 06mar10 levo
+    5N 21jul10 levo
+    1N 10jun10 dextro
+    13N 30nov dextro
+    21N 24feb10 dextro
+    3N 28ene10 levo
+    9N 24feb10 dextro
+    14N 10dic levo**
+    5N 24feb10 levo*
+    22N 06mar10 dextro
+    4N 05mar10 dextro22N 05mar10 dextro
+    3N 30nov dextro
+    9N 30nov dextro
+    15N 06mar10 levo
+    5N 31may10 levo
+    23N 21jul10 dextro
+    14N 21jul10 dextro
+    22N 21jul10 levo
+    4N 05mar10 levo
+    15N 28ene10 levo
+    6N 31may10 levo
+    26N 06mar10 dextro
+    14N 24feb10 dextro
+    22N 24teb10 dextro
+    4N 10dic levo
+    16N 06mar10 levo
+    7N 06mar10 levo
+    2N 21jul10 dextro
+    14N 28ene10 levo
+    22N 24feb10 levo
+    4N 21jul10 dextro
+    16N 21jul10 levo
+    7N 21jul10 levo
+    2N 24feb10 dextro
+    14N 30nov levo
+    23N 05mar10 levo
+    4N 30nov dextro
+    17N 21jul10 levo
+    8N 06mar10 levo
+    2N 30nov dextro**
+    15N 05mar10 dextro23N 24feb10 dextro
+    5N 05mar10 dextro
+    18N 21jul10 levo
+    8N 24feb10 levo
+    2N 31may10 dextro
+    15N 21jul10 levo
+    24N 05mar10 dextro
+    5N 06mar10 dextro
+    18N 24feb10 levo**
+    8N 31may10 levo
+    3N 31may10 dextro
+    16N 05mar10 dextro24N 21jul10 levo
+    5N 28ene10 dextro
+    19N 05mar10 levo**
+    9N 11jun10 levo
+    4N 05ene10 dextro
+    16N 28ene10 dextro24N 24feb10 dextro
+    5N 30nov dextro
+    19N 24feb10 levo**
+    9N 28ene10 levo**
+    4N 31may10 dextro
+    16N 30nov dextro
+    25N 05mar10 levo
+    6N 05mar10 dextro
+    19N 28ene10 levo
+    9N 31may10 levo*
+    5N 05ene10 dextro
+    17N 05mar10 dextro25N 24feb10 dextro
+    6N 06mar10 dextro
+    1N 05ene10 levo
+    6N 05ene10 dextro
+    17N 24feb10 dextro26N 05mar10 dextro
+    6N 24feb10 dextro
+    1N 24feb10 dextrobis
+    6N 21jul10 dextro**
+    18N 05mar10 dextro26N 21jul10 levo
+    6N 28ene10 dextro
+    1N 24feb10 levo
+    7N 05ene10 dextro
+    18N 06mar10 levo
+    27N 05mar10 dextro
+    6N 30nov dextro
+    20N 06mar10 levo
+    9N 10dic dextro
+    18N 28ene10 levo
+    27N 21jul10 dextro
+    7N 05mar10 levo
+    RED SOUTH
+    0
+    d
+    11S 18ene10 levo4s 27nov levo**
+    10S 03feb10 dextro
+    20S 27nov levo**
+    10S 02dic levo
+    16S 22feb10 dextro29S 22feb10 dextro
+    12S 10jun10 levo5S 22feb10 levo
+    10S 10jun10 dextro
+    23S 10jun10 dextro 10S 18ene10 dextro 17S 03feb10 dextro29S 28jul10 dextro
+    12S 18ene10 levo**5S 28jul10 levo
+    10S 22feb10 dextro
+    23S 22feb10 dextro 10S 27nov levo
+    17S 10jun10 dextro2S 02dic levo
+    13S 02dic levo
+    6S 04 ene10 levo
+    10S 28jul10 dextro
+    23S 28jul10 dextro11S 02dic dextro
+    17S 22feb10 dextro2S 04ene10 dextro
+    13S 10jun10 levo**6S 18ene10 levo
+    11S 04ene10 dextro
+    24S 22feb10 dextro11S 03feb10 dextro 17S 27nov levo
+    2S 18ene10 dextro
+    13S 27nov levo**
+    6S 28jul10 levo
+    11S 22feb10 dextro
+    26S 28jul10 dextro11S 10jun10 dextro18S 02dic dextro
+    2S 27nov levo
+    14S 10jun10 levo
+    7S 10jun10 levo
+    12S 03feb10 dextro
+    27S 10jun10 dextro11S 27nov dextro
+    18S 10jun10 dextro3S 04ene10 levo
+    15S 18ene10 levo
+    8S 28jul10 levo
+    12S 22feb10 dextro
+    28S 10jun10 dextro11S 28jul10 levo
+    18S 27nov levo
+    3S 22feb10 dextro
+    16S 04ene10 levo
+    9S 10jun10 levo
+    14S 04ene10 dextro**
+    28S 22feb10 dextro
+    12S 02dic dextro
+    18S 28jul10 levo
+    3S 27nov levo
+    17S 18ene10 levo
+    9S 18ene10 levo
+    14S 22feb10 dextro
+    2S 03feb10 dextro
+    12S 04ene10 dextro19S 02dic dextro
+    4S 04ene10 levo
+    18S 18ene10 levo
+    9S 22feb10 levo
+    14S 28jul10 dextro
+    2S 10jun10 dextro
+    12s 27nov levo
+    19S 10iun10 dextro4S 18ene10 levo
+    1S 03feb10 levo
+    15S 22feb10 dextro**
+    2S 22feb10 dextro12S 28jul10 dextro 19S 22feb10 dextro5S 03feb10 dextro
+    1S 22feb10 levo
+    16S 10jun10 dextro
+    30S 10jun10 dextro13S 03feb10 levo19S 27nov levo
+    5S 10jun10 dextro
+    20S 18ene10 levo**
+    16S 27noy levo
+    4S 28jul10 dextro
+    13S 04ene10 dextro 1s 27noy levo
+    5S 18ene10 dextro
+    20S 22feb10 levo
+    16S 28jul10 dextro**
+    6S 03feb10 dextro
+    13S 18ene10 dextro 20S 02dic dextro
+    5s 27nov levo
+    21S 22feb10 levo
+    17S 02dic dextro**
+    6S 22feb10 dextro
+    13S 22feb10 dextro 20S 03feb10 dextro6S 10jun10 dextro
+    21S 28jul10 levo
+    17S 28jul10 dextro
+    7S 03feb10 dextro**13S 28jul10 dextro20S 10jun10 dextro6s 27nov levo
+    22S 10jun10 levo
+    18S 03feb10 dextro
+    7S 22feb10 dextro
+    14S 02dic levo
+    20S 28jul10 dextro
+    7S 28jul10 dextro
+    25S 10jun10 levo
+    18S 04ene10 dextro
+    7s 27nov levo**
+    14S 03feb10 dextro21S 10jun10 dextro8S 270nov levo
+    26S 22feb10 levo
+    18S 22feb10 dextro*
+    BS 03feb10 dextro
+    14S 18ene10 dextro22S 22feb10 dextro
+    8S 22feb10 dextro
+    29S 10jun10 levo
+    19S 03feb10 dextro
+    8S 04ene10 dextro
+    14S 27nov levo
+    22S 28jul10 dextro
+    9S 02dic dextro
+    2S 28jul10 levo
+    19S 04ene10 dextro
+    8S 10jun10 dextro
+    15S 02dic dextro
+    24S 10jun10 levo
+    9S 03feb10 dextro
+    30S 22feb10 levo
+    19S 18ene10 dextro
+    8S 18ene10 dextro15S 03feb10 dextro24S 28jul10 dextro
+    9s 27nov levo
+    3S 03feb10 levo**
+    19S 28jul10 dextro
+    9s 04ene10 dextro 15s 10iun10 dextro25S 22feb10 dextro
+    3S 10jun10 levo
+    1S 018ene10 dextro
+    9S 28jul10 dextro
+    15S 27nov levo
+    25S 28jul10 dextro
+    3S 28jul10 levo
+    1S 04ene10 dextro
+    15S 28jul10 dextro26S 10jun10 levo
+    4S 03feb10 levo
+    1S 10jun10 dextro
+    16S 02dic dextro
+    27S 22feb10 levo
+    4S 10jun10 levo
+    1S 28jul10 dextro
+    16S 03feb10 dextro 27S 28jul10 dextro
+    4S 22feb10 levo
+    20S 04ene10 dextro
+    16S 18ene10 dextro 28S 28jul10 dextro
+    DOUBLE BLIND
+    S5
+
+==========第23页==========
+    DATA COUNTING
+    Experiment counting
+    (d)
+    o
+    including experiments with homochiral output in >90%
+    44
+    57
+    number of experiments with homochiral output in >90%<100%
+    12
+    12
+    ⑨
+    (d)
+    0
+    PURE HOMOCHIRAL OUTPUT,BLUE NORTH
+    32
+    45
+    109
+    Experiment counting
+    )
+    (d)
+    0
+    including experiments with homochiral output in >90%
+    53
+    37
+    78
+    number of experiments with homochiral output in >90%<100%
+    4
+    8
+    )
+    (d)
+    PURE HOMOCHIRAL OUTPUT.BLUE SOUTH
+    49
+    29
+    90
+    Experiment counting
+    )
+    (d)
+    0
+    including experiments with homochiral output in >90%
+    38
+    27
+    92
+    number of experiments with homochiral output in >90%<100%
+    12
+    9
+    )
+    (d)
+    PURE HOMOCHIRAL OUTPUT,GREEN NORTH
+    26
+    18
+    113
+    Experiment counting
+    )
+    (d)
+    0
+    including experiments with homochiral output in >90%
+    37
+    25
+    105
+    number of experiments with homochiral output in >90%<100%
+    13
+    8
+    0
+    d
+    (r)
+    PURE HOMOCHIRAL OUTPUT.GREEN SOUTH
+    24
+    17
+    126
+    Experiment counting
+    ⑨
+    (d)
+    G
+    including experiments with homochiral output in >90%
+    54
+    29
+    102
+    number of experiments with homochiral output in >90%<100%
+    8
+    今
+    PURE HOMOCHIRAL OUTPUT.RED NORTH
+    46
+    26
+    113
+    Experiment counting
+    0
+    (d)
+    0
+    including experiments with homochiral output in >90%
+    40
+    54
+    87
+    number of experiments with homochiral output in >90%<100%
+    ⊙
+    0
+    (d)
+    (0
+    PURE HOMOCHIRAL OUTPUT.RED SOUTH
+    34
+    46
+    95
+    DOUBLE BLIND
+    S6
+
+==========第24页==========
+    BLUE NORTH
+    BLUE NORTH
+    Numero de imagenes:389 Creado en:Jueves 04 Noviembre 2010
+    10N 01feb10 dextro.jpg 10N 01feb10 levo.jpg 10N 07jul10 dextro.jpg 10N 07jul10 levo.jpg
+    10N 08feb10 dextro.jpg 10N 08feb10 levo.jpg 10N 12jul10 dextro.jpg10N 12ul10 levo.jpg
+    10N 14ene10 dextro.jpg 10N 14ene10 levo.jpg 10N 17feb10 dextro.jpg 10N 17feb10 levo.jpg
+    10W25ene10
+    10N 23feb10 dextro.jpg 10N 23feb10 levo.jpg
+    dextro.jpg
+    10N 25ene10 levo.jpg
+    11N 01feb10 dextro.jpg 11N 01feb10 levo.jpg 11N 07jul10 dextro.jpg 11N 08feb10 dextro.jpg
+    DOUBLE BLIND
+    S7
+
+==========第25页==========
+    11N 08feb10 levo.jpg 11N 12jul10 dextro.jpg 11N 12ul10 levo.jpg 11N 17feb10 dextro.jpg
+    11N 17feb10 levo.jpg 11N 23feb10 dextro.jpg 11N 23feb10 levo.jpg 11N 25ene10 dextro.jpg
+    11N 25ene10 levo.jpg 12N 01feb10 dextro.jpg12N 01feb10 levo.jpg 12N 07jul10 dextro.jpg
+    12N 07jul10 levo.jpg 12N 08feb10 dextro.jpg 12N 08feb10 levo.jpg 12N 12jul10 dextro.jpg
+    12N 12ul10 levo.jpg 12N 17feb10 dextro.jpg 12N 17feb10 levo.jpg 12N 23feb10 dextro.jpg
+    12N 23feb10 levo.jpg
+    12N25ene10
+    dextro.jpg
+    12N 25ene10 levo.jpg 13N 01feb10 dextro.jpg
+    DOUBLE BLIND
+    S8
+
+==========第26页==========
+    13N 01feb10 levo.jpg 13N 07jul10 dextro.jpg13N 07jul10 levo.jpg 13N 08feb10 dextro.jpg
+    13N 08feb10 levo.jpg 13N 12jul10 dextro.jpg 13N 12ul10 levo.jpg 13N 14ene10 dextro.jpg
+    13N 14ene10 levo.jpg 13N 23feb10 dextro.jpg13N 23feb10 levo.jpg 13N 25ene10 dextro.jpg
+    13N 25ene10 levo.jpg 14N 01feb10 dextro.jpg 14N 01feb10 levo.jpg 14N 07jul10 dextro.jpg
+    14N 07jul10 levo.jpg 14N 08feb10 dextro.jpg 14N 08feb10 levo.jpg 14N 12jul10 dextro.jpg
+    14N 12ul10 levo.jpg 14N 17feb10 dextro.jpg 14N 17feb10 levo.jpg 14N 23feb10 dextro.jpg
+    DOUBLE BLIND
+    S9
+
+==========第27页==========
+    14N25ene10
+    14N 23feb10 levo.jpg
+    dextro.jpg
+    14N 25ene10 levo.jpg 15N 01feb10 dextro.jpg
+    15N 01feb10 levo.jpg 15N 07jul10 dextro.jpg 15N 07jul10 levo.jpg 15N 08feb10 dextro.jpg
+    15N 08feb10 levo.jpg15N 12jul10 dextro.jpg15N 12ul10 levo.jpg15N 17feb10 dextro.jpg
+    15N 17feb10 levo.jpg 15N 23feb10 dextro.jpg 15N 23feb10 levo.jpg 15N 25ene10 dextro.jpg
+    15N 25ene10 levo.jpg 16N 01feb10 dextro.jpg 16N 01feb10 levo.jpg 16N 07jul10 dextro.jpg
+    16N 07jul10 levo.jpg 16N 08feb10 dextro.jpg 16N 08feb10 levo.jpg 16N 12jul10 dextro.jpg
+    DOUBLE BLIND
+    S10
+
+==========第28页==========
+    16N 12ul10 levo.jpg
+    16N14ene10
+    dextro.jpg
+    16N 14ene10 levo.jpg 16N 17feb10 dextro.jpg
+    16N 17feb10 levo.jpg 16N 23feb10 dextro.jpg 16N 23feb10 levo.jpg 16N 25ene10 dextro.jpg
+    16N 25ene10 levo.jpg 17N 01feb10 dextro.jpg17N 01feb10 levo.jpg 17N 07jul10 dextro.jpg
+    17N 07jul10 levo.jpg 17N 08feb10 dextro.jpg 17N 08feb10 levo.jpg 17N 12jul10 dextro.jpg
+    17N 12ul10 levo.jpg
+    17N14ene10
+    dextro.jpg
+    17N 14ene10 levo.jpg 17N 17feb10 dextro.jpg
+    17N 17feb10 levo.jpg 17N 23feb10 dextro.jpg 17N 23feb10 levo.jpg 17N 25ene10 dextro.jpg
+    DOUBLE BLIND
+    S11
+
+==========第29页==========
+    17N 25ene10 levo.jpg 18N 01feb10 dextro.jpg18N 01feb10 levo.jpg 18N 07jul10 dextro.jpg
+    18N 07jul10 levo.jpg 18N 12jul10 dextro.jpg 18N 12ul10 levo.jpg 18N 14ene10 dextro.jpg
+    18N 14ene10 levo.jpg 18N 17feb10 dextro.jpg 18N 17feb10 levo.jpg 18N 23feb10 dextro.jpg
+    18N25ene10
+    18N 23feb10 levo.jpg
+    dextro.jpg
+    18N 25ene10 levo.jpg 19N 01feb10 dextro.jpg
+    19N 01feb10 levo.jpg 19N 07jul10 dextro.jpg 19N 07jul10 levo.jpg 19N 12jul10 dextro.jpg
+    19N 12ul10 levo.jpg 19N 17feb10 dextro.jpg 19N 17feb10 levo.jpg 19N 23feb10 dextro.jpg
+    DOUBLE BLIND
+    S12
+
+==========第30页==========
+    19N 23feb10 levo.jpg
+    19N25ene10
+    dextro.jpg
+    19N 25ene10 levo.jpg 1N 01feb10 dextro.jpg
+    1N 01feb10 levo.jpg 1N 07jul10 dextro.jpg 1N 07jul10 levo.jpg 1N 08feb10 dextro.jpg
+    IN 08feb10 levo.jpg 1N 12jul10 dextro.jpg
+    1N 12ul10 levo.jpg
+    1N 14ene10 dextro.jpg
+    1N 14ene10 levo.jpg 1N 17feb10 dextro.jpg 1N 17feb10 levo.jpg 1N 23feb10 dextro.jpg
+    IN 23feb10 levo.jpg 1N 25ene10 dextro.jpg1N 25ene10 levo.jpg 20N 01feb10 dextro.jpg
+    20N 01feb10 levo.jpg 20N 07jul10 dextro.jpg 20N 07jul10 levo.jpg 20N 12jul10 dextro.jpg
+    DOUBLE BLIND
+    S13
+
+==========第31页==========
+    20N 12ul10 levo.jpg20N 17feb10 dextro.jpg 20N 17feb10 levo.jpg 20N 23feb10 dextro.jpg
+    20N 23feb10 levo.jpg
+    20N25ene10
+    dextro.jpg
+    20N 25ene10 levo.jpg 21N 07jul10 dextro.jpg
+    21N 07jul10 levo.jpg21N 12jul10 dextro.jpg21N 12ul10 levo.jpg 21N 17feb10 dextro.jpg
+    21N 17feb10 levo.jpg 21N 23feb10 dextro.jpg 21N 23feb10 levo.jpg 22N 07jul10 dextro.jpg
+    22N 07jul10 levo.jpg 22N 12jul10 dextro.jpg 22N 12ul10 levo.jpg 22N 17feb10 dextro.jpg
+    22N 17feb10 levo.jpg 22N 23feb10 dextro.jpg 22N 23feb10 levo.jpg 23N 07jul10 dextro.jpg
+    DOUBLE BLIND
+    S14
+
+==========第32页==========
+    23N 07iul10 levo.ipg 23N 12jul10 dextro.jpg 23N 12ul10 levo.jpg23N 17feb10 dextro.jpg
+    23N 17feb10 levo.jpg 23N 23feb10 dextro.jpg 23N 23feb10 levo.jpg 24N 07jul10 dextro.jpg
+    24N 07jul10 levo.jpg24N 12jul10 dextro.jpg 24N 12ul10 levo.jpg24N 17feb10 dextro.jpg
+    24N 17feb10 levo.jpg 24N 23feb10 dextro.jpg 24N 23feb10 levo.jpg 25N 07jul10 dextro.jpg
+    25N 07jul10 levo.jpg 25N 12jul10 dextro.jpg 25N 12ul10 levo.jpg 25N 17feb10 dextro.jpg
+    25N 17feb10 levo.jpg 25N 23feb10 dextro.jpg 25N 23feb10 levo.jpg 26N 07jul10 dextro.jpg
+    DOUBLE BLIND
+    S15
+
+==========第33页==========
+    26N 07jul10 levo.jpg 26N 12jul10 dextro.jpg 26N 12ul10 levo.jpg 26N 17feb10 dextro.jpg
+    26N 17feb10 levo.jpg 26N 23feb10 dextro.jpg 26N 23feb10 levo.jpg 27N 07jul10 dextro.jpg
+    27N 07jul10 levo.jpg27N 12jul10 dextro.jpg 27N 12ul10 levo.jpg 27N 17feb10 dextro.jpg
+    27N 17feb10 levo.jpg 27N 23feb10 dextro.jpg 27N 23feb10 levo.jpg 28N 07jul10 dextro.jpg
+    28N 07jul10 levo.jpg 28N 12jul10 dextro.jpg 28N 12ul10 levo.jpg 28N 17feb10 dextro.jpg
+    28N 17feb10 levo.jpg 28N 23feb10 dextro.jpg 28N 23feb10 levo.jpg 29N 07jul10 dextro.jpg
+    DOUBLE BLIND
+    S16
+
+==========第34页==========
+    29N 07jul10 levo.ipg 29N 12jul10 dextro.jpg29N 12ul10 levo.jpg 29N 17feb10 dextro.jpg
+    29N 17feb10 levo.jpg 2N 01feb10 dextro.jpg 2N 01feb10 levo.jpg2N 07jul10 dextro.jpg
+    2N 07jul10 levo.jpg2N 08feb10 dextro.jpg2N 08feb10 levo.jpg2N 12jul10 dextro.jpg
+    2N 12ul10 levo.jpg
+    2N 14ene10 dextro.jpg 2N 14ene10 levo.jpg 2N 17feb10 dextro.jpg
+    2N 17feb10 levo.jpg 2N 23feb10 dextro.jpg2N 23feb10 levo.jpg 2N 25ene10 dextro.jpg
+    2N 25ene10 levo.jpg 30N 07jul10 dextro.jpg 30N 07jul10 levo.jpg 30N 12jul10 dextro.jpg
+    DOUBLE BLIND
+    S17
+
+==========第35页==========
+    30N 12ul10 levo.jpg 30N 17feb10 dextro.jpg 30N 17feb10 levo.jpg3N 01feb10 dextro.jpg
+    3N 01feb10 levo.jpg 3N 07jul10 dextro.jpg 3N 07jul10 levo.jpg 3N 08feb10 dextro.jpg
+    3N 08feb10 levo.jpg 3N 12jul10 dextro.jpg 3N 12ul10 levo.jpg3N 17feb10 dextro.jpg
+    3N 17feb10 levo.jpg 3N 23feb10 dextro.jpg 3N 23feb10 levo.jpg 3N 25ene10 dextro.jpg
+    3N 25ene10 levo.jpg 4N 01feb10 dextro.jpg 4N 01feb10 levo.jpg 4N 07jul10 dextro.jpg
+    4N 07jul10 levo.jpg 4N 08feb10 dextro.jpg 4N 08feb10 levo.jpg 4N 12jul10 dextro.jpg
+    DOUBLE BLIND
+    S18
+
+==========第36页==========
+    4N 12ul10 levo.ipg 4N 14ene10 dextro.jpg4N 14ene10 levo.jpg 4N 17feb10 dextro.jpg
+    4N 17feb10 levo.jpg 4N 23feb10 dextro.jpg 4N 23feb10 levo.jpg 4N 25ene10 dextro.jpg
+    4N 25ene10 levo.jpg5N 01feb10 dextro.jpg5N 01feb10 levo.jpg5N 07jul10 dextro.jpg
+    5N 07jul10 levo.jpg 5N 08feb10 dextro.jpg 5N 08feb10 levo.jpg 5N 12jul10 dextro.jpg
+    5N 12ul10 levo.jpg5N 14ene10 dextro.jpg 5N 14ene10 levo.jpg 5N 17feb10 dextro.jpg
+    5N 17feb10 levo.jpg 5N 23feb10 dextro.jpg 5N 23feb10 levo.jpg 5N 25ene10 dextro.jpg
+    DOUBLE BLIND
+    S19
+
+==========第37页==========
+    5N 25ene10 levo.jpg 6N 01feb10 dextro.jpg 6N 01feb10 levo.jpg 6N 07jul10 dextro.jpg
+    6N 07jul10 levo.jpg 6N 08feb10 dextro.jpg 6N 08feb10 levo.jpg 6N 12jul10 dextro.jpg
+    6N 12ul10 levo.jpg 6N 17feb10 dextro.jpg6N 17feb10 levo.jpg6N 23feb10 dextro.jpg
+    6N 23feb10 levo.jpg 6N 25ene10 dextro.jpg 6N 25ene10 levo.jpg 7N 01feb10 dextro.jpg
+    7N 01feb10 levo.jpg 7N 07jul10 dextro.jpg 7N 07jul10 levo.jpg 7N 08feb10 dextro.jpg
+    7N 08feb10 levo.jpg 7N 12jul10 dextro.jpg7N 12ul10 levo.jpg 7N 14ene10 dextro.jpg
+    DOUBLE BLIND
+    S20
+
+==========第38页==========
+    7N 14ene10 levo.jpg 7N 17feb10 dextro.jpg7N 17feb10 levo.jpg 7N 23feb10 dextro.jpg
+    7N 23feb10 levo.jpg7N 25ene10 dextro.jpg 7N 25ene10 levo.jpg8N 01feb10 dextro.jpg
+    8N 01feb10 levo.jpg 8N 07jul10 dextro.jpg8N 07jul10 levo.jpg8N 08feb10 dextro.jpg
+    8N 08feb10 levo.jpg 8N 12jul10 dextro.jpg 8N 12ul10 levo.jpg 8N 14ene10 dextro.jpg
+    8N 14ene10 levo.jpg 8N 17feb10 dextro.jpg 8N 17feb10 levo.jpg 8N 23feb10 dextro.jpg
+    8N 23feb10 levo.jpg 8N 25ene10 dextro.jpg 8N 25ene10 levo.jpg 9N 01feb10 dextro.jpg
+    DOUBLE BLIND
+    S21
+
+==========第39页==========
+    9N 01feb10 levo.jpg 9N 07jul10 dextro.jpg9N 07jul10 levo.jpg 9N 08feb10 dextro.jpg
+    9N 08feb10 levo.jpg 9N 12jul10 dextro.jpg 9N 12ul10 levo.jpg 9N 14ene10 dextro.jpg
+    9N 14ene10 levo.jpg 9N 17feb10 dextro.jpg9N 17feb10 levo.jpg9N 23feb10 dextro.jpg
+    9N 23feb10 levo.jpg 9N 25ene10 dextro.jpg 9N 25ene10 levo.jpg
+    DOUBLE BLIND
+    S22
+
+==========第40页==========
+    BLUE South
+    Numero de imagenes:336
+    Creado en:Jueves 04 Noviembre 2010
+    10S 04feb10 dextro.jpg10S 04feb10 levo.jpg 10S 09feb10 dextro.jpg 10S 09feb10 levo.jpg
+    10S 09jul10 dextro.jpg 10S 09jul10 levo.jpg 10S 14jul10 dextro.jpg10S 14jul10 levo.jpg
+    10S 19feb10 dextro.jpg 10S 19feb10 levo.jpg10S 21ene10 dextro.jpg 10S 21ene10 levo.jpg
+    10S 27ene10 dextro.jpg 10S 27ene10 levo.jpg 10S 28 dic dextro.jpg
+    10S 28 dic levo.jpg
+    11S 04feb10 dextro.jpg 11S 04feb10 levo.jpg 11S 09feb10 dextro.jpg 11S 09feb10 levo.jpg
+    DOUBLE BLIND
+    S23
+
+==========第41页==========
+    11S 09jul10 dextro.jpg 11S 09jul10 levo.jpg11s 14jul10 dextro.jpg 11s 14jul10 levo.jpg
+    11S 19feb10 dextro.jpg 11S 19feb10 levo.jpg 11S 21ene10 dextro.jpg 11S 21ene10 levo.jpg
+    11S 27ene10 dextro.jpg 11S 27ene10 levo.jpg11S 28 dic dextro.jpg
+    11S 28 dic levo.jpg
+    12S 04feb10 dextro.jpg 12S 04feb10 levo.jpg 12S 09feb10 dextro.jpg 12S 09feb10 levo.jpg
+    12S 09jul10 dextro.jpg 12S 09jul10 levo.jpg 12S 14jul10 dextro.jpg 12S 14jul10 levo.jpg
+    12S 19feb10 dextro.jpg 12S 19feb10 levo.jpg 12S 27ene10 dextro.jpg 12S 27ene10 levo.jpg
+    DOUBLE BLIND
+    S24
+
+==========第42页==========
+    12S 28 dic dextro.jpg12S 28 dic levo.jpg13S 04feb10 dextro.jpg 13S 04feb10 levo.jpg
+    13S 09feb10 dextro.jpg 13S 09feb10 levo.jpg 13S 09jul10 dextro.jpg 13S 09jul10 levo.jpg
+    13S 14jul10 dextro.jpg 13S 14jul10 levo.jpg13S 19feb10 dextro.jpg 13S 19feb10 levo.jpg
+    13S 21ene10 dextro.jpg 13S 21ene10 levo.jpg 13S 27ene10 dextro.jpg 13S 27ene10 levo.jpg
+    13S 28 dic dextro.jpg 13S 28 dic levo.jpg 14S 04feb10 dextro.jpg 14S 04feb10 levo.jpg
+    14S 09feb10 dextro.jpg 14S 09feb10 levo.jpg 14S 14jul10 dextro.jpg 14S 14jul10 levo.jpg
+    DOUBLE BLIND
+    S25
+
+==========第43页==========
+    14S 19feb10 dextro.jpg 14S 19feb10 levo.jpg14S 21ene10 dextro.jpg 14S 21ene10 levo.jpg
+    14S 27ene10 dextro.jpg 14S 27ene10 levo.jpg 14S 28 dic dextro.jpg14S 28 dic levo.jpg
+    15S 04feb10 dextro.jpg15S 04feb10 levo.jpg15S 09feb10 dextro.jpg15S 09feb10 levo.jpg
+    15S 14jul10 dextro.jpg 15S 14jul10 levo.jpg15S 19feb10 dextro.jpg 15S 19feb10 levo.jpg
+    15S 21ene10 dextro.jpg 15S 21ene10 levo.jpg15S 27ene10 dextro.jpg 15S 27ene10 levo.jpg
+    15S 28 dic dextro.jpg
+    15S 28 dic levo.jpg 16S 04feb10 dextro.jpg 16S 04feb10 levo.jpg
+    DOUBLE BLIND
+    S26
+
+==========第44页==========
+    16S 09feb10 dextro.jpg 16S 09feb10 levo.jpg16S 14jul10 dextro.jpg 16S 14jul10 levo.jpg
+    16S 19feb10 dextro.jpg 16S 19feb10 levo.jpg 16S 21ene10 dextro.jpg 16S 21ene10 levo.jpg
+    16S 27ene10 dextro.jpg 16S 27ene10 levo.jpg16S 28 dic dextro.jpg 16S 28 dic levo.jpg
+    17S 04feb10 dextro.jpg 17S 04feb10 levo.jpg 17S 09feb10 dextro.jpg17S 09feb10 levo.jpg
+    17S 14jul10 dextro.jpg 17S 14jul10 levo.jpg 17S 19feb10 dextro.jpg 17S 19feb10 levo.jpg
+    17S 21ene10 dextro.jpg 17S 21ene10 levo.jpg 17S 27ene10 dextro.jpg 17S 27ene10 levo.jpg
+    DOUBLE BLIND
+    S27
+
+==========第45页==========
+    17S 28 dic dextro.jpg17S 28 dic levo.ipg 18S 04feb10 dextro.jpg18S 04feb10 levo.jpg
+    18S 09feb10 dextro.jpg 18S 09feb10 levo.jpg 18S 14jul10 dextro.jpg 18S 14jul10 levo.jpg
+    18S 19feb10 dextro.jpg 18S 19feb10 levo.jpg 18S 21ene10 dextro.jpg18S 21ene10 levo.jpg
+    18S 27ene10 dextro.jpg 18S 27ene10 levo.jpg 18S 28 dic dextro.jpg 185 28 dic levo.jpg
+    19S 04feb10 dextro.jpg 19S 04feb10 levo.jpg 19S 09feb10 dextro.jpg 19S 09feb10 levo.jpg
+    19S 14jul10 dextro.jpg 19S 14jul10 levo.jpg 19S 19feb10 dextro.jpg 19S 19feb10 levo.jpg
+    DOUBLE BLIND
+    S28
+
+==========第46页==========
+    19S 21ene10 dextro.jpg 19S 21ene10 levo.jpg19S 27ene10 dextro.jpg 19S 27ene10 levo.jpg
+    19S 28 dic dextro.jpg
+    19S 28 dic levo.jpg 1S 04feb10 dextro.jpg 1S 04feb10 levo.jpg
+    1S 09feb10 dextro.jpg 1S 09feb10 levo.jpg
+    1S 09jul10 dextro.jpg1S 09jul10 levo.jpg
+    1S 14jul10 dextro.jpg 1S 14jul10 levo.jpg 1S 19feb10 dextro.jpg 1S 19feb10 levo.jpg
+    1S 21ene10 dextro.jpg 1S 21ene10 levo.jpg 1S 27ene10 dextro.jpg1S 27ene10 levo.jpg
+    1s 28 dic dextro.jpg
+    1S 28 dic levo.jpg 20S 09feb10 dextro.jpg 20S 09feb10 levo.jpg
+    DOUBLE BLIND
+    S29
+
+==========第47页==========
+    20S 14jul10 dextro.jpg 20S 14jul10 levo.jpg20S 18ene10 dextro.jpg 20S 19feb10 dextro.jpg
+    20S 19feb10 levo.jpg 20S 21ene10 levo.jpg 20S 27ene10 dextro.jpg 20S 27ene10 levo.jpg
+    20S 28 dic dextro.jpg
+    20S 28 dic levo.jpg 21S 14jul10 dextro.jpg21S 14jul10 levo.jpg
+    21S 19feb10 dextro.jpg 21S 19feb10 levo.jpg 22S 14jul10 levo.jpg 22S 19feb10 dextro.jpg
+    22S 19feb10 levo.jpg 23S 14jul10 dextro.jpg 23S 14jul10 levo.jpg 23S 19feb10 dextro.jpg
+    23S 19feb10 levo.jpg 24S 14jul10 dextro.jpg 24S 14jul10 levo.jpg 24S 19feb10 dextro.jpg
+    DOUBLE BLIND
+    S30
+
+==========第48页==========
+    24S 19feb10 levo.jpg 25S 14jul10 dextro.jpg25S 14jul10 levo.jpg 25S 19feb10 dextro.jpg
+    25S 19feb10 levo.jpg 26S 14jul10 dextro.jpg 26S 14jul10 levo.jpg 26S 19feb10 dextro.jpg
+    26S 19feb10 levo.jpg 27S 14jul10 dextro.jpg27S 14jul10 levo.jpg 27S 19feb10 dextro.jpg
+    27S 19feb10 levo.jpg 28S 14jul10 dextro.jpg28S 14jul10 levo.jpg 28S 19feb10 dextro.jpg
+    28S 19feb10 levo.jpg 29S 14jul10 dextro.jpg 29S 14jul10 levo.jpg29S 19feb10 dextro.jpg
+    29S 19feb10 levo.jpg 2S 04feb10 dextro.jpg2S 04feb10 levo.jpg 2S 09feb10 dextro.jpg
+    DOUBLE BLIND
+    S31
+
+==========第49页==========
+    2S 09feb10 levo.jpg 2S 09jul10 dextro.jpg2S 09jul10 levo.jpg 2S 14jul10 dextro.jpg
+    2S 14jul10 levo.jpg 2S 19feb10 dextro.jpg2S 19feb10 levo.jpg 2S 21ene10 dextro.jpg
+    2S 27ene10 dextro.jpg 2S 27ene10 levo.jpg2S 28 dic dextro.jpg
+    2S 28 dic levo.jpg
+    30S 19feb10 dextro.jpg 30S 19feb10 levo.jpg 3S 04feb10 dextro.jpg 3S 04feb10 levo.jpg
+    3S 09feb10 dextro.jpg 3S 09feb10 levo.jpg 3S 09jul10 dextro.jpg 3S 09jul10 levo.jpg
+    3S 14jul10 dextro.jpg 3S 14jul10 levo.jpg 3S 19feb10 dextro.jpg 3S 19feb10 levo.jpg
+    DOUBLE BLIND
+    S32
+
+==========第50页==========
+    3S 27ene10
+    3S 27ene10 dextro.jpg
+    dextrobis.jpg
+    3S 27ene10 levo.jpg 3S 27ene10 levobis.jpg
+    3S 28 dic dextro.jpg 3S 28 dic levo.jpg 4S 04feb10 dextro.jpg4S 04feb10 levo.jpg
+    4S 09feb10 dextro.jpg4S 09feb10 levo.jpg
+    4S 09jul10 dextro.jpg
+    4S 09jul10 levo.jpg
+    4S 14jul10 dextro.jpg
+    4S 14jul10 levo.jpg 4S 19feb10 dextro.jpg4S 19feb10 levo.jpg
+    4S 27ene10 dextro.jpg 4S 27ene10 levo.jpg4S 28 dic dextro.jpg 4S 28 dic levo.jpg
+    5S 04feb10 dextro.jpg 5S 04feb10 levo.jpg 5S 09feb10 dextro.jpg 5S 09feb10 levo.jpg
+    DOUBLE BLIND
+    S33
+
+==========第51页==========
+    5S 09jul10 dextro.jpg
+    5S 09jul10 levo.ipg 5S 14jul10 dextro.jpg5S 14jul10 levo.jpg
+    5S 19feb10 dextro.jpg 5S 19feb10 levo.jpg5S 21ene10 dextro.jpg 5S 21ene10 levo.jpg
+    5S 27ene10 dextro.jpg5S 27ene10 levo.jpg
+    5S 28 dic dextro.jpg
+    5S 28 dic levo.jpg
+    6S 04feb10 dextro.jpg 6S 04feb10 levo.jpg 6S 09feb10 dextro.jpg6S 09feb10 levo.jpg
+    6S 09jul10 dextro.jpg 6S 09jul10 levo.jpg 6S 14jul10 dextro.jpg 6S 14jul10 levo.jpg
+    6S 19feb10 dextro.jpg 6S 19feb10 levo.jpg 6S 21ene10 dextro.jpg 6S 21ene10 levo.jpg
+    DOUBLE BLIND
+    S34
+
+==========第52页==========
+    6S 27ene10 dextro.jpg 6S 27ene10 levo.jpg6S 28 dic dextro.jpg
+    6S 28 dic levo.jpg
+    7S 04feb10 dextro.jpg 7S 04feb10 levo.jpg7S 09feb10 dextro.jpg
+    7S 09feb10 levo.jpg
+    7S 09jul10 dextro.jpg
+    7S 09jul10 levo.jpg
+    7S 14jul10 dextro.jpg
+    7S 14jul10 levo.jpg
+    7S 19feb10 dextro.jpg 7S 19feb10 levo.jpg 7S 21ene10 dextro.jpg 7S 21ene10 levo.jpg
+    7S 27ene10 dextro.jpg 7S 27ene10 levo.jpg7S 28 dic dextro.jpg 7S 28 dic levo.jpg
+    8S 04feb10 dextro.jpg 8S 04feb10 levo.jpg 8S 09feb10 dextro.jpg 8S 09feb10 levo.jpg
+    DOUBLE BLIND
+    S35
+
+==========第53页==========
+    8S 09jul10 dextro.jpg 8S 09jul10 levo.jpg 8S 14jul10 dextro.jpg8S 14jul10 levo.jpg
+    8S 19feb10 dextro.jpg 8S 19feb10 levo.jpg 8S 21ene10 dextro.jpg 8S 21ene10 levo.jpg
+    8S 27ene10 dextro.jpg 8S 27ene10 levo.jpg
+    8S 28 dic dextro.jpg
+    8S 28 dic levo.jpg
+    9S 04feb10 dextro.jpg 9S 04feb10 levo.jpg 9S 09feb10 dextro.jpg 9S 09feb10 levo.jpg
+    9S 09jul10 dextro.jpg 9S 09jul10 levo.jpg9S 14jul10 dextro.jpg 9S 14jul10 levo.jpg
+    9S 19feb10 dextro.jpg 9S 19feb10 levo.jpg 9S 21ene10 dextro.jpg 9S 21ene10 levo.jpg
+    DOUBLE BLIND
+    S36
+
+==========第54页==========
+    9S 27ene10 dextro.jpg 9S 27ene10 levo.jpg 9S 28 dic dextro.jpg9S 28 dic levo.jpg
+    DOUBLE BLIND
+    S37
+
+==========第55页==========
+    GREEN NORTH
+    Numero de imagenes:313
+    Creado en:Jueves 04 Noviembre 2010
+    10N 08ene10 dextro.jpg 10N 08ene10 levo.jpg 10N 18feb10 dextro.jpg 10N 18feb10 levo.jpg
+    10N 24jun10 dextro.jpg 10N 24jun10 levo.jpg
+    10N27may10
+    dextro.jpg
+    10N 27may10 levo.jpg
+    10N 29ene10 dextro.jpg 10N 29ene10 levo.jpg 10N 6jul10 dextro.jpg10N 6jul10 levo.jpg
+    11 6jul10 dextro.jpg 11N 08ene10 dextro.jpg 11N 08ene10 levo.jpg 11N 18feb10 dextro.jpg
+    11N 18feb10 levo.jpg 11N 24jun10 dextro.jpg 11N 24jun10 levo.jpg
+    11N27may10
+    dextro.jpg
+    DOUBLE BLIND
+    S38
+
+==========第56页==========
+    11N 27may10 levo.jpg 11N 29ene10 dextro.jpg11N 29ene10 levo.jpg11N 6jul10 levo.jpg
+    12N 08ene10 dextro.jpg 12N 08ene10 levo.jpg 12N 18feb10 dextro.jpg 12N 18feb10 levo.jpg
+    12N 24jun10 dextro.jpg 12N 24jun10 levo.jpg
+    12N27may10
+    dextro.jpg
+    12N 27may10 levo.jpg
+    12N 29ene10 dextro.jpg 12N 29ene10 levo.jpg 12N 6jul10 dextro.jpg
+    12N 6jul10 levo.jpg
+    13N 08ene10 dextro.jpg 13N 08ene10 levo.jpg13N 17dic dextro.jpg 13N 17dic levo.jpg
+    13N 18feb10 dextro.jpg 13N 18feb10 levo.jpg 13N 24jun10 dextro.jpg 13N 24jun10 levo.jpg
+    DOUBLE BLIND
+    S39
+
+==========第57页==========
+    13N27may10
+    dextro.jpg
+    13N 27may10 levo.jpg 13N 29ene10 dextro.jpg 13N 29ene10 levo.jpg
+    13N 6jul10 dextro.jpg
+    13N 6jul10 levo.jpg 14N 08ene10 dextro.jpg 14N 08ene10 levo.jpg
+    14N 18feb10 dextro.jpg 14N 18feb10 levo.jpg 14N 24jun10 dextro.jpg 14N 24jun10 levo.jpg
+    14N27may10
+    dextro.jpg
+    14N 27may10 levo.jpg 14N 29ene10 dextro.jpg 14N 29ene10 levo.jpg
+    14N 6jul10 dextro.jpg 14N 6jul10 levo.jpg 15N 08ene10 dextro.jpg 15N 08ene10 levo.jpg
+    15N 18feb10 dextro.jpg 15N 18feb10 levo.jpg 15N 24jun10 dextro.jpg 15N 24jun10 levo.jpg
+    DOUBLE BLIND
+    S40
+
+==========第58页==========
+    15N27may10
+    dextro.jpg
+    15N 27may10 levo.jpg 15N 29ene10 dextro.jpg 15N 29ene10 levo.jpg
+    15N 6jul10 dextro.jpg 15N 6jul10 levo.jpg 16 24jun10 dextro.jpg 16N 08ene10 dextro.jpg
+    16N 08ene10 levo.jpg16N 18feb10 dextro.jpg 16N 18feb10 levo.jpg16N 24jun10 dextro.jpg
+    16N 24jun10 levo.jpg 16N 29ene10 dextro.jpg 16N 29ene10 levo.jpg 16N 6jul10 dextro.jpg
+    16N 6jul10 levo.jpg 17N 08ene10 dextro.jpg 17N 08ene10 levo.jpg 17N 18feb10 dextro.jpg
+    17N 18feb10 levo.jpg 17N 24jun10 dextro.jpg 17N 24jun10 levo.jpg 17N 29ene10 dextro.jpg
+    DOUBLE BLIND
+    S41
+
+==========第59页==========
+    17N 29ene10 levo.jpg17N 6jul10 dextro.jpg17N 6jul10 levo.jpg 18N 08ene10 dextro.jpg
+    18N 08ene10 levo.jpg 18N 18feb10 dextro.jpg 18N 18feb10 levo.jpg 18N 24jun10 dextro.jpg
+    18N 24jun10 levo.jpg 18N 29ene10 dextro.jpg 18N 29ene10 levo.jpg18N 6jul10 dextro.jpg
+    18N 6jul10 levo.jpg 19N 08ene10 dextro.jpg 19N 08ene10 levo.jpg19N 17dic dextro.jpg
+    19N 17dic levo.jpg 19N 18feb10 dextro.jpg 19N 18feb10 levo.jpg 19N 24jun10 dextro.jpg
+    19N 24jun10 levo.jpg 19N 29ene10 dextro.jpg 19N 29ene10 levo.jpg 19N 6jul10 dextro.jpg
+    DOUBLE BLIND
+    S42
+
+==========第60页==========
+    19N 6iul10 levo.ipg IN 08ene10 dextro.jpg1N 08ene10 levo.jpg 1N 09ene10 dextro.jpg
+    1N 09ene10 levo.jpg 1N 18feb10 dextro.jpg1N 18feb10 levo.jpg 1N 24jun10 dextro.jpg
+    1N 24jun10 levo.jpg 1N 27may10 dextro.jpg 1N 27may10 levo.jpg1N 29ene10 dextro.jpg
+    1N 29ene10 levo.jpg 1N 6jul10 dextro.jpg 1N 6jul10 levo.jpg20N 08ene10 dextro.jpg
+    20N 08ene10 levo.jpg 20N 18feb10 dextro.jpg 20N 18feb10 levo.jpg 20N 24jun10 dextro.jpg
+    20N 24jun10 levo.jpg 20N 29ene10 dextro.jpg 20N 29ene10 levo.jpg 20N 6jul10 dextro.jpg
+    DOUBLE BLIND
+    S43
+
+==========第61页==========
+    20N 6jul10 levo.ipg 21N 18feb10 dextro.jpg 21N 18feb10 levo.jpg21N 24jun10 dextro.jpg
+    21N 24jun10 levo.jpg 21N 6jul10 dextro.jpg 21N 6jul10 levo.jpg 22N 18feb10 dextro.jpg
+    22N 18feb10 levo.jpg22N 24jun10 dextro.jpg 22N 24jun10 levo.jpg22N 6jul10 dextro.jpg
+    22N 6jul10 levo.jpg 23N 18feb10 dextro.jpg 23N 18feb10 levo.jpg23N 24jun10 dextro.jpg
+    23N 24jun10 levo.jpg 23N 6jul10 dextro.jpg 23N 6jul10 levo.jpg 24N 18feb10 dextro.jpg
+    24N 18feb10 levo.jpg 24N 24jun10 dextro.jpg 24N 24jun10 levo.jpg 24N 6jul10 dextro.jpg
+    DOUBLE BLIND
+    S44
+
+==========第62页==========
+    24N 6jul10 levo.jpg 25N 18feb10 dextro.jpg25N 18feb10 levo.jpg 25N 24jun10 dextro.jpg
+    25N 24jun10 levo.jpg 25N 6jul10 dextro.jpg25N 6jul10 levo.jpg 26N 18feb10 dextro.jpg
+    26N 18feb10 levo.jpg26N 24jun10 dextro.jpg 26N 24jun10 levo.jpg26N 6jul10 dextro.jpg
+    26N 6jul10 levo.jpg 27N 18feb10 dextro.jpg 27N 18feb10 levo.jpg 27N 24jun10 dextro.jpg
+    27N 24jun10 levo.jpg 27N 6jul10 dextro.jpg 27N 6jul10 levo.jpg 28N 18feb10 dextro.jpg
+    28N 18feb10 levo.jpg 28N 24jun10 dextro.jpg 28N 24jun10 levo.jpg 28N 6jul10 dextro.jpg
+    DOUBLE BLIND
+    S45
+
+==========第63页==========
+    28N 6jul10 levo.jpg 29N 18feb10 dextro.jpg29N 18feb10 levo.jpg 29N 24jun10 dextro.jpg
+    29N 24jun10 levo.jpg 29N 6jul10 dextro.jpg
+    29N 6jul10 levo.jpg 2N 08ene10 dextro.jpg
+    2N 08ene10 levo.jpg2N 09ene10 dextro.jpg2N 09ene10 levo.jpg 2N 18feb10 dextro.jpg
+    2N 18feb10 levo.jpg 2N 24jun10 dextro.jpg 2N 24jun10 levo.jpg 2N 27may10 dextro.jpg
+    2N 27may10 levo.jpg 2N 29ene10 dextro.jpg 2N 29ene10 levo.jpg 2N 6jul10 dextro.jpg
+    2N 6jul10 levo.jpg 30N 18feb10 dextro.jpg 30N 18feb10 levo.jpg 30N 24jun10 dextro.jpg
+    DOUBLE BLIND
+    S46
+
+==========第64页==========
+    30N 24jun10 levo.jpg30N 6jul10 dextro.jpg 30N 6jul10 levo.jpg3N 08ene10 dextro.jpg
+    3N 08ene10 levo.jpg 3N 09ene10 dextro.jpg 3N 09ene10 levo.jpg 3N 18feb10 dextro.jpg
+    3N 18feb10 levo.jpg3N 24iun10 dextro.jpg 3N 24jun10 levo.jpg3N 27may10 dextro.jpg
+    3N 27may10 levo.jpg 3N 29ene10 dextro.jpg 3N 29ene10 levo.jpg 3N 6jul10 dextro.jpg
+    3N 6jul10 levo.jpg 4N 08ene10 dextro.jpg 4N 08ene10 levo.jpg 4N 09ene10 dextro.jpg
+    4N 09ene10 levo.jpg 4N 18feb10 dextro.jpg 4N 18feb10 levo.jpg 4N 24jun10 dextro.jpg
+    DOUBLE BLIND
+    S47
+
+==========第65页==========
+    4N 24jun10 levo.jpg4N 27may10 dextro.jpg 4N 27may10 levo.jpg 4N 29ene10 dextro.jpg
+    4N 29ene10 levo.jpg
+    4N 6jul10 dextro.jpg 4N 6jul10 levo.jpg 5N 08ene10 dextro.jpg
+    5N 08ene10 levo.jpg5N 09ene10 dextro.jpg5N 09ene10 levo.jpg 5N 18feb10 dextro.jpg
+    5N 18feb10 levo.jpg 5N 24jun10 dextro.jpg 5N 24jun10 levo.jpg 5N 27may10 dextro.jpg
+    5N 27may10 levo.jpg 5N 29ene10 dextro.jpg5N 29ene10 levo.jpg
+    5N 6jul10 dextro.jpg
+    5N 6jul10 levo.jpg6N 08ene10 dextro.jpg 6N 08ene10 levo.jpg 6N 09ene10 dextro.jpg
+    DOUBLE BLIND
+    S48
+
+==========第66页==========
+    6N 09ene10 levo.jpg 6N 18feb10 dextro.jpg 6N 18feb10 levo.jpg 6N 24jun10 dextro.jpg
+    6N 24jun10 levo.jpg 6N 27may10 dextro.jpg 6N 27may10 levo.jpg 6N 29ene10 dextro.jpg
+    6N 29ene10 levo.jpg
+    6N 6jul10 dextro.jpg
+    6N 6jul10 levo.jpg
+    7N 08ene10 dextro.jpg
+    7N 08ene10 levo.jpg 7N 09ene10 dextro.jpg 7N 09ene10 levo.jpg7N 18feb10 levo.jpg
+    7N 18feb10dextro.jpg7N 24jun10 dextro.jpg 7N 24jun10 levo.jpg 7N 27may10 dextro.jpg
+    7N 27may10 levo.jpg 7N 29ene10 dextro.jpg 7N 29ene10 levo.jpg7N 6jul10 dextro.jpg
+    DOUBLE BLIND
+    S49
+
+==========第67页==========
+    7N 6jul10 levo.jpg 8N 08ene10 dextro.jpg8N 08ene10 levo.jpg 8N 09ene10 dextro.jpg
+    8N 09ene10 levo.jpg8N 18feb10 dextro.jpg 8N 18feb10 levo.jpg 8N 24jun10 dextro.jpg
+    8N 24jun10 levo.jpg8N 27may10 dextro.jpg 8N 27may10 levo.jpg8N 29ene10 dextro.jpg
+    8N 29ene10 levo.jpg 8N 6jul10 dextro.jpg8N 6jul10 levo.jpg 9N 08ene10 dextro.jpg
+    9N 08ene10 levo.jpg 9N 09ene10 dextro.jpg9N 09ene10 levo.jpg 9N 18feb10 dextro.jpg
+    9N 18feb10 levo.jpg 9N 24jun10 dextro.jpg 9N 24jun10 levo.jpg9N 27may10 dextro.jpg
+    DOUBLE BLIND
+    S50
+
+==========第68页==========
+    9N 27may10 levo.jpg9N 29ene10 dextro.jpg 9N 29ene10 levo.jpg 9N 6jul10 dextro.jpg
+    9N 6jul10 levo.jpg
+    DOUBLE BLIND
+    S51
+
+==========第69页==========
+    GREEN SOUTH
+    Numero de imagenes:329
+    Creado en:Jueves 04 noviembre 2010
+    10S 12feb10 dextro.jpg 10S 12feb10 levo.jpg 10S 26ene10 dextro.jpg10S 26ene10 levo.jpg
+    限
+    10S 26feb10 dextro.jpg 10S 26feb10 levo.jpg 10S 28jun10 dextro.jpg 10S 28jun10 levo.jpg
+    10S 2jul10 dextro.jpg 10S 2jul10 levo.jpg 10S 2mar10 dextro.jpg10S2mar10levo.jpg
+    11S 12feb10 dextro.jpg 11S 12feb10 levo.jpg 11S 26ene10 dextro.jpg 11S 26ene10 levo.jpg
+    11S 26feb10 dextro.jpg 11S 26feb10 levo.jpg 11S 28jun10 dextro.jpg 11S 28jun10 levo.jpg
+    DOUBLE BLIND
+    S52
+
+==========第70页==========
+    11S 2jul10 dextro.jpg11S 2jul10 levo.jpg 11S 2mar10 dextro.jpg11S 2mar10 levo.jpg
+    12S 12feb10 dextro.jpg 12S 12feb10 levo.jpg 12S 26ene10 dextro.jpg 12S 26ene10 levo.jpg
+    12S 26feb10 dextro.jpg12S 26feb10 levo.jpg 12S 28jun10 dextro.jpg 12S 28jun10 levo.jpg
+    12S 2jul10 dextro.jpg
+    12S 2jul10 levo.jpg 12S 2mar10 dextro.jpg 12S 2mar10 levo.jpg
+    13S 12feb10 dextro.jpg 13S 12feb10 levo.jpg 13S 26ene10 dextro.jpg 13S 26ene10 levo.jpg
+    13S 26feb10 dextro.jpg 13S 26feb10 levo.jpg 13S 28jun10 dextro.jpg 13S 28jun10 levo.jpg
+    DOUBLE BLIND
+    S53
+
+==========第71页==========
+    13S 2jul10 dextro.jpg13S 2jul10 levo.jpg 13S 2mar10 dextro.jpg13S 2mar10 levo.jpg
+    14S 12feb10 dextro.jpg 14S 12feb10 levo.jpg14S 26ene10 dextro.jpg 14S 26ene10 levo.jpg
+    14S 26feb10 dextro.jpg 14S 26feb10 levo.jpg14S 28jun10 dextro.jpg 14S 28jun10 levo.jpg
+    14S 2jul10 dextro.jpg 14S 2jul10 levo.jpg14S 2mar10 dextro.jpg 14S 2mar10 levo.jpg
+    15S 12feb10 dextro.jpg 15S 12feb10 levo.jpg 15S 26ene10 dextro.jpg 15S 26ene10 levo.jpg
+    15S 26feb10 dextro.jpg 15S 26feb10 levo.jpg 15S 28jun10 dextro.jpg 15S 28jun10 levo.jpg
+    DOUBLE BLIND
+    S54
+
+==========第72页==========
+    15S 2jul10 dextro.jpg15S 2jul10 levo.jpg 15S 2mar10 dextro.jpg15S 2mar10 levo.jpg
+    16S 12feb10 dextro.jpg 16S 12feb10 levo.jpg 16S 26ene10 dextro.jpg 16S 26ene10 levo.jpg
+    16S 26feb10 dextro.ipg 16S 26feb10 levo.jpg 16S 28jun10 dextro.jpg16S 28jun10 levo.jpg
+    16S 2jul10 dextro.jpg
+    16S 2jul10 levo.jpg 16S 2mar10 dextro.jpg 16S 2mar10 levo.jpg
+    17S 12feb10 dextro.jpg 17S 12feb10 levo.jpg 17S 26ene10 dextro.jpg 17S 26ene10 levo.jpg
+    17S 26feb10 dextro.jpg 17S 26feb10 levo.jpg 17S 28jun10 dextro.jpg 17S 28jun10 levo.jpg
+    DOUBLE BLIND
+    S55
+
+==========第73页==========
+    17S 2jul10 dextro.jpg17S 2jul10 levo.jpg17S 2mar10 dextro.jpg 17S 2mar10 levo.jpg
+    1826ene10 levo.jpg 18S 12feb10 dextro.jpg 18S 12feb10 levo.jpg 18S 26ene10 dextro.jpg
+    18S 26feb10 dextro.jpg 18S 26feb10 levo.jpg 18S 28jun10 dextro.jpg18S 28jun10 levo.jpg
+    18S 2jul10 dextro.jpg
+    18S 2jul10 levo.jpg 18S 2mar10 dextro.jpg 18S 2mar10 levo.jpg
+    19S 12feb10 dextro.jpg 19S 12feb10 levo.jpg 19S 26ene10 dextro.jpg 19S 26ene10 levo.jpg
+    19S 26feb10 dextro.jpg 19S 26feb10 levo.jpg 19S 28jun10 dextro.jpg 19S 28jun10 levo.jpg
+    DOUBLE BLIND
+    S56
+
+==========第74页==========
+    19S 2jul10 dextro.jpg19S 2jul10 levo.ipg 19S 2mar10 dextro.jpg19S 2mar10 levo.jpg
+    1S 12feb10 dextro.jpg
+    1S 12feb10 levo.jpg 1S 26ene10 dextro.jpg 1S 26ene10 levo.jpg
+    1S 26feb10 dextro.jpg 1S 26feb10 levo.jpg1S 28jun10 dextro.jpg
+    1S 28jun10 levo.jpg
+    1S 2jul10 dextro.jpg
+    1S 2jul10 levo.jpg1S 2mar10 dextro.jpg 1S 2mar10 levo.jpg
+    20S 12feb10 dextro.jpg 20S 12feb10 levo.jpg20S 26ene10 dextro.jpg 20S 26ene10 levo.jpg
+    20S 26feb10 dextro.jpg 20S 26feb10 levo.jpg 20S 28jun10 dextro.jpg 20S 28jun10 levo.jpg
+    DOUBLE BLIND
+    S57
+
+==========第75页==========
+    20S 2jul10 dextro.jpg20S 2jul10 levo.jpg 20S 2mar10 dextro.jpg20S 2mar10 levo.jpg
+    21S 12feb10 dextro.jpg 21S 12feb10 levo.jpg 21S 26feb10 dextro.jpg 21S 26feb10 levo.jpg
+    21S 28jun10 dextro.jpg 21S 28jun10 levo.jpg21S 2jul10 dextro.jpg
+    21S 2jul10 levo.jpg
+    21S 2mar10 dextro.jpg21S 2mar10 levo.jpg 22S 12feb10 dextro.jpg 22S 12feb10 levo.jpg
+    22S 26feb10 dextro.jpg 22S 26feb10 levo.jpg 22S 28jun10 dextro.jpg 22S 28jun10 levo.jpg
+    22S 2jul10 dextro.jpg 22S 2jul10 levo.jpg22S 2mar10 dextro.jpg 22S 2mar10 levo.jpg
+    DOUBLE BLIND
+    S58
+
+==========第76页==========
+    23S 12feb10 dextro.jpg 23S 12feb10 levo.jpg23S 26feb10 dextro.ipg 23S 26feb10 levo.jpg
+    23S 28jun10 dextro.jpg 23S 28jun10 levo.jpg 23S 2jul10 dextro.jpg
+    23S 2jul10 levo.jpg
+    23S 2mar10 dextro.jpg 23S 2mar10 levo.jpg24S 12feb10 dextro.jpg24S 12feb10 levo.jpg
+    24S 26feb10 dextro.jpg 24S 26feb10 levo.jpg 24S 28jun10 dextro.jpg 24S 28jun10 levo.jpg
+    24S 2jul10 levo.jpg 24S 2mar10 dextro.jpg 24S 2mar10 levo.jpg 25S 12feb10 dextro.jpg
+    25S 12feb10 levo.jpg 25S 26feb10 dextro.jpg 25S 26feb10 levo.jpg 25S 28jun10 dextro.jpg
+    DOUBLE BLIND
+    S59
+
+==========第77页==========
+    25S 28jun10 levo.jpg25S 2mar10 dextro.jpg 25S 2mar10 levo.jpg26S 12feb10 dextro.jpg
+    26S 12feb10 levo.jpg 26S 26feb10 dextro.jpg 26S 26feb10 levo.jpg 26S 28jun10 dextro.jpg
+    26S 28jun10 levo.jpg26S 2jul10 dextro.jpg
+    26S 2jul10 levo.jpg26S 2mar10 dextro.jpg
+    26S 2mar10 levo.jpg 27S 12feb10 dextro.jpg 27S 12feb10 levo.jpg 27S 26feb10 dextro.jpg
+    27S 26feb10 levo.jpg 27S 28jun10 dextro.jpg27S 28jun10 levo.jpg 27S 2jul10 dextro.jpg
+    27S 2jul10 levo.jpg 27S 2mar10 dextro.jpg 27S 2mar10 levo.jpg 28S 12feb10 dextro.jpg
+    DOUBLE BLIND
+    S60
+
+==========第78页==========
+    28S 12feb10 levo.jpg 28S 26feb10 dextro.jpg28S 26feb10 levo.jpg 28S 28jun10 dextro.jpg
+    28S 28jun10 levo.jpg 28S 2jul10 dextro.jpg
+    28S 2jul10 levo.jpg 29S 12feb10 dextro.jpg
+    29S 12feb10 levo.jpg29S 26feb10 dextro.jpg29S 26feb10 levo.jpg 29S 28jun10 dextro.jpg
+    29S 28jun10 levo.jpg 29S 2jul10 dextro.jpg 29S 2jul10 levo.jpg 2S 12feb10 dextro.jpg
+    2S 12feb10 levo.jpg 2S 26ene10 dextro.jpg 2S 26ene10 levo.jpg 2S 26feb10 dextro.jpg
+    2S 26feb10 levo.jpg 2S 28jun10 dextro.jpg2S 28jun10 levo.jpg 2S 29ene10 dextro.jpg
+    DOUBLE BLIND
+    S61
+
+==========第79页==========
+    2S 29ene10 levo.jpg 2S 2jul10 dextro.jpg2S 2jul10 levo.jpg 2S 2mar10 dextro.jpg
+    2S 2mar10 levo.jpg30S 26feb10 dextro.jpg 30S 26feb10 levo.jpg 30S 28jun10 dextro.jpg
+    30S 28jun10 levo.jpg3S 12feb10 dextro.jpg 3S 12feb10 levo.jpg3S 26ene10 dextro.jpg
+    3S 26ene10 levo.jpg 3S 26feb10 dextro.jpg 3S 26feb10 levo.jpg 3S 28jun10 dextro.jpg
+    3S 28jun10 levo.jpg 3S 2jul10 dextro.jpg 3S 2jul10 levo.jpg3S 2mar10 dextro.jpg
+    3S 2mar10 levo.jpg4S 12feb10 dextro.jpg 4S 12feb10 levo.jpg 4S 26ene10 dextro.jpg
+    DOUBLE BLIND
+    S62
+
+==========第80页==========
+    4S 26ene10 levo.jpg 4S 26feb10 dextro.jpg4S 26feb10 levo.jpg 4S 28jun10 dextro.jpg
+    4S 28jun10 levo.jpg
+    4S 2jul10 dextro.jpg
+    4S 2jul10 levo.jpg
+    4S 2mar10 dextro.jpg
+    4S 2mar10 levo.jpg
+    5S 12feb10 dextro.jpg
+    5S 12feb10 levo.jpg5S 26ene10 dextro.jpg
+    5S 26ene10 levo.jpg 5S 26feb10 dextro.jpg 5S 26feb10 levo.jpg 5S 28jun10 dextro.jpg
+    5S 28jun10 levo.jpg 5S 2jul10 dextro.jpg 5S 2jul10 levo.jpg5S 2mar10 dextro.jpg
+    5S 2mar10 levo.jpg6S 12feb10 dextro.ipg 6S 12feb10 levo.jpg 6S 26ene10 dextro.jpg
+    DOUBLE BLIND
+    S63
+
+==========第81页==========
+    6S 26ene10 levo.jpg
+    6S 26feb10 dextro.jpg 6S 26feb10 levo.jpg 6S 28jun10 dextro.jpg
+    6S 28jun10 levo.jpg6S 2jul10 dextro.jpg
+    6S 2jul10 levo.jpg
+    6S 2mar10 dextro.jpg
+    6S 2mar10 levo.jpg
+    7S 12feb10 dextro.jpg 7S 12feb10 levo.jpg7S 26ene10 dextro.jpg
+    7S 26ene10 levo.jpg 7S 26feb10 dextro.jpg 7S 26feb10 levo.jpg7S 28jun10 dextro.jpg
+    7S 28jun10 levo.jpg 7S 2jul10 dextro.jpg
+    7S 2jul10 levo.jpg 7S 2mar10 dextro.jpg
+    7S 2mar10 levo.jpg8S 12feb10 dextro.jpg 8S 12feb10 levo.jpg 8S 26ene10 dextro.jpg
+    DOUBLE BLIND
+    S64
+
+==========第82页==========
+    8S 26ene10 levo.jpg 8S 26feb10 dextro.jpg8S 26feb10 levo.jpg 8S 28jun10 dextro.jpg
+    8S 28jun10 levo.jpg 8S 2jul10 dextro.jpg
+    8S 2jul10 levo.jpg
+    8S 2mar10 dextro.jpg
+    8S 2mar10 levo.jpg9S 12feb10 dextro.jpg 9S 12feb10 levo.jpg9S 26ene10 dextro.jpg
+    9S 26ene10 levo.jpg 9S 26feb10 dextro.jpg、9S26feb10levo.jpg
+    9S 28jun10 dextro.jpg
+    9S 28jun10 levo.jpg 9S 2jul10 dextro.jpg 9S 2jul10 levo.jpg9S 2mar10 dextro.jpg
+    9S 2mar10 levo.jpg
+    DOUBLE BLIND
+    S65
+
+==========第83页==========
+    RED NORTH
+    Numero de imagenes:364
+    Creado en:Jueves 04 Noviembre 2010
+    10N 05ene10 dextro.jpg 10N 05ene10 levo.jpg
+    10N05mar10
+    dextro.jpg
+    10N 05mar10 levo.jpg
+    10N06mar10
+    dextro.jpg
+    10N 06mar10 levo.jpg 10N 21jul10 dextro.jpg 10N 21jul10 levo.jpg
+    10N 24feb10 dextro.jpg 10N 24feb10 levo.jpg 10N 28ene10 dextro.jpg 10N 28ene10 levo.jpg
+    10N 30nov dextro.jpg 10N 30nov levo.jpg
+    10N31may10
+    dextro.jpg
+    10N 31may10 levo.jpg
+    11N05mar10
+    11N 05ene10 dextro.jpg 11N 05ene10 levo.jpg
+    dextro.jpg
+    11N 05mar10 levo.jpg
+    DOUBLE BLIND
+    S66
+
+==========第84页==========
+    11N06mar10
+    dextro.jpg
+    11N 06mar10 levo.jpg 11N 21jul10 dextro.jpg 11N 21jul10 levo.jpg
+    11N24feb10
+    11N 24feb10 dextro.jpg 11N 24feb10 levo.jpg
+    levobis.jpg
+    11N 28ene10 dextro.jpg
+    11N 28ene10 levo.jpg 11N 30nov dextro.jpg11N 30nov levo.jpg
+    11N31may10
+    dextro.jpg
+    11N 31may10 levo.jpg 12N 05ene10 dextro.jpg 12N 05ene10 levo.jpg12N 05mar10 dextro.jpg
+    12N06mar10
+    12N 05mar10 levo.jpg
+    12N 06mar10 levo.jpg 12N 10dic dextro.jpg
+    dextro.jpg
+    12N 10dic levo.jpg 12N 21jul10 dextro.jpg 12N 21jul10 levo.jpg 12N 24feb10 dextro.jpg
+    DOUBLE BLIND
+    S67
+
+==========第85页==========
+    12N 24feb10 levo.jpg 12N 28ene10 dextro.jpg12N 28ene10 levo.jpg 12N 30nov dextro.jpg
+    12N 30nov levo.jpg
+    12N31may10
+    dextro.jpg
+    12N 31may10 levo.jpg 13N 05mar10 dextro.jpg
+    13N 05mar10 levo.jpg
+    13N06mar10
+    dextro.jpg
+    13N 06mar10 levo.jpg 13N 21jul10 dextro.jpg
+    13N 21jul10 levo.jpg 13N 24feb10 dextro.jpg 13N 24feb10 levo.jpg 13N 28ene10 dextro.jpg
+    13N 28ene10 levo.jpg 13N 30nov dextro.jpg13N 30nov levo.jpg14N 05mar10 dextro.jpg
+    14N 05mar10 levo.jpg
+    14N06mar10
+    dextro.jpg
+    14N 06mar10 levo.jpg 14N 10dic dextro.jpg
+    DOUBLE BLIND
+    S68
+
+==========第86页==========
+    14N 10dic levo.jpg 14N 21jul10 dextro.jpg14N 21iul10 levo.ipg 14N 24feb10 dextro.jpg
+    14N 24feb10 levo.jpg 14N 28ene10 dextro.jpg 14N 28ene10 levo.jpg 14N 30nov dextro.jpg
+    15N05mar10
+    14N 30nov levo.jpg
+    dextro.jpg
+    15N 05mar10 levo.jpg 15N 06mar10 dextro.jpg
+    15N 06mar10 levo.jpg 15N 21jul10 dextro.jpg15N 21jul10 levo.jpg 15N 24feb10 dextro.jpg
+    15N 24feb10 levo.jpg 15N 28ene10 dextro.jpg 15N 28ene10 levo.jpg 15N 30nov dextro.jpg
+    16N05mar10
+    15N 30nov levo.jpg
+    dextro.jpg
+    16N 05mar10 levo.jpg 16N 06mar10 dextro.jpg
+    DOUBLE BLIND
+    S69
+
+==========第87页==========
+    16N 06mar10 levo.jpg 16N 21jul10 dextro.jpg16N 21jul10 levo.ipg 16N 24feb10 dextro.jpg
+    16N 24feb10 levo.jpg 16N 28ene10 dextro.jpg 16N 28ene10 levo.jpg 16N 30nov dextro.jpg
+    17N05mar10
+    16N 30nov levo.jpg
+    dextro.jpg
+    17N 05mar10 levo.jpg 17N 06mar10 dextro.jpg
+    17N 06mar10 levo.jpg 17N 21jul10 dextro.jpg17N 21jul10 levo.jpg 17N 24feb10 dextro.jpg
+    17N 24feb10 levo.jpg 17N 28ene10 dextro.jpg 17N 28ene10 levo.jpg 17N 30nov dextro.jpg
+    18N05mar10
+    17N 30nov levo.jpg
+    dextro.jpg
+    18N 05mar10 levo.jpg 18N 06mar10 dextro.jpg
+    DOUBLE BLIND
+    S70
+
+==========第88页==========
+    18N 06mar10 levo.jpg 18N 10dic dextro.jpg18N 10dic levo.jpg 18N 21jul10 dextro.jpg
+    18N 21jul10 levo.jpg 18N 24feb10 dextro.jpg 18N 24feb10 levo.jpg 18N 28ene10 dextro.jpg
+    19N05mar10
+    18N 28ene10 levo.jpg
+    dextro.jpg
+    19N 05mar10 levo.jpg 19N 06mar10 dextro.jpg
+    19N 06mar10 levo.jpg 19N 21jul10 dextro.jpg19N 21jul10 levo.jpg 19N 24feb10 dextro.jpg
+    19N 24feb10 levo.jpg 19N 28ene10 dextro.jpg 19N 28ene10 levo.jpg 1N 05ene10 dextro.jpg
+    1N 05ene10 levo.jpg 1N 05mar10 dextro.jpg 1N 05mar10 levo.jpg 1N 06mar10 dextro.jpg
+    DOUBLE BLIND
+    S71
+
+==========第89页==========
+    1N 06mar10 levo.jpg1N 10jun10 dextro.jpg 1N 10jun10 levo.jpg 1N 21jul10 dextro.jpg
+    IN 21jul10 levo.jpg IN 24feb10 dextro.jpg
+    1N 24feb10dextrobis.jpg
+    1N 24feb10 levo.jpg
+    1N 28ene10 dextro.jpg 1N 28ene10 levo.jpg
+    1N 30nov dextro.jpg
+    1N 30nov levo.jpg
+    20N05mar10
+    1N 31may10 dextro.jpg 1N 31may10 levo.jpg
+    dextro.jpg
+    20N 05mar10 levo.jpg
+    20N06mar10
+    dextro.jpg
+    20N 06mar10 levo.jpg 20N 21jul10 dextro.jpg 20N 21jul10 levo.jpg
+    20N 24feb10 dextro.jpg 20N 24feb10 levo.jpg 20N 28ene10 dextro.jpg 20N 28ene10 levo.jpg
+    DOUBLE BLIND
+    S72
+
+==========第90页==========
+    21N05mar10
+    21N06mar10
+    dextro.jpg
+    21N 05mar10 levo.jpg
+    dextro.jpg
+    21N 06mar10 levo.jpg
+    21N 21jul10 dextro.jpg 21N 21jul10 levo.jpg21N 24feb10 dextro.jpg 21N 24feb10 levo.jpg
+    22N05mar10
+    dextro.jpg
+    22N 05mar10 levo.jpg
+    22N06mar10
+    dextro.jpg
+    22N 06mar10 levo.jpg
+    22N 21jul10 dextro.jpg22N 21jul10 levo.jpg 22N 24feb10 dextro.jpg 22N 24feb10 levo.jpg
+    23N05mar10
+    23N06mar10
+    dextro.jpg
+    23N 05mar10 levo.jpg
+    dextro.jpg
+    23N 06mar10 levo.jpg
+    23N 21jul10 dextro.ipg 23N 21jul10 levo.jpg 23N 24feb10 dextro.jpg 23N 24feb10 levo.jpg
+    DOUBLE BLIND
+    S73
+
+==========第91页==========
+    24N05mar10
+    24N06mar10
+    dextro.jpg
+    24N 05mar10 levo.jpg
+    dextro.jpg
+    24N 06mar10 levo.jpg
+    24N 21jul10 dextro.jpg 24N 21jul10 levo.jpg24N 24feb10 dextro.jpg 24N 24feb10 levo.jpg
+    25N05mar10
+    25N06mar10
+    dextro.jpg
+    25N 05mar10 levo.jpg
+    dextro.jpg
+    25N 06mar10 levo.jpg
+    25N 21jul10 dextro.jpg 225N 21jul10 levo.jpg 25N 24feb10 dextro.jpg 25N 24feb10 levo.jpg
+    26N05mar10
+    26N06mar10
+    dextro.jpg
+    26N 05mar10 levo.jpg
+    dextro.jpg
+    26N 06mar10 levo.jpg
+    26N 21jul10 dextro.jpg 26N 21jul10 levo.jpg 26N 24feb10 dextro.jpg 26N 24feb10 levo.jpg
+    DOUBLE BLIND
+    S74
+
+==========第92页==========
+    27N05mar10
+    dextro.jpg
+    27N 05mar10 levo.jpg
+    27N06mar10
+    dextro.jpg
+    27N 06mar10 levo.jpg
+    27N 21jul10 dextro.jpg 27N 21jul10 levo.jpg27N 24feb10 dextro.jpg 27N 24feb10 levo.jpg
+    28N05mar10
+    dextro.jpg
+    28N 05mar10 levo.jpg 28N 24feb10 dextro.jpg 28N 24feb10 levo.jpg
+    29N05mar10
+    dextro.jpg
+    29N 05mar10 levo.jpg 29N 24feb10 dextro.jpg 29N 24feb10 levo.jpg
+    2N 05ene10 dextro.jpg2N 05ene10 levo.ipg 2N 05mar10 dextro.jpg 2N 05mar10 levo.jpg
+    2N 06mar10 dextro.jpg 2N 06mar10 levo.jpg 2N 10jun10 levo.jpg 2N 21jul10 dextro.jpg
+    DOUBLE BLIND
+    S75
+
+==========第93页==========
+    2N 21jul10 levo.jpg2N 24feb10 dextro.jpg2N 24feb10 levo.jpg 2N 28ene10 dextro.jpg
+    2N 28ene10 levo.jpg2N 30noy dextro.ipg
+    2N 30nov levo.jpg 2N 31may10 dextro.jpg
+    2N 31may10 levo.jpg 30N 24feb10 dextro.jpg30N 24feb10 levo.jpg 3N 05ene10 dextro.jpg
+    3N 05ene10 levo.jpg 3N 05mar10 dextro.jpg 3N 05mar10 levo.jpg 3N 06mar10 dextro.jpg
+    3N 06mar10 levo.jpg 3N 21jul10 dextro.jpg3N 21jul10 levo.jpg 3N 24feb10 dextro.jpg
+    3N 24feb10 levo.jpg 3N 28ene10 dextro.jpg 3N 28ene10 levo.jpg 3N 30nov dextro.jpg
+    DOUBLE BLIND
+    S76
+
+==========第94页==========
+    3N 30nov levo.jpg 3N 31may10 dextro.jpg3N 31may10 levo.jpg 4N 05ene10 dextro.jpg
+    4N 05ene10 levo.jpg 4N 05mar10 dextro.jpg4N 05mar10 levo.jpg 4N 06mar10 dextro.jpg
+    4N 06mar10 levo.jpg
+    4N 10dic levo.jpg
+    4N 21jul10 dextro.jpg
+    4N 21jul10 levo.jpg
+    4N 24feb10 dextro.jpg 4N 24feb10 levo.jpg 4N 28ene10 dextro.jpg 4N 28ene10 levo.jpg
+    4N 30nov dextro.jpg 4N 30nov levo.jpg 4N 31may10 dextro.jpg 4N 31may10 levo.jpg
+    5N 05ene10 dextro.jpg 5N 05ene10 levo.jpg 5N 05mar10 dextro.jpg 5N 05mar10 levo.jpg
+    DOUBLE BLIND
+    S77
+
+==========第95页==========
+    5N 06mar10 dextro.jpg5N 06mar10 levo.jpg 5N 21jul10 dextro.jpg5N 21jul10 levo.jpg
+    5N 24feb10 dextro.jpg5N 24feb10 levo.jpg 5N 28ene10 dextro.jpg 5N 28ene10 levo.jpg
+    5N 30nov dextro.jpg
+    5N 30nov levo.jpg 5N 31may10 dextro.jpg5N 31may10 levo.jpg
+    6N 05ene10 dextro.jpg 6N 05ene10 levo.jpg 6N 05mar10 dextro.jpg 6N 05mar10 levo.jpg
+    6N 06mar10 dextro.jpg 6N 06mar10 levo.jpg 6N 21jul10 dextro.jpg 6N 21jul10 levo.jpg
+    6N 24feb10 dextro.jpg 6N 24feb10 levo.jpg 6N 28ene10 dextro.jpg 6N 28ene10 levo.jpg
+    DOUBLE BLIND
+    S78
+
+==========第96页==========
+    6N 30nov dextro.jpg6N 30nov levo.jpg 6N 31may10 dextro.jpg 6N 31may10 levo.jpg
+    7N 05ene10 dextro.jpg 7N 05ene10 levo.jpg7N 05mar10 dextro.jpg 7N 05mar10 levo.jpg
+    7N 06mar10 dextro.jpg 7N 06mar10 levo.jpg7N 21jul10 dextro.jpg
+    7N 21jul10 levo.jpg
+    7N 24feb10 dextro.jpg 7N 24feb10 levo.jpg 7N 28ene10 dextro.jpg7N28ene10levo.jpg
+    7N 30nov dextro.jpg 7N 30nov levo.jpg7N 31may10 dextro.jpg 7N 31may10 levo.jpg
+    8N 05ene10 dextro.jpg 8N 05ene10 levo.jpg 8N 05mar10 dextro.jpg 8N 05mar10 levo.jpg
+    DOUBLE BLIND
+    S79
+
+==========第97页==========
+    8N 06mar10 dextro.jpg 8N 06mar10 levo.jpg 8N 21jul10 dextro.jpg8N 21jul10 levo.jpg
+    8N 24feb10 dextro.jpg 8N 24feb10 levo.jpg 8N 28ene10 dextro.jpg8N 28ene10 levo.jpg
+    8N 30nov dextro.jpg
+    8N 30nov levo.jpg 8N 31may10 dextro.jpg 8N 31may10 levo.jpg
+    9N 05ene10 dextro.jpg 9N 05ene10 levo.jpg 9N 05mar10 dextro.jpg 9N 05mar10 levo.jpg
+    9N 06mar10 dextro.jpg 9N 06mar10 levo.jpg
+    9N 10dic dextro.jpg
+    9N 10dic levo.jpg
+    9N 11jun10 dextro.jpg 9N 11jun10 levo.jpg 9N 21jul10 dextro.jpg 9N 21jul10 levo.jpg
+    DOUBLE BLIND
+    S80
+
+==========第98页==========
+    9N 24feb10 dextro.ipg 9N 24feb10 levo.jpg9N 28ene10 dextro.jpg 9N 28ene10 levo.jpg
+    9N 30nov dextro.jpg9N 30nov levo.jpg 9N 31may10 dextro.jpg 9N 31may10 levo.jpg
+    DOUBLE BLIND
+    S81
+
+==========第99页==========
+    RED SOUTH
+    Numero de imagenes:324
+    Creado en:Jueves 04 Noviembre 2010
+    10S 02dic levo.jpg10S 03feb10 dextro.jpg 10S 03feb10 levo.jpg10S 10jun10 dextro.jpg
+    10S 10jun10 levo.jpg 10S 18ene10 dextro.jpg 10S 18ene10 levo.jpg 10S 22feb10 dextro.jpg
+    10S 22feb10 levo.jpg 10s 27nov levo.jpg 10S 28jul10 dextro.jpg 10S 28jul10 levo.jpg
+    11S 02dic dextro.jpg
+    11S 02dic levo.jpg 11S 03feb10 dextro.jpg 11S 03feb10 levo.jpg
+    11S 04ene10 dextro.jpg 11S 04ene10 levo.jpg 11S 10jun10 dextro.jpg 11S 18ene10 dextro.jpg
+    DOUBLE BLIND
+    S82
+
+==========第100页==========
+    11S 18ene10 levo.ipg 11S 22feb10 dextro.jpg 11S 22feb10 levo.jpg11s 27nov dextro.jpg
+    11S 28jul10 dextro.jpg 11S 28jul10 levo.jpg 12S 02dic dextro.jpg
+    12S 02dic levo.jpg
+    12S 03feb10 dextro.jpg 12S 03feb10 levo.jpg 12S 04ene10 dextro.jpg12S 04ene10 levo.jpg
+    12S 10jun10 dextro.jpg 12S 10jun10 levo.jpg 12S 18ene10 dextro.jpg 12S 18ene10 levo.jpg
+    12S 22feb10 dextro.jpg 12S 22feb10 levo.jpg 12s 27nov levo.jpg 12S 28jul10 dextro.jpg
+    污
+    12S 28jul10 levo.jpg 13S 02dic dextro.jpg13S 02dic levo.jpg 13S 03feb10 dextro.jpg
+    DOUBLE BLIND
+    S83
+
+==========第101页==========
+    13S 03feb10 levo.ipg 13S 04ene10 dextro.jpg13S 04ene10 levo.jpg 13S 10jun10 dextro.jpg
+    13S 10jun10 levo.jpg 13S 18ene10 dextro.jpg 13S 18ene10 levo.jpg 13S 22feb10 dextro.jpg
+    13S 22feb10 levo.jpg
+    13s 27nov levo.jpg
+    13S 28jul10 dextro.jpg 13S 28jul10 levo.jpg
+    14S 02dic dextro.jpg
+    14S 02dic levo.jpg 14S 03feb10 dextro.jpg 14S 03feb10 levo.jpg
+    14S 04ene10 dextro.jpg 14S 04ene10 levo.jpg 14S 10jun10 dextro.jpg 14S 10jun10 levo.jpg
+    14S 18ene10 dextro.jpg 14S 18ene10 levo.jpg 14S 22feb10 dextro.jpg 14S 22feb10 levo.jpg
+    DOUBLE BLIND
+    S84
+
+==========第102页==========
+    14s 27noy levo.ipg 14S 28jul10 dextro.jpg 14S 28jul10 levo.jpg15S 02dic dextro.jpg
+    15S 02dic levo.jpg 15S 03feb10 dextro.jpg 15S 03feb10 levo.jpg 15S 10jun10 dextro.jpg
+    15S 10jun10 levo.jpg 15S 18ene10 dextro.jpg15S 18ene10 levo.jpg 15S 22feb10 dextro.jpg
+    15S 22feb10 levo.jpg15s 27nov levo.jpg 15S 28jul10 dextro.jpg 15S 28jul10 levo.jpg
+    16S 02dic dextro.jpg
+    16S 02dic levo.jpg 16S 03feb10 dextro.jpg 16S 03feb10 levo.jpg
+    16S 04ene10 dextro.jpg 16S 04ene10 levo.jpg 16S 10jun10 dextro.jpg 16S 10jun10 levo.jpg
+    DOUBLE BLIND
+    S85
+
+==========第103页==========
+    16S 18ene10 dextro.jpg 16S 18ene10 levo.jpg16S 22feb10 dextro.ipg 16S 22feb10 levo.jpg
+    16s 27nov levo.jpg
+    16S 28jul10 dextro.jpg 16S 28jul10 levo.jpg17S 02dic dextro.jpg
+    17S 02dic levo.jpg 17S 03feb10 dextro.jpg 17S 03feb10 levo.jpg17S 10jun10 dextro.jpg
+    17S 10jun10 levo.jpg 17S 18ene10 dextro.jpg 17S 18ene10 levo.jpg 17S 22feb10 dextro.jpg
+    17S 22feb10 levo.jpg 17s 27nov levo.jpg 17S 28jul10 dextro.jpg；17S28jul10levo.jpg
+    18S 02dic dextro.jpg
+    18S 02dic levo.jpg18S 03feb10 dextro.jpg 18S 03feb10 levo.jpg
+    DOUBLE BLIND
+    S86
+
+==========第104页==========
+    18S 04ene10 dextro.jpg 18S 04ene10 levo.jpg18S 10jun10 dextro.jpg 18S 10jun10 levo.jpg
+    18S 18ene10 dextro.jpg 18S 18ene10 levo.jpg 18S 22feb10 dextro.jpg 18S 22feb10 levo.jpg
+    18s 27nov levo.jpg 18S 28jul10 dextro.jpg 18S 28jul10 levo.jpg 19S 02dic dextro.jpg
+    19S 02dic levo.jpg 19S 03feb10 dextro.jpg 19S 03feb10 levo.jpg 19S 04ene10 dextro.jpg
+    19S 04ene10 levo.jpg 19S 10jun10 dextro.jpg 19S 10jun10 levo.jpg 19S 18ene10 dextro.jpg
+    19S 18ene10 levo.jpg 19S 22feb10 dextro.jpg 19S 22feb10 levo.jpg 19s 27nov levo.jpg
+    DOUBLE BLIND
+    S87
+
+==========第105页==========
+    19S 28jul10 dextro.jpg 19S 28jul10 levo.jpg1S 018ene10 dextro.jpg 1S 03feb10 dextro.jpg
+    1S 03feb10 levo.jpg 1S 04ene10 dextro.jpg 1S 04ene10 levo.jpg1S 10jun10 dextro.jpg
+    1S 10jun10 levo.jpg
+    1S 18ene10 levo.jpg 1S 22feb10 dextro.jpg 1S 22feb10 levo.jpg
+    1s 27nov levo.jpg
+    1S 28jul10 dextro.jpg 1S 28jul10 levo.jpg 20S 02dic dextro.jpg
+    20S 02dic levo.jpg 20S 03feb10 dextro.jpg20S 03feb10 levo.jpg 20S 04ene10 dextro.jpg
+    20S 04ene10 levo.jpg 20S 10jun10 dextro.jpg 20S 10jun10 levo.jpg 20S 18ene10 levo.jpg
+    DOUBLE BLIND
+    S88
+
+==========第106页==========
+    20S 22feb10 dextro.jpg 20S 22feb10 levo.jpg20s 27 nov levo.jpg 20S 28jul10 dextro.jpg
+    21S 10jun10 dextro.jpg 21S 10jun10 levo.jpg 21S 22feb10 dextro.jpg 21S 22feb10 levo.jpg
+    21S 28jul10 dextro.jpg21S 28jul10 levo.jpg 22S 10jun10 dextro.jpg 22S 10jun10 levo.jpg
+    22S 22feb10 dextro.jpg 22S 22feb10 levo.jpg 22S 28jul10 dextro.jpg 22S 28jul10 levo.jpg
+    23S 10jun10 dextro.jpg 23S 10jun10 levo.jpg 23S 22feb10 dextro.jpg 23S 22feb10 levo.jpg
+    23S 28jul10 dextro.jpg 23S 28jul10 levo.jpg 24S 10jun10 dextro.jpg 24S 10jun10 levo.jpg
+    DOUBLE BLIND
+    S89
+
+==========第107页==========
+    24S 22feb10 dextro.jpg 24S 22feb10 levo.jpg24S 28jul10 dextro.jpg 24S 28jul10 levo.jpg
+    25S 10jun10 dextro.jpg 25S 10jun10 levo.jpg 25S 22feb10 dextro.jpg 25S 22feb10 levo.jpg
+    25S 28jul10 dextro.jpg25S 28jul10 levo.jpg26S 10jun10 dextro.jpg 26S 10jun10 levo.jpg
+    26S 22feb10 dextro.jpg 26S 22feb10 levo.jpg 26S 28jul10 dextro.jpg26S28jul10levo.jpg
+    27S 10jun10 dextro.jpg 27S 10jun10 levo.jpg 27S 22feb10 dextro.jpg 27S 22feb10 levo.jpg
+    27S 28jul10 dextro.jpg 27S 28jul10 levo.jpg 28S 10jun10 dextro.jpg 28S 10jun10 levo.jpg
+    DOUBLE BLIND
+    S90
+
+==========第108页==========
+    28S 22feb10 dextro.jpg28S 22feb10 levo.jpg 28S 28jul10 dextro.jpg28S 28jul10 levo.jpg
+    29S 10jun10 dextro.jpg 29S 10jun10 levo.jpg 29S 22feb10 dextro.jpg 29S 22feb10 levo.jpg
+    29S 28jul10 dextro.jpg 29S 28jul10 levo.jpg
+    2S 02dic levo.jpg
+    2S 03feb10 dextro.jpg
+    2S 03feb10 levo.jpg
+    2S 04ene10 dextro.jpg 2S 04ene10 levo.jpg 2S 10jun10 dextro.jpg
+    2S 10jun10 levo.jpg 2S 18ene10 dextro.jpg 2S 18ene10 levo.jpg 2S 22feb10 dextro.jpg
+    2S 22feb10 levo.jpg
+    2s 27nov levo.jpg
+    2S 28jul10 dextro.jpg2S 28jul10 levo.jpg
+    DOUBLE BLIND
+    S91
+
+==========第109页==========
+    30S 10jun10 dextro.jpg30 10jun10 levo.jpg 30S 22feb10 dextro.jpg 30S 22feb10 levo.jpg
+    3S 03feb10 dextro.jpg 3S 03feb10 levo.jpg3S 04ene10 dextro.jpg 3S 04ene10 levo.jpg
+    3S 10jun10 dextro.jpg 3S 10jun10 levo.jpg3S 22feb10 dextro.jpg 3S 22feb10 levo.jpg
+    3s 27nov levo.jpg
+    3S 28jul10 dextro.jpg 3S 28jul10 levo.jpg 4S 03feb10 dextro.jpg
+    4S 03feb10 levo.jpg 4S 04ene10 dextro.jpg 4S 04ene10 levo.jpg 4S 10jun10 dextro.jpg
+    4S 10jun10 levo.jpg 4S 18ene10 dextro.jpg 4S 18ene10 levo.jpg 4S 22feb10 dextro.jpg
+    DOUBLE BLIND
+    S92
+
+==========第110页==========
+    4S 22feb10 levo.jpg
+    4s 27nov levo.jpg4S 28jul10 dextro.jpg4S 28jul10 levo.jpg
+    5S 03feb10 dextro.jpg 5S 03feb10 levo.jpg 5S 10jun10 dextro.jpg5S 10jun10 levo.jpg
+    5S 18ene10 dextro.jpg 5S 18ene10 levo.jpg5S 22feb10 dextro.jpg5S 22feb10 levo.jpg
+    5s 27nov levo.jpg
+    5S 28jul10 dextro.jpg 5S 28jul10 levo.jpg 6S 03feb10 dextro.jpg
+    6S 03feb10 levo.jpg 6S 04ene10 dextro.jpg 6S 04ene10 levo.jpg 6S 10jun10 dextro.jpg
+    6S 10jun10 levo.jpg 6S 18ene10 dextro.jpg
+    6S 18ene10 levo.jpg 6S 22feb10 dextro.jpg
+    DOUBLE BLIND
+    S93
+
+==========第111页==========
+    6S 22feb10 levo.jpg
+    6s 27nov levo.jpg 6S 28jul10 dextro.jpg6S 28jul10 levo.jpg
+    7S 03feb10 dextro.jpg 7S 03feb10 levo.jpg7S 10jun10 dextro.jpg 7S 10jun10 levo.jpg
+    7S 22feb10 dextro.jpg7S 22feb10 levo.jpg7s 27nov levo.jpg
+    7S 28jul10 dextro.jpg
+    7S 28jul10 levo.jpg 8S 03feb10 dextro.jpg 8S 04ene10 dextro.jpg 8S 04ene10 levo.jpg
+    8S 10jun10 dextro.jpg 8S 10jun10 levo.jpg8S 18ene10 dextro.jpg 8S 18ene10 levo.jpg
+    8 22feb10 dextro.jpg 8S 22feb10 levo.jpg
+    8s 270nov levo.jpg 8S 28jul10 dextro.jpg
+    DOUBLE BLIND
+    S94
+
+==========第112页==========
+    8S 28jul10 levo.jpg 9S 02dic dextro.jpg
+    9S 02dic levo.jpg 9S 03feb10 dextro.jpg
+    9S 03feb10 levo.jpg 9S 04ene10 dextro.jpg 9S 04ene10 levo.jpg 9S 10jun10 dextro.jpg
+    9S 10jun10 levo.jpg 9S 18ene10 dextro.jpg9S 18ene10 levo.jpg9S 22feb10 dextro.jpg
+    9S 22feb10 levo.jpg
+    9s 27nov levo.jpg
+    9S 28jul10 dextro.jpg
+    9S 28jul10 levo.jpg
+    DOUBLE BLIND
+    S95
+
+==========第113页==========
+    Copyright of Challenges (20781547)is the property of MDPI Publishing and its content maynot be copied or emailed to multiple sites or posted to a listserv without the copyright holder'sexpress written permission.However,users may print,download,or email articles forindividual use.
+
+==========第114页==========
