@@ -1,0 +1,109 @@
+    ACSCALS
+    Monograph
+    pubs.acs.org/doi/book/10.1021/acsreagents
+    Sodium Chlorate
+    Part 4,Monographs for Reagent Chemicals:General Descriptions,Specifications,and TestselSBN:9780841230460
+    Tom Tyner Chair,ACS Committee on Analytical Reagents
+    James Francis Secretary,ACS Committee on Analytical Reagents
+    ABSTRACT
+    This monograph for Sodium Chlorate provides,in addition to common physical constants,a general descriptionincluding typical appearance,applications,change in state (approximate),and aqueous solubility.The monograph alsodetails the following specifications and corresponding tests for verifying that a substance meets ACS Reagent Gradespecifications including:Assay,Insoluble Matter,Bromate,Chloride,Sulfate,Heavy Metals,Iron,Calcium,Magnesium,and Potassium.
+    NaClO3
+    Formula Wt 106.44
+    CAS No.7775-09-9
+    GENERAL DESCRIPTION
+    Typical appearance.....,...··········colorless or white solid
+    Applications....,·,,.,,.·.··········oxidimetric reagent
+    Change in state (approximate)............melting point,.248°C
+    Aqueous solubility.···.···········
+    soluble in 1 mL cold,0.5 mL hot
+    SPECIFICATIONS
+    ≥99.0%NaCl03
+    Maximum Allowable
+    Insoluble matter...............
+    。。。0.005%
+    Bromate(Br03)...............
+    ..0.015%
+    Chloride(Cl)···············
+    。
+    0.005%
+    Sulfate(S04).·......·....·.
+    0.001%
+    Heavy metals (as Pb)...........
+    0.001%
+    lron(fe).......·.···········
+    5 ppm
+    Calcium(Ca),.·...··.···········
+    0.002%
+    Magnesium(Mg）···············
+    0.002%
+    Potassium(K).·.············
+    0.01%
+    ACS Publications217 Amerkcan chemical soce
+    DOI:10.1021/acsreagents.4339ACS Reagent Chemicals,Part 4
+
+==========第1页==========
+    ACS Reagent Chemicals
+    Monograph
+    pubs.acs.org/doi/book/10.1021/acsreagents
+    TESTS
+    Assay
+    (By argentimetric titration of chloride after reduction).Weigh accurately about 0.5 g of sample,transfer to a glass-stoppered conical flask,and dissolve in 100 mL of water.Add 25 mL of fresh 6%sulfurous acid and 5 mL of 25%nitric acid,and heat for 30 min to remove the excess sulfur dioxide.Cool,add 50.0 mL of 0.1 N silver nitrate volumetric solution and 10mL of toluene,and shake vigorously.Titrate the excess silver nitrate with 0.1 N ammonium thiocyanate volumetric solution,using ferric ammonium sulfate indicator solution.One milliliter of 0.1 N silver nitrate corresponds to 0.01064 g of NaClO3.
+    [(50.0×N AgNO3)-(mL×NNH4SCN)]×10.64
+    NaC1O
+    Sample wt (g)
+    Insoluble Matter
+    [Part 2:Gravimetric Methods;Insoluble Matter].Use 20 g dissolved in 250 mL of water.
+    Bromate
+    [Part 2:Direct Electrometric Methods;Specific Polarographic Procedures;Polarographic Procedure for Bromate and lodate].
+    Use 1.0 g of sample and 0.5 g of calcium chloride dihydrate in 25 mL of solution.For the standard,add 0.15 mg of bromateion (BrO).Also prepare a reagent blank.
+    Chloride
+    [Part 2:Colorimetry and Turbidimetry;Chloridel.Use 0.2 g.Use only nitric acid that is free from lower oxides of nitrogen inthe test.
+    Sulfate
+    [Part 2:Colorimetry and Turbidimetry;Sulfate;Procedure for Sulfate,Method 1].Use 5.0 g.
+    Heavy Metals
+    [Part 2:Colorimetry and Turbidimetry;Heavy Metals (as Lead);Procedure for Heavy Metals,Method 1].Dissolve 2.5 g in 20mL of dilute hydrochloric acid (1:1).Evaporate the solution to dryness on a hot plate (-100C),add 5 mL more of dilutehydrochloric acid(1:1),and again evaporate to dryness.Dissolve the residue in about 20 mL of water,and dilute with waterto 25 mL.For the standard-control solution,add 0.02 mg of lead ion (Pb)to 0.5 g of sample,and treat exactly as the 2.5 gsample.
+    Iron
+    [Part 2:Colorimetry and Turbidimetry;Iron;Procedure for Iron,Method 1(Ammonium Thiocyanate)].Dissolve 2.0 g in 20 mLof dilute hydrochloric acid (1:1),and evaporate to dryness on a hot plate (~100 C).Add 5 mL of dilute hydrochloric acid(1:1),and again evaporate to dryness.Dissolve the residue in 50 mL of dilute hydrochloric acid (1:25),and use the solutionwithout further acidification.In preparing the standard,use the residue from evaporation of 15 mL of hydrochloric acid.
+    Calcium,Magnesium,and Potassium
+    (By flame AAS,[Part 2:Trace and Ultratrace Elemental Analysis;Atomic Absorption Spectroscopy;Analysis;Procedure for
+    Flame AAS]).
+    ACS Publications2017 American Chemical Society
+    DOI:10.1021/acsreagents.4339ACS Reagent Chemicals,Part 4
+
+==========第2页==========
+    ACS Reagent Chemicals
+    Monograph
+    pubs.acs.org/doi/book/10.1021/acsreagents
+    For the Determination of Calcium,Magnesium,and Potassium
+    Sample Stock Solution.Dissolve 5.0 g in 25 mL of dilute hydrochloric acid(1:3),and digest in a covered beaker on ahot plate(-100C)until the reaction ceases.Uncover the beaker,and evaporate to dryness.Add 10 mL of dilutehydrochloric acid(1:3),and again evaporate to dryness.Dissolve in dilute hydrochloric acid(1:99),and dilute to 100mL with dilute hydrochloric acid (1:99)(1 mL 0.05 g).
+    For the Determination of Calcium,Magnesium,and Potassium
+    Element
+    Wavelength(nm)
+    Sample Wt (g)Standard Added
+    Flame Type*
+    Background
+    (mg)
+    Correction
+    Ca
+    422.7
+    1.0
+    0.02;0.04
+    N/A
+    No
+    Mg
+    285.2
+    0.20
+    0.004;0.008
+    A/A
+    Yes
+    K
+    766.5
+    0.20
+    0.01;0.02
+    A/A
+    No
+    *A/A is air/acetylene;N/A is nitrous oxide/acetylene.
+    ACS Publications2017 American Chemical Society
+    DOI:10.1021/acsreagents.4339ACS Reagent Chemicals,Part 4
+
+==========第3页==========

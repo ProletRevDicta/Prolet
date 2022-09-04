@@ -1,0 +1,287 @@
+    ZUSCHRFTEN
+    1997,36,1725;e)K.N.Power,T.L.Hennigar,M.J.Zaworotko,New
+    Asymmetric Synthesis of an Organic
+    J.Chem.1998,177.
+    [8]J.-L.Weidmann,J.-M.Kern,J.-P.Sauvage,D.Muscat,S.Mullins,W.
+    Compound with High Enantiomeric Excess
+    Kohler,C.Rosenauer,H.J.Rader,K.Martin,Y.Geerts,Chem.Eur.J.
+    Induced by Inorganic Ionic Sodium Chlorate**
+    1999,5,1841,and references therein.
+    [9]A.J.Blake,N.R.Champness,A.Khlobystow,D.A.Lenenovkii,W.-S.
+    Itaru Sato,Kousuke Kadowaki,and Kenso Soai*
+    Li,M.Schroder,Chem.Commun.1997,2027.
+    [10]a)M.Fujita,Y.J.Kwon,O.Sasaki,K.Yamaguchi,K.Ogura,J.Am.
+    Recent progress in asymmetric synthesis has been made by
+    Chem.Soc.1995,117,7287;b)L.Carlucci,G.Ciani,D.M.Proserpio,J.
+    the developments of both organic asymmetric catalysts and
+    Chem.Soc.Dalton Trans.1999,1799;c)Y.-B.Dong,R.C.Layland,
+    M.D.Smith.N.G.Pschirer,U.H.F.Bunz,H.-C.zur Loye,Inorg.
+    stoichiometric organic chiral auxiliaries.The origin of
+    Chem.1999,38,3056.
+    significant enantiomeric enrichments in organic compounds
+    [11]M.-L.Tong,X.-M.Chen,B.-H.Ye,L.-N.Ji,Angew.Chem.1999,111,
+    such as L-amino acids on the earth has been an intriguing
+    2376;Angew..Chem.Int.Ed.1999,38,2237.
+    puzzle.2 One of the proposed mechanisms for the enantio-
+    [12]a)F-Q.Liu,T.D.Tilley,Inorg.Chem.1997,36,5090;b)L.Carlucci,
+    meric enrichments of organic compounds is through asym-
+    G.Ciani,P.Macchi,D.M.Proserpio,S.Rizzato,Chem.Eur.J.1999,5,
+    237.
+    metric synthesis and/or subsequent asymmetric adsorption3
+    [13]These topological properties apply also to systems based on the
+    on the surface of inorganic enantiomorphic crystals.We
+    inclined interpenetration of 2D layers (examples are given in ref.[3]
+    recently reported an enantioselective synthesis of an organic
+    sect.3.2)and even to the remarkable polyrotaxane reported in:B.F.
+    compound promoted by chiral quartz,4 which is an enantio-
+    Hoskins,R.Robson,D.A.Slizys,J.Am.Chem.Soc.1997 119,2952.
+    morphic inorganic molecule with covalent bonds between the
+    [14]Crystal data for 1:C1osHissCusN1O52.5Ss,monoclinic,space group P2
+    c(no.14),a=27.774(2),b=17.752(1),c=30.147(2)A,B=109.22(1)°
+    silicon and oxygen atoms.
+    V=14035(2)A3,Z=4,paca=1.432mgm-3,R=0.0657for15358
+    On the other hand,sodium chlorate (NaClO3)is an
+    independent reflections [I>20(].The data collections were per
+    enantiomorphic inorganic ionic crystal.51 Kondepudi et al.
+    formed at 223 K on a Bruker SMART CCD area-detector diffrac-tometer,using Moko radiation (=0.71073 A)using the @-scan
+    reported that almost all of the NaClOs crystals precipitated
+    method within the limits 1<0<25.Empirical absorption corrections
+    from a stirred particular solution have the same chirality.6.7
+    (SADABS)were applied.The structure was solved by direct methods
+    However,the relevance of the chirality of NaClO to that of
+    (SIR97)and refined by full-matrix least-squares on F2 (SHELX-97)
+    an organic compound was not established.An earlier reportls
+    Anisotropic thermal factors were assigned to all the nonhydrogen
+    on the enantioselective adsorption of racemic compounds by
+    atoms except the water molecules with half occupancy.All diagramswere generated using the SCHAKAL 97.Crystallographic data
+    NaClO was disproved by the later examination of Gillard and
+    (excluding structure factors)for the structure reported in this paper
+    da Luz de Jesus.Thus,the question has remained as to
+    has been deposited with the Cambridge Crystallographic Data Centre
+    whether significantly enantiomerically enriched organic com-
+    as supplementary publication no.CCDC-136800.Copies of the data
+    pound can be formed using chiral NaC1Os,an inorganic ionic
+    can be obtained free of charge on application to CCDC,12 Union
+    crystal
+    Road,Cambridge CB21EZ,UK (fax:(+44)1223-336-033:e-mail:deposit@ccdc.cam.ac.uk).
+    Herein we report an unprecedented highly enantioselective
+    [15]Analysis of the holes was performed with the PLATON program
+    synthesis of an organic compound which is induced by d-or
+    (A.L.Spek,PLATON,Utrecht University,1999).The representation
+    /-NaClO crystals.The enantioselective addition of diisopro-
+    of the surfaces of the cavities was obtained with SURFNET;R.A.
+    pylzinc (iPr2Zn)to 2-(tert-butylethynyl)pyrimidine-5-carbal-
+    Laskowski,J.Mol.Graph.1995,13,323
+    [16]Refinement of the unit cell parameters on the XRPD spectra at room
+    dehyde (1)in the presence of d-or /-NaClO,powder gave
+    temperature gave a=28.06,b=17.68,c=30.88 A,B=109.1,and V=
+    pyrimidylalkanol 2 with high ee values (96-98%ee)in high
+    14476 A3.The increased dimensions with respect to the single crystal
+    yields (90-99%;Scheme 1,Table 1).
+    data at 223 K can be attributed mainly to thermal expansion.
+    The (S)-pyrimidylalkanol (S)-2 was obtained with 98%ee
+    [17]Differential scanning calorimetry (DSC)analysis shows a broad
+    in 93%yield when iPr,Zn was added to the mixture of
+    exothermic peak (40-120C)with its maximum at 90C and a minorcomplex event at 160-190C.
+    d-NaClO,and aldehyde 1 (Entry 1).The reaction is reprodu-
+    [18]Exchange with other polar solvents (methanol,acetonitrile)has also
+    cible (Entries 2 and 3).On the other hand,reactions between
+    been successful.Samples of 1 dried at 100C and left in the presence of
+    aldehyde 1 and iPr2Zn in the presence of /-NaClO3,instead of
+    vapors of the polar solvent gave rather different XRPD spectra but
+    d-NaC1O,always gave (R)-2 with 98%ee in yields of 91-
+    after desolvation and rehydration with water vapors again show theoriginal spectrum.
+    98%(Entries 4-6).When the reactions were run sequentially
+    [19]This contrasts with that observed in the (reversible)desolvation of a
+    in the presence of d-,1-,d-,and I-NaClO3,using exactly the
+    recently reported hydrogen-bonded framework compound of remark-
+    same reaction equipments,(S)-,(R)-,(S)-,and (R)-2 with
+    able flexibility that transforms into a second (dehydrated)monocrys-talline form:C.J.Kepert,D.Hesek,P.D.Beer,M.J.Rosseinsky,
+    Angew.Chem.1998,111,3335;Angew.Chem.Int.Ed.1998,37,3158.[20]The nonrigidity of catenated networks with flexible ligands is
+    [*Prof.Dr.K.Soai,Dr.I.Sato,K.Kadowak
+    confirmed by a 3D array of interpenetrated ladders that expands by
+    Department of Applied Chemistry
+    enclathration of p-dibromobenzene while maintaining the same
+    Faculty of Science,Science University of Tokyo
+    topology:M.Fujita,O.Sasaki,K.-Y.Watanabe,K.Ogura,K.
+    Kagurazaka,Shinjuku-ku,Tokyo 162-8601 (Japan)
+    Yamaguki,New J.Chem.1998,189.
+    Fax:(+81)3-3235-2214
+    E-mail:ksoai@ch.kagu.sut.ac.jp
+    [**This work was supported by a Grant-in-Aid for Scientific Researchfrom the Ministry of Education,Science,Sports,and Culture.Wethank Mr.Koji Ohtake for experimental work in the early stage,Prof.
+    Naoyuki Koide and Dr.Takashi Mihara from the Department of
+    Chemistry of our university for a microscope measurement of the sizeof the powdered NaClO3.
+    1570
+    WILEY-VCH Verlag GmbH,D-69451 Weinheim,2000
+    0044-8249/00/11208-1570$17.50+.50/0
+    Angew.Chem.2000,112,Nr.8
+
+==========第1页==========
+    ZUSCHRIFTEN
+    d-NaCIO3 crystal
+    iPr2Zn
+    OZn-iPr
+    1 and iPr2Zn
+    H+
+    portionwise
+    addition
+    Bu
+    N
+    CHO
+    96-98%ee
+    (S)-2
+    "Bu
+    I-NaClOa crystal
+    Pr
+    Zn-P
+    1 and iPr2Zn
+    H+
+    NOH
+    portionwise
+    addition
+    96-98%ee
+    (A)-2
+    Scheme 1.Enantioselective synthesis of 2 in the presence of NaClO3
+    Table 1.Enantioselective synthesis of pyrimidylalkanol 2 in the presence
+    organic compound.Thus,the present reaction correlates the
+    of d-and I-NaCIO3.
+    chirality of NaClOs with the absolute configuration of an
+    Entryla
+    NaClO
+    Pyrimidylalkanol 2
+    organic compound.
+    yield [%
+    ee [%](config.)b
+    d
+    93
+    98(S)
+    d
+    99
+    98(S)
+    Experimental Section
+    3
+    d
+    90
+    97(S)
+    4
+    91
+    98(R)
+    Preparation of crystals and powders of d-or /-NaClO:Recrystallization of
+    95
+    98(R)
+    NaClO,from water gave small crystals.A small crystal was put in an
+    6
+    98
+    98(R)
+    aqueous solution of NaClO;at room temperature,and the mixture was left
+    7le]
+    9
+    96(S)
+    until the size of the crystal reached over 5 mm.The chirality of the crystal
+    8le]
+    9
+    96(R)
+    was determined by polarimetry.12 Crystals of d-NaClO;were ground into a
+    ole]
+    d
+    96(S)
+    powder using a pestle and mortar(particle size:5-12 um),washed with
+    10g
+    94
+    96(R)
+    diethyl ether,and dried in vacuo before use.
+    11
+    d/l(3/1)
+    97(S)
+    Typical experimental procedure (Table 1,Entry 2):A 1M solution of iPr,Zn
+    12
+    /d(3/1)
+    90
+    97(R)
+    in toluene (0.15 mL)was added dropwise with stirring (60-70 rpm)over
+    [a]NaCIO:/1/iPr2Zn=1.9/1.0/2.0.See also Experimental Section.[b]The
+    30 min to a suspension of aldehyde 10131(9.4 mg,0.05 mmol)and d-NaClO
+    ee value was determined by HPLC analysis on a column fitted with a chiral
+    (222 mg,2.09 mmol)in toluene (0.2 mL)at 0C.After the mixture had
+    stationary phase (Chiralcel OD).[c]Reactions were carried out sequen
+    stirred for 12 h,toluene (4.8 mL),a 1M solution of iPr2Zn in toluene
+    tially in the order of the entry numbers using the same equipment.
+    (0.4 mL),and a solution of 1 (37.6 mg,0.2 mmol)in toluene (1.5 mL)wereadded successively.After 3 h,toluene (14 mL),a 1M solution of iPr2Zn intoluene (1.6 mL),and a solution of 1 (151 mg,0.8 mmol)in toluene(4 mL)were added and the mixture was stirred for a further 3 h.The reaction wasquenched by adding 1M hydrochloric acid (4 mL)and then made alkaline
+    96%ee were obtained,respectively,in 93-94%yields
+    with saturated aqueous sodium bicarbonate (12 mL).The mixture was
+    (Entries 7-10).These results clearly show that the chirality
+    filtered through celite,and the separated aqueous layer was extracted with
+    of NaClO,controls the absolute configuration of the newly
+    ethyl acetate.The combined organic layer was dried over sodium sulfate
+    formed alkanol 2.
+    and concentrated.Purification of the residue by thin layer chromatographyon silica gel(hexane/ethyl acetate 2/1)gave 2(242 mg,1.04 mmol,99%).
+    The corresponding reactions in the presence of the mixture
+    [a]=-33.1 (c=2.21,CHCl3).The ee value was determined as 98%by
+    of d-and /-NaClO;were also examined.When the 3/1 mixture
+    HPLC analysis on a column with a chiral stationary phase (Daicel
+    of d-and I-NaCIO3 was used,(S)-2 was obtained in 92%yield
+    Chiralcel OD,eluent 3%2-propanol in hexane,flow rate 1.0 mL min-1,UV
+    with 97%ee(Entry 11).The reaction using a 1/3 mixture of d-
+    detector at 254 nm,retention time:18 min for (S)-2,27 min for (R)-2)
+    and I-NaClO3,afforded (R)-2 with 97%ee (Entry 12).Thus.
+    Received:December 14,1999 [Z14388]
+    the final configuration of 2 formed is dependent on the majorenantiomorphs of NaClO:in the mixture.
+    The very high enantioselectivity observed in the present
+    [1]a)Asymmetric Synthesis (Eds.:T.Hayashi,K.Tomioka,O.Yone-
+    asymmetric reaction may be explained as follows:Chiral
+    mitsu),Kodansha,Tokyo,1998;b)Comprehensive Asymmetric
+    NaClO,I5b1 induces a very small enantiomeric enrichment in
+    Catalysis (Eds.:E.R.Jacobsen,A.Pfaltz,H.Yamamoto),Springer,
+    the alkanol 2 that is initially formed from aldehyde 1 and
+    Berlin,1999;c)Catalytic Asymmetric Synthesis,2nd ed.(Ed.:I.
+    iPrZn.The subsequent asymmetric autocatalysis of 2
+    Ojima),Wiley,New York,in press.
+    with amplification of ee then automultiplies 2 to afford the
+    [2]a)W.A.Bonner,Origins Life Evol.Biosphere 1991,21,59;b)A.
+    Eschenmoser,Science 1999,284,2118;c)A.G.Cairns-Smith,Chem.
+    alkanol 2 possessing the corresponding absolute configura-
+    Brit.1986,559;d)V.Avetisov,V.Goldanskii,Proc.Nat.Acad.Sci.
+    tions with high ee values in high yields.Further mechanistic
+    USA,1996,93,11435;e)S.Mason,Chem.Soc.Rev.1988,17,347;f)L
+    details are now under investigation.
+    Keszthelyi,O.Rev.Biophys.1995,28,473.
+    In summary,we have demonstrated for the first time that a
+    [3]W.A.Bonner,P.R.Kavasmaneck,F.S.Martin,J.J.Flores,Science1974,186,143.
+    chiral inorganic ionic crystal,namely d-or I-NaCIO3,induces
+    [4]K.Soai,S.Osanai,K.Kadowaki,S.Yonekubo,T.Shibata,I.Sato,J.
+    asymmetry in the highly enantioselective synthesis of an
+    Am.Chem.Soc.1999,121.11235.
+    Angew.Chem.2000,112,Nr.8WILEY-VCH Verlag GmbH,D-69451 Weinheim,2000
+    0044-8249/00/11208-1571$17.50+.50/0
+    1571
+
+==========第2页==========
+    ZUSCHRIFTEN
+    [5]a)T.M.Lowry,Optical Rotatory Power,Dover,New York,1964,[10](R)-2 with 2%ee was obtained in 4%yield when the reaction was
+    p.337;b)C.W.Bunn,Chemical Crystallography,Clarendon,Oxford,
+    performed at-73C for 1 h in the presence of I-NaCIO3.
+    1961,Chap.2 and 3,p.11.
+    [11]a)K.Soai,T.Shibata,H.Morioka,K.Choji,Nature 1995,378,767;
+    [6]a)D.K.Kondepudi,R.J.Kaufman,N.Singh,Science 1990,250,975;
+    b)T.Shibata,T.Hayase,J.Yamamoto,K.Soai,Tetrahedron:
+    b)D.K.Kondepudi,K.L.Bullock,J.A.Digits,J.K.Hall,J.M.Miller,
+    Asymmetry 1997,8,1717;c)T.Shibata,J.Yamamoto,N.Matsumoto
+    J.Am.Chem.Soc.1993,115,10211;c)D.K.Kondepudi,C
+    S.Yonekubo,S.Osanai,K.Soai,J.Am.Chem.Soc.1998,120,12157;
+    Sabanayagam,Chem.Phys.Lett.1994,217,364;d)J.M.McBride,
+    d)K.Soai,T.Shibata,Yuki Gosei Kagaku Kyokaishi(J.Synth.Org.
+    R.L.Carter,Angew.Chem.1991,103,298;Angew.Chem.Int.Ed.
+    Chem.Jpn.)1997,55,994;e)K.Soai,Enantiomer 1999,4,591;f)K.
+    Engl.1991,30,293.
+    Soai,T.Shibata,I.Sato,Acc.Chem.Res.,submitted.
+    [7]R.-Y.Qian,G.D.Botsaris,Chem.Eng.Sci.1998,53,1745
+    [12]W.T.Astbury,International Critical Tables 1933,7,353.
+    [8]E.Ferroni,R.Cini,J.Am.Chem.Soc.1960,82,2427.
+    [13]T.Shibata,S.Yonekubo,K.Soai,Angew.Chem.1999,111,749;
+    [9]R.D.Gillard,J.D.P.da Luz de Jesus,J.Chem.Soc.Dalton Trans.
+    Angew.Chem.Int.Ed.1999,38,659.
+    1979,1779.
+    1572
+    ©WILEY-VCH Verlag GmbH,D-69451 Weinheim,20000044-8249/00/11208-1572$17.50+.50/0 Angew.Chem.2000,112,Nr.8
+
+==========第3页==========

@@ -1,0 +1,107 @@
+    382
+    NATURE
+    October 23,1965 voL.208
+    required after other labelling methods,for example,after Wilzbach-labelling.The procedure is rather rapid,
+    15
+    requiring no special equipment,and may take place undermild conditions permitting the successful labelling evon ofsensitive molecules with suitably high specific activity.
+    Activity vield is about of the same order as in the case of
+    210
+    Wilzbach-labelling.Radioactivity was measured by theliquid seintillation technique using a Packardliquidscintillation spectrometer (model 3003).
+    05
+    We thank Dr.S.Virag for the isolation and puritycontrol of the B-lipoprotein sample
+    T.GOSZTONYI
+    J.MARTON
+    1
+    A.KovAcs
+    Do8es(×10r.)
+    National Atomic Energy Commission,
+    Fig.2.PQR frequency shift of Cl duc to y-ray irradiatious
+    Institute of Isotopes,Budapest,
+    Hungary.
+    Mucece Fub)Ine.New York,)
+    and williams,D.L.,Organic Synthesis with Isotopes (Inter-
+    The aim of the work reported here was to measure thisshift and to interpret the internal stress.The results of
+    Wilzbach,K.E.,J.Amer.Chem.Soc.,79,1013 (1957).
+    the preliminary measurements are shown in Fig.1.It wasRiess,P.
+    and Wilzbach,
+    K.E.J.P2U8.Chem.,62,6(1958)
+    Wenzel,Mand Schulze,P.E.,Tritium Markierung (Walter de Gruyter Co.,
+    necessary to eliminate the temperature effect.For that
+    Berlin,1962).
+    reason we made the measurements in a thermostat at about
+    Yavorsky,B.M.,and Gorin,E.,J.Amer.Chem.Soc.,84,1071 (1962).
+    35 C(ref.6).In Fig.1,a is for the non-irradiated sample,6
+    "Gofman.J.W.,Lindgren,F.T.,and Elliot,H.A.,J.Biol.Chem.,179,973
+    is for the sample irradiated with y-rays from reactor TR-I
+    1949).
+    Gofman,J.W.,et al.,Science,111,166 (1950).
+    (Cekmece Nuiklear Research Center,Istanbul)with doses
+    Scheidegge,J..Intern.Arch.Alle07,103(1965).
+    of 0.9x 106 r.,and c gives the results after cumulative
+    Ott,H.,Lohss,F.,and Gergely,J.,Klin.Wschr.,88,383 (1958).
+    doses of 2.09x 106 r.During the measurements the tem.
+    o Kayden,H.J.,Seegal,B.C.,and Hsu,J.,J.Clin.Invest.,38,1016 (1959).
+    perature fiuctuation was less than 001C.Measurements
+    1 Gero.S.,et al.,J.Atherosclerosis Res.,1,88 (1961).
+    were made with a conventional Dean-type spectrometer?
+    Virag,S.,et al.(to be published).
+    Frequency was measured with a Hewlett-Packard 5240period counter.For each point on Fig.1 the mean square
+    Pure Quadrupole Resonance Frequency Shift
+    root error of frequency was about 30 c/s.In Fig.2 PQR
+    and Internal Stress in Gamma-ray
+    frequeney shift is shown as a function of the irradiation
+    Irradiated Sodium Chlorate
+    dose.With these results and using theoretical analysis",it is possible to interpret the stress produced in sodium
+    THE effects of irradiation and crystalline defect on pure
+    chlorate crystals by y-rays.Since the piezo-electric effects
+    quadrupole resonance (PQR)have been extensively inves.
+    are negligible,and since the changes in the electric field
+    tigated1.Randall et al.2 observed an increase of the line
+    gradient may not explain the line broadening2,the main
+    width and second moment after X-ray irradiation,and
+    effect should be due to strains.TEis very much greater
+    concluded that strain broadening is the predominant
+    than T,The stress produced by rays of doses 106 r.
+    mechanism.The changes in the electric field gradient
+    in sodium chlorate crystals in the Na-Cl direction is:
+    induced by an applied stress were also measured by Collins
+    o83≥23kg/cm2.Mr.
+    and Bloembergen3.Colour centres occur in sodium chlorateerystals after Y-ray irradiation.These are probably due to
+    I thank Dr.S.Akpinar,director of CNAEM,and Dr.A.
+    centres and O:centres4,5.Such impurities are likely to
+    Cilesiz for providing the irradiation facilities.
+    set up stresses and bring about changes in the electric
+    HAYATI BUDAK
+    field gradient.For this reason,it would be expected that
+    Experimental Physics Institute,
+    a shift of the pure quadrupole resonance would occur
+    University of Istanbul.
+    1Depireux,J.,and Duchesne,J.,Nature,181,759 (1958),and refs.1-10 of
+    ref.2.
+    2 Randall,J.L.,Moulton,W.G.,and Ard,W.B.,jun.,J.Chem.Phys.,31,7301959).
+    Collins,F.A.,and Bloembergen,N.,J.Chem.Pey8.,40,3479 (1964).
+    Sastry,.B.$
+    ,J.Phw8.Soc.Japan,18,1220(1963)
+    29,880
+    Hasty,T.E.,Ph.D.thesis,Univ.Alabama (1959).
+    Budak,H.,Rev.Fac.Sci.Univ.Istanbul,C28,142 (1963).？Deau,C.,Phy8.Ree.,96,1053(1954).
+    Acid Phosphatases
+    WE have been concerned with the isolation of acidphosphatases (orthophosphoric monoester phosphohydro-
+    29,875
+    lases,3.1.3.2.)in quantities sufficient for chemical studiesof these enzymes.The sources chosen were:the potato,the human prostate gland and human seminal plasma.
+    We have found that the potato is a poor source and,although the enzyme has boon obtained in a form whichis homogeneous to starch-gel electrophoresis and to ultra-centrifugation,the method is tedious and,because of thevery largo purification factor involved (about 25,000)
+    29.870
+    loads to a low final yiold (about 10 mg from 50 kg of
+    3
+    35
+    potatoes).The best preparation previously reported was
+    36
+    (C)
+    apparently associated with a purification factor of about1,000(ref.1).
+    a,before;b and c,after y-ray irradiat
+    Several roports of the complote purification of prostatic
+    respectively
+    acid phosphatase have been made2,3,but,seemingly,the
+    1965 Nature Publishing Group
+
+==========第1页==========

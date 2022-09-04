@@ -1,0 +1,576 @@
+    1948
+    Ind.Eng.Chem.Res.1997,36,1948
+    Interaction of Iron Oxide with Barium Peroxide and Hydroxideduring the Decomposition of Sodium Chlorate
+    Yunchang Zhang,J ohn E.Ellison,and J ames C.Cannon
+    Nelcor Puritan Bennett,Inc.,10800 Pflumm Road,L enexa,Kansas 66215
+    Decomposition of sodium chlorate catalyzed by iron oxide in the presence of barium peroxideand hydroxide is studied by thermogravimetric analysis.Barium peroxide and hydroxide aremoderately active catalysts by themselves but are inhi bitors when used together with iron oxide.
+    A loading of 1%barium peroxide or hydroxide can significantly reduce the activity of the ironoxide and raise the decomposition temperature of sodium chlorate.The inhibiting effect decreaseswith increased loading of the barium compounds due to the formation of barium ferrate.Thecatalytic activity change of the iron oxide in the presence of barium peroxide and hydroxide isdiscussed based on the electron confiquration change of the iron ions.
+    Introduction
+    catalytic activity and whether the interaction is parallelto their interaction with cobalt oxide
+    Sodium chlorate is used as an oxygen source inchemical oxygen generators.Chemical oxygen genera-tors are used in the majority of passenger airplanes as
+    Experimental Section
+    an emergency oxygen source.They are also used in
+    I ron oxide was prepared by decomposing iron oxalate
+    submarines,diving,mountain climbing,mine rescue,
+    hydrate (FeC2O42H2O)at 350 C.The product was
+    and space flight.A chemical oxygen generator has a
+    analyzed as Fe2O3 by X-ray diffraction analysis.Sodium
+    chemical core consisting of sodium chlorate as an oxygen
+    chlorate was used in the form of crystalline particles.
+    source,a transition-metal oxide as a catalyst,a meta
+    Barium peroxide(BaO2)and barium hydroxide hydrate
+    powder as a fuel,and an alkaline compound as a
+    (Ba(OH)2.H2O)were used as purchased from Aldrich
+    chlorine adsorber and a reaction modifier.Once initi-
+    Chemi cal
+    ated,sodium chlorate in the chemi cal core decomposes
+    The ingredients of the samples for thermal analysis
+    to sodium chloride and oxygen.A chemical oxygen
+    were intimately mixed by grinding in an agate pestle
+    generator can supply oxygen continuously for 10-30
+    and mortar for about 5 min for each sample.The
+    min depending on application.
+    compositions of the samples were in weight ratio of the
+    I ron oxide has been reported as a very active catalyst
+    ingredients and reported as weight percentage.The
+    for the decomposition of sodium chlorate by Rudl off and
+    total weight of each mixture was approximately 2 g.
+    Freeman (1970)and Zhang et al.(1993a).Barium
+    The X-ray powder diffraction analyses were conducted
+    peroxide is usually used to modify the decomposition of
+    using a Rigaku D/max II diffractometer and monochro
+    the chlorate and to suppress chlorine gas formed
+    mated high-intensity Cu Ka radiation.The diffraction
+    through side reactions,as reported by Pappenheimer
+    spectra were taken in the range 12°≤20≤80°using
+    (1946).Therefore,it is important to understand the
+    step-scan.The step size was 0.01 20,and the scan rate
+    interaction between iron oxide and barium peroxide
+    was2°20/min.
+    during the decomposition of sodium chlorate.A few
+    Surface areas were measured using a Micromeritics
+    percent water is usually added to the chemical mix to
+    Gemini lI 2370 surface area analyzer.The samples
+    facilitate the formation of the chemical oxygen generat-
+    were heated at 150 C for 30 min in vacuum to drive
+    ing cores,and the cores are then dried to remove the
+    off any adsorbed moisture and other gases prior to
+    water added.Some barium peroxide may be converted
+    measurements.The specific surface area of BaO2 was
+    to barium hydroxide during the process.Therefore,it
+    measured as 1.0 m2/g using the multipoint measure
+    is also beneficial to understand the interaction between
+    ment technique with krypton as the adsorbate gas,and
+    iron oxide and barium hydroxide in the presence of
+    the surface area of iron oxide was measured as 59 m2/g
+    sodium chlorate.
+    using the multipoint technique with nitrogen as the
+    It is reported that there is a strong interaction
+    adsorbate gas.
+    between cobalt oxide and barium peroxide and hydrox-
+    Thermogravimetric analysis (TGA)was carried out
+    ide(Zhang et al.,1993b).When used separately,cobalt
+    using a Netzsch thermal analysis unit Model 409.The
+    oxide is a strong catalyst and barium peroxide and
+    sample was heated at 20 C/min in an oxygen stream
+    hydroxide are moderately active catalysts.In the
+    of 150 mL/min.The sample size was approximately 100
+    presence of barium peroxide or hydroxide,however,the
+    mg for all samples.The experimental error for the
+    activity of cobalt oxide is greatly suppressed.I ron oxide
+    temperature measurement is about 2 .C.
+    and cobalt oxide have many similarities chemically eventhough they have slightly different catalytic activity for
+    Results and Discussion
+    the decomposition of sodium chlorate.The purpose ofthis study is to find out whether barium peroxide and
+    During the operation of a chemical oxygen generator
+    hydroxide interact with iron oxide and inhibit its
+    sodium chlorate decomposes to sodium chloride andoxygen in a pure oxygen environment according to the
+    To whom all correspondence should be addressed.Tele
+    following equation:
+    phone:(913)338-9856.FAX:(913)338-7353.E-mail:yunchang.zhang@nellcorpb.com.
+    2NaClO=2NaCl +30,
+    S0888-5885(96)00675-6CCC:$14.00
+    1997 American Chemical Society
+
+==========第1页==========
+    Ind.Eng.Chem.Res.,Vol.36,No.5,1997 1949
+    120
+    respectively,compared to the 50%DT of 566 C forsodium chlorate by itself.Loading of as low as 1%
+    110
+    barium peroxide reduced the decomposition tempera-
+    100
+    ture significantly.Therefore,barium peroxide by itselfis a catalyst for the decomposition of sodium chlorate.
+    90
+    A further increase in barium peroxide loading reducesthe decomposition temperature only slightly.I n otherwords.the catalytic effect of barium peroxide tends to
+    70
+    saturate.This is another indication that barium per-
+    60
+    oxide is a catalyst rather than a reactant.The effect ofa reactant is usually proportional to its quantity.
+    While barium peroxide by itself is also a catalyst,itsuppresses the decomposition of sodium chlorate whenused together with iron oxide and behaves as an300
+    400
+    500
+    600
+    inhibitor.When 1%barium peroxide and 4%iron oxide
+    100
+    200
+    Temperature(C)
+    is mixed with sodium chlorate at the same time,thecatalytic activity of iron oxide is suppressed.The 50%
+    Figure 1.TGA plots of the thermal decomposition of sodium
+    DT is 455 C for the sample of sodium chlorate contain-
+    chlorate catalyzed by iron oxide and barium peroxide:(1)4%
+    Fe203,(2)4%Fe203and20%Ba02,(3)4%Fe203and8%Ba02
+    ing 4%iron oxide and 1%barium peroxide compared to
+    (4)4%Fe03and4%Ba02,(5)4%Fe03and2%Ba02,(6)4%
+    313 C for the sample of sodium chlorate with 4%iron
+    Fe203and1%Ba02,(7)8%Ba02,(8)4%Ba02,(9)2%Ba02,(10)
+    oxide and without barium peroxide.Loading of 1%
+    1%BaO2,and (11)No Fe2O3 or BaO2.
+    BaO2 raises the decomposition temperature by 142Cas measured by the 50%DT.That is,barium peroxide
+    Therefore,all the thermal analyses were carried out in
+    suppresses the catalytic activity of the iron oxide.This
+    a pure oxygen stream even though sodium chlorate
+    result is parallel to the effect barium peroxide has on
+    would decompose more readily in an inert environment
+    cobalt oxide,reported by Zhang et al.(1993b).
+    such as in argon or nitrogen or in vacuum.The oxygen
+    I ncreasing the loading of barium peroxide,however,
+    produced from the decomposition of sodium chlorate
+    does not further suppress the activity of iron oxide as
+    would disturb the oxygen partial pressure in the envi-
+    one would predict from the interaction of barium
+    ronment of the sample,which can make the results less
+    peroxide and cobalt oxide.When the loading of cobalt
+    repeatable in an inert environment than in pure oxygen.
+    oxide is fixed,the decomposition temperature of sodium
+    The iron oxide prepared by decomposing iron oxalate
+    chlorate increases with increased loading of barium
+    is FeO3 as verified by X-ray diffraction analysis.It has
+    peroxide(Zhang et al.,1993b).The quantity of barium
+    a surface area of 59 m2/g and has high catalytic activity
+    peroxide loading also changes the inhibiting effect on
+    toward the decomposition of sodium chlorate.However,
+    iron oxide,but the change is in the opposite direction
+    its catalytic activity can be partially suppressed by
+    That is,the decomposition temperature of sodium
+    barium peroxide and hydroxide,which are moderately
+    chlorate does not increase further when more barium
+    active catalysts themsel ves.
+    peroxide is loaded when the iron oxide loading is fixed
+    When sodium chlorate is mixed with 4%iron oxide
+    at 4%.Instead,the decomposition temperature de
+    by weight,its decomposition temperature is reduced
+    creases progressively as barium peroxide loading is
+    from 566 to 313 C as shown in Figure 1,as measured
+    increased from 1%to 2%and 4%.The 50%DTs for the
+    by the temperature at which 50%of the sodium chlorate
+    samples of sodium chlorate containing 4%iron oxide
+    has decomposed.Since the onset decomposition tem-
+    with2%and4%barium peroxide are424and396℃，
+    perature (DT)depends on the partice size and is
+    respectively,compared to 455 C when 1%barium
+    somewhat difficult to determine,the temperature at
+    peroxide is used with 4%iron oxide.
+    which 50%of the chlorate has decomposed is used as
+    The effect of barium peroxide loading on the decom-
+    an indicator of the catalytic activity.This is referred
+    position temperature of sodium chlorate catalyzed by
+    to as 50%DT.For example,decomposition of pure
+    iron oxide tends to saturate at 4%barium peroxide.A
+    sodium chlorate to sodium chloride has a weight loss of
+    further increase of barium peroxide loading further
+    45.1%.Therefore,the temperature at which sodium
+    reduces the decomposition temperature of sodium chlo
+    chlorate has lost 22.55%of its original weight is the 50%
+    rate only very slightly.The sample of sodium chlorate
+    DT.A short-dashed line is used to indi cate the 50%DT
+    with 4%iron oxide and 8%barium peroxide has a 50%
+    on each of the thermogravimetric analysis traces.Since
+    DT at 388 C,and the sample with 4%iron oxide and
+    Fe2O3 does not lose weight,the sample of NaClO3 with
+    20%barium peroxide has a 50%DT at 391 C,only very
+    4%Fe2O3 has a smaller weight loss than the weight loss
+    slightly lower than the 50%DT of sodium chlorate with
+    of NaClO3 by itself.Similarly,samples containing
+    4%iron oxide and 4%barium peroxide.
+    different amounts of barium peroxide or hydroxide also
+    Barium hydroxide is also a moderately active catalyst
+    have slightly different weight losses because barium
+    for the decomposition of sodium chlorate.As shown in
+    peroxide and hydroxide hydrate lose less weight than
+    Figure 2,when 1,2,4,and 8%barium hydroxide by
+    sodium chlorate does.
+    weight is loaded,the 50%DTs of the samples are 544,
+    It has been reported previously that barium peroxide
+    513,477,and 450 C,respectively,compared to the 50%
+    and hydroxide are moderately active catalysts for the
+    DT of 566 C for the decomposition of sodium chlorate
+    decomposition of sodium chlorate(Zhang et al.,1993b).
+    by itself.This result agrees with the result previously
+    _oading of a few percent barium peroxide can lower the
+    reported (Zhang et al.,1993b)
+    decomposition temperature considerably.As a com-
+    It is dear from Figures 1 and 2 that the decomposition
+    parison,the thermogravimetric curves of the samples
+    temperature of sodium chlorate is more dependent on
+    consisting of sodium chlorate and 1,2,4,and 8%barium
+    the amount of barium hydroxide loading than on the
+    peroxide by weight are also given in Figure 1.The 50%
+    amount of barium peroxide loading.This difference is
+    DTs of the samples of sodium chlorate with 1,2,4,and
+    likely due to the difference in the melting temperature
+    8%barium peroxide are520,511,505,and495℃，
+    of the two barium compounds.The peroxide is a solid.
+
+==========第2页==========
+    1950Ind.Eng.Chem.Res.,Vol.36,No.5,1997
+    120
+    The inhibiting effect of barium peroxide and hydroxideon cobalt oxide increases with their loading,even though
+    110
+    the inhibiting effect tends to saturate at high loading.
+    100
+    whereas the inhibiting effect that barium peroxide and
+    %
+    hydroxide have on iron oxide decreases with increasedloading.This difference is probably because of the fact
+    80
+    1
+    る
+    that Fe has a different electron configuration fromthat of Co3+.
+    70
+    As previously reported,the catalytic activities of the
+    60
+    metal oxides are attributed to the metal cations(Zhang
+    9E
+    50
+    et al.,1993a).A metal cation can attract an unsharedelectron pair from an oxygen atom in the chlorate groupto form a coordination bond.Sodium chlorate startsmelting at about 250 C.The molten sodium chlorate
+    30
+    100
+    200
+    300
+    400
+    500
+    600
+    70
+    can have good contact with the metal oxide and interact
+    Temperature(C)
+    with the metal oxide surface to form surface coordina-
+    Figure 2.TGA plots of the thermal decomposition of sodium
+    tion bonds.Formation of the Mn+-O weakens the Cl-O
+    chlorate catalyzed by iron oxide and barium hydroxide:(1)4%
+    bond in the chlorate and causes it to rupture,which
+    Fe203,(2)4%Fe203and8%Ba(OH)2H20,(3)4%Fe203and9.5%
+    results in the decomposition of the chlorate.Co3+ion
+    Ba(OH)2H20,(4)4%Fe203and20%Ba(0H)2H20,(5)4%Fe203
+    has a partially filled 3d shell,and the shielding effect
+    and4%Ba(OH)2H20,(6)4%Fe203and2%Ba(OH)2H20,(7)4%
+    of the partially filled 3d shell is not very effective.The
+    Fe203and1%Ba(OH)2H20,(8)8%Ba(OH)2H20,(9)4%
+    Ba(OH)2H20,(10)2%Ba(0H)2H20,(11)1%Ba(OH)2H20,and
+    unshared electron pair from the oxygen in the chlorate
+    (12)no Fe2O3 or Ba(OH)2H2O.
+    is more readily attracted by the positive charges of the
+    Co3+nudeus.In addition,Co3+is in the low spin state,
+    It is difficult for the molten sodium chlorate to diffuse
+    and there are empty 3d orbitals available to accom-
+    into barium peroxide particles.Therefore,higher load-
+    modate extra electron pairs.Both of these factors make
+    ing of barium peroxide only reduces the decomposition
+    it easy for Co3+to form a coordination bond with the
+    temperature slightly.Barium hydroxide,on the other
+    oxygen atom in the chlorate.Therefore,cobalt oxide is
+    hand,starts melting at about 370 C.The molten
+    a very active catalyst.Fe3+in the iron oxide has five
+    sodium chlorate and barium hydroxide can diffuse into
+    3d electrons and is in the high spin state(Kittel,1986).
+    one another.Therefore,increased loading of barium
+    The five 3d electrons occupy five 3d orbitals,and all five
+    hydroxide has more effect in reducing the decomposition
+    3d orbitals are half-filled.According to Hund's law,ions
+    temperature of the chlorate
+    with half-filled 3d orbitals are more stable and the
+    The effect of barium hydroxide on the decomposition
+    shielding effect is higher.Therefore,the nuclear posi-
+    of sodium chlorate catalyzed by 4%iron oxide is similar
+    tive charge of the Fe3+is more effectively shielded and
+    to that of barium peroxide.When used together with
+    thus has a lower tendency to attract electron pairs.In
+    iron oxide,barium hydroxide also becomes an inhibitor
+    addition,in order to form a surface complex,the
+    The sample of sodium chlorate with 4%iron oxide and
+    unshared electron pair that the Fe3+attracts will have
+    1%Ba(OH)2.H2O has a 50%DT at 431 C compared to
+    to go into an outer orbital that has higher energy levels,
+    313 C for the sample of sodium chlorate with 4%iron
+    which is less preferred.Therefore,iron oxide has a
+    oxide and without barium hydroxide.The inhibiting
+    lower catalytic activity than that of cobalt oxide(Rudl off
+    effect decreases with increased loading of barium hy-
+    and Freeman,1970;Zhang et al.,1993a).
+    droxide up to about 8%by weight.The 50%DTs of
+    The catalytic process during the decomposition of
+    sodium chlorate with 4%iron oxide and 1,2,4,and 8%
+    sodium chlorate is dependent on the formation of a
+    barium hydroxide hydrate are 431,417,407,and 392
+    surface coordination bond between the metal ions and
+    C,respectively.The effect of barium hydroxide loading
+    the oxygen atoms of the chlorate.The metal cations are
+    on the decomposition temperature appears to saturate
+    Lewis acids,and oxygen atoms in the chlorate act as
+    at 8%loading of the hydroxide.The samples of sodium
+    Lewis bases.Alkaline compounds such as barium
+    chlorate containing 4%iron oxide with 9.5%and 20%
+    peroxide and hydroxide are stronger bases than the
+    barium hydroxide have 50%DTs even slightly higher
+    oxygen atoms in the chlorate group and compete with
+    than the 50%DT of the sample with 8%barium
+    the chlorate group ClO3-for access to the transition-
+    hydroxide.This slightly higher decomposition temper-
+    metal ions.This competition reduces the chances for
+    ature is probably because of the diluting effect at higher
+    the formation of coordination bonds between the metal
+    loading of barium hydroxide.I ncreased barium hydrox-
+    ions,Fe3+or Co3+,and the oxygen atom from the
+    ide loading reduces the extent of contact between the
+    chlorate.Therefore,the presence of an alkaline com-
+    chlorate and the iron oxide.
+    pound reduces the decomposition rate of the chlorate
+    The weight losses between 100 and 150 C for some
+    On the other hand,in the presence of alkaline-earth
+    samples shown in Figure 2 are due to the dehydration
+    elements and an oxidizer,particularly under basic
+    of the barium hydroxide hydrate.The hydrate
+    conditions,iron oxide can be oxidized to form ferrates
+    Ba(OH)2.H2O loses H2O to form anhydrous hydroxide
+    in which iron ions have oxidation states higher than +3,
+    Ba(OH)2 in this temperature range as previously re
+    such as Fe+in barium ferrate BaFeO3.It has been
+    ported (Zhang et al.,1993b).
+    demonstrated previously that metal ions with partially
+    The effect that barium peroxide and hydroxide have
+    filled d orbitals have a higher catalytic activity when
+    on iron oxide is similar to the effects they have on cobalt
+    the d orbitals are not exactly half-filled (Zhang et al.,
+    oxide(Zhang et al.,1993b)in the sense that they inhibit
+    1993a).Fe4+has only four 3d electrons,and its 3d
+    the catalytic activity of both of the oxides toward the
+    orbitals areless than half-filled.Therefore,the catalytic
+    decomposition of sodium chlorate.However,changes
+    activity is increased when Fe3+is converted to Fe4+.It
+    in loading of barium peroxide and hydroxide influence
+    is reported that alkaline-earth metal ferrates are active
+    the extent of the inhibiting effect in the opposite way.
+    catalysts for the decomposition of sodium chlorate
+
+==========第3页==========
+    Ind.Eng.Chem.Res.,Vol.36,No.5,1997 1951
+    (Greer,1991),which supports the idea that Fe4+hashigh catalytic activity.
+    At low loading barium peroxide or hydroxide competewith the chlorate for the active sites on the surface ofthe iron oxide and inhibit the activity of the iron oxide.
+    Even though some iron oxide may be converted to theferrate,the inhibiting effect is dominant.When morebarium peroxide or hydroxide is loaded,more iron oxideis converted to barium ferrate that has higher activity.
+    The increased activity resulting from the formation ofthe barium ferrate exceeds the increased inhibitingeffect from the increased barium compounds loading andthe decomposition occurs at lower temperatures.Afurther increase in the loading of barium peroxide orhydroxide,however,does not result in more iron oxide
+    20
+    30
+    40
+    50
+    60
+    70
+    being converted to the ferrate and therefore cannot
+    Two Theta(deg)
+    increase the catalytic activity further.The extra barium
+    Figure 3.X-ray diffraction spectra:(a)Ba(OH)2H2O/FeO1.5/
+    peroxide and hydroxide loaded is a diluent and prevents
+    NaClIO:3 at molar ratio1:1:4,heated at10℃/min to500℃；(b)high surface area iron oxide as prepared:(c)data from I CPDS
+    the contact between the iron oxide,or ferrate,andsodium chlorate and thus even reduces the activity
+    file 5-628 for NaCl;(d)data from CPDS file 23-1024 for BaFeO3-x.
+    slightly in the case of barium hydroxide.This may bethe reason why the samples containing 4%iron oxidewith 9.5%and 20%barium hydroxide have slightlyhigher 50%DTs than that of the sample with 4%ironoxide and 8%barium hydroxide.
+    The reaction residues of the samples with 4%ironoxide and 4%or more barium peroxide or hydroxide areall black,whereas the unreacted mixtures are orange,the color of iron oxide Fe2O3.The color change fromorange to black indicates that the iron oxide has beenconverted to a different compound,probably bariumferrate.
+    The reaction of barium hydroxide and peroxide withiron oxide is likely controlled by kinetics rather thandriven by stoichiometry.The molar ratios of BaOz/
+    20
+    30
+    40
+    50
+    70
+    Fe01.5 or Ba/Fe in the samples containing 4%iron oxide
+    Two Theta(deg)
+    and 1,2,4,8,and 20%barium peroxide are 0.12,0.24,
+    Figure 4.X-ray diffraction spectra of the reaction products of
+    0.47,0.94,and 2.36,respectively,whereas the Ba/Fe
+    Ba(OH)2H2O/Fe2O3 at a molar ratio of 1:(a)heated at 350C for
+    ratio in BaFeO3 is 1.If the reaction is driven by
+    1 h;(b)heated at 10C/min to 500C and held for 10 min;(c)800
+    C for 10 h;(d)data from J CPDS file 25-68 for BaFe2.9;(e)data
+    stoichiometry,4%Fe2O3 by weight would react with
+    from J CPDS file 23-1024 for BaFeO3-x.
+    about 8.5%BaOz by weight and the catalytic activitywould plausibly increase with BaOz loading up to 8.5%
+    molar ratio 1:1:4 are presented in Figure 3a.Figure
+    by weight.
+    3b is the X-ray diffraction pattern of the iron oxide we
+    The molar ratios of the samples containing 4%Fe2Oa
+    used.Parts c and d of Figure 3 are X-ray diffraction
+    and1,2,4,8,9.5,and20%Ba(0H)2H20are0.11,0.21,
+    data from J CPDS files for NaCl and BaFeO3-x.The
+    0.42,0.84,1.00,and 2.11,respectively.The maximum
+    lines of the original iron oxide diminished,and thelines
+    catalytic activity occurs at a Ba/Fe ratio of 0.84,not 1.00
+    of barium ferrates BaFeO3_can be observed.This is
+    This is consistent with the hypothesis that the catalytic
+    evidence that the original iron oxide has reacted,most
+    activity change with barium hydroxide is driven by
+    likely with barium hydroxide.As shown in parts c and
+    kinetics not stoichiometry.Barium hydroxide starts
+    d of Figure 3,the sodium chloride lines superpose on
+    melting at about 370 C,which is lower than the
+    the lines of the BaFeO3-x,which makes it difficult to
+    decomposition temperature of the sodium chlorate.
+    see the barium ferrate lines.Therefore,it would be
+    Molten barium hydroxide has a higher ability to make
+    beneficial to see the X-ray pattern of the reaction
+    contact with the iron oxide.Therefore,the amount of
+    product of barium hydroxide and iron oxide in the
+    barium hydroxide has more effect than that of barium
+    absence of sodium chlorate.
+    peroxide,since the latter compound does not melt in the
+    Samples of barium hydroxide and iron oxide were
+    temperature range of interest.
+    mixed at a molar ratio of 1:1,heated at 10 C/min,and
+    To find out whether the hypothetical reaction between
+    held at350℃for1h,500℃for10min,and800℃
+    iron oxide and barium compounds can actually occur in
+    for 10 h,respectively.The X-ray diffraction spectra of
+    the presence of sodium chlorate,iron oxide,barium
+    the samples heated at 350,500,and 800 C are
+    hydroxide,and sodium chlorate were mixed at a molar
+    presented in parts a-c of Figure 4,respectively.The
+    ratio of 1:1:4 corresponding to 27.2%Ba(OH)2H2O and
+    X-ray diffraction data from the]CPDS files for BaFe2.9
+    11.5%Fe2O3 by weight.The mixture was heated in an
+    and BaFeO3-x are given in parts d and e of Figure 4 as
+    electric furnace at 10 C/min to 500 C and held at 500
+    a comparison.
+    C for 10 min.The reaction residue is black,compared
+    Figure 4 dearly indicates that the iron oxide reacts
+    to the orange color before heating.X-ray diffraction
+    with barium hydroxide to form barium ferrate even in
+    analysis indicates that barium hydroxide does react
+    the absence of sodium chlorate.After being heated at
+    with iron oxide as discussed below.
+    350 C for 1 h,the iron oxide peaks diminished almost
+    The X-ray diffraction patterns of the reaction products
+    completely.The barium ferrate with formula BaFeO2.9
+    for the sample with Ba(OH)2H2O/Fe2O3/NaClO3 at
+    is readily identifiable and becomes the major phase of
+
+==========第4页==========
+    1952 Ind.Eng.Chem.Res.,Vol.36,No.5,1997
+    120
+    barium ferrate.This result supports the idea thatformation of barium ferrate increases the catalytic
+    110
+    activity and makes sodium chlorate decompose at lower
+    100
+    temperatures.
+    %
+    The sample of sodium chlorate with the low surfacearea iron oxide shows a two-step decomposition.The
+    %
+    first step is the decomposition of sodium chlorate,andthe second step is likely the decomposition of sodium
+    70
+    perchlorate formed through a disproportionation reac-tion.When no catalyst or low activity catalyst is used,sodium chlorate tends to disproportionate to form the
+    0
+    perchlorate during decomposition (Solymosi,1977).
+    40
+    Cobalt ion Co3+in cobalt oxide already has empty 3dorbitals and thus has a higher activity than iron oxide
+    30
+    100
+    200
+    300
+    400
+    500
+    600
+    70
+    does.When barium peroxide or hydroxide is loaded,the
+    Temperature (C)
+    peroxide and hydroxide group compete with the chloratefor the Co3+on the surface of the cobalt oxide and thus
+    Figure 5.TGA plots of the thermal decomposition of sodium
+    reduce the catalytic activity of cobalt oxide.It is not
+    chlorate catalyzed by iron oxide and barium ferrate:(1)13.5%barium ferrate;(2)4%Fe2O3.
+    possible for cobalt oxide to be converted to a catalyticallymore active compound.Therefore,increased loading of
+    the sample.The average oxidation state of the iron
+    barium peroxide and hydroxide simply results in more
+    atoms in BaFe02.9 is 3.8.80%of the iron ions in
+    sites being occupied by the peroxide or hydroxide,and
+    BaFeO2.9 are Fe4t,and the rest are Fe3+.Fe3+has been
+    the inhibiting effect increases with increased loading
+    oxidized to Fe4+by oxygen from the air.This clearly
+    of the barium compounds.
+    indicates that Fe4+can be formed from the reaction ofiron oxide and barium hydroxide even in the absence
+    Conclusions
+    of the strong oxidizer sodium chlorate
+    Barium peroxide and hydroxide inhibit the catalytic
+    Figure 2 indicates that the samples of sodium chlorate
+    activity of iron oxide for the decomposition of sodium
+    containing both iron oxide and barium hydroxide show
+    chlorate.At higher loading of barium peroxide or
+    little or no decomposition at 350C.Therefore,barium
+    hydroxide and fixed loading of iron oxide,sodium
+    ferrate,or Fe4t,can be formed before decomposition of
+    chlorate decomposes at lower temperatures because iron
+    the sodium chlorate.It should be pointed out that
+    oxide is partially converted to barium ferrate which
+    sodium chlorate is a strong oxidizer.The oxidation of
+    contains Fe4+.The barium ferrate has a higher catalytic
+    Fe3+to Fe4t may occur at lower temperatures and
+    activity because the 3d shell of Fe4+in the ferrate is
+    proceed faster in the presence of sodium chlorate.
+    not half-filled and has a lower shielding effect and there
+    The sample heated at 800 C for 10 h is primarily
+    is an empty orbital in the 3d shell to accommodate the
+    barium ferrate BaFeO3-x with some impurities
+    unshared electron pairs from the oxygen atom in the
+    BaFeO3-x is a nonstoichiometric barium ferrate.There
+    chlorate.
+    fore,one can expect that,during the course of thedecomposition of sodium chlorate,BaFeO2.or BaF eO3-xor some phases in between the two barium ferrate
+    Literature Cited
+    phases are present and at least some of the iron ionsare present in the form of Fe4+during decomposition of
+    Greer,]S.Oxygen Generating Candles.U.S.Patent 5,049,306,
+    the chlorate containing both iron oxide and barium
+    1991
+    hydroxide.
+    Kittel,C.Introduction to Solid State Physics,6th ed.,ohn Wiley
+    Barium peroxide should undergo similar reaction with
+    Sons:New York,1986.
+    iron oxide to form barium ferrate.Barium hydroxide
+    Pappenheimer,J.R.Development of Oxygen Candle Apparatusfor Use in Aircraft.Report to the Committee on Medical
+    melts at about 370 C and some of its ions should be
+    Research of the Office of the Scientific Research and Develop
+    mobile at 350 C,while barium peroxide does not melt
+    ment,une 1946.
+    below the temperature range of interest.Typically,a
+    Rudloff,W.K.;Freeman,E.S.The Catalytic Effects of Metal
+    solid-solid reaction is slower than a solid-liquid reac-
+    Oxides on Thermal Decomposition Reactions.L.Phys.Chem.
+    tion.Therefore,the reaction between barium peroxide
+    1970,74,3317.
+    and iron oxide is probably slower.
+    Solymosi,F.Structure and Stability of Salts of Halogen Oxyacidsin the Solid State;ohn Wiley Sons:London,1977.
+    To compare the catalytic activity,the iron oxide was
+    Zhang,Y.;Kshirsagar,G.;Ellison,J.E.;Cannon,J.C.Catalytic
+    also heated at 800 C for 10 h.The surface area of the
+    Effects of Metal Oxides on the Thermal Decomposition of
+    iron oxide heated at 800C for 10 h is 2.7 m2/g compared
+    Sodium Chlorate.Thermochim.Acta 1993a,228,147.
+    to 1.1 m2/g for the barium ferrate prepared at 800 C.
+    Zhang,Y.;Kshirsagar,G.;Cannon,J.C.Function of Barium
+    A sample of sodium chlorate mixed with 4%by weight
+    Peroxide in Sodium Chlorate Chemical Oxygen Generators.Ind.
+    of the iron oxide heated at 800 C and a sample of
+    Eng.Chem.Res.1993b,32,966.
+    sodium chlorate mixed with 13.5%barium ferrate byweight,corresponding to 4%iron oxide by weight,weremade and studied by thermogravimetric analysis.As
+    Received for review October 21,1996
+    shown in Figure 5,the thermogravimetric analysis
+    Revised manuscript received February 7,1997
+    Accepted February 10,1997
+    dearly indicates that barium ferrate does have a highercatalytic activity than iron oxide.The 50%DT of the
+    1E9606754
+    sample containing barium ferrate is at 443 C,whichis 86C lower than the 50%DT of 526C for the samplecontaining the iron oxide,even though the surface area
+    Abstract published in AdvanceACS Abstracts,March 15,
+    of the iron oxide is slightly higher than that of the
+    1997.
+
+==========第5页==========

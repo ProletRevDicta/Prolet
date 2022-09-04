@@ -1,0 +1,525 @@
+    Downloaded from rspa.royalsocietypublishing.org
+    PROCEEDINGS
+    OEROYALA
+    MATHEMATICAL,
+    PHYSICAL
+    ENGINEERING
+    客OF
+    SOCIETY
+    SCIENCES
+    Point Defects in Sodium Chlorate Crystals
+    C.Ramasastry and K.Viswanatha Reddy
+    O
+    Proc.R.Soc.Lond.A 1973 335,1-14doi:10.1098/rspa.1973.01100
+    Email alerting service
+    Receive free email alerts when new articles cite this article-sign upin the box at the top right-hand corner of the article or click here
+    SONIO3
+    To subscribe to Proc.R.Soc.Lond.A go to:
+    http://rspa.royalsocietypublishing.org/subscriptions
+    This journal is 1973 The Royal Society
+
+==========第1页==========
+    Downloaded from rspa.royalsocietypublishing.org
+    Proc.R.Soc.Lond.A.335,1-14 (1973)
+    Printed in Great Britain
+    Point defects in sodium chlorate crystals
+    BY C.RAMASASTRY AND K.VISWANATHA REDDY
+    Solid State Physics Laboratories,Depariment of Physics,Indian Institute of Technology,Madras 600036,India
+    (Communicated by Sir Nevill Mott,F.R.S.-Received 16 August 1972
+    Revised 20 March 1973)
+    D.c.electrical conductivity of single crystals of NaClOg with varying concentrations ofdivalent cation impurity are studied.The low-temperature conductivity data are analysedto obtain the association energy between the divalent cation impurity and the cationvacancy.By a suitable analysis developed for the extrinsic and intrinsic overlapping regionthe formation energy per defect pair has been determined.Almost all the defect parametersare determined by graphical treatment of the conductivity data.Finally these parametersare refined by a least square fit of the conductivity data.The values of the various para-meters obtained are:
+    (1)impurity-vacancy association energy
+    E=0.22±0.01oV.
+    (2)jump activation energy of cation vacancy
+    E1=0.46±0.01V.
+    (3)pre exponential factor for vacancy mobility
+    o1=0.004cm2V-1g-1.
+    (4)jump activation energy of interstitial cation
+    E2=0.85±0.04oV
+    (5)pre-exponential factor for interstitial mobility
+    wo2=14.7cm2V-1g-1.
+    (6)formation energy of a Frenkel defect pair
+    E=1.98±0.02oV.
+    (7)entropy of formation of a Frenkel defect pair
+    8=3.0×10-8oVK-1.
+    INTRODUCTION
+    Ionic conductivity of single crystals of sodium chlorate as a function of temperaturewas reported by Ramasastry,Viswanatha Reddy Murthy (I97I).In spite of theconsiderable overlapping of the intrinsic and extrinsic regions of conductivityreliable values of the activation energies could be deduced using a simple graphicalprocedure.It was also inferred that the charge transport was by the mechanism
+    工
+    of cation vacancy migration in the low temperature(structure sensitive)region.Butthe defect parameters such as the jump and formation energies could not be obtainedas the energy of association between the aliovalent impurities and the charge com-pensating defects was not known.
+    A more comprehensive investigation on crystals containing known amounts ofdivalent cationic impurities like Ca2 enabled us to report in this paper almost all
+    [1
+    Vol.335.A.(2 October 1973)
+    The Royal Society is collaborating with JSTOR to digitize,preserve,and extend access to
+    Proceedings of the Royal Society of London.Series A,Mathematical and Physical Sciences.STOR
+    www.jstor.org
+
+==========第2页==========
+    Downloaded from rspa.royalsocietypublishing.org
+    2
+    C.Ramasastry and K.Viswanatha Reddy
+    the parameters of the point defects in this crystal.The method adopted for the evalu-ation of the enthalpy of formation of the intrinsic defect pair is somewhat new andis suited for all low melting ionic crystals whose extrinsic and intrinsic con-ductivities overlap in a considerable temperature region.A seven parameter leastsquare fit of the conductivity data using a computer gave slightly improved valuesfor the various parameters.
+    EXPERIMENTAL
+    Sodium chlorate crystals doped with Ca2+impurity were grown by slow evapora-tion of a mixture of the saturated solution of NaClOs with small quantities of
+    Ca(CIOs)2 solution in different proportions.The concentrations of the divalentcationic impurities in the crystals were estimated using an A.E.I.type MS 702mass spectrometer.The method of measurement of the d.c.conductivity of thecrystals and the precautions taken were the same as reported earlier (Ramasastryet al.I97I).In the present case,the measurements could be extended down to 70Cusing a conductivity mount,which could be evacuated to 1.33 x 10-3 Pa.The leak-age resistance due to all causes including the corona discharge,if any,was greaterthan10142.
+    RESULTS AND INTERPRETATIONS
+    About ten crystals with different impurity content were investigated.Five ofthem for which the conductivity data in the extrinsic region gave well separatedcurves(figure 1)were chosen for impurity analysis (table 1).
+    The experimental results suggest that:(i)The extrinsic conduction is due to cationvacancy migration.This explains the enhanced conductivity of Ca+doped crystalsin the low-temperature region.(ii)The curvature in the intermediate temperatureregion is due to the overlapping effects of the extrinsic and intrinsic defects whichcan be produced in sufficient numbers even at 100C as the melting point of thecrystal is rather low (257C).(iii)Both the intrinsic defects contribute toelectrical conductivity at elevated temperatures giving
+    oT=Vq1h1+心22)T,
+    (1)
+    四
+    where T is the temperature in kelvins,N is the number of molecules per unit volume,g the electronic charge.The mole fractions of the concentrations of cation vacancies
+    工O
+    and cation interstitials are represented by a and and the corresponding mobilitiesby ur and w2.
+    It appears that above 180C the cation interstitials are more mobile than thecation vacancies while the opposite is the case in the extrinsic region.In heavilydoped crystals the increased vacancy concentration tends to suppress formation ofthe interstitials through the law of mass action
+    x12==exp (-gt/kT)=exp (st/k)exp(-E:/keT),
+    (2)
+
+==========第3页==========
+    ROCEEDINGS THE ROYAL
+    PROCEEDINGS THE ROYAL
+    MATHEMATICAL
+    PHYSICAL
+    ENGINEERINGENGINEERING
+    OF
+    SOCIETY
+    A
+    SCIENCES
+    OF
+    SOCIETY
+    A
+    SCIENCES
+    TABLE 1
+    concentration of various impurities/106
+    crystal
+    effective divalent
+    number
+    Ca
+    Ba
+    Mg
+    Pb
+    Ti
+    B
+    Cr
+    Fe
+    total
+    cation impurity
+    10
+    5
+    5
+    10
+    5
+    5
+    40
+    2
+    2
+    10
+    2.5
+    5
+    10
+    5
+    5
+    47.5
+    4.5
+    3
+    10
+    5
+    15
+    15
+    白
+    20
+    75
+    7
+    20
+    3
+    5
+    15
+    20
+    10
+    26
+    98
+    16
+    5
+    30
+    5
+    15
+    15
+    10
+    10
+    的
+    110
+    27
+    1st ionization
+    6.1
+    5.2
+    7.6
+    7.4
+    6.8
+    6.7
+    6.7
+    7.8
+    potential/eV
+    Point defects in sodium chlorate crystals
+    Downloaded from rspa.royalsocietypublishing.org
+    2nd ionization
+    11.8
+    9.9
+    15.0
+    15.0
+    13.6
+    14.1
+    17.3
+    16.2
+    一
+    potential/eV
+    3
+    y
+
+==========第4页==========
+    Downloaded from rspa.royalsocietypublishing.org
+    必
+    C.Ramasastry and K.Viswanatha Reddy
+    where co is the mole fraction of the intrinsic defect concentration,g the Gibbsfree energy of formation of a separated pair of intrinsic defects and s,and arethe corresponding entropy and enthalpy.The assumption of higher mobility ofinterstitials at higher temperatures will then explain the lower conductivity of theheavily doped crystals compared to the purer ones at temperatures above 180C(figure 1).
+    6
+    0
+    10
+    -12
+    2.0
+    2.5
+    3.0
+    103K/T
+    FIGURE 1.The lg (oT)against 1000/T plots for NaClOs crystals with different divalent
+    cation impurity concentrations.Crystals 1 to 5 have increasing divalent cation impurityconcentrations(c/10):(1)2;(2)4.5;(3)7;(4)15,(5)27.
+    Based on the above model,a quantitative analysis of the conductivity data of thevariously doped crystals has enabled us to arrive at the several point defect para-meters in the NaClOs crystals.
+    Impurity-vacancy association
+    If c is the mole fraction of the impurities and p the association factor,the law ofmass action gives (Lidiard 1954)
+    pc/(x1(1-p)c)=Z1exp(ga/kT)=K2(T),
+    (3)
+    where ga is the Gibbs free energy of association between the vacancy and the im-purity and Z1 is the number of energetically equivalent sites for the vacancy aroundthe impurity (Z1=12 for NaCl type structure).The charge balance condition is
+    1=2+(1-p)C.
+    (4)
+
+==========第5页==========
+    Downloaded from rspa.royalsocietypublishing.org
+    Point defects in sodium chlorate crystals
+    5
+    Equations (1)to (4)give the following relations in the extrinsic region (Lidiard
+    I957)
+    c=Lo2+Fo,
+    (5)
+    where
+    L={《1+p)/σ}哈K2,
+    (6)
+    F={(1+p)/oo}o,
+    (7)
+    o Ngco(ui+w2),
+    (8)
+    and is the ratio of mobilities.
+    The oT against c isotherms should be very nearly parabolic with a concavitytowards the concentration axis.Our experimental data gave such curves(figure 2)
+    110℃
+    2.
+    1.5
+    100
+    1.0
+    十0土
+    90
+    大0
+    0.5
+    oxx-x-xox-x-x-X7ox
+    10
+    20
+    30
+    c/106
+    FIGURE 2.The oT against c isotherms at temperatures 70,80,90,100 and 110 C.c represents
+    the total concentration of calcium and barium in the crystals.The curvature of the linestowards the concentration axis indicates that a significant fraction of the divalent cationimpurity is in the associated state forming impurity-vacancy complexes.It is also clearfrom the graph that all the isotherms meet the concentration axis at 8/106 indicatingthat this fraction of the divalent cation impurity is charge compensated by the presenceof divalent anion impurity like So2-and CO.The crosses represent the computerfitted values.
+
+==========第6页==========
+    Downloaded from rspa.royalsocietypublishing.org
+    6
+    C.Ramasastry and K.Viswanatha Reddy
+    only when the concentrations of Ca2+and Ba2+are taken to represent c.Obviouslythe other cation impurities of table 1 are not effective in producing vacancies,probably because (i)they might be in precipitated state;(ii)they might have beencharge compensated by aliovalent anion impurities such as SO;(iii)they mightbe in the singly ionized state in the lattice in view of their high second ionizationpotential (greater than 12eV).
+    J10S
+    70℃
+    75
+    80
+    90×
+    6
+    1011o
+    FIGURE 3.c/o against o isotherms for NaClOs crystals at 70,75,80 and 90 C.The slope
+    of the straight line gives L and the intercept on y-axis I.L/pa gives the value of K2at that temperature.
+    It is encouraging to find all the isotherms nearly meet on the concentration axisat c=8/106.Usually this point should occur at negativec'when the deliberatelyadded impurity alone is estimated by spectrometric methods (Etzel Maurer1950),but in the present case the mass spectrometric analysis gave all the back-ground as well as added cationic impurities.The positive intercept indicates thateven the Ca2+and Ba2+are partly charge compensated by divalent negative ionbackground impurities such as SO-and CO.Hence the divalent cation impurityconcentration effective in producing cation vacancies is obtained by subtracting8 part/106 from the total concentrations of Ca2+and Ba2+.
+
+==========第7页==========
+    Downloaded from rspa.royalsocietypublishing.org
+    Point defects in sodium chlorate crystals
+    7
+    Estimation of association enthalpy
+    It can be seen from equation five that plots of c/o against o give straight lines(figure 3).From the slope Land intercept F,the association constant K(T)=L/2can be calculated at different temperatures.A plot of Ig K2 against 1000/T gave astraight line(figure 4)which gave the association energy as 0.25eV.
+    4.4
+    4.3
+    p
+    4.2
+    4.1L
+    2.75
+    2.80
+    2.85
+    2.90
+    103K/T
+    FIGURE 4.Plot of lg K2 against 1000/T.Values of K2 are obtained from figure 3.The slope
+    of the straight line,0.25 eV,corresponds to the association energy between the divalentcation and the charge compensating vacancy.
+    Mobility of vacancies
+    In view of the impurity-vacancy association effects,the activation energy
+    E=0.55eV,in the extrinsic region obtained by Ramasastry et al.(1971)shouldrepresent=+a This gives Eij =0-55-x0.25 0.43eV for the jumpenthalpy of the vacancies.Their mobility is represented by
+    uT=wor exp (-Eii/loT).
+    The pre-exponential factor ol which includes the jump entropy is obtained using
+    四
+    the equation:T-Ng(1-p)cor exp(-k).
+    (9)
+    The above equation which uses only one type of carrier instead of equation (1)should be valid deep in the extrinsic region for the most impure crystal (c 27/106)
+    の
+    at the lowest possible temperature studied.The value of p is calculated using theexpression
+    p/(1-p)2=12cexp(0.25/kT).
+    (10)
+    It is now possible to calculate the mobility of the vacancies in the crystal at anytemperature with the equation
+    h1=(5×10-3/T)e-0.48ev1kTcm2V-1g-1
+    (11)
+
+==========第8页==========
+    Downloaded from rspa.royalsocietypublishing.org
+    8
+    C.Ramasastry and K.Viswanatha Reddy
+    IVAOd IHL S
+    ●
+    0.
+    0.05
+    70100
+    150200
+    一-十
+    temperature/C
+    B
+    E
+    0.55eY
+    十一
+    Co
+    190
+    170
+    150,℃130
+    10o
+    90
+    2.0
+    2.2
+    2.4
+    2.6
+    2.8
+    103K/T
+    FIGURE 5.Curve A:1g (oT)against 1000/T plot for the NaClOs crystal with effective divalent
+    impurity concentration c=2/106.Line B:extrinsic contribution to conductivity neglect-ing the effect of the intrinsic carriers on the association factor p.Curve C:contributionto conductivity from the extrinsic carriers,taking into account the increase of the asso-ciation factor p at high temperatures due to the effect of the intrinsic carriers.Line Bis an extrapolation of the conductivity data in the extrinsic region at low temperatures.
+    The dashed lines D and E represent the vacancy and interstitial contribution to con-ductivity respectively.Inset:Temperature variation of the association factor p betweenthe vacancies and the divalent impurity ions,(a)calculated on the assumption that theintrinsic carriers are negligible,and (b)calculated taking into account the presence ofthe intrinsic carriers.The values of x used in equation (3)are obtained from the cubicequation (12).
+
+==========第9页==========
+    Downloaded from rspa.royalsocietypublishing.org
+    Point defects in sodium chlorate crystals
+    9
+    Formation energy for intrinsic defects
+    It is seen from figure 5,that in the case of the least impure crystal (c =2/106),the calculated or graphically obtained conductivities due to extrinsic vacancies(figure 5,line B)are much lower than the experimental values even for temperaturesbelow 150C.In this region,therefore,the effect of the intrinsic defects also is to betaken into account.If it is assumed that at these temperatures the intrinsic vacanciesalso contribute to electrical conductivity but not the intrinsic interstitials becauseof the low mobility of the latter ()one obtains xi from equation (9).
+    200
+    150
+    100
+    2.0
+    2.4
+    2.8
+    103K/T
+    FIGURE 6.The lg xo against 1000/T plot.Open circles are xo values obtained from equations
+    (9),(3),(2)and (4)for c=2/106.+xo values calculated from equations (9),(10),(2)and (4)for c 2/106.A,x values calculated for c 15/106 from equations (9),(10),(2)and (4).The straight line drawn represents the average of lg xo against 1000/7 plotsfor the five crystals with impurity content ranging from 2 to 27/100.The activationenergy for the formation of intrinsic defects works out to E;=2.04 eV.
+    The charge neutrality equation gives 22=x1-(1-p)c.Equation (3)or (10)isused to evaluate(1-p)c.x12=xis thus calculated as a function of temperature.
+    The lgoagainst 1000/Tplot is shown in figure6.It is areasonable straight line,whoseslope gives the enthalpy of formation of the Frenkel defect pair and the interceptthe corresponding entropy term.A similar treatment of the experimental data in
+
+==========第10页==========
+    Downloaded from rspa.royalsocietypublishing.org
+    10
+    C.Ramasastry and K.Viswanatha Reddy
+    the other crystals gave on the average gr=2.04-2.98x 10-3T.(Data of crystalwith c=27/106 is not suitable for this purpose as the extrinsic region extends tohigh temperature.)
+    The departure from the straight line at higher temperatures is a pointer that thesingle carrier approximation is no longer valid at these higher temperatures.As allthe conductivity is attributed to the vacancies,their concentrations a (and hencex2)are overestimated.Hence calculated will be increasingly larger than the truevalue at the higher temperatures.As is to be expected,the more impure the crystal,thegreater isthe validity of thesingle carrier approximation and the deviations fromthe straight line begin to occur at still higher temperatures (see figure 6;forc=15/106).
+    Calculation of x2 and p
+    As the association energy ga and the formation energy g are known,it is possibleto solve the simultaneous equations(2),(3)and (4)to get x1,x2 and p at any tem-perature.The resulting cubic equation for x is
+    K2r+-(K2号+c)1-哈=0.
+    (12)
+    The two negative roots are discarded and the positive root gives a1.The assumptionis that ga and g;do not vary with temperature.The jump activation energies do notenter into these calculations which are based on the Teltow(1949)association theory.
+    The association factor p'is seen to pass through a minimum.(figure 5).The in-crease of p at higher temperatures is paradoxical and arises because the increasedconcentration of in the intrinsic region promotes the reverse reaction
+    [impurity-vacancy][impurity]+[vacancy]
+    in the mass action equation(3)for association.It is similar to the precipitation fromelectrolytic solutions due to common ion effect.In discussing the association effectsin AgCl and AgBr,Lidiard(1957)pointed out that'p'passes through a minimumas the impurity concentration is increased at a given temperature.Our result issimilar but refers to the minimum of'p'as the temperature is varied for a givenimpurity content (insert in figure 5).The extrinsic contribution to conductivitypasses through a maximum (figure 5,curve C).As the intrinsic effects are large,thisis at best a theoretical nicety in the present case but may become important inheavily doped crystals.
+    四
+    Estimation of interstitial mobility (u2)
+    The calculated values of 1,x2 and are used in equation (1)to get uz as a func-
+    の
+    tion of temperature from the experimental values of the conductivity.A plot oflg (w2T)against 1000/T gave a straight line.From the slope and intercept of thestraight line,the expression for the mobility of the second defect(cation interstitial)is given below.
+    =(uo2/T)exp (-E2i/T)
+    =(14.7/T)exp(-0.74eV/keT)cm2V-1s-1.
+    (13)
+
+==========第11页==========
+    Downloaded from rspa.royalsocietypublishing.org
+    Point defects in sodium chlorate crystals
+    11
+    COMPUTER ANALYSIS
+    The step-wise graphical procedure adopted in the preceding pages involves apiecemeal analysis of the experimental data making certain assumptions andapproximations at different stages.A least square fit is also attempted using acomputer to improve upon the values of the defect parameters.
+    First,the oT against c isotherms were calculated for the temperature 70,80,90100 and 110Cusing equations(4),(9)and(10)with the assumption that
+    U
+    x2儿2≤1U1
+    工
+    in this extrinsic region.For each isotherm,c is varied from 2 to 30/106 for each com-bination of the values of 0.15 to 0.30eV for E:0.30 to 0.60eV for Eij and 0.001 to
+    0.006 for 4o1.By comparing with the experimental oT (figure 2),the sum of thesquares of the errors is evaluated,
+    c=30/108
+    sum =>{(oT)calc.-(oT)expt.)2.
+    c=2/106
+    For each isotherm,the set of parameters,(Fa,Fj and ol)that would make theabove sum the lowest is selected as the best combination.The points calculated fromsuch a set of parameters are shown (x )in figure 2.
+    The mean error per point is less than 0.22 in oT(not in IgoT)for the 70,80 and90C isotherms and is about 0.65 for the temperatures 100 and 110C.Obviously,the assumption 2=0 is not valid at these higher temperatures.Considering thateach isotherm contains data on different crystals,the least square fit appears to begood and lends support to the values of the effective impurity concentrations usedfor the different crystals.The average of the best parameters obtained by thismethod are:
+    器
+    Ea=0.22±0.02eV,E=0.46±0.01eV
+    and
+    o1=0.004±0.0005cm2V-1s-1.
+    The conductivity data on each individual crystal were also subjeeted to computeranalysis.As oT changes by several orders of magnitude the error square sum isevaluated as
+    T=493K
+    sum--品3xg(Taa-lg(aT).只
+    using the equations(1),(2),(11),(12)and (13)and making no other assumptions.All
+    工O
+    the parameters are varied:
+    Ea=(0.2-0.3),E1(0.35-0.6),o1(0.001-0.006),
+    E=(1.92-2.16),$r(2×10-3-4×108),E2(0.6-0.88),
+    o(7.4-22.2)and c appropriately for each crystal.
+    As the conductivity at low temperatures is more sensitive to impurity con-centration c,the above sums are calculated for the two extreme cases of crystals
+
+==========第12页==========
+    ROCEEDINGS THE ROYALOF
+    SOCIETY
+    A
+    MATHEMATICAL,
+    PHYSICAL
+    PROCEEDINGS
+    MATHEMATICAL,
+    PEYSICAL
+    ENGINEERING
+    SOCTETYA
+    ENGINEERING
+    SCIENCES
+    OF
+    SCIENCES
+    芯
+    Q
+    TABLE 2.DEFECT PARAMETERS FOR NaClO CRYSTAL
+    defect
+    graphical
+    conductivity curve analysis (c/106)
+    oT against
+    parameter
+    analysis
+    isotherms
+    2
+    7
+    15
+    27
+    E.leV
+    0.25±0.02
+    0.22±0.02
+    Ramasastry
+    0.22
+    0.2
+    0.2
+    0.22
+    t0.22
+    Eu/eV
+    0.43±0.02
+    t0.22
+    0.46±0.01
+    0.46
+    0.45
+    0.45
+    0.46
+    t0.46
+    and
+    Wol/cm2 V-1 s-1
+    0.005
+    t0.46
+    Downloaded from rspa.royalsocietypublishing.org
+    0.004
+    0.004
+    0.004
+    Elev
+    0.004
+    0.004
+    2.04±0.04
+    闪
+    1.98
+    s:/eVK-1
+    2.0
+    2.0
+    2.98×10-8
+    1.96
+    2×10-3
+    E2ilev
+    3×10-3
+    0.74±0.04
+    3×10-3
+    3×10-3
+    0.81
+    0.82
+    Wo2/em2 V-1 s-1
+    0.82
+    14.7
+    0.86
+    14.7
+    c/10s
+    14.7
+    14.7
+    14.7
+    2.5
+    8
+    14
+    35
+    t1.5
+    r.m.s.error
+    ↑35
+    Viswanatha
+    0.114
+    per point
+    0.093
+    0.082
+    0.056
+    Obtained by analysing the low temperature data only.
+    Reddy
+
+==========第13页==========
+    Downloaded from rspa.royalsocietypublishing.org
+    Point defects in sodium chlorate crystals
+    13
+    (c=2 and 27/106)using low-temperature data only(T<413K)varying all the para-meters including c at closer intervals.The refined values of c are 1.5/106 instead of2/106 and 35/100 instead of 27/106.They are of the right magnitude.
+    The best combination of parameters for each crystal obtained by a least squarecomputer fit of the conductivity data in the entire temperature range and also theroot mean square error per point are given in table 2.
+    SUMMARY
+    工
+    In NaClOs crystals the cation vacancies are the main current carriers in theextrinsic temperature region.At slightly higher temperatures,the extrinsic andintrinsic vacancies are comparable in number and a new procedure was adopted toestimate the formation enthalpy of the defect pair.In the intrinsic region,both thecomplimentary defects are found to contribute to electrical conductivity.The pre-sent analysis indicates that the activation energy of 1.64eV reported by Ramasastryet al.(Ig7)for the intrinsic region is a sort of weighted mean of the activationenergies,1.46and 1.80eV,that would have been obtained if the vacancies only or
+    O
+    interstitials only are mobile.
+    The jump activation energies and the pre-exponential factors for the cationvacancies and interstitials show that their mobilities are equal at 450K and that theinterstitials are more mobile above 450K but less mobile at lower temperatures.
+    The higher vacancy concentration in heavily doped crystals tends to suppress theinterstitials,through equation(2).The reduction of the interstitials which are moremobile above 450K accounts for the lower conductivity of the more impure crystalsin the higher temperature region.
+    It should be emphasized that the mobility parameters are obtained from the dataon each crystal separately and the fact that the conductivity curves cross each otherhas not been included in the analysis.That the explanation of this interesting resultfollows from the analysis reassures our confidence in the procedure adopted and inthe association theory of Teltow(1949).The long range Debye Huckel correctionsare ignored in view of the small concentrations of the impurities involved.
+    There is reasonable agreement between the graphically obtained and the computerevaluated parameters given in table 2.It may be remarked that Chandra Rolfe(1970)gave a review of the various attempts made using computers and pointed outthe possibility of the computer-fitted parameters not being unique.The graphical
+    O
+    method should not therefore be completely ignored in preference to the computeranalysis and the latter can be used to refine the values.The values of the variousdefect parameters with mean square errors are as follows:
+    Ea=0.22±0.01eV;E11=0.46±0.01eV;o1=0.004cm2V-1s-1;
+    E=1.98±0.02eV;8=3.0×10-3eVK;
+    E2则=0.83+0.04 ev and o2=14.7cm2V-1s-1.
+
+==========第14页==========
+    Downloaded from rspa.royalsocietypublishing.org
+    14
+    C.Ramasastry and K.Viswanatha Reddy
+    REFERENCES
+    Chandra,S.Rolfe,J.197o Can.J.Phys.48,412.
+    Etzel,H.W.Maurer,R.J.1950 J.Chem.Phys.18,1003.
+    Lidiard,A.B.1954 Phy8.Rev.94,29.
+    Lidiard,A.B.1957 Handb.Phys.20,246.
+    IVAOd IHL
+    Ramasastry,C.,Viswanatha Reddy,K.Murthy,V.S.1971 Proc.B.Soc.Lond.A 325,
+    347.
+    Teltow,J.1949 Annln.Phys.5,63,71.
+
+==========第15页==========

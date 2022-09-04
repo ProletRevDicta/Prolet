@@ -1,0 +1,745 @@
+    1328
+    L.PELSERS AND G.JACOBS
+    188
+    for the F center.3.The different temperature depen-temperatures seems to indicate that it is thermally acti-dences of the emission of the two Fg-band components
+    vated.The appearence of only one structureless emis-
+    has to be compared with the results of Lynch,Brothers,
+    sion band could indicate that the luminescence starts
+    and Robinson3 for the F center.However,although these
+    from one single level.Measurements of the radiative
+    authors do not reveal this property,their excitationlifetime at low temperatures for the two componentsspectrum shows more structure then the absorptioncould perhaps give more information about the lumi-spectrum.Both were only measured at 13K.It would
+    nescence mechanism.
+    be interesting to measure the low-temperature behaviorof the emission for the two components of the F band
+    ACKNOWLEDGMENTS
+    using a narrow spectral bandwidth for excitation.
+    In the case of the Fr center,the excited state is still
+    We wish to thank Professor W.Dekeyser for his con-
+    split up after lattice relaxation.The temperature be-tinuous interest during this investigation.This work ishavior of the emission of the 590-nm component at lowpart of a research program sponsored by "P'Institut3 D.W.Lynch,A.D.Brothers,and D.A.Robinson,Phys.Rev.
+    pour l'Encouragement de la Recherche Scientifique dans
+    139,A285(1965).
+    I'Industrie et I'Agriculture."
+    PHYSICAL REVIEW
+    15 DECEMBER 1969
+    Optical Phonons in Sodium Chlorate
+    C.M.HARTWIG,D.L.ROUSsEAU,*AND S.P.S.PORTO
+    Department of Physics and Electrical Engineering,University of Southern California,
+    Los Angeles,California 90007(Received 17 July 1969)
+    The frequencies of the optical phonons in NaClO3 have been located by measuring the infrared reflectivityand the Raman scattering spectra.By using the Lyddane-Sachs-Teller relationship,a value of 5.6 wasfound for the static dielectric constant.Dielectric transition strengths were determined from the transverselongitudinal frequency splitting and found to agree well with prior values obtained by analyses of infrareddata.The reflection spectrum,the index of refraction,and the absorption coefficient have been determinedthroughout the range of the lattice resonances.
+    INTRODUCTION
+    Several Raman studies of NaClO3 have been made inthe past.2-5 However,the results of these early in-
+    WT1 bhe发epovestigations were not reliable,since there were "extra"
+    troscopy,scattering from several crystals has beenlines in some regions of the spectrum and "missing'studied.In general,the emphasis has been placed on
+    lines in other regions.In addition,different frequency
+    single uniaxial ionic crystals where the complexity of the
+    values were obtained by each investigator,and there
+    spectrum was compatible with the development of the
+    was disagreement as to the assignments of observed lines.
+    theoretical understanding.Considerable emphasis is
+    These inconsistencies may have resulted from any of
+    now being devoted to the more complex crystals,in-
+    several effects.First,NaClOs is optically active.6 When
+    cluding those of low symmetry with few atoms per unit
+    laser sources were not available,it was necessary to
+    cell and those of high symmetry with many atoms per
+    illuminate a large volume of the crystal to obtain suffi-
+    unit cell.Sodium chlorate is an excellent representative
+    cient intensity to make Raman observations.Large
+    example of the latter case.It is cubic,belonging to thecrystalline dimensions allowed appreciable angles of
+    T4space group,and is,therefore,also optically active.
+    optical rotation,and subsequent depolarization errors
+    There are 4 molecules(20 atoms)per unit cell,resulting
+    in the spectra then resulted.Secondly,the point group
+    in 60 degrees of freedom.The lattice is ionic,consisting
+    of sodium chlorate (T)contains A and E irreducible
+    of sodium and chlorate ions.Furthermore,the chlorate
+    representations,both of which have only diagonal com-
+    ions show strong intraionic forces and may therefore be
+    2A.Rousset,J.Laval,and R.Lochet,Compt.Rend.216,886
+    treated as a unit,giving the material molecular-
+    (1943).
+    crystal-like features.
+    3 L.Couture and J.P.Mathieu,Ann.Phys.(Paris)12,521(1948).
+    4 V.Chandrasekharan,Proc.Indian Acad.Sci.32A,374 (1950).
+    Present address:Bell Laboratories Inc.,Murray Hill,N.J.
+    5 H.Poulet,Ann.Phys.(Paris)10,908 (1955).
+    1R.W.G.Wykoff,Crystal Siruclures (Wiley-Interscience,Inc.,
+    6 International Critical Tables (McGraw-Hill Book Co.,New
+    New York,1957),Vol.II,Chap.VII,p.5.
+    York,1930),Vol.III,p.353.
+
+==========第1页==========
+    188
+    OPTICAL PHONONS IN Nacioa
+    1329
+    ponents.This makes phonons of these symmetries very
+    Isolated CIO3
+    ClO3 and Na*
+    NaCIOs Factor
+    Symmetry
+    Site Symmetry
+    Group Symmetry
+    difficult to distinguish from each other,unless very
+    careful experimental arrangements are used.Thirdly,
+    there are several phonons in the crystal which are
+    C型
+    C3
+    T4simultaneously infrared and Raman active.When such
+    （,V2,TzA
+    A
+    A(v,v2,3 External
+    a mode is observed in the Raman effect,the long-range
+    (Rz)A2
+    electric field associated with the vibration splits thephonon into a transverse and a longitudinal component
+    (V3.Va,Txy,Rxy)E
+    E(y3,么，3 External)
+    of different frequencies,thereby further complicating an
+    eF(y,V2,2,24,
+    already rich Raman spectrum.
+    8 External,Acoustical)
+    The infrared absorption and reflectivity spectrum
+    FIG.1.Correlation table for NaClO3.
+    have been obtained previously in the region of theinternal chlorate ion lattice vibrations,but not in theregion of the external librational and translationa
+    ions occupy C3 sites in the cubic lattice.The correlationdiagram in Fig.1 maps out the site splitting and the
+    modes.In the most recent study by Andermann and
+    Dows,8.9 the authors concluded that the proximity of
+    factor-group splitting (correlation-field splitting),which
+    some longitudinal frequencies to each other invalidatedmight be expected in crystalline NaC1Os.On the basis of
+    this analysis the degrees of freedom of all the atoms in
+    the Lyddane-Sachs-Teller (LST)relationship in this
+    crystal.Also when they calculated dielectric transitionthe primitive cell should be split into 54+5E+15Fstrengths,there were large discrepancies among valuessymmetry modes.The acoustic phonon belongs to the
+    F representation,leaving fourteen F optical branches.
+    obtained by different methods.
+    On the basis of the factor-group splitting,the crystal
+    In order to clarify these several ambiguities and
+    spectrum should show phonons of A and F symmetry in
+    discrepancies,we have obtained the complete Ramanthe region of the vi mode of the free ion (930 cm-1).12spectrum of sodium chlorate.The low-frequency (40-
+    Similarly,in the region of v2(610 cm-1)there should be
+    400 cm-1)infrared reflectivity spectrum was also de-
+    4 and F symmetry phonons.v (497 cm-1)and v3 (982
+    termined.In addition,by carefully measuring the
+    cm1)should each split into an E mode and two F
+    Raman spectrum under several different orientations,
+    modes.In the region of external modes there should be
+    the dependence of the frequency on the phonon propa-
+    34+3E+8F optical branches.
+    gation direction has been studied.From an analysis of
+    The A,E,and F symmetry phonons are all Raman
+    our data,dielectric transition strengths,damping con
+    active.The phonons belonging to the F representation
+    stants,and the static permittivity have been calculated
+    are also infrared active causing longitudinal-transversefrequency splitting.The Raman tensors associated with
+    THEORY
+    each of these species are presented below:
+    NaClOa belongs to the space group T4(P213)and has
+    fa00)
+    4 molecular units per primitive cell.1 It is convenient to
+    0a0
+    separate the vibrational problem into two separate
+    1o 0 aJ
+    regions-the chlorate ion internal mode frequency re-gion (400-1100 cm-)and the librational and trans-
+    (b0
+    0)(V3b0
+    0
+    lational external mode region (40-400 cm-1).From
+    E-
+    0
+    0-v3b0
+    group theory the degrees of freedom of the Ca,chlorate
+    00-2b0
+    0
+    0
+    ion may be divided into 341+142+4E irreducible
+    000
+    representations.10 The three modes belonging to the 41
+    F(x)=00c
+    representation consist of v and v internal vibrations as
+    0 c0
+    defined by Herzbergu and a translation in the z direc-tion;the vibration of A2 symmetry is a rotation about
+    00c
+    z;and the four modes of E symmetry are vs and v
+    F(y)=1000
+    internal vibrations,a degenerate translation,and a de-generate rotation.Both the chlorate and the sodium
+    O c0
+    F(z)=c00
+    7 J.L.Hollenberg and D.A.Dows,Spectrochim.Acta 16,1155(1960).
+    000J
+    8 G.Andermann and D.A.Dows,J.Phys.Chem.Solids 28,1307(1967).
+    Modes of 4 and Esymmetry are inactive in the infrared
+    G.Andermann,Ph.D.dissertation,University of Southern
+    and consequently have no polarization associated with
+    California,1965 (unpublished).
+    10D.LRousseau,R.P.Bauman,and S.P.S.Porto
+    them.The polarization associated with the F symmetry
+    (unpublished).
+    phonons is indicated in parentheses.
+    G.Herzberg,Molecular Spectra and Molecular Structure:II.
+    Infrared and Raman Spectra
+    olyatomic Molecules (D.Van
+    12 S.T.Shen,Y.T.Yao,and Ta-You Wu,Phys.Rev.51,235
+    Nostrand,Inc.,Princeton,N.J.,1945),p.110.
+    (1937).
+
+==========第2页==========
+    1330
+    HARTWIG,ROUSSEAU,AND PORTO
+    188
+    Y个
+    scattering spectrum these phonons appear as separate
+    ks
+    q
+    lines.
+    中
+    The generalized LST relationship,first derived by
+    210
+    Cochran and Cowley,14 may be expressed by thefollowing:
+    (4)
+    q
+    k1 Z
+    Z(XX)Y
+    (YXY
+    in which eo is the static dielectric constant,and the
+    A.F
+    product is taken over all the polar phonon frequencies
+    In the derivation of this generalized relationship,an
+    ks
+    approximation was made in which the crystal was as-
+    代8
+    sumed to be composed of a system of harmonic oscil-
+    ki Y
+    lators without damping.This should be the only pos-
+    Z(X'Z)Y'
+    sible source of deviation from the LST in a NaClOa
+    X
+    Y'(ZX)Y
+    crystal.Furthermore,Cochran and Cowley14 have esti-
+    F TO,LO
+    mated that the maximum deviation from Eq.(4)fromanharmonic effects that might be expected for realcrystals in about 50
+    7
+    k
+    EXPERIMENTAL
+    A large solution-grown single crystal of NaClOs was
+    FIG.2.Scattering diagrams for all arrangements discussed in
+    provided to us by Dows,of the Chemistry Department
+    this paper.The incident beam direction is and the scattered
+    of the University of Southern California.From this.
+    direction is ks.The corresponding phonon propagation direction
+    smaller crystals were then cut with faces in (100)and
+    is indicated by g.The polarization vectors are indicated by theshorter arrows.Primed coordinates are those resulting from a 45
+    (110)planes,and the orientation was confirmed by x-
+    rotation of the crystal about the z axis.
+    ray diffraction.Final polishing of each crystal was per-formed with a slurry of Linde B in ethyl alcohol upon a
+    Since all fourteen F modes carry charge,they may
+    Pellon R pad
+    interact with infrared radiation through the absorption
+    In the Raman experiments,the spectra were obtained
+    and the reflection of light.The reflectivity R is given by
+    with a laser which was built in our laboratory and had adc-excited argon plasma.Two of the argon ion laser
+    [Ve(w)]-12
+    lines at 5145 and 4880 A were used.By using the second
+    R(w)=
+    (1)
+    line,
+    ghosts,fuorescence,and other wavelength-de-
+    [Ve(w)门+1
+    pendent phenomena could be readily discerned.The
+    where e(w)is the frequency-dependent dielectric con-
+    spectrometer was the Spex Double Monochromator-
+    stant,which is related to the index of refraction,n,and
+    Model 1400-11.In general,data were obtained at room
+    the extinction coefficient k by
+    temperature,but one set of experiments was done at20K.The crystal was cooled by placing it in a Dewar
+    e(w)=(12-iK)2
+    (2)
+    and blowing a boil-off from liquid helium over it.Frequencies were measured to an absolute accuracy of
+    Moreover,the relative permittivity is related to a sys-
+    about 1 cm-1.The electronic limit of our detectability
+    tem's resonances woi,the dielectric transition strengths
+    is about 10 photoelectron pulses per second in the
+    Si,the damping constants Yi,and the high-frequency
+    present experiments.This corresponds to total emission
+    dielectric constant e,by the expression
+    of about 10 photons/sec from our sample.
+    In the Raman experiments,the geometrical arrange-
+    Siwo
+    e(ω)=eo十
+    (3)
+    ment of the incident and scattered light polarizations
+    w0p-02Hiyj
+    and of the incident and scattered propagation directionswere carefully selected to study each of the Raman
+    At transverse phonon frequencies wro,the complex
+    tensor components.The standard notations15 of the type
+    permittivity is infinite and at longitudinal phonon fre-
+    k(ij)g are used throughout this paper to indicate the
+    quencies,wLo,it is zero.In reflectivity experiments,both the TO and the LO values may be determined
+    R.Kubo and H.Kamimura (W.A.Benjamin,Inc.,New York,
+    from inflection points in the spectrum.13 In the Raman1ad CoeChem.Solids,
+    (1962).
+    13 C.Haas and D.F.Hornig,J.Chem.Phys.26,707 (1957);E.
+    15 T.C.Damen,S.P.S.Porto,and B.Tell,Phys.Rev.142,570
+    Burstein,in Dynamical Processes in Solid Stale Oplics,edited by (1966).
+
+==========第3页==========
+    188
+    OPTICAL PHONONS IN Nacloa
+    1331
+    (a)
+    (b)
+    FIG.3.Survey Raman spectra of
+    NaClOa.The indicate lines thatoccur in the spectrum as a result ofspillover from other symmetries be-cause of slight misorientation
+    depolarization effects.a)
+    spectrum showing phonons.(b)(xx)y spectrum in which both 4 and
+    E phonons are present.(c)a(x'a)y
+    (c)
+    spectrum of the F TO modes.(d)
+    (yx)a spectrum displaying the LO
+    phonons.
+    1000 cm-1
+    500cm-4
+    I00 cm-1
+    scattering geometry,where k is the propagation direc-
+    separate the E species from the A species by orienting
+    tion of the incident light,i is the polarization direction
+    polarizations at 45 angles with respect to the crystal-
+    of incident light,j is the polarization direction of
+    lographic axes.By performing this rotation the 4 tensor
+    scattered light,and g is the propagation direction of
+    is unchanged,but the E tensor acquires off-diagonal
+    scattered light.
+    components.The various rotated orientations are indi
+    For A and E phonons,which are not polar,a uniquecated by primed coordinates.All appropriate scatteringsingle frequency is obtained for each mode.However,
+    diagrams are included in Fig.2.
+    for the polar F modes,it is necessary to simultaneouslv
+    The 4.1/mm (at 5200 A)optical activity6 of NaClO3
+    consider the polarization direction and the propagation
+    presents a problem which,if not recognized,could cause
+    direction16.17 (via the conservation of wave vector)toapparent selection rule breakdowns.This problem waspredict the occurrence of transverse or longitudinal
+    minimized with proper experimental techniques.When
+    phonons.This prediction can be most easily made
+    a right-angle scattering experiment was performed,light
+    through the use of scattering diagrams which are shown
+    entered the crystal within 2 mm of the crystal face
+    in Fig.2 for all geometries discussed in this paper.
+    closest to the spectrometer.Furthermore,only the first
+    In the representation of the Raman tensor,using the
+    2 mm of the laser light's threadlike passage through the
+    crystallographic axes as the basis set,both A andIcrystal was focused on the spectrometer slit.For backspecies have only diagonal components.It is possible toscattering a cleaved crystal of 2 mm thickness was used
+    Reflection measurements from 40 to 400 cm-1 were
+    AneumP.5.Porto,Ph
+    made with a Perkin-Elmer-Model 301,far-infrared
+    Rev.(to be published).
+    double-beam spectro-photometer.The dove-tailed back
+
+==========第4页==========
+    1332
+    HARTWIG,ROUSSEAU,AND PORTO
+    188
+    TABLE I.Optical phonons of NaClO.All values are expressed in cm-.The damping constants are those measured for the TO phonons.
+    Damping
+    Raman
+    Infrared
+    constant
+    E
+    F(TO)
+    F(LO)
+    F(TO)
+    F(LO)
+    65
+    86
+    路
+    う
+    伊
+    4
+    124
+    125
+    134
+    134
+    131
+    133
+    器
+    150
+    20
+    180
+    183
+    183
+    30
+    3a8.5W
+    62·
+    15
+    4
+    482(v4)
+    489(v4
+    400
+    618(v2)
+    623(2)
+    629
+    624.0a(v2)
+    45
+    932b
+    931b
+    932b
+    937(1)
+    936(1)
+    940
+    937.5(v1)
+    957(v3b)
+    965(v3b)
+    983
+    966.4(3b
+    455
+    988(v3a)
+    1030
+    987.2a(y3a)
+    1027a
+    toe equemcie.
+    surfaces of the room-temperature crystal had rough and
+    results of this experiment are shown in Fig.4 and
+    irregular faces,consequently minimizing back-surface
+    summarized in Table I,where the LO-TO frequency
+    scattering.An unpolarized beam struck the crystal's
+    sets and damping constants found in the infrared experi-
+    face at 9 with respect to the surface normal.In makingment are also tabulated.These values were obtainedcalculations of refectivity a correction was made for
+    from the reflection spectra in the following way.Transi-
+    this small perturbation from the standard analysis oftion strengths S;were calculated from the k equationsperpendicular and polarized radiation striking adielectric.
+    (wro)2Sj
+    e(wL0)=eo十∑
+    =0,
+    (5)
+    RESULTS
+    1(wT0)2-(wLo)2
+    Figure 3 shows the Raman spectra of NaClOs ob-in which the sum is over all the polar phonons.Fromtained at 25C for several scattering geometries.The
+    these values a reflectivity curve was calculated,using
+    data from these experiments are summarized in Table IEqs.(1)and (3),and compared to the measuredalong with our assignments.The identification of all the
+    spectrum.The initial estimates of wro,wLo,and Yi
+    F-symmetry LO and TO phonons is unambiguous except
+    (obtained from the reflection data)were then modified
+    for the mode at 183 cm-1.This line is broad,weak,and
+    to obtain a new set of Si's and a better fit to the re.
+    asymmetrical,making an accurate assignment tenuous
+    flectivity spectrum.This process was repeated until the
+    We believe,however,it is a distinct F phonon mode.Itbest fit between the computed curve and the empiricalhas an interesting temperature dependence,18 which is
+    spectrum was obtained.All eight external modes are
+    presently being studied.In the external-mode region of
+    then accounted for from the combination of both ex-
+    the spectrum only five Raman frequencies of F sym-
+    periments.The absence of four of the vibrations in our
+    metry were found.Group theory predicts the existence
+    reflection data is explained by these lines's low dielectric
+    of eight such frequencies.Resolution as good as 1 cm-1
+    transition strength,as exhibited by their weak LO-TO
+    did not reveal the presence of the three missing lines.A
+    splitting in the Raman data.
+    low-temperature experiment (T=20K),having sharp-
+    In the internal-mode region there should be an F
+    ened the Raman lines to a width of 3 cm-1,still showed
+    symmetry phonon in the region of each vi and v2,and
+    no additional lines.A comparison of a calculation of the
+    two F phonons near each vs and v4.In our Raman
+    static dielectric constant from the generalized LST
+    spectra five of these six LO-TO pairs were found,since
+    expression using 11 LO-TO Raman phonons (external
+    only one F symmetry LO-TO pair could be detected in
+    and internal),to a known value of the low-frequencythe v region.The infrared data,8 however,also showeddielectric constant revealed a huge discrepancy.Our
+    only one transverse-longitudinal pair in the v region
+    calculated dielectric constant was much lower than the
+    with different frequencies than our Raman values.
+    measured one.This directed us toward an infrared re-
+    Hence from these two experiments both F modes can be
+    flection experiment to look for the missing modes.Theaccounted for.One of those modes is strongly Raman
+    active and weakly infrared active,and the other dis-
+    18V.S.Gorelik,I.V.Gavrilova,I.S.Zheludev,G.V.
+    Peregudov,V.S.Ryazanov,and M.M.Sushchinskii,Zh.Eksperim.
+    plays the opposite intensity relationship.There are a
+    Teor.Fiz.Pis'ma v Redaktsiyu 5,169 (1967)[English transl.:
+    total of four modes of F symmetry that are too weakly
+    Soviet Physics-JETP Letters 5,171(1967)].
+    Raman active to be observed in our experiments.The
+
+==========第5页==========
+    188
+    OPTICAL PHONO NS IN Na C1O
+    1333
+    40
+    28
+    10
+    0
+    200
+    150
+    100
+    50
+    FIG.4.Low-frequency infrared reflection spectrum of NaClO3.
+    critical factor that makes symmetry-allowed Raman
+    with the odd propagation direction of k=k)
+    lines very weak is the matrix elements for the electron-
+    +()1/2],[z(x'z)].The TO eigenvalues from both
+    lattice coupling.A weak Raman line indicates a weakexperiments agreed within an experimental error ofelectron-phonon interaction.We are currently examin-
+    0.6cm-1.
+    ing the effect of crystal symmetry upon the lattice
+    To determine the effect of off-axis propagation direc-
+    modes and consequently upon theelectron-latticetions,coupled with a predicted mechanical polarizationmatrix elements.
+    that is neither transverse nor longitudinal,two addi-
+    The 4+E spectra are shown in Fig.3(b)and pure E
+    tional spectra were obtained-one in which the phonon
+    phonons in Fig.3(a).Among the 4 symmetry modes the
+    was forced to propagate in the direction k=k()1/2(),
+    line at 134 cm-is coincident with an E line.An in-
+    [z(xz)],and one in which the propagation direction
+    tensity decrease of the 134 cm-1 line in the E spectra as
+    wask=k[元+(2-1)][4-2v2]12,[y'(zx)y].The re--
+    compared to 4 and E combination spectra revealed the
+    sults of these experiments are presented in Table II.The
+    existence of the 4 mode.The 4 symmetry line at 65
+    resolvable eigenvalues are now the same as the previ-
+    cm-1 was used as a reference in the two experiments.
+    ously measured LO and TO frequencies.A phonon with
+    There is a missing line in the A symmetry Raman
+    a mechanical polarization,induced at an acute angle to
+    spectra.The missing vibration is an external mode.
+    its direction of travel,is resolved into an LO and a TO
+    This A mode is again either too weak to observe or is
+    component.For a few combinations of LO and TO
+    obscured by an accidental degeneracy,and since it isfrequencies the two lines appear as one,because theirinfrared inactive it cannot be observed in the infrared
+    small splitting and large linewidth yield a single-valued
+    spectrum.
+    resultant intensity.Also when the polarization direction
+    Chlorine appears naturally as 37Cl and 3Cl.*7CI
+    has a large component in the phonon propagation
+    exists in about the abundance of 35Cl.Hollenberg and
+    direction,the LO may become the dominantly excited
+    Dows?have calculated expected isotope shifts of the
+    line,thereby obscurring the weak TO phonon.
+    eigenfrequencies of the internal vibrations.In our ex-periments only one internal vibration (v1)exhibited
+    DISCUSSION
+    resolvable isotope dependence
+    Rosenstocki9 has concluded on the basis of a two-
+    The frequencies of the longitudinal and trans-
+    dimensional model that in cubic crystals if phonons
+    verse phonons were determined,respectively,from ex-
+    propagate in directions other than along the main
+    periments in which the propagation direction wask=k,[a(yx)2],and k=k()112),[z(yz)y](refer to
+    Fig.2).An additional TO spectrum was excited
+    TABLE II.Raman values (cm1)of polar phonons for off-axis
+    propagation and polarization directions.
+    Z(XZY
+    Y(ZXY
+    72T0
+    72T0
+    77L0
+    78L0
+    96
+    96
+    124a
+    125
+    131T0
+    134L0
+    184
+    08
+    490L0
+    490L0
+    622T0
+    629L0
+    629L0
+    931T0
+    932L0
+    936T0
+    936T0
+    940L0
+    940L0
+    k
+    965T0
+    983i0
+    983L0
+    FIG.5.Hypothetical dispersion curves exemplifying the various
+    987T0
+    possibilities of what might occur if the pure transverse or pure
+    1030L0
+    1030L0
+    longitudinal character is not preserved in off-axis propagationdirections.
+    TO and LO could not be separately resolved.
+    19 H.R.Rosenstock,Phys.Rev.121,416 (1961)
+
+==========第6页==========
+    1334
+    HARTWIG,ROUSSEAU,AND PORTO
+    188
+    6
+    20
+    10
+    0
+    200
+    150
+    f00
+    98
+    8
+    20
+    T
+    1050
+    1000
+    950
+    900648
+    610
+    500
+    460
+    FIG.6.Calculated infrared reflectivity spectrum
+    crystallographic directions they no longer remainsingle frequency for each LO-TO pair,and this fre-strictly transverse or longitudinal.Raman scattering
+    quency would be somewhere intermediate between the
+    provides a very sensitive probe of the transverse or
+    "pure"LO and TO values.This is indicated by in
+    longitudinal character of phonons,since the propagationFig.5.The failure to observe any frequency shifting asdirection may be readily selected,and the frequencies of
+    a function of propagation angle for all the polar phonons
+    the phonons may be monitored.The spectra of a phonon
+    implies that for small-k optical phonons in cubic crys
+    propagating in a general direction should then show a
+    tals the electrostatic character is conserved independent
+    breakdown of the longitudinal-transverse character.
+    of propagation direction.In this regard the LST re-
+    NaC1O3 has many types of polar phonons.Some are
+    lationship will not be invalidated,since the phonons
+    external;some are internal;some have large LO-TO will always retain the resonant values.This experi-frequency splitting;and some have small LO-TO mental conclusion is in contrast to Rosenstock'ssplitting.The crystal,therefore,provides for a completetheoretical deductions.test of Rosenstock's theory.If any deviation from pure
+    The LST relationship holds in all crystals that do not
+    longitudinal or pure transverse modes were to exist in a
+    exhibit severe anharmonicities,and it should therefore
+    cubic crystal,a frequency shift,as exemplified in thehold in NaClOs in spite of near accidental degeneracy ofdispersion curve of Fig.5,should occur in the NaClOs
+    several pairs of phonons.In our determination of the
+    spectrum.If this longitudinal-transverse character
+    static permittivity by the LST relation care was taken
+    breakdown is small,it would result in only a small-
+    to include all 15 polar phonons by selecting the very
+    frequency shift from the resonant LO and T()fre-
+    accurate Raman frequencies whenever possible (five
+    quencies,corresponding to wLo'and wro'of Fig.5.On
+    internal modes,five external modes,and one isotope
+    the other hand,if the LO-TO mixing is very large,themode)and using the reflectivity data for the remaininglongitudinal and transverse distinction would be re-
+    modes [three external and one (v)internal].The value
+    moved.If such a situation occurred in NaClOs,theof eo obtained from Eq.(4)was 5.6.This agrees welly'(sx)y and z(xz)y experiments would display only a
+    TABLE III.Transition strengths Sj determined from Eq.(5)
+    For comparison,values obtained in Ref.8 are included.
+    80
+    F(TO)
+    Si
+    St (cm-2)
+    Sjwj2 (cm-2)
+    from Ref.8
+    0.997
+    5170
+    0.197
+    1780
+    124
+    0.147
+    2200
+    131
+    0.254
+    4310
+    142
+    0.686
+    13800
+    176
+    15000
+    183
+    8
+    202
+    0.188
+    7690
+    482
+    0.037
+    8600
+    11800
+    489
+    0.006
+    1500
+    623
+    0.051
+    20000
+    1670
+    800
+    900
+    1000
+    0.023
+    20200
+    33000
+    v(cm-I)
+    0.038
+    48200
+    965
+    0.195
+    182000
+    164200
+    FIG.7.Infrared reflectivity spectrum of the internal-mode region
+    988
+    0.037
+    37000
+    41800
+    taken from Ref.8.
+
+==========第7页==========
+    188
+    OPTICAL PHONONS IN Nacloa
+    1335
+    3
+    50
+    1000
+    900660
+    61o500
+    470
+    200
+    150
+    50
+    FIG.8.Calculated curves of the refractive index (solid line)and the extinction coefficient (dashed line).
+    with a value of 5.7 measured at 10 kc by Mason.20 The in the present study came from Eq.(5).These are giveneffects of anharmonicity have been considered ex-
+    in Table III.The results of this analysis agree very well
+    plicitly by Barker.2 However,in the case of NaClO:,inwith the experimental oscillator strengths determinedwhich the linewidth of all the polar phonons is small
+    by Andermann and Dows,8 also listed in Table III,by
+    compared to the phonon frequency,the correction mav
+    the integration over the absorption coefficient and the
+    be neglected,and the usual form of the generalizedrefractive index,and establish,contrary to a con-LST may be used.
+    clusion reached in Ref.8,that the polar phonon fre
+    Andermann and Dows,s in studying the reflectivityquency analysis is a useful and accurate method forspectrum of the internal modes of sodium chlorate,de-
+    determining transition strengths.
+    termined transition strengths (S)by four methods.
+    A further confirmation of the validity of Eq.(3)may
+    They stated that the most reliable technique,in terms of
+    be obtained by using it to calculate a complete re
+    reproducing the experimental spectrum,was one in
+    flectivity spectrum through the relationship presented
+    which the dielectric transition strengths were determined
+    in Eq.(1).Figure 6 is a complete plot of a calculated
+    by integrating over the product of the absorptionreflectivity spectrum in the infrared region determinedcoefficient and the index of refraction.Values of S were
+    solely from phonon frequencies and linewidths.For
+    also determined by Andermann and Dows by using
+    comparison the measured internal-mode region re-
+    expressions of the type
+    flectivity spectrums is given in Fig.7.The frequencyvalues used in constructing the calculated spectrum
+    Sjo [(@Lo)2-(@ro5)2]
+    (6)
+    were only accurate to +1 cm resulting in some varia-
+    In their study there was a striking lack of agreement
+    tion in the comparison with the experimental spectrum
+    between the transition strengths determined by these
+    The index of refraction,n,is the real part of the square
+    techniques.Their other two methods are of little value
+    root of the dielectric constant and the extinction coeffi-
+    and will not be discussed here.
+    cient k is the imaginary part of it.These two functions
+    Equation (6)may be derived by selecting only aare plotted as a function of frequency in Fig.8.Thesingle set of values in the summation of Eq.(3)(ne-
+    agreement between the reflectivity calculated from the
+    glecting damping)and,as expected,enjoyed moderate
+    Raman frequencies and the measured reflectivity of the
+    success,when the resonance involved is distant from
+    internal-mode infrared analysis demonstrates the great
+    other resonances.However,in NaClO:where there are
+    utility of Raman spectroscopy in the determination of
+    several resonances located close to one another,it
+    such fundamental physical properties of crystals.
+    becomes necessary to evaluate the various Si's simul-taneously,since the effect of neighboring phonons is
+    ACKNOWLEDGMENTS
+    appreciable.The failure to do this in Ref.8 resulted in
+    We wish to thank Dr.C.A.Arguello and Dr.R.
+    the large differences in transition strengths as deter-
+    Luzzi for several helpful discussions and W.G.Spitzer
+    mined by these two techniques.The transition strengths
+    for his valuable assistance with our experiments.Sup-
+    20 W.P.Mason,Phys.Rev.70,529 (1946)
+    port from the National Science Foundation is gratefully
+    2A.S.Barker,Jr.,Phys.Rev.136,A1290 (1964).
+    acknowledged.
+
+==========第8页==========

@@ -1,0 +1,133 @@
+    Advanced Materials Research Vol 908(2014)pp 187-190
+    Online:2014-03-24
+    (2014)Trans Tech Publications,Switzerlanddoi:10.4028/www.scientific.net/AMR.908.187
+    Simultaneous Absorption of SO2 and NO using Sodium Chlorate/Urea
+    Absorbent in a Rotating Packed Bed
+    Mei Jin1.a,Guo-xian Yu',Fang Wang',Ping Lu1.5"
+    Hubei Key Laboratory of Industrial Fume Dust Pollution Control,Jianghan University,Wuhan,
+    Hubei,430056,P.R.China
+    ameijin_jhun@126.com,Pluping203@163.com,*Corresponding author
+    Keywords:Sodium Chlorate;Urea;Rotating packed bed;Simultaneous absorption
+    Abstract.In this work,simultaneous absorption of SO2 and NO from N2-NO-SO2 simulated fluegas using sodium chlorate as the additive and urea as the reductant was investigated experimentallyin a rotating packed bed.In RPB,various rotational speeds,gas flow rates and liquid flow rateswere studied by means of the removal efficiency of SO2 and NO.The experimental results showedthat the removal efficiency of SO2 was higher than 99.00%under various experimental conditionsand,at the same time,the removal efficiency of NO exhibited different results under variousexperimental conditions.The simultaneous NO removal efficiency of 82.45%and the SO2 removalefficiency of 99.49%could be obtained under the N2 flow rate of 0.5 m'/h,SO2 flow rate of 6mL/min,the NO flow rate of 4 mL/min,the rotational speed of 460 rpm and the absorbent flow rateof 40 L/h.
+    Introduction
+    It is widely known that the air pollution of urban is getting worse in the world with the developmentof industrialization,especially SO2 and NOx pollution [1].Therefore,several efforts have been putforward recently to develop new cleaner technologies to reduce emissions of SO2 and NOx.
+    According to the researches,the technology of the simultaneous absorption of SO2 and NO processis classified into the dry system and the wet scrubbing system [2].Due to the low cost and simpletechnology,the wet scrubbing system has been studied extensively,especially the purificationprocess provided by Russian scholar.On account of the lower denitrification efficiency,someresearchers proposed the denitrification efficiency could be improved by the addition of the additivein the absorbent [3-4].The simultaneous absorption of SO2 and NO process is composed of a largecolumn filled with various packings.Because of the poor mass transfer efficiency,the column isnecessary,and this lead to a higher capital and operating costs.As a result,some devices with highmass transfer efficiency were developed,such as a rotating packed bed(RPB).Additionally,undera significant centrifugal field,RPB plays an important role in the field of process intensification.
+    The applications of RPB,such as absorption,distillation,stripping,extraction,and other separationprocesses,have been demonstrated in the literature [5-6].It is a pity that the simultaneousabsorption of SO2 and NO in a RPB has not been carried out systematic research.In this study,thesimultaneous absorption of SO2 and NO process from the N2-NO-SO2 simulated flue gasperformance using sodium chlorate as the additive and urea as the reductant in a rPB wasinvestigated.Moreover,the influence of the experimental condition,such as the rotational speed,the flow rate of gas,and the flow rate of the absorbent,on the simultaneous absorption of SO2 andNO behavior were discussed in detail.
+    Experimental
+    Materials.Analytical reagent urea was obtained from Shanghai Hengli Fine Chemicals Co.,Ltd.,sodium chlorate from Beijing Nanshangle Chemical Factory.SO2(99.90%)and NO(99.90%)wereobtained from Shanghai Flextronics standard gas Co.,Ltd.,N2 (99.99%)was obtained form
+    WuhanTianci standard gas Co.,Ltd..
+    conmyvan Universit Univer2itnomsonrans
+
+==========第1页==========
+    188
+    Materials Science,Environment Protection and Applied Research
+    Outlet gas
+    Absorbent
+    Inlet gas
+    Rotameter日
+    RPB
+    ▣Rotameter
+    N2
+    NO
+    Pump
+    Absorbent tank
+    Fig.1 Schematic diagram of experimental process
+    Simultaneous absorption of SO2 and NO experiment.The experimental setup for thesimultaneous absorption of SO2 and NO is schematically shown in Figure 1.In RPB,the stainlesssteel packed bed has the outer diameter of 75 mm,the inter diameter of 22 mm and the height of 80mm.According to the static simultaneous absorption of SO2 and NO experimental results [4],theabsorbent adopted in the experiment was composed of the urea concentration of 0.8 mol/L and thesodium chlorate concentration of 0.001 mol/L.In each run,under the room temperature andatmospheric pressure,the absorbent was pumped and adjusted to a constant value through therotameter.Then,the gases were measured and adjusted to the constant values through rotameter,respectively.In the RPB,the absorbent and the mixture simulated flue gas were contactedcounter-currently.The inlet and outlet gas stream were collected and analyzed.The HJ479-2009standard naphthylethy lenediamine hydrochloride colorimetric method is adopted as the method forthe determination of NO.Iodometry method is adopted as the method for the determination of SO2.
+    According to the analysis results,the removal efficiencies of NO and SO2 could be calculated from
+    Eq.(1),respectively.
+    n=(C1-C2)/C1
+    (1)
+    where C,C2 are the concentrations of the inlet and outlet NO and SO2 in the mixture gas,respectively,mg/m'.
+    Results and discussion
+    Influence of the rotational speed on the simultaneous absorption performance.The influenceof the rotational speed in the range from 280 to 650 rpm on simultaneous absorption of SO2 and NOwas investigated under the operating conditions of a absorbent flow rate of 40 L/h and a mixture ofSO2-NO-N2 with the ratio of SO2/NO/N2=6:4:8.33(v),and the experimental result was shown in
+    Fig.2.From Fig.2,it was found that the removal efficiency of SO2 maintained a constant withincreasing rotational speed and,at the same time,the removal efficiency of NO increased firstly andthen decreased.For the desulfurization,because of the relatively very high solubility of SO2 inwater,the removal efficiency of SO2 maintained nearly 100.0%with increasing rotational speed inRPB.Compared with the performance of desulfurization,the removal efficiency of NO increasedfirstly and then decreased.Obviously,an increase in the rational speed would be beneficial to theformation of thinning liquid boundary layer and the corresponding decrease of mass transferresistance [7],and would simultaneously result in the shortening of the contact time [8].The formerbenefited the absorption performance of NO,while the latter had an inverse effect.In consequence,the rotational speed of 460 rpm could give a better simultaneous desulfurization and denitrificationperformance.
+    Influence of the flow rate of NO on the simultaneous absorption behavior.The influence ofNO flow rate in the range from 2 to 10 mL/min on simultaneous absorption performance was
+
+==========第2页==========
+    Advanced Materials Research Vol.908
+    189
+    carried out under the conditions of an absorbent flow rate of 40 L/h,N2 flow rate of 0.5 m'/h,SO2flow rate of 6 mL/min and a rotational speed of 460 rpm.The experimental result was shown in Fig
+    3.It was found from Fig.3 that the removal efficiency of SO2 was above 98.00%with an increase inthe NO flow rate;meanwhile,the removal efficiency of NO increased firstly and then decreased.
+    Similarly,the higher removal efficiency of SO2 could be obtained because of a relatively very highsolubility of SO2 in water.As for the absorption of NO,due to the double restrictions of the masstransfer rate and reaction rate of urea reduction NO [9],the result of the removal efficiency of NOexhibited a different changing tendency.As a result,the concentration of NO in the initial simulatedflue gas of 6 mL/min could result a better simultaneous desulfurization and denitrification behaviorin the experiment.
+    100
+    100
+    100
+    ●
+    100
+    응
+    90
+    90
+    80
+    80
+    을
+    80
+    &70
+    0
+    70
+    70
+    62503035040045050050606507060
+    60
+    10
+    60
+    Rotational speed/rpm
+    NO flow rate /mL/min
+    Fig.2 Effect of rotational speed on the absorption Fig.3 Effect of NO flow rate on the absorption
+    Influence of the flow rate of SOz on the simultaneous absorption behavior.Fig.4 showed thedependence of the flow rate of SO2 ranging from 6 to 14 mL/min on simultaneous absorption ofSO2 and NO performance under the condition of the absorbent flow rate of 40 L/h,N2 flow rate of
+    0.5 m/h,NO flow rate of 4 mL/min and the rotational speed of 460 rpm.In Fig.4,with increasingSO2 flow rate,a relatively small increasement in the removal efficiency of SO2 and NO could beobtained,respectively.According to the research [10],there was a synergistic effect between SO2and NO.The increasement of SO2 could improve the absorption of NO in the experiment,whichcould obtain a higher removal efficiency of NO in a relatively higher flow rate of SO2.In addition,the solubility of SO2 is considerably higher than that of NO;as a result,a relatively smallincreasement in the removal efficiency of SO2 could be obtained in a higher flow rate of SO2.As aresult,SO2 flow rate of 6 mL/min could provide a better absorption performance.
+    100
+    100
+    100
+    100
+    o이
+    8
+    90
+    80
+    80
+    70
+    70
+    요7
+    60
+    10
+    12
+    14
+    60
+    40
+    60
+    80
+    120160
+    200
+    SO2 flow rate /mL/min
+    Absorbent flow rate几h
+    Fig.4 Effect of SO2 flow rate on the absorption Fig.5 Effect of absorbent flow rate on the absorption
+    Influence of the flow rate of absorbent on the simultaneous absorption performance.Theinfluence of the flow rate of absorbent in the range from 40 to 200 L/h on simultaneousperformance under the mixture of SO2-NO-N2 with the ratio of SO2/NO/N2=6:4:8.33(v)and therotational speed of 460 rpm was discussed and shown in Fig.5.The experimental results showedthat the removal efficiencies of SO2 and NO were all maintained a constant value along withincreasing absorbent flow rate,respectively.Along with increasing absorbent flow rate,anincreasement of the liquid film transfer coefficient was beneficial to the absorption of NO.But for
+
+==========第3页==========
+    190
+    Materials Science,Environment Protection and Applied Research
+    the slight solubility of NO in water,the simultaneous absorption process follows the gas filmcontrol mechanism.As a result,the increasement of the absorbent flow rate had no effect on theremoval efficiency of NO.The experimental result showed that the flow rate of absorbent of 40 L/hcould provide a better simultaneous absorption behavior.
+    Conclusion
+    The influence of the experimental condition,such as the rotational speed,the flow rate of NO andSO2,and the flow rate of the absorbent,on the simultaneous absorption of SO2 and NO in a RPBwere discussed in detail.The experiment was carried out using the absorbent which was composedby the urea concentration of 0.8 mol/L and the sodium chlorate concentration of 0.001 mol/L.
+    According to a relatively very high solubility of SO2 in water,it was found that theabove-mentioned influence factors had slight effect on the removal efficiency of SO2.As for theabsorption of NO,the removal efficiency of NO exhibited various results under variousexperimental conditions.The removal efficiency of NO increased firstly and then decreased withincreasing rotational speed and the flow rate of NO,respectively.The removal efficiency of NOmaintained a constant with increasing of the flow rate of SOz and the absorbent flow rate,respectively.As a result,a better simultaneous absorption behavior could be obtained under theSO2-NO-N2 simulated flue gas with the ratio of SO2/NO/N2=6:4:8.33(v),the rotational speed of460 rpm and the absorbent flow rate of 40 L/h,which could obtain the removal efficiency of
+    82.45%for NO and the removal efficiency of 99.49%for SO2.
+    Acknowledgements
+    This work was financially supported by the Wuhan Science and Technology Project(201250499145-6),the scientific research project of Hubei Province Science and Technology
+    Department (2012FFC08601,2011BMZ036),the scientific research project of Hubei Province
+    Education Department (B2013160)and the scientific research project of Wuhan City(201262523845).
+    References
+    [1]K.Skalska,J.S.Miller,S.Ledakowicz:Science of the Total Environment,408(2010)3976-3989
+    [2]P.Fang,C.P.Cen,Z.X.Tang,et al:Chem.Eng.,168(2011):52-59[3]J.C.Wei,Y.B.Luo,P.Yu,et al:J.Ind.Eng.Chem.,15(2009):16-22.[4]F.Wang,T.Chen,M.Jin,et al:Adv.Mater.Res.,881-883(2014):641-644.
+    [5]L.Agarwal,V.Pavani,D.P.Rao,et al:Ind.Eng.Chem.Res.,49(2010)10046-10058[6]F.Wang,M.Yu,G.X.Yu,et al:Appl.Chem.Industry,42 (2013)1247-1250[7]Y.Li,Y.Z.Liu,L.Y.Zang,et al:Chem.Eng.(China),18(2010):244-248.
+    [8]X.P.Jiang,Y.Z.Liu,C.L.Du,et al:Natural Gas Chemical Industry,36(2011):49-53.[9]P.Fang,C.P.Cen,Z.X.Tang,et al:Chem.Eng.J.,168(2011):52-59.
+    [10]L.Xiao,B.Cheng,J.S.Mo,et al:Acta Scientiae Circumstantiae,31(2011)1175-1180.
+
+==========第4页==========
+    Materials Science,Environment Protection and Applied Research
+    10.4028/www.scientific.net/AMR.908
+    Simultaneous Absorption of SO2 and NO Using Sodium Chlorate/Urea Absorbent in a Rotating Packed
+    Bed
+    10.4028/www.scientific.net/AMR.908.187
+    DOI References
+    [1]K.Skalska,J.S.Miller,S.Ledakowicz:Science of the Total Environment,408(2010)3976-3989http://dx.doi.org/10.1016/j.scitotenv.2010.06.001
+    [5]L.Agarwal,V.Pavani,D.P.Rao,et al:Ind.Eng.Chem.Res.,49(2010)10046-10058.http://dx.doi.org/10.1021/ie101195k
+
+==========第5页==========

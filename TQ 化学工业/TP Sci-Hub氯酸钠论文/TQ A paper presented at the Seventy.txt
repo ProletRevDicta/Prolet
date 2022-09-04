@@ -1,0 +1,442 @@
+    A paper presented at the Seventy-ninth General
+    Meeting,held at Cleveland,Ohio,April 17,1941,H.Jermain Creighton presiding.
+    THE EFFICIENCY OF A SODIUM CHLORATE CELL
+    WITH ROD CATHODES1
+    By JAMES MCLAREN,JACK TURER,3 F.H.DAVIS,A.L.PITMAN,5 WITH P.H.GROGGINSO
+    ABSTRACT
+    The electrochemical oxidation of sodium chloride to sodium chloratehas been studied in cells with graphite anodes.The factors that deter-mine the efficiency and economy of the cell such as pH,temperature,addition agents,attack of graphite,and cell design are discussed.Thevoltage balance and the operating efficiency for several cell loads aregiven in order to facilitate the selection of cell characteristics for anysituation.Graphite anodes with an apparent density of 1.8 showed greaterdurability than less dense anodes during a test period of four months
+    A local-cell mechanism is proposed for the catalytic effects observed incathodic reduction.A cell designed with rod cathodes has a consumptionof energy and graphite that is lower than in previous cells.
+    INTRODUCTION
+    The technical production of sodium chlorate and its importance toagriculture as a chemical weed-killer have been described in three recentpapers.7 In connection with the engineering work described in thesepapers,a laboratory study was made of the conditions necessary forthe efficient operation of the cell with graphite anodes.This study ledto the development of the rod cathode cell which is described in thepresent paper.
+    The electrochemical preparation of sodium chlorate is represented bythe following empirical equation
+    NaC1 3H2O 6F>NaClOs+3H2
+    Sodium chlorate may be formed in a simple cell consisting only of agraphite anode and a steel cathode in a sodium chloride solution,but
+    1 Contribution from the Agricultural Chemical Research Division,Bureau of Agricultural
+    ecompimed the Divsuert eetve DecemnberChem.
+    on work
+    2 Asst.Chemist,Agricultural Chemical Res.Div.,Dept.of Agriculture,Washington,D.C.8 Junior Chemist,Agricultural Chemical Res.Div.,Dept.of Agriculture,Washington,D.C.
+    Junior Chemist,U.S.Geological Survey,Dept.of the Interior,Washington,D.C.
+    s Senior Chemical Engineer,Western Regional Res.Lab.,Bureau of Agricultural Chem.and Eng.,Dept.of Agriculture,Albany,Calif.
+    Principal Economic Analyst,Eastern Regional Res.Lab.,Bureau of Agricultural Chem.and Eng.,Dept.of Agriculture,Wyndmoor,Pa.
+    1022ies carenc Davisem Groging.Chen.
+    302-7 (1937);A.L.Pitman,James McLaren,F.H
+    P.H.Groggins,Chem.
+    Met.Eng.45,692-6 (1938);P.H.Groggins,A.I.Pitman and F.H.Davis,Chem.Met.
+    Eng.47,468-70(1940).
+    93
+
+==========第1页==========
+    94
+    MCLAREN,TURER,DAVIS,PITMAN AND GROGGINS
+    such a cell may operate with poor efficiency.The early industrial cellshad a current efficiency of only 25%,but great improvements in thecurrent efficiency were made about 1900 as a result of the following twodiscoveries
+    1.The addition of acid to the electrolyte decreases the formation ofoxygen gas at the anode.
+    2.The addition of chromium or calcium compounds inhibits the re-duction at the cathode.
+    By the application of these discoveries the current efficiency withplatinum-iridium anodes was increased up to 90%.After the price ofplatinum-iridium became very high,graphite anodes came into use,not-withstanding the fact that their use was characterized by lower currentefficiency and by expensive periodic replacement,because of their decom-position.In order to avoid too costly graphite losses,the cells withgraphite anodes were designed to operate with low anode current densi-ties and comparatively low temperatures.An examination of recent lit-erature shows that a variety of conditions have been selected for celloperation.
+    Angel and Gelhaars state in the Ullmann encyclopedia article that theelectrolysis is carried out at a temperature of 40 to 55 C.in order toobtain a high current efficiency.At a current density of 0.03 to 0.05amp./cm.2 the life of impregnated anodes is a year or a little more,butthe life of unimpregnated anodes is only 2 to 3 months.The Frenchcells that were described briefly by Bunet have been selected by Wilson10as typical industrial cells.According to Bunet,a cell for a current of
+    2.500 to 3.400 amp.consists of 50 graphite anode plates 20 x 6 x 12 in.(50 x 15 x 1.3 cm.together with steel cathode plates that are arrangedto give an electrode gap of about 5/32 in.(4 mm.).The concrete celltank for these electrodes holds 400 L.of electrolyte,giving a currentconcentration of 6.3 to 8.5 amp./L.The cell voltage is 3.2 to 3.5 v.witha current efficiency of 78%,so that 2.8 to 3.1 kw.-hr.(d.c.)are requiredto produce one pound of sodium chlorate.The anode life is 6 to 15months,and,accordingly,from 26 to 12 1b.(11.8 to 5.4 kg.of graphiteare consumed for the production of one ton of sodium chlorate.Theoperating temperature is as low as 25 C.,but the average temperatureis not mentioned.
+    The variety of temperature chosen for cell operation is illustrated bymore recent work.Katsen and Sokolov11 select 50 C.as the best celltemperature because the current efficiency in their cell was low at 30 C.and the graphite attack was high at 70 C.Linari and La Pietra12 findthat 35 C.is the best temperature,because the voltage of their cellincreases at lower temperatures and the current efficiency decreases athigher temperatures.Delavenna and Maillard1s operate a cell at 0C.,because the current efficiency decreases at higher temperatures.How-s(.Angel and J.Gelhaar in Ullmann Technische Enzyklopoedie,2nd ed.,3,278-99,Berlin(1929).
+    P.Bunet,Bull.soc.frang.elec.8,805-15 (1928).
+    10 S.H.Wilson,New Zealand J.Sci.Tech.19,273-95 (1937).
+    11 I.S.Katsen and P.I.Sokolov,J.Applied Chem.(U.S.S.R.)5,902-28 (1932).12A.Linari and V.Ia Pietra,Chimica e industria (Italy)19,693 (1937).1 Delavenna and J.Maillard,Compt.rend.202,1663-4 (1936).
+
+==========第2页==========
+    A SODIUM CHLORATE CELL WITH ROD CATHODES
+    95
+    ever,the 12,000 amp.cells at Chesterfield,England,are said to operateat44°C.14
+    In our earlier investigation15 cells were operated at 42 C.with ananode current density of 0.02 amp./cm.2 Under these conditions 2.7 to
+    3.2 kw.-hr.(d.c.were required to produce 1 1b.(454 g.)of chlorate,and with unimpregnated anodes the graphite consumption was 37 to49 lb./ton of chlorate.At 42 C.the attack on new anodes during thefirst month of operation amounted to 21 Ib./ton of chlorate and at 32 C.to 11 lb./ton.These anodes were used in the modified cells next de-scribed.16 At 32 C.the attack was found to be 26 to 37 Ib./ton.Thenthe anode current density was increased to 0.036 amp./cm.2 in two cellsof different design.In one cell the energy requirement was 2.6 kw.-hr./Ib.and the graphite requirement was 24 lb./ton;whereas in thesecond design the energy requirement was 2.5 kw.-hr./1b.,but the graph-ite requirement increased to 38 lb./ton.
+    In the selection of the best conditions for cell operation,many factorssuch as the cost of power,labor,graphite,and buildings must betaken into consideration.Therefore,the laboratory work was undertakento determine cell characteristics in order that suitable conditions couldbe selected more easily.Our studies are described in the following sec-tions which give special consideration to the anode life,temperature ofoperation,electrolyte acidity,anode and cathode efficiency,current con-centration,current density,voltage,and cell design.
+    EXPERIMENTAL CELLS AND EQUIPMENT
+    Two sizes of experimental cells were used.Small cells with a capacityof 2.4 L.of electrolyte were made up in glass jars,covered with an im-pregnated asbestos top that supported the electrodes,thermometer,gasoutlet,acid inlet,and calomel reference cells.
+    The anode was made from a graphite rod 2 in.(5.1 cm.)in diameter.
+    The upper end of the rod was impregnated with melted paraffin waxunder a vacuum before being threaded for the hard-rubber nut whichsecured the graphite to the cover.A small section of graphite projectingabove the hard-rubber nut was silver-plated in order to insure goodcontact between the graphite and the conductor.A glass sleeve wascemented with paraffin wax over the 3 in.(7.6 cm.length just belowthe cover,in order to protect the graphite at the solution level and tolimit the anode to an active length of 4 in.(10 cm.)The anode wassurrounded by ten steel rods 14 in.(6 mm.in diameter,the upper endsprotected,like the anodes,with glass sleeves.
+    After successful operation of the small cells it was decided to deter-mine the efficiency of the rod cathode construction in larger units.Forthis purpose,cell tanks constructed of stoneware,steel or concrete,andwith an electrolyte capacity of 70 to 110 L.,were employed.Each cellwas designed to hold from one to six electrode units,each 2 ft.(0.6 m.long.Here,as in the small cells,the electrode unit consisted of a 2 in.(5.1 cm.)diam.anode surrounded by 14 in.(6 mm.diam.steel rods14R.Mueller,Allgemeine u.technische Elektrochemie nichtmetallischer Stoffe,Julius Springer,
+    Vienna (1937).
+    5Chem.&Met.Eng.44,3027(1937).1 6 Chem.&Met.Eng.45,692-6(1938).
+
+==========第3页==========
+    96
+    MCLAREN,TURER,DAVIS,PITMAN AND GROGGINS
+    with an electrode spacing of 14 in.(6 mm.)between cathode and anode
+    In later work this spacing was increased or decreased by as much as3/16 in.(5 mm.).The anode and the cathode rods were both mountedin a large rubber stopper that extended far enough below the cover toprotect the electrodes at the solution level.The lower ends of the cathode
+    Frc.1,Electrochemical cells and equipment.
+    rods were fitted with insulating spacers made of short lengths of rubbertubing,the wall thickness of which was selected to give the desiredelectrode spacing.The cathode rods were held in place by either elasticrubber bands,a coil spring,or a steel frame.The cell cover was animpregnated asbestos board cemented to the tank with a mixture ofrosin,rubber,and beeswax.The gas outlet from the cell contained a
+
+==========第4页==========
+    A SODIUM CHLORATE CELL WITH ROD CATHODES
+    97
+    glass bulb to catch any excess electrolyte and a dropping device forslowly adding brine or water to the cell.Above this bulb the glass tubingof the exit line was indented at numerous points to give extra surfacefor breaking foam and saturating the added brine or water with the gasesfrom the cell.The cells and their equipment are shown in Fig.1 and 2.
+    FIG.2.Detail of rod cathode unit.
+    One cell was set up to determine the durability of anodes with appar-ent densities of 1.6,1.7 and 1.8.This cell was cooled at first by thewater in a jacket fitted around the stoneware tank.In later work impreg-nated graphite cooling units were used.A second cell was provided witha steel cooling coil bent from a 20 ft.(6 m.)length of 38 in.(1 cm.)diam.standard tubing which was arranged in 10 turns within the circle
+
+==========第5页==========
+    98
+    MCLAREN,TURER,DAVIS,PITMAN AND GROGGINS
+    of electrode units.These cells,as well as the small cells,were equippedwith thermo-regulators and with dropping devices for adding dilutehydrochloric acid to the cell.
+    The current was measured in the small cells by an ammeter and acalibrated amp.-hr.meter,and in the large cells by shunts used in con-junction with an accurate potentiometer.The voltage was measured withthe potentiometer or with voltmeters calibrated against the potentiometer.
+    The pH of the small cell was determined by a low resistance glasselectrode used with a potentiometer and a sensitive galvanometer.Laterdeterminations were made with a portable,quartz-insulated,glass-elec-trode outfit.
+    The current efficiency was calculated from analyses of the cell liquorfor the formation of chlorate and the disappearance of chloride.Theindividual anode and cathode current efficiencies were determined fromthe rate of evolution and the composition of the cell gases,which in-cluded hypochlorous acid or chlorine,carbon dioxide,oxygen,andhydrogen.The rate of gas evolution from the small cells was found bynoting the time required to fill the calibrated 100 ml.pipette of the gasanalysis apparatus.The gas rate of the large cells was measured with awet gas meter,which had a correction of 0.7%.
+    ANODE LIFE
+    The literature and our first plant-scale operations indicated that at42 C.the cost of graphite and graphite replacement might approximateone-half the cost of electrical energy.Graphite anode life has been foundto depend upon temperature,acidity,current density,current concen-tration,salt impurities,graphite structure and apparent graphite den-sity.17 Of these factors,temperature and apparent graphite density wereselected for special study.
+    The effect of temperature'upon the attack of graphite was determinedin a small cell operated with an anode current density of 0.02 amp./cm.2and a current concentration of 1.4 amp./L.The measure of chemicalattack on the graphite is the percentage of current that is consumed inCO2 production;this was found to be 15%at 60C.,3%at 42 C.,andonly1%at25°C.
+    Graphite with an apparent density of 1.7,studied in the above experi-ments,has displaced for many purposes the graphite with an apparentdensity of 1.6,because the denser graphite has been found to have betterdurability.Fortunately,graphite of still higher density is now available.
+    Graphite anodes with apparent densities of 1.6,1.7,and 1.8,were furn-ished by the courtesy of two graphite companies.Tested at 42 C.,theanodes of different densities gave approximately the same rate of chemi-cal attack during an initial period of 2 weeks,but there was some indica-tion that the mechanical loss (sludge)was less with the higher densityanodes.At lower temperatures the total attack has been found to be lessbut the mechanical attack to be a larger percentage of the total attack.
+    Therefore tests on the life of graphite anodes were made at 25 C.,thetemperature chosen for further operation of the plant-scale cells.
+    spo2aetc品7880，Pl-bi香，9828（a932；L.
+
+==========第6页==========
+    A SODIUM CHLORATE CELL WITH ROD CATHODES
+    99
+    In order to carry out the tests under conditions similar to those pro-posed for large-scale cells,six round anodes,2 x 24 in.(5.1 x 61 cm.)were set up and operated in a stoneware tank of 70 L.capacity.The pIwas maintained at 6.7+0.2 by the addition of commercial HCl,diluted1:1.At the beginning of a run the salt concentration was 300 g./L.Theelectrolyte was replaced with fresh salt solution after the salt concen-tration had dropped to 100 g./L..except for a short time when the cellwas run at lower salt concentrations in order to determine the currentefficiency under such unfavorable conditions.The commercial salt usedcontained the following impurities:Na2CO3,0.4%;Na2SO4,0.25%;
+    CaO,0.004%.Two grams of sodium dichromate were added to each literof salt solution.The current to each anode was measured and controlledby individual shunts and rheostats.The current density was 0.040amp./cm.2 and the current concentration was 3.0 amp./L.The cell pro-duced about 760 Ib.(345 kg.)of sodium chlorate during a 4-monthperiod.A summary of the efficiency for this period is given in Table I.
+    TABLE I
+    Efficiency of the Cell Containing
+    Six Anodes of Graphite of Various Densities.
+    Loss of Current Efficiency
+    Current
+    Month
+    Anodic by
+    Cathodic byEfficiency
+    Cell
+    C02
+    Cl2
+    02
+    Reduction
+    of the Cell
+    Voltage
+    NaClO
+    1
+    0.4
+    0.3
+    9.1
+    0.1
+    90.1%
+    2.96
+    2.25
+    23
+    1.0
+    0.2
+    9.0
+    4.4
+    85.4
+    2.87
+    2.30
+    1.1
+    0.3
+    9.3
+    2.8
+    86.7
+    2.86
+    2.26
+    4
+    1.0
+    0.3
+    8.3
+    2.0
+    88.3
+    2.88
+    2.24
+    Average
+    0.9
+    0.3
+    8.9
+    2.4
+    87.6
+    2.90
+    2.26
+    The graphite loss of the anodes was determined by weighing theanodes before and after the 4-month period of cell operation.In orderto remove salt and chlorate from the pores of the graphite,the anodeswere thoroughly washed.The first washing was for 4 days in runningtap water,and the second and third washings were for 2-week periods incirculating distilled water.More than a week was required to dry theanodes in a hot-air oven to constant weight between washings.The dis-tilled water used in a final washing contained no significant amount ofchloride after 3 days'immersion of the electrodes.
+    The weight of graphite lost from each electrode is shown in Table II.
+    In estimating the pounds of graphite required per ton of chlorate pro-duced,the actual graphite loss was increased by the 30%stub loss thatresults when the impregnated top and the active portion (less than 1 inor 25 mm.in diameter)are discarded.An estimate of graphite anodelife at 0.04 amp./cm.2 was made on the assumption that the rate of at-tack during the first 4 months would continue and that the weight ofgraphite available for consumption would be contained between theoriginal diameter of 2.05 in.(52 mm.)and the final diameter of 1.00in.(25.4 mm.)It should be noted that the relative amount of attack
+
+==========第7页==========
+    100
+    MCLAREN,TURER,DAVIS,PITMAN AND GROGGINS
+    would be expected to vary with temperature,current density,and theother conditions that affect the rate of graphite attack.
+    CONTROL OF ELECTROLYTE ACIDITY
+    Proper control of the acidity is required if high current efficiencies areto be obtained.An electrolyte that is too alkaline contains a large numberof hydroxyl and hypochlorite ions,the discharge of which causes theevolution of oxygen gas and leads to decomposition of the graphiteanode.On the other hand,too acid an electrolyte gives off large amountsof hypochlorous acid and chlorine that must be replaced by HCl,at addi-tional expense and trouble.
+    The correct acidity serves in two ways to prevent the discharge ofhypochlorite ions:(1)The addition of hydrochloric acid to the sodiumhypochlorite solution forms hypochlorous acid which is only slightlydissociated and is not readily discharged.(2)The sodium hypochloriteis removed lby reaction with the hypochlorous acid to give sodium chlor-
+    TABLE II
+    Comparative Graphite Life
+    Graphite
+    Comparative
+    Manu-
+    Apparent
+    Graphite
+    Graphite
+    Graphite
+    Loss十
+    Available
+    Loss in
+    Loss/1b.
+    30%Stub
+    Life at 0.04
+    facture
+    Density
+    2.05-1.00in
+    4m0.
+    NaClOa
+    Loss/ton
+    NaClOa
+    Bxtrapoiated
+    Y
+    1.57
+    1,330g.
+    196g
+    1.55g
+    9.81b.
+    2.3yr.
+    1.73
+    1.470
+    143
+    1.13
+    7.1
+    3.4
+    178
+    ,510
+    132
+    1.04
+    6.5
+    3.8
+    1.60
+    1,360
+    164
+    1.29
+    8.1
+    2.8
+    1.70
+    .440
+    121
+    0.95
+    6.0
+    4.0
+    1.79
+    1,520
+    113
+    0.89
+    5.6
+    4.5
+    ate.Knibbs and Palfreeman18 have determined the effect of temperatureand acidity upon the rate of the reaction between hypochlorite ion andhypochlorous acid.However,these authors stated that they had foundthe recommended methods of measuring the acidity to be unsatisfactory.
+    Our experience confirmed this statement,and the absence of a methodfor measuring the acidity proved to be a great handicap in maintainingthe cells at a high efficiency.Fortunately,the glass electrode was foundto give quick and convenient measurements of pH values,which wereeasily correlated with the current efficiency.By the proper control of thepH,higher current efficiencies are readily obtained and maintained.
+    In the selection of the best pH both the characteristics of the cell andthe cost of hydrochloric acid must be taken into consideration.The cur-rent concentration is an important characteristic that determines therelationship between the current efficiency,the amount of chlorineevolved,and the graphite attack.Mueller and Koppe1s have pointedout that the loss of hydrochloric acid increases with the current concen-tration provided that sufficient acid is added to maintain an equal currentefficiency.If the loss of HCl is avoided in a high current concentration1 N.V.S.Knibbs and H.Palfreeman,Trans.Faraday Soc.16,402-424 (1921).19 E.Mueller and P.Koppe,Z.Elektrochem.17,421-30 (1911).
+
+==========第8页==========
+    A SODIUM CHLORATE CELL WITH ROD CATHODES
+    101
+    cell by running under more alkaline conditions,the hypochlorite ionconcentration may build up and cause the current efficiency to drop offand the graphite attack to increase.This interrelationship led Angel20to state that the provision of adequate electrolyte capacity is one of thecheapest ways of insuring high current efficiency.With the rod cathodecells the acidity was increased until the loss of gaseous chlorine com-pounds reached 0.05 to 0.3%of the gases evolved from the cell.
+    CATHODE CURRENT EFFICIENCY
+    A cathode current efficiency of 100%indicates that all the hydrogenis evolved from the cathode without reduction of the oxidizing agentsformed at the anode.In order to obtain high efficiencies,calcium com-pounds and chromates are added to the electrolyte.These compounds aresupposed to form a diaphragm that protects the oxidizing agents in themain body of the solution from contact with hydrogen formed at thecathode.Haber21 found that the reduction decreases with an increase incurrent density,and Grube and Burkhardt22 found that chromiumplated cathodes give little reduction.
+    Our study of the cathode efficiency of the small cells emphasized theeffect of rust upon reduction at the cathode.With badly rusted cathodesthe reduction was 100%,but a clean iron surface gave only a smallamount of reduction.The efficiency of a rusty cathode may improveupon continued operation.Because this rate of recovery depends chieflyupon the current density and the presence of addition agents,experi-ments were undertaken in order to determine the importance of thesefactors.
+    In a cell operating at 42 C.with a current density of 0.016 amp./cm.?the cathode reduction on a previously rusted cathode fell from 100 to6%in one day when the electrolyte contained 1 g./L.of sodium dichro-mate.However,with an electrolyte containing 3 g./L.of calciumchloride as well as 1 g./L.of sodium dichromate,the reduction fell from100 to 0%in the same time.In another similar run with an electrolytecontaining 1 g./L.of both sodium dichromate and calcium chloride,butat the low current density of 0.001 amp./cm.2,30 days were required tobring down the reduction to 6%;and 50 days,to 2%.
+    Our observations show that the reduction depends upon the presenceof rust on the surface,the current density,and the period of operation.
+    Furthermore,it was noted that the reduction could be easily increasedby stirring up rust particles from the bottom of the cell,and that thereduction decreased more rapidly at 25 than at 42 C.
+    The addition of sodium dichromate caused very little increase in thecathode potential,but the addition of calcium chloride to a cell running ata cathode current density of 0.016 amp./cm.2 and a temperature of42 C.caused increase in the potential as follows:1 g./L.of CaCl2,
+    0.03 v.;3 g./L.,0.15 v.;10 g./L.,0.35 v.It is suggested by one of theauthors (McLaren)that the effect of rust,calcium,and chromate mightbe explained by a mechanism similar to the one proposed by Hoar and20 See footnote 8.
+    F.Haber,"Technische Elektrochemie,"p.437,Muenchen (1898).2G.Grube and A.Burkhardt,Z.Elektrochem.30,67-72 (1924).
+
+==========第9页==========
+    102
+    MCLAREN,TURER,DAVIS,PITMAN AND GROGGINS
+    Evans23 for the action of calcium compounds and chromates as corrosioninhibitors.According to this mechanism,calcium compounds block offthe cathodic portion,and chromates block off the anodic portion of thelocal action corrosion cell.If similar local action cells exist on a cathodesurface,the reaction at these cells could reverse the oxidation accom-plished at the graphite anode.According to this view,chromium com-pounds are considered to block off the anodic portions of the local actioncells without affecting the discharge of hydrogen from cathodic portions.
+    On the other hand,calcium compounds cover cathodic areas,therebyincreasing the effective current density and the cathode potential.
+    Our studies with chromium-plated cathodes confirmed the observationof Grube and Burkhardt,22 who stated that the chromium coating dis-solved upon standing in the electrolyte,but did not dissolve while thecurrent was passing through the cell.Katsen and Sokolov24 declare thatthe chromium plate dissolves during cell operation,the metallic chro-mium serving merely as a source of dissolved chromate,which inhibitsreduction in the usual manner.In our experiments only a trace of chro-mium dissolved during cell operation.
+    An average reduction of 0.1%was found for the first month of opera-tion of the 70 L.cell in which the graphite anodes were tested.Duringthe second month the power supply to the motor generator was inter-rupted,and the cell was short-circuited through the generator.Thisreversal of the cell caused the cathodes to corrode so badly that largeamounts of rust collected in the bottom of the cell.The rust caused thecathodic reduction to increase to the high value of 15%.There was norapid decrease in this high value because the rust was continually stirredup from the bottom of the cell.The average reduction for the secondmonth was increased to 4.4%by this reversal.
+    The electrode assembly was then placed for a few weeks in a steeltank protected against corrosion by a cathodic protective current of
+    0.003 amp./cm.2 In this arrangement 12%of the total current of 205amp.was employed for the cathodic protection,and the net cathodeefficiency was reduced by 3%.In larger cell tanks,or with higher currentdensities,the proportion of the current required for cathodic protectionwould be smaller and the current efficiency should be increased.
+    Near the end of the test,the steel tank was replaced by a stonewaretank,after the rust that resulted from the current reversal had beencarefully washed out of the bottom.In the clean cell an average reduc-tion of 0.1%,with a cell current efficiency of 90%,was found for thelast 2 weeks of operation.
+    COOLING COIL AND CATHODIC PROTECTION
+    The cooling coil,which was made from 20 ft.(6 m.)of 3 in.(9.5 mm.diam.pipe,was installed in one 70 L.cell for three purposes:
+    (1)to maintain the temperature at 25 C.;(2)to determine the rate ofheat transfer from the cell to the cooling water;(3)to determine theprotective current required to prevent both corrosion of the cooling coiland significant amounts of cathodic reduction.
+    g2不c品n里62&，65wan1 Chera.So.2w76（1932方U且Eas,Tran
+    2￥See footnote11.
+
+==========第10页==========
+    A SODIUM CHLORATE CELL WITH ROD CATHODES
+    103
+    The temperature was easily maintained at 25C.by a thermo-regula-tor which controlled the supply of cooling water.The cooling coil wasfound to have several times the cooling capacity required for our experi-mental conditions,so that the cell temperature was lowered during thedetermination of the rate of heat transfer.With the cell running at 800amp.the over-all rate of heat transfer amounted to 110 B.T.U./hr.sq.ft./F.(136 g.cal./hr./cm.2/C.)with a water velocity of 1 ft./sec.(0.3 m./sec.);and 160 B.T.U.(198 g.cal.)with a water velocity of5 ft./sec.(1.5 m./sec.)
+    One cell was cooled for several months with two bayonet-type coolingunits constructed of impregnated graphite pipe.In a 200 amp.cell theover-all rate of heat transfer was 95 B.T.U.(118 g.cal.)at a watervelocity of 2.5 ft./sec.(0.76 m./sec.)The area used for this value ofthe rate of heat transfer was based upon the 1.0 in.(25 mm.insidediameter of the pipe.
+    A cathodic protective current of 0.003 amp./cm.2 was obtained on thesteel cooling coil from the current which passed between the cathoderods and the cathodic pipe surface.Provision had been made in the celldesign for increasing or decreasing the protective current,but the exist-ing condition proved so satisfactory that no changes were made.Thiscathodic protective current was only 1 to 4%of the total current,anddid not bring about any measurable cathodic reduction.
+    VOLTAGE AND EFFICIENCY AT VARIOUS LOADS
+    The values for the principal components of the over-all cell voltagewere determined for the small cell and are shown in the first fourcolumns of Table III.The anode and cathode potentials were deter-mined with a saturated calomel reference cell.These voltages are de-pendent on many cell conditions,but representative values are given herein order that the voltages for different cell loads may be compared.Theanode potentials were determined after operation for several months.
+    Impregnated anodes,or anodes only a few weeks old,may give poten-tials several tenths of a volt higher.The cathode potentials will decreasewith increasing reduction,and will increase with deposition of lime onthe cathode.Different amounts of rusting and etching will also causevariations of a few tenths of a volt.
+    The voltage drop in a 2 in.(51 mm.)diam.graphite anode,2 ft.(0.6 m.)long,was calculated from the specific resistance,which was
+    0.00065 ohm/cm.3 The total of the first four voltages in Table IIIshould give an approximation of the voltage to be expected in the 70 Lcell equipped with 6 of the above anodes.The change in the compositionof the electrolyte during a batch run increases the anode and cathodepotentials only slightly with sodium chloride concentrations above 100
+    g./L..;but the voltage (IR)drop in the electrolyte increases by asmuch as 50%because the specific resistance of the electrolyte rises from4 to 6 ohms/cm.3
+    The voltage (IR)drop within the electrodes makes the voltage be-tween the anode and the cathode greater at the top than at the bottomof the cell.Consequently,the current density and the amount of anode
+
+==========第11页==========
+    104
+    MCLAREN,TURER,DAVIS,PITMAN AND GROGGINS
+    wear are greater at the upper end of the anode.25 In order to preventa bottle-neck form of attack,which may cut off the anode,the lowerportions of the cathode rods are so arranged that they can be broughtcloser to the anode.By this means the voltage drop through the electro-lyte between cathode and anode is made greater at the top of the celland can be made to balance the voltage drop through the electrodes.
+    Thus,by an empirical angular adjustment of the cathode rods,theattack of graphite can be made so uniform that the lower portions ofthe anodes are not lost by the bottle-neck form of attack.A rubber bandor other means of contraction,serves to bend together the lower endsof the cathode rods.This method of adjustment also maintains over thebottom portions of the electrodes a constant electrode spacing,whichwould otherwise increase as the anode wears.Although an approximateestimate of the cathode angle needed for uniform anode corrosion can
+    TABLE III
+    Voltage Balance of Rod Cathode Cells at Various Loads.
+    Voltage
+    Experimental Values
+    Anode
+    Current
+    Anode
+    Cathode
+    Voltage
+    Total of 4
+    for 70 L.Cell
+    Drop in
+    Density
+    Potential
+    Potential
+    Drop in2 ft.
+    Component
+    amp./cm.
+    volts
+    volts
+    Electrolyte
+    Anode
+    Voltages
+    30R.
+    0.01
+    1.17
+    1.27
+    0.04
+    0.01
+    2.49
+    0.02
+    0.07
+    0.02
+    0.04
+    0.14
+    0.05
+    2.8
+    3.0
+    0.06
+    1.30
+    遥
+    0.21
+    0.07
+    0.09
+    1.33
+    0.32
+    0.11
+    3.28
+    3.1
+    0.12
+    1.34
+    0.45
+    0.14
+    3.48
+    3.3
+    牙
+    0.16
+    1.37
+    1.58
+    0.6
+    0.19
+    3.74
+    3.5
+    3.9
+    be made,the variation in the rate of graphite attack due to various fac-tors makes necessary an empirical adjustment
+    Typical data for various loads and salt concentrations are shown in
+    Table IV.The data are not strictly comparable because all the factorscould not be kept constant.For example,the anodes were damaged insome instances by operation at low salt concentrations.The anodes alsobecame progressively worn to smaller diameters.The data for the 400amp.run were obtained after the anodes were worn down from the2 in.(5.1 cm.)to a 1.75 in.(4.4 cm.)diameter.The data for the 185amp.run were obtained with three worn anodes operating in a concretetank.These anodes had been damaged by operation at low salt concen-trations and showed a high rate of chemical attack,which decreased uponcontinued operation at high salt concentrations.At this time the anodeshad received greater wear in the top portion because the cathode rodshad been left in a frame which held them in their original position.
+    The diameter of the anodes was 1.70 in.(4.32 cm.)near the lower endand 1.60 in.(4.06 cm.)near the upper.At this time the spacers on thelower ends of the cathode rods were brought in against the anode with arubber band.
+    See footnote 8.
+
+==========第12页==========
+    ASODIUMCHLORATE CELL WITH ROD CATHODES
+    105
+    群等居E
+    对8
+    常
+    的용得游
+    导好9
+    RRR
+    品品品
+    e
+    435.06多
+    景
+    到多
+    袁活
+    委
+    261035吕95吕유
+    s888
+    品兰
+    S우
+    兰兰
+    防
+    AI aV L
+    3
+    Y
+    의의수
+    9
+    9
+    馨3338껑향영영g33
+    3
+    유유유
+    88
+    2
+    兰兰等옹용
+    영영영용
+    홍葛홍
+    용g
+    号号器兰
+    示邑유올品올R8后
+    系系急
+
+==========第13页==========
+    106
+    MCLAREN,TURER,DAVIS,PITMAN AND GROGGINS
+    MATERIALS OF CONSTRUCTION
+    Rubber has a good life where it is in contact with the electrolyte orthe cathode,but it is slowly attacked in contact with the anode or anodicgases.The gum-rubber spacers on the cathode rods showed no apparentattack after 5 months'operation except where they touched the anodes
+    However,the attack on this portion was too small to measure accurately,being less than 0.01 in.(0.025 cm.during the 5-month period of oper-ation.Ordinary rubber bands,0.025 in.(0.063 cm.)thick,were success-fully used to bring together the cathode rods.This rubber did not touchthe anode,and for that reason appeared to have a better life than thespacer.The soft rubber which was used to anchor the electrodes intothe cover and to protect them against solution-line corrosion was alsoonly slightly attacked.The upper section of the graphite rods was care-fully impregnated in order to prevent anode gases from reaching therubber through the graphite.
+    Concrete tanks have been widely used for previous chlorate cells.26
+    Our dense concrete tank,constructed of aluminous cement,had 2.5 inch(6.4 cm.)walls reinforced with steel network.The inside diameter was18 in.(46 cm.and the over-all height 30 in.(76 cm.).One-third of theinner surface was coated with linseed oil and a small area with a cementmade of rubber,rosin,and beeswax,in order to determine if thesewould have a marked effect on the stability of the concrete.The currentefficiency was slightly higher in the concrete cell,a condition probablybrought about by the low current concentration.The cell efficiency im-proved with unusual rapidity after the cathode had rusted,for the celloperated with zero reduction and with 92%current efficiency only 10 hr.after a short-circuit of 10 hr.duration.
+    DISCUSSION
+    Although graphite anodes have been used extensively during the past35 years in the electrolytic production of sodium chlorate,the brief sur-vey of previous work given in the introduction indicates that no agree-ment exists regarding the best conditions for operation.Our investiga-tion and experiments have shown that many of the statements in theliterature regarding the anode life,the temperature of operation,and theefficiency of the cells have only a limited application.The adaptation andapplication of earlier data were difficult because of the absence of infor-mation on the ph of the electrolyte and on the voltage balance of thecell,as well as because of the discordance of information on efficiencyanode life,and temperature of cell operation.
+    The successful operation of the rod cathode units over a wide rangeof cell currents in a variety of cell tanks emphasizes the flexibility per-mitted in adapting the cell to financial factors,such as cost of power andthe cost of equipment.The cell is very suitable for use with off-peakpower.Although our data do not cover a sufficient range of conditionsor length of operation to determine the best conditions for all situations,the data serve as a guide to the selection of good conditions.
+    2P.Bunet,Bull.soc.franc.elec.8,805-15 (1928);S.H.Wilson,New Zealand J.Sci.
+    Tech.19,273-95 (1937);I.S.Katsen and P.I.Sokolov,J.Chem.Ind.(U.S.S.R.)1,42-51(1932);G,Angel and J.Gelhaar in Ullmann Technische Enzyklopoedie (2)3,278-99 (1929).
+
+==========第14页==========
+    A SODIUM CHLORATE CELL WITH ROD CATHODES
+    107
+    The rod cathode cell was found to operate at 25 C.with such a lowrate of graphite attack that the test period of 4 months covers onlya small fraction of the total anode life.Therefore the estimated totalanode life based on the extrapolation of our data is considered as anapproximation.However,our data indicate that the rate of attack doesnot show any marked increase after the first month of operation.Evenif an increase of 100%is allowed for the greater rate of attack in oldanodes,the graphite attack would be between 6 and 10 lb.(2.7 and 4.5kg.of graphite per ton of sodium chlorate produced,an amount lessthan one-half that previously reported.Higher density graphite anodes(d=1.8)can be used to decrease the attack to still lower amounts.
+    The values for the variation of chemical anode attack with currentdensity are given in Table IV.In our work at high current densities,theeffect of low salt concentrations was also examined.The anodes wereseverely damaged by operating at salt concentrations as low as 10 g./L.,and a thick layer of soft graphite was formed on the surface which waseasily attacked in subsequent operation.Although our data indicate thatthe amount of chemical attack of graphite per unit weight of chlorate isgreater at current densities above 0.04 amp./cm.,2 the minimum amountof this attack is not yet known.
+    Operation of the small cells (2.4 L.)indicated that the graphite attackcould be kept so low at 25 C.in the rod cathode cell that considerationmight be given to the design of a cell that would operate economically atanode current densities higher than 0.04 amp./cm.2 Examination of thedata on voltage balance showed the voltage drop in the electrolyte to bethe chief factor that would increase the voltage of such a cell.For ex-ample,with the cell designs previously used,27 the voltage drop in theelectrolyte would amount to over 3 v.at an anode current density of 0.08amp./cm.2 By contrast,the voltage drop in the rod cathode type of con-struction is only 0.3 v.,a value low enough to permit economical opera-tion at high anode current densities.
+    However,a large current in the anode increases the voltage drop inthe graphite rod,so much so that the length of the rod must be givencareful economic consideration.If long anodes are to be used,care isrequired in the technical design and suspension of the anodes in order toprevent the bottle-neck form of attack.In order to overcome this dif-ficulty the rod cathode type of construction was designed not only togive a low voltage drop in the electrolyte with new anodes,but also topermit the spacing between cathode and anode to be taken up in sucha way that the anode is worn down to a small diameter uniform through-out its length.The amount of the spacing to be taken up will varywith the current density,the length of the graphite rod,the electrolytecomposition and other factors,but the flexibility of cathode rods andtheir suspension permits them to be bent empirically to balance the anodewear.The data on graphite resistance and electrolyte resistance may beused to design a cell which will give approximately uniform wear.
+    The open arrangement of the cathode rods around the anode hasseveral advantages over other arrangements that do not approach this
+    P.H.Groggins,A.I..Pitman,James MeL aren,F.H.Davis,Chem.Met.Eng.44,
+    302.7(1937).
+
+==========第15页==========
+    108
+    MCLAREN,TURER,DAVIS,PITMAN AND GROGGINS
+    form.The circular arrangement of the electrode rods has the further ad-vantage that the volume of electrolyte available for carrying the currentis obviously greater than can be obtained with flat plates which operateat the same anode current density.The cathode rods surround the anodein such a way that all gases and solutions rising from the anode mustpass through the zone between the cathode rods.In this type of circula-tion the acidic gases and electrolyte from the anode pass through thealkaline cathodic zone where their reaction with basic compounds inhibitsthe loss of chlorine compounds in the gases evolved from the cell.Theconstruction also facilitates a type of circulation in which the gases andsolutions from the anodic zone force out the gases and solutions fromthe cathodic zone into the main body of the electrolyte.In this way thehydroxyl ions from the cathode are driven away from the anode wheretheir discharge would cause a loss of current efficiency and increasedattack upon the graphite.
+    The molded rubber anchorage for the electrodes replaces the hard-rubber nut as well as the rubber solution-line protector used in ourearlier cells.28 In these cells the head of the anode was machined down tofit this protector and nut,thereby increasing the fragility of the rod andcausing an increased voltage drop in the narrow neck of the graphite.
+    The combination of the principles applied in the construction of rodcathode electrode units improved the current efficiency and decreasedthe graphite attack,the HICI loss,and the voltage.These units operatedsuccessfully in a variety of cell tanks,and appear to be suited particu-larly for cells which take advantage of the high efficiency possible withthe low current concentration that is most economically realized in largetanks of stoneware,steel,or concrete.
+    SUMMARY
+    Graphite anodes with an apparent density of about 1.80 have 15 to20%longer life than anodes with an apparent density of 1.70,whichhave in turn 30 to 40%longer life than those with an apparent densityof1.60.
+    The glass electrode was used for the determination of pH values,which were correlated with the current efficiency.
+    A reaction mechanism of local cell action has been proposed as anexplanation of the catalytic effects observed in cathodic reduction.
+    The cells of the rod cathode design operated at a high energy efficiencywith a low consumption of graphite and acid.
+    A method of mounting the electrodes is described which protects themat the solution line and allows the spacing between the electrodes to betaken up in such a manner that the graphite wear is uniformly dis-tributed throughout the length of the anode.
+    Data on heat transfer are given for a steel cooling coil and an im-pregnated graphite cooling unit.
+    A voltage balance of the rod cathode cell for several current densitiesis given in order to facilitate the design of a cell with the best character-istics for any particular power cost or financial policy.2 See footnote 7.
+
+==========第16页==========
+    A SODIUM CHLORATE CELL WITH ROD CATHODES
+    109
+    ACKNOWLEDGMENT
+    The cells and their equipment were constructed by Mr.R.Hellbachand Mr.C.Goude,to whom the authors are indebted for their carefulworkmanship and for their useful suggestions.We are indebted to
+    Dr.W.Blum,Mr.M.R.Thompson,and other members of the National
+    Bureau of Standards for advice about equipment.
+    Resumen del articulo:"La Eficiencia de una Celda para Clorato Sodico
+    Empleando Varillas como Catodos.'
+    El clorato sodico tiene importancia para matar cardos.Producien-dolo de NaCl con anodos de Pt-Ir se ha logrado eficiencias de 90%,empleando HICl para disminuir el O2 librado al anodo,y compuestosde Cr y Ca,que reducen la perdida de clorato al catodo.
+    En este articulo se sustituye el Pt por un cilindro de grafito,rodeadopor varillas de acero como catodos.El anodo dura mas cuanto mayorla densidad del grafito.Conviene colocar los catodos de manera quese aproximan al anodo en sus extremos inferiores,para manteneruniforme la densidad de corriente sobre los electrodos,y por con-siguiente el desgaste del anodo.Tambien se deben protejer los elec-trodos de corrosion al nivel del liquido.
+    DISCUSSION
+    H.J.CREIGHTON20:This paper brings back old memories.During the last warI worked for several years on the development of an electrochemical process forthe oxidation of sodium chloride to chlorate and the oxidation of the latter toperchlorate,in connection with ammonium perchlorate manufacture.I found thatin the conversion of chlorate to perchlorate the best results were obtained with anelectrode arrangement such as the authors of this paper have described.Probablythe Bureau of agriculture does not apply for patents;but my application wasturned down by the Patent Office on the grounds that an arrangement of an anodesurrounded by concentric cathodes had previously been used for the purpose ofsharpening rat-tail files!
+    L.D.VoRCE30 You all are familiar with the work of Le Sueur up at Rumford
+    Falls a great many years ago,when he put the first electrolytic caustic chlorineplant into operation.He had more or less trouble;he found he was making alot of chlorate in the cell;but it so happened that it was just at the time of thewar,when the price of chlorate went way up,and the amount of chlorate that
+    Le Sueur could make in his caustic-chlorine cell helped to pay for the runningof the plant.I have recently had a number of inquiries from people who wantedto make chlorate.As I was not an expert in that line,never having made chlorate,I passed the inquiries on to Le Sueur.I imagine soon there is going to be a largeincrease in the amount of chlorate made in this country.
+    JAMEs McLAREN:In connection with the anode life,we studied anodes ofthree different densities.However,I should like to point out that at the presenttime anodes of the highest density are not available on a commercial scale.
+    Chairman,Dept.of Chemistry,Swarthmore College,Swarthmore,Pa.
+    Westvaco Chlorine Products Co.,New York City.
+
+==========第17页==========

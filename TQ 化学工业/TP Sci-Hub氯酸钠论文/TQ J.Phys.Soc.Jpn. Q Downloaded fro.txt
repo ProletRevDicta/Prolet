@@ -1,0 +1,82 @@
+    J.Phys.Soc.Jpn.
+    Q
+    Downloaded from journals.jps.jp by Uppsala Universitetsbibliotek on 03/05/18
+    Cpeahegr
+    434
+    J.PEYS.S0C.JAPAN9(1954)434~435
+    Nuclear Quadrupole Interaction in Sodium
+    Chlorate and Sodium Bromate
+    By Junkichi IToH and Riichiro KUSAKA
+    Department of Physics,Osaka University,
+    Osaka,Japan
+    (Received March 12,1954)
+    The nuclear electric quadrupole spectrum of anucleus of spin 3/2 consists of a single line,resulting from the transition between two levelswith m=土3/2andm=士1/21)2).When a weakmagnetic field is applied,this line shows the
+    Zeemen effect and splits into four components3).
+    In the case of sodium chlorate,the Zeeman effectof the nuclear quadrupole spectrum of the chlorinenucleus has been studied already4).Besides theselines,one more line is expected,which correspondsto the transition between two levels splitted fromthe level with m=+1/2 by the magnetic field.
+    When a (=e2qQ/4)is much larger than 6(=uH/I),the energy of this line is calculated by a simpleperturbation theory to bes)
+    hv=6v4sin2 0+cos20,
+    (1)
+    provided one assumes an axially symmetricgradient of the electric field at the nucleus;is the angle between the direction of the sym-metry axis and the magnetic field.We measuredthis line for the bromine nuclei in a singlecrystal of sodium bromate.Fig.1 shows theresults of the experiment and the theoreticalcalculation,in which values of the resonancefield are plotted against the orientation of thecrystal,the frequency of the detector beingmaintained constant.The agreement betweenexperiment and the theoretical formula(1)seemssatisfaetory5).
+    When a is not very large compared with b,afurther approximation is necessary in the calcu-lation of the energy of this line.In the caseofg=90°，the calculated energy up to the forthorder power in b/a is given by1)s)
+    a=汤1-0(8+8.(2)
+
+==========第1页==========
+    J.Phys.Soc.Jpn.
+    Downloaded from journals.jps.jp by Uppsala Universitetsbibliotek on 03/05/18
+    1954)
+    Short Notes
+    435
+    shows that the gradient of the electric field at
+    3500
+    the nucleus is also axially symmetric,and thedirection of the symmetry axis coincides with父白
+    that for the halogen nucleus.The value of
+    3000
+    e2gQ for the sodium nucleus in sodium chlorateand sodium bromate is found to be 80118 and864+8 Kc/sec,respectively.
+    2500
+    B.8
+    References
+    1)R.V.Pound:Phys.Rey.79 (1950)685.
+    2000
+    2)H.G.Dehmelt and H.Kruger:Z.Physik129(1950)401.
+    3)H.Kruger:Z.Physik 130 (1951)321.
+    1500010203040.5060708090°日
+    4)R.Livingston:Science 118 (1953)61.
+    Y.Ting,E.Manring,and D.Williams:
+    Fig.1.The experimental and the theoretical
+    Phys.Rev.92(1953)1581.
+    results for the line corresponding to (1).
+    5)Since the frequency of the pure quadrupole
+    Circular marks show the experimental result,while the curves are the calculated ones.The
+    resonance of Br79 in this crystal is 178 Me/sec,
+    frequency which is kept constant,is 5.80
+    the higher order term in (b/a)is less than 2x
+    Me/sec.The ordinate is the potentiometer
+    10-4 of (1)which is the same order of the ex-
+    reading which is proportional to the magnetic
+    perimental error in determining the resonance
+    field strength,a value of 3000 of the ordinate
+    field.
+    corresponding to a field strength of 4720
+    6)Wang,Townes,Schawlow,and Holden:
+    gauss.
+    Phys.Rev.86(1952)809.
+    From the resonance frequency of this line and
+    7)T.Kanda and Y.Masuda(Kobe University)
+    the Zeeman frequency of the nucleus at a fixed
+    searched the magnetic resonance of the chlorine
+    magnetic field,the value of a is obtainablel).nucleus in the water solution of NaClOs to meas-
+    We performed the experiment for Cl35 nucleusure its chemical shift,but they could not observein a single crystal of sodium chlorate at about
+    the resonance.
+    7200 gauss.Taking the nuclear magnetie reso-
+    8)W.G.Proctor and F.G.Yu:Phys.Rev.
+    nance frequency of Cl-in LiCl aq.for b/l,the
+    81(1951)20.
+    experimental value of 26/h-v was found to be
+    9)G.Becker:Z.Physik 130 (1951)415.
+    40.812 Ke/sec at v=6.000 Mc/sec.On the otherhand,using the value,29.920 Mc/sec,of 2a ob-tained from the pure quadrupole resonance),26/h-v is calculated to be 45.6 Kc/sec by using
+    (2).The difference is considered to be due tothe chemical shift of the chlorine nucleus insodium chlorate compared with that in Cl-,amounting to(8±3)×l0-4 in paramagnetiedirection?).This value may be compared withthe similar shift in HClO4,9x10-4 obtained by
+    Proctor and Yus).The rather large uncertaintyin our measurement is caused by the difficultyin determining the true resonance position,sincethe intensity of the absorption is weak and theabsorption line has a width of ~2 gauss,and,moreover,the magnetie field is slightly unstable.
+    We have not yet performed the experiment tomeasure such shifts of Br nuclei in NaBrOs.
+    We also performed the magnetic resonanceexperiment for the sodium nucleus in thesecrystals.In this case,the resonance lines cor-responding to the electric quadrupole splittingof the nuclear magnetic resonance line1))wereobserved around ~5000 gauss at the frequeneyof 5.8 Me/see.The result of our experiment
+
+==========第2页==========

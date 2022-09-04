@@ -1,0 +1,508 @@
+    Stress Corrosion Cracking of 72/28 Brass
+    in Sodium Chlorate Solution*
+    V.K.GOUDA,H.A.EL-SAYED,*S.M.SAYED,and G.M.SHERBINI*
+    Abstract
+    Sodium chlorate solution was tested at ambient temperature as a stress corrosion cracking(SCC)medium for 72/28 brass.The constant strain rate technique was used and a rate of 1.5 x10-5 sec-1 was applied.The effect of concentration and applied potential on the SCCsusceptibility was investigated.The results indicated that in 1.0 and 0.1 M NaCIO3 solutions,the alloy was susceptible to SCC under open-circuit conditions and at applied anodic poten-tials,but not at applied cathodic potentials.In 0.01 M solution,an overpotential of 125 mV wasrequired for cracking to take place while no SCC was observed at concentrations s 0.005 M.
+    The exposed surfaces of the specimens were covered by reddish-brown film when they wereanodically polarized while the fracture surfaces were film-free.The crack morphology wasmainly integranular at and near the open-circuit potential while it was predominantly trans-granular under anodic polarization.Metallographic inspection revealed the formation ofdiscontinuous dezincified layer for stressed specimens in relatively concentrated solutionswhich was more obvious under applied anodic potentials.
+    Introduction
+    Experimental
+    It has frequently been stated that the environmental re
+    Annealed 72/28 brass of the chemical composition 71.7
+    quirements for SCC are highly specific,and with the passage
+    Cu-28.0 Zn-0.006 Pb-0.01 Fe,and mechanical properties UTS
+    of time,the list of environments that cause cracking in various
+    283.44N/mm2(28.8Kgmm3,Y.S.=216.52N/mm2(22.0
+    alloys continues to grow.1 It was believed that the SCC of Cu-
+    Kg/mm2),Elongation 80%,and Hardness (VHN)=600.36
+    alloys was confined to only those environments which contain
+    N/mm2(61.0 Kg/mm2)was tested.The constant slow strain rate
+    sulfur dioxide and ammonia derivatives.24 However,several
+    technique was utilized at a constant strain rate of 1.5 x 10-5
+    studies have shown that brasses can be easily cracked in non-
+    sec-1.This strain rate was found to be optimum for SCC of
+    ammoniacal solutions.5-11 It has been shown by some in-
+    brass in similar solutions.9.10.16 The straining was started just
+    vestigators2.12 that a-brasses crack in alkaline solutions of
+    before applying the desired potential.The load was monitored
+    citrate and tartarate which form complexes with copper like
+    with a load cell and recorded during straining.The specimens
+    ammonia derivatives.SCC in nitrate solutions and in ferric
+    had 200 mm length,15 mm width,and 3.3 mm thickness.They
+    chloride solution was also reported by some investigators.13,14
+    were machined to give a gauge length of 25 mm and a width of
+    Sulfate solutions57 have been shown to cause cracking in
+    6 mm.The tensile specimens were polished with 600 and 800
+    some brasses.Gouda,et al.,9 have shown that 72/28 brass is
+    grit papers,degreased with acetone,and coated with paraffin
+    susceptible to SCC in nearly-neutral chloride solutions.
+    wax so that only the gauge length was left exposed to the test
+    Chlorate,in spite of its technical importance,has not
+    solution.
+    been recognized as a SCC medium for brass until recently
+    All tests were carried out at ambient temperature in
+    Kawashima,et a/.,10 reported severe cracking of admiralty
+    naturally aerated NaClOa solution of a constant pH value of 8
+    brass in NO2-,NO3-,CIOa-,and mild cracking in MoO4=,
+    and in the range of concentration of 1.0 to 0.001 M.The pH
+    Cl-,and WO=.Their tests,however,were carried out under
+    value of the solutions was adjusted with concentrated NaOH
+    one applied anodic potential value;namely,+300 mVH and at
+    solution.The tests were carried out either under the free corro-
+    pH 8.
+    sion condition,or at different applied potentials which were
+    Thus,it was of interest to investigate in detail important
+    controlled by using "Wenking"'potentiostat.In a separate set
+    parameters such as salt concentration,as well as applied
+    of experiments,anodic polarization for unstressed specimens
+    cathodic and anodic polarization in relation to the SCC
+    was conducted potentiostatically.The potential of the
+    behavior of brass in order to throw more light on the
+    specimen was raised in steps of 20 mV/min and the current
+    mechanism of SCC in chlorate solutions.
+    was recorded at the end of the time interval.
+    The present results show clearly that o-brass is succepti-
+    A 200 ml cylindrical glass cell was used.It was closed by
+    ble to SCC under open-circuit condition,as well as when
+    upper and lower rubber stoppers,through which protruded the
+    anodically polarized in a wide range of chlorate concentration.
+    ends of the specimen.Saturated calomel and platinum sheet
+    The mode of failure was intergranular SCC at and near the
+    were used as reference and counter electrodes,respectively.
+    open-circuit potential,while at relatively high anodic poten-tials,transgranular cracking dominated.The effect of pH on
+    A scanning electron microscope,as well as an optical
+    the SCC behavior of 72/28 brass in chlorate solutions is given
+    metallograph,were utilized for evaluating the occurrence of
+    in another publication.15
+    SCC.For fractographic examinations,small pieces were cut at10 mm,far from the fracture surface of the upper part of the
+    Submitted for publication July,1981;revised June,1982
+    specimen which was automatically removed from the solution
+    *National Research Centre,Dokki,Cairo,Egypt.
+    after fracture.These specimens were cleaned in an ultrasonic
+    **Building Research Institute,Dokki,Cairo,Egypt.
+    cleaning bath using acetone as a cleaning agent.For metal-
+    0010-9312/82/000173/$3.00/0
+    Vol.38,No.12,December,1982 1982,National Association of Corrosion Engineers
+    609
+
+==========第1页==========
+    lographic inspection,sections near the fractured area were
+    600
+    +1000
+    +1200
+    ground and polished,then etched using ammonium per sulfateammonium hydroxide.
+    Results
+    Polarization Behavior of Brass in Different
+    Concentrations of NaClO,Solutions
+    Anodic polarization for unstressed 72/28 brass in 1.0,0.1.
+    0.01,and 0.005 M NaClOa solutions was conducted and theresults are shown in Figure 1.The polarization curves pertain-ing to 1.0 and 0.01 M solutions show a break in the early stageof the anodic polarization.The limiting current density in-creases considerably with the increase of concentration.
+    Tests under Open-Circuit Condition
+    The open-circuit potential was followed as a function oftime until steady state potential is reached for unstressedspecimens and failure occurs for stressed specimens in thedifferent NaClOg concentrations tested,as shown in Figure 2.
+    LEGEND
+    For the stressed specimens,the load variation was recordedwith time until failure occurred.The results are shown in Table
+    0.1M
+    1 where the failure time,the ratio of fracture stress in solu-
+    40.01M
+    00.005M
+    tion to that in air,and the cracking mode of the specimenssubjected to different NaCIOg concentrations are listed.
+    Although all of the fracture stress ratios were high(=0.9),onlythose conditions that showed evidence of intergranular crack-ing through the fractographic inspection were judged to besubject to SCC.From Figure 2,as well as Table 1,it is clearthat application of stress caused an electro-negative shift ofthe initial and final potential values,the former being greaterthan the latter.No visible film was observed on the fracturesurface or on the exposed surface
+    Influence of Applied Potential on theSCC Susceptibility
+    200
+    20m
+    +400
+    +600
+    +800
+    +1000
+    The influence of applied potential on the SCC behavior of
+    POTENTIAL,mV (S.C.E)
+    brass in NaClOa solution of different concentrations has beeninvestigated.The potential of the electrode was poten-tiostatically maintained at -240,-140,-40,+60,and +160mV SCE which correspond to a potential range of 0.0 to +400
+    FIGURE 1-Polarization curves for unstressed 72/28
+    mVH.During these tests,the current flowing was measured
+    brass in different concentrations of NaClOa solution of
+    and the load variation was recorded with time until failure oc-
+    pH 8.
+    curred.Table 2 summarizes the results obtained.From this
+    TABLE 1 -Open-Circuit Potential Value,Failure Time,Ratio of Fracture Stress (o)in
+    Solution to that in Air,and Cracking Mode of Specimens Exposed to Different
+    Concentrations of NaCIO,Solutions(Failure Time in Air 17.3 h)
+    Open-Circuit Potential,mVH
+    Initial
+    Final
+    Failure
+    Time
+    Cracking
+    Concentration
+    Unstressed
+    Stressed
+    Unstressed
+    Stressed(1)
+    (h)
+    o soln.:o air
+    Mode
+    1M
+    237
+    100
+    227
+    140
+    11.5
+    0.90
+    1
+    0.1M
+    226
+    100
+    227
+    175
+    15.0
+    0.92
+    0.01M
+    238
+    80
+    241
+    175
+    15.3
+    0.95
+    NC
+    0.005M
+    230
+    120
+    244
+    185
+    15.5
+    1.00
+    NC
+    (1Value just before failure.Note:I=Intergranular;NC NosCC.
+    610
+    CORROSION-NACE
+
+==========第2页==========
+    +2400
+    오------오--요
+    20
+    +200 -40
+    oNo Crocking
+    No Cracking
+    150
+    Cracking
+    LEGEND
+    120
+    ·1M
+    0.1M
+    40.01M
+    +100-10
+    。0.005M
+    一STRESSED ELECTRODE
+    160
+    -----UNSTRESSED ELECTRODE
+    -180
+    +50
+    200
+    20
+    min.
+    123156789101H12134151617181920
+    TIME
+    FIGURE 2-Potential-time curves for stressed and unstressed 72/28 brass in different con-centrations of NaClOa solution of pH 8.
+    TABLE 2-Influence of Applied Potential on the Failure Time,Ratio of Fracture Stress(o)in Solution to that in Air,Surface Appearance and Cracking Mode of Brass in
+    NaClO,Solutions
+    Failure Final Current
+    Potential
+    Time
+    Density
+    Cracking
+    Concentration
+    mVH
+    h
+    (mA/cm2
+    o soln.:o air
+    Surface Appearance
+    Mode
+    1M
+    0.0
+    15.7
+    -0.0016
+    1.0
+    Bright yellow
+    NC
+    100
+    15.2
+    -0.0001
+    1.0
+    Bright yellow
+    NC
+    200
+    11.2
+    +0.0006
+    0.89
+    Bright yellow
+    300
+    10.0
+    +0.37
+    0.76
+    Reddish-brown film
+    400
+    +2.10
+    0.72
+    Reddish-brown film
+    0.1M
+    200
+    13.9
+    +0.0004
+    0.92
+    Bright yellow
+    300
+    13.3
+    +0.25
+    0.90
+    Reddish-brown film
+    400
+    13.0
+    +1.36
+    0.90
+    Reddish-brown film
+    0.01M
+    308
+    142
+    +0.0003
+    +0.1
+    86
+    Bright yellow
+    NC
+    Reddish-brown film
+    40
+    13.8
+    +0.22
+    0.90
+    Reddish-brown film
+    0.005M
+    的
+    156
+    +0.019
+    品
+    Bright yellow
+    15.0
+    0.043
+    Brigt yellow
+    14.6
+    +0.147
+    Bright yellow
+    C
+    Note:NC No SCC;I Intergranular:T Transgranular
+    table,it can be seen that in 1.0 and 0.1 M NaClOa solutions the
+    Mode of Failure
+    alloy is susceptible to SCC under anodic polarization while
+    The fracture appearance,as revealed from the
+    cracking is prevented under cathodic polarization.In 0.01 M
+    microscopic inspection,was the primary criterion for detec.
+    NaClOa solution,an over-potential value of 125 mV is required
+    ting the occurrence of SCC.Figures 3 to 5 show SEM and op-
+    for cracking to occur.It was noticed that the exposed surfaces
+    tical micrographs of examples of the failed specimens under
+    of all the specimens were covered by reddish-brown film,its
+    different test conditions.As can be seen from the micrographs
+    thickness increased with the increase of anodic polarization
+    in Figure 3,intergranular cracking occurred under open-circuit
+    while the fracture surfaces were film-free.It is also clear from
+    condition (Figure 3a,b,c)and when the specimens were
+    Table 2 that the fracture stress ratio is lowest in the concen-
+    anodically polarized up to a potential value of =200 mVH
+    trated solutions.
+    in 1.0 and 0.1 M NaCIOa solutions (Figure 3d).On the other
+    Vol.38,No.12,December,1982
+    611
+
+==========第3页==========
+    100um
+    50um
+    b
+    FIGURE 5-Optical micrographs for exposed surfaces of brass in chlorate solution il.lustrating the occurrence of dezincification:(a)0.1 M NaClOa,E =+400 mVH(arrows refer todezincification sites along the crack path);and(b)1 M NaCIOs,E=+400 mVH (dezincifica.tion sites appear reddish along the crack path).
+    hand,under relatively high anodic polarization,essentially
+    upon immersion of specimens caused a marked activation of
+    transgranular cracking occurred in 1,0.1,and 0.01 M NaClO
+    the initial open-circuit potential values(>100 mV)of the brass
+    solutions,as evident from the micrographs in Figure 4.It was
+    in all solutions.This may indicate that an initial destruction of
+    observed that in the dilute solutions,the cracking was mild,as
+    the air-formed film took place due to stress application.In
+    can be seen from Figure 4c.Optical microscopic examination
+    dilute solutions,this process was followed by healing,as
+    revealed the occurrence of a dezincified layer on the exposed
+    evidenced by the marked ennoblement of potential with time.
+    surface under anodic polarization.Figure 5 illustrates the for-
+    On the other hand,in concentrated solutions,the healing proc-
+    mation of a discontinuous dezincified layer on the exposed
+    ess was counteracted by the destruction of the film,as
+    surface as well as along the transgranular crack walls.It is
+    evidenced by the fluctuations of the potential values with time.
+    worthy to mention that no SCC could be detected in 0.005 and
+    These observations are in harmony with the finding that SCC
+    0.001 M solutions under open-circuit condition nor at applied
+    occurred in concentrated solutions and not in dilute solutions
+    anodic potentials.
+    Thus,it may be concluded that the occurrence of SCC underopen-circuit condition is related to the degree of protec-tiveness of the air-formed film on the surface.It is worth men-
+    Discussion
+    tioning that no visible film was obvious on the exposed sur-
+    Consideration of the present study reveals that 72/28
+    faces under the free corrosion condition in all solutions
+    brass is susceptible to SCC in NaClOa solutions.In relatively
+    tested.
+    concentrated solutions (1.0 and 0.1 M),SCC occurred under
+    It has been reported that in nontarnishing solutions,SCC
+    open-circuit condition and at potentials more noble to,but
+    occurs when stressed samples corrode under open-circuit
+    never below,the open-circuit potential.In relatively dilute solu-
+    condition which necessitates the presence of cupric complex
+    tions(0.01 M),an over potential(E-Ecorr.)of 125 mV is needed
+    ions to provide sufficiently rapid dissolution rates.17 However,
+    for cracking to occur.Under the free corrosion condition and
+    in absence of cupric complexes,SCC occurs when the
+    at relatively low applied anodic potentials,the mode of failure
+    stressed samples are anodically polarized.8 Two essential
+    was intergranular.However,under relatively high applied
+    mechanisms have been proposed for the SCC of a-brass in
+    anodic potentials,the cracking was predominantly trans-
+    these solutions.In the first one,the path of cracking depends
+    granular.
+    on the preferential dissolution at dislocations,being trans.
+    Electrochemical studies indicated that the increase of
+    granular in alloys having Zn>18%in which planar arrays are
+    chlorate concentration enhanced the corrosion process of
+    formed,and intergranular in alloys having Zn 18%18 which
+    72/28 brass,as shown from the polarization curves (Figure 1)
+    possess cellular dislocations.The second mechanism de
+    where the limiting current increased considerably with the in
+    pends on brittle mechanical fracture models.The cause of em
+    crease of the chlorate concentration.In addition,as judged
+    brittlement for nontarnishing solutions has been suggested to
+    from the steady state open-circuit potential values,the sur
+    be one of the following three possibilities:(1)The adsorption
+    face film became comparatively less protective with the in-
+    model in which specific species adsorb and interact with
+    crease of the chlorate concentration.Application of stress
+    strained bonds at the crack tip causing a reduction in bond
+    Vol.38,No.12,December,1982
+    613
+
+==========第4页==========
+    strength and permitting brittle fracture,2(2)hydrogen or other
+    Acknowledgment
+    types of embrittlement by analogy with stress corrosion films
+    The authors are grateful to Dr.J.Kruger,National Bureau
+    which exhibit cleavage-like fracture surface,19 and(3)dezinc-
+    of Standards,USA,for his valuable discussions and to the Na-
+    ification which is suggested to produce an embrittled zone at
+    tional Science Foundation,USA,which supported this work
+    the crack tip leading to discontinuous brittle fracture.9,20
+    under contract No.INT 76 17358.
+    In the present study,the SCC behavior obtained may beexplained generally by conjoint processes based on the above-described dissolution and/or embrittlement mechanisms:namely,the occurrence of a localized type of corrosionfollowed by brittle mechanical fracture.Thus,under open-circuit condition and when stress is applied,local destruction
+    References
+    of the air-formed film takes place followed by localized attack
+    1.Parkins,R.N.,Br.Corros.J.,Vol.7,p.15(1972)
+    The grain boundary is more active and dissolves at a much
+    2.Uhlig,U.,Gupta,K.,and Liang,W.,J.Electrochem.Soc.
+    faster rate than the grain interior.21 In other words,the anodic
+    V01.122,p.343(1975).
+    sites are the grain boundaries while the grain interiors act as
+    3.Uhlig,H.H.,Corrosion,Vol.33,p.189 (1977)
+    cathodic sites.Interfacial energy considerations suggest that
+    4.Brown,B.F.,Stress Corrosion Cracking in High Strength
+    grain boundaries of brass are zinc-rich.22 Thus,localized zinc
+    Steels and in Titanium and Aluminum Alloys,Naval
+    dissolution takes place at the grain boundaries.These zones
+    Research Laboratory,Washington,D.C.,p.2(1972).
+    will crack fairly readily in the presence of stress.23 Experimen-
+    5.Pickering,H.W.and Byrne,P.J.,Corrosion,Vol.29,p.325
+    tal evidence reported by Leidheiser Kissinger20 and Picker.
+    (1973).
+    ing Byrne,5 indicated that preferential dissolution of Zn
+    6.Pinchback,T.R.,Clough,S.P.,and Heldt,L.A.,Corrosion,
+    which was enhanced at the crack tip was involved in the SCC
+    Vol.32,p.469(1976).
+    process.Pickering Byrne5 have shown that preferential Zn
+    7.Kawashima,A.,Agrawal,A.K.,and Staehle,R.W.,J.Elec-
+    dissolution took place more readily for stressed brass than in
+    trochem.Soc.,Vol.124,p.1822(1977).
+    absence of stress.
+    8.Pugh,E.N.and Green,J.A.S.,Met.Trans.,Vol.2,p.3129(1971).
+    That mode of failure under open-circuit condition inchlorate solutions was intergranular while under anodic
+    9.Gouda,V.K.,El-Sayed,H.A.,and Sayed,S.M.,Proceed
+    polarization transgranular cracking dominated,may be inter-
+    ings of the 8th International Congress on Metallic Corro-
+    preted as follows:On application of external e.m.f.,no
+    sion,Mainz Vol.,1,p.479 (1981).
+    metallurgical changes can be expected to take place for brass;
+    10.Kawashima,A.,Agrawal,A.K.,and Staehle,R.W.,Amer
+    thus,the change in the cracking pattern depends on the situa-
+    ican Society for Testing and Materials,p.266(1979)
+    tion existing at the interface between the corroding alloy and
+    11.Bobylev,A.V.,In Intercrystalline Corrosion and Corrosionof Metals under Stress,Consultants Bureau,New York
+    the environment.During anodic polarization,the anodic reac-
+    (1962).
+    tion which initially takes place at the grain boundaries spreads
+    12.Johnson,H.E.and Leja,J.,Corrosion,Vol.22,p.178
+    to other areas at the grain,leading to an increase of the anodic
+    (1966).
+    dissolution.In other words,the reactivity of transgranularfeatures becomes comparable to that of grain boundaries,and
+    13.Reynolds,S.D.and Pement,F.W.,Materials Performance,
+    Vol.13,p.21(1974).
+    consequently,may lead to the transition of the mode of failure
+    Sparkes and Scully24 reported that in absence of tarnish film in
+    14.Graf,L.,Fundamental Aspects of Stress Corrosion Crack-ing,Staehle,R.W.,et al.,eds.,NACE,Houston (1969).
+    ammoniacal solutions,a high corrosion rate may be important
+    15.Gouda,V.K.,El-Sayed,H.A.,and Sherbini,G.M.,Effect of
+    in determining the transition from intergranular to trans-
+    pH on the Stress Corrosion Cracking of Brass in Chlorate
+    granular cracking.Also,Sircar,et al.,21 observed that transi-
+    Solution (to be published).
+    tion of intergranular to transgranular cracking was promotedby anodic polarization and reduced by cathodic polarization in
+    16.Gouda,V.K.,El-Sayed,H.A.,and Sayed,S.M.,Proceed-ings of the Second BSE-NACE Corrosion Conference,
+    ammoniacal solutions.
+    Bahrain,p.301(1981),
+    It is interesting to compare the results of the presentstudy with those obtained by Kawashima,et al.10 They
+    17.Pugh,E.N.,The Theory of Stress Corrosion Cracking in
+    Alloys,Scully,J.C.,ed.,NATO Scientific Affairs Div.,
+    observed the occurrence of only transgranular cracking for ad-
+    Brussels,p.418(1971).
+    miralty brass in chlorate and other oxyanions.Since their
+    18.Pugh,E.N.,Craig,J.V.,and Montagino,W.G.,Trans.ASM
+    study was carried out only at E 300 mVH and at pH 8,this
+    Vo.61.p.468(1968).
+    confirms our conclusion that transgranular cracking is pro-
+    19.Pugh,E.N.,Proc.,Stress Corrosion Cracking Research,
+    moted by anodic polarization.
+    NATO,Arup,H.,and Parkins,R.N.,eds.,Sijthoff and
+    It is worth mentioning that the brown film formed on the
+    Noordhoff,Alphenaan den Rijn,The Netherlands,p.177
+    specimen's surface in the present study was also noticed by
+    (1979)
+    several investigators2.6.9.10using nontarnishing solutions.
+    20.Leidheiser,H.and Kissinger,R.,Corrosion,Vol.28,p.218
+    These films are not protective and their origin has not been yetdetermined.25,26
+    (1972).
+    21.Sircar,S.C.,Chatterjee,U.K.,Zamin,M.,and Vijayendra,
+    H.G.,Corros.Sci.,Vol.12,p.217 (1972).
+    Conclusions
+    22.Speiser,R.and Spretnak,J.W.,Stress Corrosion Cracking
+    Based on the above discussion,the following conclusions
+    and Embrittlement,Robertson,W.D.,ed.,Wiley,New York,
+    are drawn:
+    N.Y.,p.92(1956).
+    1.The susceptibility of brass towards SCC under open-
+    23.Forty,A.J.,Physical Metallurgy of Stress Corrosion Frac-
+    circuit condition may be related to the degree of protec
+    ture,Rhodin,T.N.,ed.,Interscience,New York,p.99
+    tiveness of the air-formed film on the brass when immersed in
+    (1959).
+    chlorate solutions.
+    24.Sparkes,G.M.and Scully,J.C.,Corros.Sci.,Vol.14,p.619
+    2.Intergranular cracking occurs at and near the open
+    (1974).
+    circuit potential and is associated with localized dissolution
+    25.Pugh,E.N.and West Wood,A.R.C.,Phil.Mag.,Vol.13,p.
+    along the grain boundaries.
+    167(1966).
+    3.The transition from intergranular to transgranular
+    26.Jenkins,L.H.and Durham,R.B.,J.Electrochem.Soc.,Vol.
+    cracking is promoted by anodic polarization.
+    117,p.768(1970).
+    614
+    CORROSION-NACE
+
+==========第5页==========

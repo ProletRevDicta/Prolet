@@ -1,0 +1,305 @@
+    The Heats of Solution and Related Thermodynamic Properties of Sodium Chlorate
+    in Water and Water-Dioxane Mixtures
+    A.N.CAMPBELL AND O.BHATNAGAR1
+    Department of Chemistry,University of Manitoba,Winnipeg,Manitoba
+    Received August 17,1970
+    The heats of solution of sodium chlorate in water,and in several water-dioxane mixtures,have beendetermined experimentally at concentrations of salt ranging from 0.01 molal to saturation.For thedilute region,a direct method was used but for the concentrated range the method was that of dilutingthe saturated solution.The free energy decreases due to dilution have been calculated from previouslydetermined activity coefficients.Using these data,the entropy changes have been evaluated.
+    The graph of heat of solution vs.concentration of sodium chlorate passes through a minimum for the
+    1/I/II uo ujoou!I eyseIqaN Jo Auslalun Kq woo'ssaldyo.leas3Iu'MMM woy papeoluMo
+    solutions more concentrated in dioxane,but not for water and weak dioxane mixtures.A tentativeexplanation of this is offered.
+    Canadian Journal of Chemistry,49,217 (1971)
+    The present paper is a continuation of the worktrated range were determined as heats of dilution of theon the electrical and thermodynamic properties
+    saturated solution,using an apparatus previously
+    of solutions of sodium chlorate and of lithium
+    described (5).Such results are dependent for their ac-curacy upon the reliance which can be placed upon the
+    chlorate in water and in water-dioxane mixtures,which has been carried out in this laboratory over
+    N一
+    the last few years(1).In a recent paper(2)Camp-bell and Oliver reported the mean molal activitycoefficients of sodium chlorate and of lithiumchlorate in water,in 44.5 wt.dioxane-waterand in 64.5 wt.dioxane-water.In the presentwork we have determined the heats of solution of
+    NaCIO,over the entire solubility range in waterand in various water-dioxane mixtures,includingthose solvent mixtures,for which we had pre-viously determined the activity coefficients.
+    These data have enabled us to determine theexcess free energy and entropy of solution.A com-parison of these thermodynamic data for thevarious solutions illustrates the effect of varyingdielectric constant on the excess free energy andentropy of solution.
+    Experimental
+    Purity of Chemicals
+    The methods of purification have been described pre-
+    w3y
+    viously (2).The purified dioxane had a refractive index of
+    np251.4203 and a density of 1.0283 g/cc.The ac-cepted literature values are p25 =1.42025 (3)and d=
+    1.02804 (4).The water,obtained by passage through an
+    m
+    ion-exchange column,had a specific conductance of 2 x10-7 mhos/cm.
+    Heats of Solution
+    The heats of solution were determined by two dif-ferent methods,one applied to the dilute range and theother to the concentrated range.The heats of solution inthe dilute range were determined in an apparatus which isrepresented in Fig.1.Heats of solution in the concen-
+    Postdoctorate Fellow.
+    FIG.1.Double-walled glass calorimeter.
+
+==========第1页==========
+    218
+    CANADIAN JOURNAL OF CHEMISTRY.VOL.49,19/
+    direct determination of heat of solution in,say,1 m solu-obtained by plotting experimental an's of solu-tion.We found that our results by both methods lay on
+    tion against m1/2 and extrapolating to m 0
+    one smooth curve.
+    The calorimeter used for direct determination (Fig.1)
+    The results are expressed graphically in Fig.2
+    consists of a double-walled glass vessel of total capacity
+    Since sodium chlorate is insoluble in pure di-
+    about 80 cc.The space between the inner and outer walls
+    oxane,experimental measurements were impos-
+    is evacuated and silvered.The inner compartment is
+    sible but a reasonable value of Ho for pure
+    divided into two parts,A and B.Part A is fitted withstandard taper joint and a silvered glass stopper,which
+    dioxane was obtained from the so-called heat of
+    carries an exit tube housing the magnetic stirrer,C.The
+    transfer (Hrans).This represents the difference
+    blades of the stirrer are bent in such a way as to create a
+    between the heat of solution A in pure water
+    whirlpool around the stirrer,which sucks solid salt into
+    and in a given dioxane-water solvent.The heats
+    this area very quickly,ensuring quick solution of the salt.
+    of transfer were evaluated for dioxane-water mix-
+    Compartment A also carries a thermistor well,D,fortemperature sensing.The heating element,E,consists of
+    tures and these were plotted against the dielectric
+    platinum wire (resistance =2 ohms approximately)and
+    constant of the mixture.From this plot the value
+    is sealed into a glass tube.Compartment B contains an
+    of Hrans from water to pure dioxane was found
+    ampoule,G,and a crushing device,H,consisting of a
+    tobe4660cal/mole from which the△H°value for
+    teflon screw.The ampoules are made from 6 mm Pyrextubing,blown to 1 cm diameter,and 5 cm long.The am-
+    pure dioxane results as 620 cal/mole.The values
+    poules are sealed under vacuum and attached to the
+    of AHo for the mixed solvents,obtained in the
+    teflon screw with polyethylene tubing.Screwing down
+    above way,are also to be found in Table 2.
+    the crushing device causes the ampoule to break.
+    The accuracy of the calorimeter was tested by determining the heat of reaction of THAM (tris(hydroxy-
+    Discussion
+    methylamino)methane)with 0.1 N HCI.We obtained avalue of 7136+22 cal/mole,slightly higher than the
+    Foz and Colomina (7)report a AHo value of
+    reported value of /1u4 cal/mole (6).We claim an overall
+    5.29 kcal/mole,as against our value of 5.28
+    accuracy of 1%for our results.
+    kcal/mole.In obtaining their AHlo value,how-ever,Foz and Colomina plotted experimental AH
+    Results
+    values against m,the molality.A better proce-
+    The direct experimental results are reproduceddure,and that adopted by us,is to plot AHin Table 1,which gives the direct heats of solu-
+    against m1/2.When the data of Foz and Colomina
+    tion,heats of dilution,and derived heats of solu-
+    are treated in this way,a result of=5.40
+    tion,as functions of molality and of m1/2.
+    kcal/mole is obtained,a value somewhat higher
+    The derived thermodynamic quantities were
+    than ours.The results of Foz and Colomina are
+    obtained as follows.Campbell and Oliver (2)
+    higher than ours.
+    have reported the activity coefficients of NaClO
+    The plots of AH us.m112 are straight lines for
+    in water,in 44.5%dioxane and in 64.5%dioxane-pure water and for 44.5%dioxane but 50.0,64.5,water mixtures.They found that the mean molal
+    and 70.0%dioxane-water mixtures give curves
+    activity coefficients could be represented by the
+    passing through a minimum,and this minimum
+    equation
+    becomes more pronounced with increasing di-
+    [1]Iny =-Sm1/2+Bm+Cm312-Dm2
+    oxane content,that is,with lower dielectric con-stant.According to theory,in the absence of
+    where y is the mean molal activity coefficient ofionic association,the experimental plot shouldthe solute,S is the Debye-Huckel limiting slope,lie above the limiting slope but this behavior isand B.C.and D are adiustable constants.The
+    only observed with pure water as solvent.In all
+    latter were evaluated from the experimental data,
+    the dioxane-water mixtures,the experimental
+    as described by Campbell and Oliver (2).In the
+    curves lie below the limiting slope,the deviation
+    'f 'ueD
+    absence of experimental work leading to y values
+    being more pronounced with increasing dioxane
+    in the dilute region,we used the above equation
+    content,that is,with decreasing dielectric con-
+    to calculatey in the dilute region.The activity co-
+    stant.Ionic association of course increases in the
+    efficients were then used to calculate the excess free
+    lower dielectric constant media
+    energy decrease of solution and from this the en-
+    Figure3 is a plot of△H,△G,andT△Ss.m,
+    tropy change or TAS values,in the usual way.
+    for water and for two mixed solvents.The values
+    These values are reproduced in Table 2.The
+    of limiting AH and TAS decrease with decreasing
+    limiting or standard heats of solution AH,weredielectric constant but the value of the free energy
+
+==========第2页==========
+    CAMPBELLANDBHATNAGAR:THERMODYNAMICPROPERTIES OF SODIUM CHLORATE
+    219
+    的
+    时好￥子可子网
+    Z770
+    导
+    666
+    云
+    (jou/te)
+    8506
+    m ni
+    E/T
+    r
+    (ou/Iex)
+    271
+    0000
+    e
+    0.0
+    요0000.028000LOIO'O
+    8员
+    600.
+    品
+    U UO UIOOUT EXSEION IO AISJSA O SSaudus UOH POPEOIUMOCI WOUU
+
+==========第3页==========
+    220
+    CANADIANJOURNAL OF CHEMISTRY.VoL.49,1971
+    (alow/Iex)
+    (alow/ex)
+    uonnl!p HV(alow/Ie5)
+    合迟手
+    (alow)
+    子月君3肤
+    ミ
+    ..
+    JeM %s'ss -auexo!p %s't u OIOeN Jo uopnjos Jo sjeay [euI
+    17T
+    的9
+    15
+    (000.M个寸寸时寸
+    C0000⊙
+    61010
+    441.1
+    8
+    <6
+    e
+    (/ajow)0000.081100
+    0.0
+    6800
+    (0000.0m
+    10
+    'Kjuo asn jeuos.Iad IO
+    I/I/II uo ujoou!I Jo Kq woo'ssaidyoreas3uMMM woy papeolumod 'way['ue
+
+==========第4页==========
+    CAMPBELLANDBHATNAGAR:THERMODYNAMICPROPERTIESOFSODIUMCHLORATE
+    221
+    uonnI!P HV(ajow/e)
+    uonnI!p
+    1786.0067.0
+    /IW
+    (alow/Iex)000
+    (0G56
+    寸n
+    0000.00真O
+    ら
+    1699.01086.0
+    (0000.0
+    150
+    (0000.0790.0100
+    3三6900.0P68.0
+    0000.0
+    550
+    27460
+    UIUO UIOOUITENSEIGN IO ISJUO SSdulsU WOH DOPEOIUMOCI UOU
+
+==========第5页==========
+    222
+    CANADIANJOURNAL OF CHEMISTRY.VOL.49,1971
+    05.6
+    10-026603
+    -auexo!p
+    n
+    250
+    125!0
+    28221119k025/
+    子6於8
+    罗
+    979t0=
+    00
+    辟的86迟6
+    999
+    StsI'E
+    SVL
+    의88o品898品品盼丈89只的
+    いい守守
+    于n cn cnicni cn cn mn u
+    27.000
+    위위의다0
+    11
+    +++++++
+    (3/)
+    유88
+    8
+    'Ajuo osn jeuos.Iod IO
+    I/I/II uo ujoou!IeyseIq N Jo AusI3tun Kq woo'ssaudyole3s3MMM woy papeolumod 'w3y ['ue
+
+==========第6页==========
+    CAMPBELL AND BHATNAGAR:THERMODYNAMIC PROPERTIES OF SODIUM CHLORATE
+    223
+    30
+    0
+    34
+    00
+    0b
+    0
+    580010203040506n07080910W12
+    waer:er hmaee aeromete
+    water;(f)the data of Foz and Colomina (7).
+    (a)
+    (b)
+    (c)
+    10
+    6
+    6
+    0-0-0-0000-00
+    08-8=
+    k coi O
+    000
+    AG
+    o
+    -2
+    00-00△G
+    4
+    -8
+    -8
+    …
+    0
+    -10
+    -10
+    0-0
+    0
+    mole
+    30
+    4000
+    10
+    4.00.0
+    0
+    30
+    FG.3.(@Plot of△AG,and TAS,for water;②)，plot of△H,AG,and TAS for44.5%dioxane-64.5%H2O;(c)plot of AH,AG,and TAS for 64.5 dioxane-35.5H2O.
+    change increases.The lower values of Ao mayions in the dilute region,while the process isbe accounted for on the supposition that,as the reversed as the concentration of salt increases,content of dioxane increases,fewer hydrogen the solvation then being principally a water sol-bonds,per mole of solvent,are broken.
+    vation.The curves for the concentrated (salt)
+    The fact that a minimum occurs in the All plot range are similar to those in water and 44.5%di-on three of the five curves,viz.,those for 50.0,oxane,where,presumably,the solvation is prin-
+    64.5,and 70.0%dioxane,may possibly be due tocipally hydration.At first sight,this explanationdioxane playing the major role in solvating the seems unlikely,in view of the lower dielectric
+
+==========第7页==========
+    224
+    CANADIAN JOURNAL OF CHEMISTRY.VOL.49,1971
+    constant of pure dioxane.Hyne (8),however,has
+    1.A.N.CAMPBELL,E.M.KARTZMARK,and B.G
+    shown that the addition of electrolyte to dioxane-
+    OLIVER.Can.J.Chem.44,925 (1966);B.G.OLIVERand A.N.CAMPBELL.Can.J.Chem.47,4207(1969)
+    water mixtures greatly increases the micro dielec-2.A.N.CAMPBELL and B.G.OLIVER.Can.J.Chem.47,tric constant above its bulk value.However this
+    2671(1969).
+    may be,one can hardly avoid the conclusion
+    3.P.R.FREY and E.C.GILBERT.J.Amer.Chem.Soc..Chem,Eng.Data,.19(1961).
+    59,1344(1937.from purely arithmetical considerations that
+    dioxane solvation (low value of A)must pre-
+    A.N.CAMPBELL,E.M.KARTZMARK,and S.C.
+    dominate in solutions low in salt,if the dioxane
+    6.食as8h8es。Raem.scnd.18
+    content is greater than 44.5%.
+    195(1964).
+    7.O.R.Foz and M.CoLOMINA.Anales De Fisica
+    Quimica,45B,137,(1949).
+    We thank our glass-blower,Mr.Bryn Easterbrook,for 8.J.B.HYNE.J.Amer.Chem.Soc.85,304(1963).
+    construction of the apparatus as well as helpful sugges-tions for its design.
+
+==========第8页==========

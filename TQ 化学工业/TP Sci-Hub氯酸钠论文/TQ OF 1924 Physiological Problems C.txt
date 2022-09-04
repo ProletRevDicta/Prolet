@@ -1,0 +1,415 @@
+    OF
+    1924
+    Physiological Problems Connected with the Use of Sodium Chlorate in Weed Control
+    Author(s):A.S.Crafts
+    Source:Plant Physiology,Vol.10,No.4 (Oct.,1935),pp.699-711
+    Published by:American Society of Plant Biologists (ASPB)
+    Stable URL:http://www.jstor.org/stable/40008037
+    Accessed:07-01-2016 23:38 UTC
+    Your use of the JSTOR archive indicates your acceptance of the Terms Conditions of Use,available at http://www.jstor.org/pagelinfo/about/policies/terms.jsp
+    JSTOR is a not-for-profit service that helps scholars,researchers,and students discover,use,and build upon a wide range of contentin a trusted digital archive.We use information technology and tools to increase productivity and facilitate new forms of scholarship.
+    For more information about JSTOR,please contact support@jstor.org.
+    American Society of Plant Biologists (ASPB)is collaborating with JSTOR to digitize,preserve and extend access to Plant
+    Physiology.
+    STOR
+    http://www.jstor.org
+    This content downloaded from 204.235.148.92 on Thu,07 Jan 2016 23:38:37 UTC
+    All use subject to JSTOR Terms and Conditions
+
+==========第1页==========
+    PHYSIOLOGICAL PROBLEMS CONNECTED WITH THE USE
+    OF SODIUM CHLORATE IN WEED CONTROL
+    A.S.CRAF TS
+    Introduction
+    The use of sodium chlorate for controlling weeds has become a generalagricultural practice within the past decade.The attendant experimentalwork has produced a voluminous literature and has brought into prominencemany problems of a purely physiological nature.Since progress in the ex-perimental work on chlorate apparently depends upon properly comprehend-ing the mechanies of its distribution and absorption,work on these phaseswould have an immediate value.This paper presents several problems forconsideration by plant physiologists and persons experimenting with weedcontrol and discusses them in the light of our present knowledge.
+    AsLANDER (1)reported in 1926 that chlorates would kill plants by ab-sorption from the soil,and in 1928(2)he diseussed critically the problemof weed control by this method.Meanwhile,however,the use of sodiumchlorate solution as a spray (11,16)claimed the attention of weed workers;and in the popularity of this method,AsLANDER's results were apparentlyoverlooked.Most workers showed by their recommendations that theypictured the toxie action as taking effect through the plant after absorption ofthe chlorate by the leaves.Stickers,spreaders,various pressures,types ofnozzles,and volume-concentration relationships were studied as they affectedeoverage of the foliage.Control of the hydrogen ion concentration of thespray solution,the inclusion of hygroscopic agents,and spraying methods ingeneral were considered in attempts to improve the technique and avoid theerratic results so often encountered in the field.
+    Of twenty-nine publications on the use of chlorates that had appearedby the end of 1931,only three (1,2,17)emphasized the possibilities of thesoil-applieation method.In 1931,LoomIs,BISsEy,and SMITH,pointing outthe advantages of this method,suggested that the action of sodium chlorate,as used in regions of summer rains,resulted largely from root absorptionof chemical leached into the soil.Since then MUENSCHER (20)has pointedout the practical nature of the soil method,while Loomrs and others (18)have given further experimental evidence of its feasibility.
+    Meanwhile there had been developed in California a method for treatingcertain deep-rooted perennials with acid arsenical spray (4,5,8,15).Itssuccess depends upon translocation of the toxicant within the vascular sys-tem of the plant.The question naturally arises,will this same mechanism
+    699
+    This content downloaded from 204.235.148.92 on Thu,07 Jan 2016 23:38:37 UTC
+    All use subject to JSTOR Terms and Conditions
+
+==========第2页==========
+    700
+    PLANT PHYSIOLOGY
+    carry chlorate in the plant and,if so,to what extent does it explain the resultsobtained in the common use of chlorates?
+    As the writer has recently reported (6),chlorate may be moved throughplants and may kill the roots to considerable depths as a result of leaf absorp-tion and translocation within the xylem.The effects of a given treatmentare limited by the same factors that govern penetration and root killingby the aeid arsenical.When conditions are right,any application of chloratesolution to the foliage will result in some absorption and downward move-ment within the plant.The extent of injury will depend upon how nearlythe requirements for successful treatment by this method are met.
+    Besides these two distinet mechanisms available for use in treating deep-rooted weeds,there are several interesting physiological responses by theplant to both lethal and sublethal doses of chlorate.The various effeetsthat chlorates may have on plants will therefore be listed and discussed.
+    Wherever possible,their relation to weed-control practice will be pointedout.
+    Physiological action of chlorates
+    There are,apparently,four fundamentally different ways in whichchlorates may affect plants:
+    1.When a chlorate solution is applied to leaves,ions of the salt diffusethrough the cuticle and come into contact with the protoplasm of living cells(18,5).Although the coefficient of permeability of plant cells to chlorateions is low (23),when they attain a lethal concentration they enter the plantcell,causing injury and eventually death.The exact mechanism by whichthis result is accomplished is not known.It has been suggested that thehigh oxidizing potential of sodium chlorate(22),the presence of pentavalentchlorine (22),and the complete oxidation of respiratory chromogens (12)may be involved;but no experimental evidence has been presented to supportthese ideas.Contrary to popular notion (14,22,23,24,26),sunlight orultraviolet light is not essential to this process,which will take place in thedark (17);and open stomata (19)are not necessary,the chemical beingfully toxie when applied to the ventral surfaces of hypostomatic leaves(5,18).The solutions commonly applied as sprays in no way compare inconcentration with those generally used in physiological experiments (23).
+    They usually become saturated and therefore strongly plasmolytic soon afterapplication,a steep gradient in concentration developing across the cuticlelayers.
+    2.When chlorate ions exist in the plant in sublethal concentration,thereis a typical response,characterized by a chlorotic,stunted condition of anygrowth that occurs,a reduction of the starch reserves (16),decreased catalaseaetivity (21),and increased susceptibility to frost injury (16).These
+    This content downloaded from 204.235.148.92 on Thu,07 Jan 2016 23:38:37 UTC
+    All use subject to JSTOR Terms and Conditions
+
+==========第3页==========
+    CRAFTS:SODIUM CHLORATE IN WEED CONTROL
+    701
+    symptoms may precede death of the tissues if conditions favor the continueduptake and accumulation of chlorate.Where additional chlorate is notavailable,the plant may recover and show no permanent effects.
+    3.Under certain limited conditions,a concentrated chlorate solutionapplied to the leaves of plants may penetrate the cuticle,plasmolyze and killthe mesophyll tissues,enter the xylem,and be carried down into the roots
+    (7).The conditions essential to this action have been discussed in con-nection with acid arsenical sprays(4,5,8,15).Experiments to be deseribedindicate that the same response may occur with chlorates and will result in arapid,deep killing of the root system.
+    4.Chlorates present in solution in the soil may be absorbed by roots,kill-ing all parts in which they accumulate to a lethal concentration.
+    Although it has been intimated that chlorates may penetrate the leavesand be translocated through the phloem (11,22),this possibility seems ratherremote in view of the prevailing coneepts of phloem tissues (3,9).Move-ment of chlorate through a system so dependent upon the functioning ofliving cells is hard to imagine.
+    Under different conditions of treatment the four effects listed may occurin almost any combination,singly or together.Rarely in the field are lessthan two concerned;and often all four may be in evidence during the year.
+    Naturally,therefore,results of plot tests have been difficult to interpret,andrecommendations from different localities have been inconsistent and con-fusing.
+    Before discussing these four responses of plants to chlorate in greaterdetail,it would be well to consider briefly the inherent differences in plantswith respeet to injury in general and also with respect to injury bychlorates.
+    Many plants are easily killed.When cut off at the ground level,theyfail to recover and die with no further treatment.Other plants will resproutfrom the stump or crown,and still others may regenerate from stem,rhizome,or root tissue and are eradieated only when all vestiges of the root are killedor removed from a suitable environment.In treating a variety of plants witha toxie substanee like chlorate,one is sure to find differences in the degree ofcontrol;and unless he has previously determined their response to mechaniealinjury he cannot accurately interpret his results.
+    Furthermore,plants vary widely in their susceptibility to injury bychlorates.Although this fact has been pointed out many times (6,10,13,28,29),it will bear repeating because it is a striking phenomenon,vitallyinvolved in the determination of dosages.Until one has determined in anempirical way the susceptibility of a particular species,he cannot well pre-seribe the dosage necessary for its control in the field.
+    This content downloaded from 204.235.148.92 on Thu,07 Jan 2016 23:38:37 UTC
+    All use subject to JSTOR Terms and Conditions
+
+==========第4页==========
+    702
+    PLANT PHYSIOLOGY
+    Killing of plant tissue by chlorate
+    It has been pointed out that whenever chlorate ions come in contact withplant cells in sufficient concentration,the tissue is killed.Though themechanies of this killing process form an interesting field for speculation,the critical point,so far as weed control is concerned,is that only thepresence of chlorate in lethal concentration is necessary for the death of thecells.Our prineipal problem is distribution of the toxicant.For thedesired results,it must come into contact with the vital tissues.
+    Obviously,therefore,the technique of application must be related to theplant concerned.If the plant is easily killed,a thorough spraying of thefoliage is sufficient.If it resprouts weakly,spraying of the regrowth mayeffeet a kill.On the other hand,if the plant regenerates strongly from theroots,killing of the tops is a small part of the problem,and spraying iseffective only as it may lead to leaf absorption and rapid killing by xylemtransport as deseribed in (3),page 701,or as it distributes the chemical forleaching and absorption from the soil.Apparently the killing of the cells bychlorate is largely independent of the environment and is a matter only ofconeentration and cell activity.
+    Physiological responses of plant cells to chlorate
+    The effects of chlorate upon plants have considerable interest for workersin plant physiology.Coneentrations in the tissues near or below the lethalpoint cause reactions that are apparently peculiar to chlorate alone.LAT-SHAw and ZAHNLEY (16)pointed out the great reduetion in starch reservesof roots after chlorate treatments.The writer has observed the same phe-nomenon not only in sprayed plants but in those which have absorbedchlorate from the soil.It has been seen in stems of plants containing asublethal concentration and is undoubtedly present in all tops showing thestunted ehlorotic growth that commonly follows dusting with Atlacide,orsoil applications.Lowered catalase activity (21)and susceptibility tofrost injury (16)accompany this condition;and,taken together,theseresponses indicate a lowered vitality in the presence of chlorate ions.
+    As has been mentioned,when conditions favor continued absorption ofchlorate,this condition of lowered vitality is accentuated,so that the tissuesfinally die.With lowering chlorate concentration,however,they may re-cover and show no permanent injury.From the standpoint of weed controlthis response of plants to chlorates is of minor importance,being useful onlyas an indieator of the presence of the chemical.
+    Killing of plants with chlorate following leaf absorption and
+    transport to the roots through the xylem
+    Having already been described,the action of this mechanism (4,5,8,15)requires no further comment.That it will respond to chlorate sprays has
+    This content downloaded from 204.235.148.92 on Thu,07 Jan 2016 23:38:37 UTC
+    All use subject to JSTOR Terms and Conditions
+
+==========第5页==========
+    CRAFTS SODIUM CHLORATE IN WEED CONTROL
+    703
+    been demonstrated (6).Its possibilities in weed control,however,are ofinterest;and its relation to results obtained by present methods warrantscomment.
+    LooMIs and others (18)have shown that chlorate ions will enter andmove through the xylem of plants.Their results are not surprising,for anysolution of molecularly dissolved substance that does not undergo chemicalchange within the xylem will displace the xylem sap and follow the tran-spiration stream wherever the gradients in pressure may cause it to flow.
+    The critical point is,will chlorates kill the leaf cells and,rendering thempermeable,penetrate the xylem and be carried deep into the roots,causingtheir death?Recent developments (4)indicate that this method has prac-tical possibilities,after all,and that chlorates might find a logical use incertain cases.
+    Although some evidence has been presented previously (6)and althoughthis paper does not aim primarily to submit extended experimental results,
+    TABLE I
+    EFFECT OF TIME OF DAY,ACIDITY,AND CONCENTRATION UPON THE ROOT KILLING OF MORNING-
+    GLORY PLANTS BY SODIUM CHLORATE
+    PLOT
+    NaClOs PER
+    H.SO PER
+    TIME OF
+    PLANTS RE-
+    SPROUTING OC-
+    N0.
+    SQ.ROD
+    SQ.ROD
+    APPLICATION
+    T0BER8,1931
+    1b.
+    1b.
+    P.M.Aug.20,1931
+    %
+    1…
+    义
+    …
+    4:00
+    90
+    2…
+    1
+    7:00
+    90
+    2
+    4:30
+    90
+    4…
+    2
+    7:30
+    40
+    5
+    3
+    5:00
+    80
+    6.…
+    3
+    8:00
+    10
+    P.M.Aug.21,1931
+    7
+    1
+    4:00
+    90
+    8
+    1
+    7:00
+    90
+    9…
+    2
+    4:30
+    90
+    10
+    2
+    7:30
+    30
+    11
+    5:00
+    80
+    12
+    8:00
+    5
+    r.M.Aug.22,1931
+    13
+    1.25
+    4:00
+    10
+    14
+    1.25
+    7:00
+    10
+    1
+    2
+    1.25
+    4:30
+    16
+    2
+    1.25
+    7:30
+    7
+    3
+    1.25
+    5:00
+    10
+    18
+    1.25
+    8:00
+    5
+    This content downloaded from 204.235.148.92 on Thu,07 Jan 2016 23:38:37 UTC
+    All use subject to JSTOR Terms and Conditions
+
+==========第6页==========
+    704
+    PLANT PHYSIOLOGY
+    the data on a few trials will be given to show the nature,possibilities,andlimits of this method.
+    Table I presents the results of spraying a series of plots with sodiumchlorate solutions in August,1931.These applications were made during aperiod when the daytime temperatures reached 100 F.Though tempera-tures were somewhat lower toward evening,the relative humidity was low,and all sprays applied before sundown dried very rapidly on the leaves.
+    The plots were in a young orchard that had been irrigated and disked latein June.A dense growth of morning-glory had matured and had loweredthe soil moisture to a point approaching the permanent wilting percentage atthe time the sprays were applied.Each plot was approximately 1 squarerod in area,and the chemical was applied in 3 gallons of water.The foliageon all plots was killed within 48 hours.
+    As no rain fell between August 20 and Oetober 8,1931,the results at thelatter date represent the action of chlorate on and through the plants.Theplants on the plots showing low percentages of resprouting were killed to adepth of 3 feet or more.Glancing over the data,one observes that the moreconcentrated sprays were the more effective,that delaying the applicationuntil after sundown materially improved the results,and that sulphuricacid markedly increased the efficiency of the method.
+    Table II presents the results of some plot tests with sodium chlorateapplied on September 28,1931.Plots 4 to 6 and 10 to 12 in this serieshad been recently irrigated.The temperature at this date was lower andthe relative humidity higher,so that penetration during the day was con-siderably better than in August.These results again show the effects ofconcentration of the solution and the value of adding acid to inerease therate of penetration.In addition they show the effect of soil moisture uponthe action of the mechanism.Even though transpiration was high at thisseason,the plants in the moist soil did not have the high water deficit ofthe others,and distribution of the toxicant in the roots was less complete.
+    These experimental results are typical of a good many obtained duringthe work with chlorates.They indicate that this method has certain possi-bilities in areas where the plants deplete soil moisture rather thoroughly.
+    In regions of frequent summer rains it would have no value.
+    In considering the practical possibilities of this method,one must noteseveral points.First,it would probably never be more effective than theacid arsenical,and the chemicals will necessarily cost from three to fivetimes as much.Second,the acid cannot be applied along with the chlorate,for the combination forms a strong oxidizing mixture that will ruin anymachinery;it would have to be applied as a separate spray following thechlorate application.Finally,applications under the proper conditionswould involve the fire hazards attending the use of chlorates.
+    This content downloaded from 204.235.148.92 on Thu,07 Jan 2016 23:38:37 UTC
+    All use subject to JSTOR Terms and Conditions
+
+==========第7页==========
+    CRAFTS:SODIUM CHLORATE IN WEED CONTROL
+    705
+    TABLE II
+    EFFECTS OF APPLICATION RATE,SOIL MOISTURE,AND ACID UPON CHLORATE KILLING OF
+    MORNING-GLORY
+    PLOT
+    DATE IRRI
+    SPRAYED
+    NaClO PER
+    H,SO.PER
+    RESPROUT-
+    ING NOV.23
+    r0.
+    GATED
+    SEPT.28
+    SQ.ROD
+    SQ.ROD
+    1931
+    1b.
+    1b.
+    %
+    1
+    Aug.15
+    4:20P.M
+    1
+    20
+    2
+    Aug.
+    15
+    5:20
+    2
+    15
+    Aug.15
+    3:45
+    3
+    个
+    4…
+    Aug.15
+    4:10
+    1
+    45
+    5
+    and
+    5:10
+    2
+    35
+    6
+    Sept.24
+    3:15
+    3
+    40
+    7.…
+    Aug.15
+    4:40
+    1.25
+    8
+    Aug.15
+    5:00
+    2
+    1.25
+    0
+    9.
+    Aug.
+    15
+    5:40
+    1.25
+    0
+    10
+    Aug.15
+    4:30
+    1.25
+    25
+    11
+    and
+    4:50
+    2
+    1.25
+    25
+    12.
+    Sept.24
+    5:30
+    3
+    1.25
+    25
+    On the other hand,with due caution this method might be used inpasture areas where the acid arsenical would present a poison hazard.
+    Also,where conditions are optimum for this type of spray,the experimentalresults indicate that the chlorate dosage may be materially reduced.
+    Furthermore,the application of sulphuric acid in a dosage providing aweight of the concentrated acid equal to that of the sodium chlorate willliberate chlorie acid and reduce the chlorate ions reaching the soil so thatlittle or no residual effect will be found.Sulphurie acid is best appliedin a concentration of about 5 per cent.by weight or approximately onenormal.Even this is corrosive to machinery and requires special acid-resistant equipment.Such equipment is available for using sulphurie acidas a spray on mustard in cereals.
+    KILLING OF PLANTS WITH CHLORATES BY ABSORPTION FROM THE SOIL
+    It is apparent that treatment of deep-rooted weeds through the soil isa logical method.The regenerative organs themselves are directly affectedby the chemical;with proper dosage and distribution there is little possi-bility of failure.The method is not subjeet to those diverse and difficultlycontrolled factors to which the foliar organs are exposed.
+    In the problem of dosage,species suseeptibility and the effect of soiltype on chlorate concentration are vital factors.The problem of species
+    This content downloaded from 204.235.148.92 on Thu,07 Jan 2016 23:38:37 UTC
+    All use subject to JSTOR Terms and Conditions
+
+==========第8页==========
+    706
+    PLANT PHYSIOLOGY
+    susceptibility has been mentioned.Variations are extremely wide.TIMSoN(25)deseribes a parasitic plant called 'witch weed''that requires a maxi-mum of only 80 gallons of spray containing 12 pounds of sodium chlorateper acre for control of a solid infestation.At the other extreme,chlorateshave often been applied to hoary eress and other of the less suseeptiblespecies at rates of 6 and 8 pounds per square rod with only partial kills.
+    Though these latter results may be due in part to improper methods,moresuseeptible species treated under identical conditions are often completelyeradicated.
+    At present the only hope for determining the dosage to use on a par-ticular species in the field is an empirical test under local conditions.
+    Though the operator may be guided somewhat by results described in theliterature,soil and elimatie factors so affect the growth of plants that localexperience is usually required.
+    The influence of soil type upon chlorate toxicity,having been introducedin another place (7),will be only touched upon here.Though toxicitiesmay vary as widely as five times between soils of different types (7),nogeneralization can be offered now that will aid in their determination.
+    Again empirical testing is indicated as the most promising method for study-ing this effect.It seems at present that,within a soil series,toxicity willrun higher in the coarser grades.Among series,recent alluvial soils exhibitthe lowest toxicity;old weathered soils the highest.Much more work is re-quired,however,before these statements can be proved.The results of suchtesting at this station will appear as the work is continued.
+    The fixing of chlorate in a form available to plants is another soil prop-erty to be considered.As experiments have shown (7),certain soils areable to hold chlorates so that they do not move freely in the soil solution.
+    In general the soils showing the lowest toxicity have the strongest fixingpower,and in these the proper vertical distribution of chlorate within thesoil is a problem.Under the conditions at Davis,morning-glory must bekilled to a depth of at least 4 feet or it will resprout and survive.A lethalconcentration of chlorate,therefore,must be provided throughout the top4 feet of soil if the treatment is to be a suceess.In a Yolo silt loam,leach-ing experiments showed (6)that about 6 inches of water were requiredwhen the chlorate was applied to moist plots,and from 8 to 12 inches whendry plots were treated.In a heavier soil these requirements might well bedoubled.Where the moisture came as rainfall with opportunity for evapo-ration between storms,even more water would be needed.This one factorprobably explains many of the failures attending the use of chlorates in thearid regions of the west.
+    Soil moisture enters the problem again in the matter of chlorate decom-position.Where rains keep the soil wet during the hot summer season,
+    This content downloaded from 204.235.148.92 on Thu,07 Jan 2016 23:38:37 UTC
+    All use subject to JSTOR Terms and Conditions
+
+==========第9页==========
+    CRAFTS SODIUM CHLORATE IN WEED CONTROL
+    707
+    residual effects from chlorate treatments are of little importance.Wherethe top soil dries out during the summer,chlorate remains intact and maypersist for three years (6)or more.Under these conditions leaching withirrigation water is the easiest method for ridding the land of chlorate (6,7).
+    Where irrigation is not available,chlorates should be used with considerablediseretion on heavy soils.
+    The proper season for chlorate application has been much debated.
+    Many publications recommend the blossoming stage of the plants,whichusually occurs in early summer.Sometimes the same recommendation willstate that the plants should be mature or fully mature for successful treat-ment.In central California morning-glory comes into blossom in Apriland May.On unirrigated land it reaches maturity,as denoted by ripeningof seed and cessation of terminal growth,in June and July.On irrigatedland it may not mature until October.Obviously,therefore,these recom-mendations cannot be followed in any one treatment.
+    HULBERT,BRISTOL,and BENJAMIN found in Idaho (13)that treatmentsfrom May to August were equally effective by the following summer.Wi-LARD (27),and SAMPSON and PARKER (24)treated successfully during thespring;AsLANDER (1,2),MUENSCHER (20),and the writer (6)have hadexeellent results from winter treatments.Stage of growth therefore wouldappear to have little effect in this response.Careful analysis,however,indi-cates that this is not altogether true.Loomrs and others state:..sodiumchlorate dissolved in the soil water readily penetrates and kills the roots andrhizomes of either active or dormant plants''(18).Although this is un-doubtedly true,absorption of chlorate by dormant roots is apparentlyslower than by active ones.The writer has noted many cases where plantshave survived fall and winter applications only to weaken and die in theearly summer.Spring and early summer treatments through the soil havebeen generally more successful than summer and fall applications exceptas the latter have provided a lethal concentration in the soil for absorptionduring the following spring.Midsummer applications have given the great-est success only in regions of summer rainfall where the chlorate is verysoon made available for absorption through the roots.
+    The plant root goes through three definite stages during the year.Inthe spring and early summer it is in a vegetative state characterized byrapidity of growth,absorption of water and mineral nutrients,and deple-tion of organic food reserves.During the summer and fall it replenishesits food reserves;growth and absorption become slower.During the winter,growth and absorption are at a minimum,and organie foods are only slowlychanged.From the standpoint of its physiology,the root should be mostsusceptible to chlorate injury during its vegetative stage in the spring.Thediscussion just presented indicates that this is probably true.
+    This content downloaded from 204.235.148.92 on Thu,07 Jan 2016 23:38:37 UTC
+    All use subject to JSTOR Terms and Conditions
+
+==========第10页==========
+    708
+    PLANT PHYSIOLOGY
+    At least two important factors are involved in this increased suscepti-bility during the spring.Rapid absorption of water and mineral nutrientsby the roots should favor absorption and accumulation of chlorate withinthe plant,and the low level of food reserves should make the roots vulnera-ble.On the other hand,the gradual killing of plants in the spring follow-ing fall and winter applications takes place generally where a given dosagehas been leached to a considerable depth and the actual chlorate concentra-tion at any point is low.With the depletion of soil moisture,the chlorateconcentration inereases generally throughout the soil mass.In addition,because of the water moving into the plant roots and the selective rejectionof chlorate resulting from the low coefficient of permeability of protoplasmfor these ions,the chemical must concentrate at the surface of the root.Asthe ions concentrate to the lethal point the roots become injured,increasingin permeability,and then chlorate enters the plant in much greater amountsthan before.The result is the complete breakdown and death so oftennoted as the soil moisture runs low.The effective concentration at the ab-sorbing surfaces must be much higher than if the soil moisture were main-tained by irrigation or rainfall.That this factor of concentration withinthe soil is important is indicated by the number of recommendations thatwarn against irrigating after chlorate applications.The writer has usedirrigation water (6)for attaining a vertical distribution of chlorate in thesoil with considerable success.Apparently it is harmful only where itmaintains a high moisture content that effectively dilutes the chlorate,orwhere it leaches the chlorate beyond the region of absorbing roots.
+    Discussion and summary
+    Chlorate,as a plant poison,seems to have unique properties.It actsslowly (18)compared with the heavy metals,seeming to enter the plant inlow concentration,and gradually aceumulates if the source of supply ismaintained.Though arsenic,when present in the soil,affeets principallythe absorbing organs and has little primary effect upon the tops,chlorateapparently affects the whole plant at the same time and in essentially thesame way.Seedlings that have germinated in soils containing large amountsof arsenic are often found to have their roots so injured that water is ab-sorbed through dead tissues as through a wick.Plants in soils containingchlorates in just as injurious quantities have strong root systems.Here theplants may exhibit considerable growth and then dry up and die completely.
+    Very high eoneentrations of chlorate in the soil will kill roots just as doesarsenic.
+    The writer is reminded of some early experiments with arsenic andchlorates on morning-glory shoots.Exeised shoots placed in dilute solu-tions of these two chemicals react characteristically.The young tender tipsof the shoots in arsenie solutions turn black and droop within 16 hours,and
+    This content downloaded from 204.235.148.92 on Thu,07 Jan 2016 23:38:37 UTC
+    All use subject to JSTOR Terms and Conditions
+
+==========第11页==========
+    CRAFTS:SODIUM CHLORATE IN WEED CONTROL
+    709
+    the older leaves die later.With the chlorate-treated shoots,the older leavesdie first;the tips turn chlorotic but do not die,and many actually grow forseveral days,elongating to the extent of 10 to 20 centimeters.Apparently,arsenic is primarily a protoplasm poison and kills as it goes,entering youngand old tissues alike.Though chlorate will also kill by contact when pres-ent in high coneentrations,it seems to enter the plant more slowly when ab-sorbed from the soil or when applied in solutions of low concentration andallowed to act by accumulation in the tissues.The plant dies under thesecireumstanees,not beeause the protoplasm has been killed by direct reactionwith the toxicant,but rather because this material so disturbs the metabolicprocesses that the plant can no longer function normally.The symptomsare systemic in nature,and apparently assimilation and utilization of foodsas well as other vital functions are affected.
+    The discussion presented shows that there can be no universally success-ful method for using chlorates.With the extreme variations in suscepti-bility of species and the number of factors affecting toxicity and absorption,methods must be adapted to the conditions of the treatment,the operatortaking every possible advantage of the situation at hand.Though summerrains provide an ideal means for distributing the chemical in the soil,insur-ing the success of spring and summer applications in the humid regions,other methods must be used in the more arid parts of the west.Directionsprovided by chemical companies and experiment stations for the use ofchlorates should be adapted to the locality in which the chemical is to beused.
+    The suceessful use of chlorate is obviously more difficult in arid regions.
+    In California,three methods have been proposed (6):(1)fall sprayingwhere rapid absorption and root killing are followed by leaching and ab-sorption from the soil;(2)a straight soil treatment during the winter;(3)spring soil treatment followed by proper irrigation.All three methods,however,are subject to differences in growth conditions and soil type,andthe first two depend upon rainfall.They must be used,therefore,withutmost care.
+    All soil applications should aim to provide a toxic concentration ofchlorate throughout a proper depth of soil for absorption during the springvegetative season.Plants left undisturbed in such soils accumulate.chlo-rate as the moisture deereases and grow weaker with the advancing season.
+    Hoeing or weed cutting will eliminate the few plants that struggle alongand sometimes survive this treatment (6).This should not be done,how-ever,until the plants are severely affected.At least one complete seasonmust be allowed for suceess by the chlorate method,and provision must bemade for destroying such seedlings as appear in succeeding years.
+    UNIVERSITY OF CALIFORNIA
+    DAVIS,CALIFORNIA
+    This content downloaded from 204.235.148.92 on Thu,07 Jan 2016 23:38:37 UTC
+    All use subject to JSTOR Terms and Conditions
+
+==========第12页==========
+    710
+    PLANT PHYSIOLOGY
+    LITERATURE CITED
+    1.ASLANDER,ALFRED.Chlorates as plant poisons.Jour.Amer.Soc.
+    Agron.18:1101-1102.1926.
+    0y*
+    Experiments on the eradication of Canada thistle,
+    Cirsium arvense,with chlorates and other herbicides.Jour.Agr.
+    Res.36:915-934.1928.
+    3.CRArrs,A.S.Sieve-tube structure and translocation in the potato.
+    Plant Physiol.8:81-104.1933.
+    4.
+    The use of arsenical compounds in the control of deep-
+    rooted perennial weeds.Hilgardia 7:361-372.1933.
+    有
+    Sulfuric acid as a penetrating agent in arsenical sprays
+    for weed control.Hilgardia 8:125-147.1933.
+    Factors influencing the effectiveness of sodium chlorate
+    as a herbicide.Hilgardia 9:437-457.1935.
+    The toxicity of sodium arsenite and sodium chlorate infour California soils.Hilgardia 9:461-498.1935.
+    and KENNEDY,P.B.The physiology of Convolvulus
+    arvensis (morning-glory or bindweed)in relation to its control bychemical sprays.Plant Physiol.5:329-344.1930.
+    9.Currrs,O.F.Studies on solute translocation in plants.Experiments
+    indicating that translocation is dependent on the activity of livingcells.Amer.Jour.Bot.16:154-168.1929.
+    10.FRoN,M.,and BERTRAND,R.Contribution a l'etudes de l'infuence
+    des chlorates sur la vegetation.Ann.Agron.4:1-25.1934.
+    11.HANSEN,A.A.Eradicating quack grass with sodium chlorate.Jour.
+    Amer.Soc.Agron.20:1120-1123.1928.
+    12.HARVEY,R.B.The action of toxic agents used in the eradication of
+    noxious plants.Jour.Amer.Soe.Agron.23:481-489.1931.
+    13.HULBERT,H.W.,BRISTOL,R.S.,and BENJAMIN,L.V.Methods affeet-
+    ing the efficiency of chlorate weed killers.Idaho Agr.Exp.Sta.
+    Bull.189.1931.
+    14.JoHNSON,ETHELBERT.Recent developments in the use of herbicides
+    in California.California Dept.Agr.Monthly Bull.17:7-16.1928.
+    15.KENNEDY,P.B.,and CRAFTS,A.S.The application of physiological
+    methods to weed control.Plant Physiol.2:503-506.1927.
+    16.LATSHAW,W.L.,and ZAHNLEY,J.W.Experiments with sodium chlo-
+    rate and other chemicals as herbicides for field bindweed.Jour.
+    Agr.Res.35:757-767.1927.
+    17.LooMIS,W.E.,BIssEY,RUSsELL,and SMITH,E.V.Chlorates as herbi-
+    cides.Seience n.s.74:485.1931.
+    This content downloaded from 204.235.148.92 on Thu,07 Jan 2016 23:38:37 UTC
+    All use subject to JSTOR Terms and Conditions
+
+==========第13页==========
+    CRAFTS:SODIUM CHLORATE IN WEED CONTROL
+    711
+    18
+    SMITH,E.V.,BISSEY,RUSSELL,and ARNOLD,L.E.The
+    absorption and movement of sodium chlorate when used as anherbicide.Jour.Amer.Soc.Agron.25:724-739.1933.
+    19.MEADLY,G.R.W.Chemical weed killers.Jour.Dept.Agr.West
+    Australia10:481-487.1933.
+    20.MUENSCHER,W.C.Killing perennial weeds with chlorates during
+    winter.Cornell Univ.Agr.Exp.Sta.Bull.542.1932.
+    21.NELLER,J.R.Effect of chlorates upon the catalase activity of the
+    roots of bindweed.Jour.Agr.Res.43:183-189.1931.
+    22.OFFORD,H.R.The chemical eradication of Ribes.U.S.Dept.Agr.
+    Tech.Bull.240.1931.
+    23.
+    -and D'URBAL,R.P.Toxic action of aqueous sodiumchlorate on Nitella.Jour.Agr.Res.43:791-810.1931.
+    24.SAMPSON,A.W.,and PARKER,K.W.St.Johnswort on range lands of
+    California.California Agr.Exp.Sta.Bull.503.1930.
+    25.TIMSoN,S.D.Witch weed control.Rhodesia Agr.Jour.30:14-25.
+    1933.
+    26.VIGor,S.H.Chemical weed killers.Sci.Agr.9:587-593.1929.
+    27.WILLARD,C.J.Killing weeds with chlorates.Ohio Agr.Exp.Sta.
+    Ext.Leaflet.1930.
+    28.YAMASAKI,M.On the variation of rice varieties in the resistance to
+    the toxie action of potassium chlorate,and its practical signifi-cance.Jour.Imp.Agr.Exp.Sta.Tokyo 1:1-24.1929.(Sum-mary in English.)
+    29.
+    -The variation and correlation among varieties of wheatand barley in regard to the resistance to the toxic action of potas-sium chlorate.Jour.Imp.Agr.Exp.Sta.Tokyo 1:139-162.1929.(Summary in English.)
+    This content downloaded from 204.235.148.92 on Thu,07 Jan 2016 23:38:37 UTC
+    All use subject to JSTOR Terms and Conditions
+
+==========第14页==========

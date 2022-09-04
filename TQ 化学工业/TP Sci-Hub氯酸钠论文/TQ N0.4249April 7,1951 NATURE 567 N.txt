@@ -1,0 +1,128 @@
+    N0.4249April 7,1951
+    NATURE
+    567
+    No significant change in the air pressure due toq11一912=一239X10-13;g1,
+    =-142X
+    its flow across the gap could be detected,since at50 c./s.and at high-frequency the breakdown-voltageproved to be the same as when the air was at rest.
+    Itwi业be noticed that g一g2and91-913 are
+    The D.C.breakdown-strength of air is considerably
+    different,as required by Bhagavantam's theory2 forcrystal classes T and T.They differ by as much
+    increased by the addition of a small percentage ofcarbon tetrachloride vapour3.
+    as 70 per cent,which is larger than that found for
+    Some experiments
+    any erystal of the Ta class.
+    were therefore made in which the air,before enteringthe nozzle,passed over liquid carbon tetrachloride.
+    To determine 911 absolutely,measurements were
+    The amount of the vapour in the air-stream was
+    made of the ratios of elasto-optic constants pi/pi1
+    about 1 per cent.Fig.2 shows the pre-breakdown
+    and pi3pi from ultrasonic diffraction3.These,together with the known elastic constants of the
+    positive-ion currents obtained for a gap of 0-6 mm.at f =3.5 Me./s.Both the high-frequeney and
+    crystal,lead to the following values
+    50 c./s.breakdown-strengths increased when carbon
+    911=+148×10-13cm,2dyne1,
+    tetrachloride was added to the air-stream,but the
+    p11=0173,p12=0258,p13=0223,p44=-00187.
+    high-frequency breakdown-voltage was now consider-
+    It was also found that,within the limits of experi-
+    ably closer to the value for 50 c./s.A large decrease
+    mental error (5 per cent),there was no change in
+    in pre-breakdown ion current also occurred.Similar
+    the rotatory power with stress in directions transverse
+    results were obtained at other frequencies.
+    to the stress
+    It is known that a dissociation process which pro-
+    Details of the investigation will be published in
+    duces no new electrons is likely to ocour in carbon
+    the Proceedings of the Indian Academy of Sciences.
+    tetrachloride,and the threshold potential for this
+    G.N.RAMACHANDRAN
+    process is lower than the ionization potential of
+    V.CHANDRASEKHARAN
+    nitrogen.This would explain the large reduction in
+    Department of Physies,
+    positive-ion production.
+    Indian Institute of Science,
+    The results for the carbon tetrachloride and air
+    Bangalore 3.
+    mixture,in conjunction with the results for air alone
+    Nov.24
+    (Fig.1),appear to show that the number of positiveions which oscillate in the gap just prior to break-
+    Poekels,F.,"Lehrbuch der Kristalloptik"(1906).
+    2 Bhagavantam,S.,Proc.Ind.Acad.Sei.,A,18,359 (1942)
+    down is an important factor in the decrease of thehigh-frequency breakdown-voltage below the valuefor 50 c.s.
+    sonic measurements made by him.
+    Mas
+    ,and
+    W P
+    I wish to express my thanks to Prof.H.M.Barlow,
+    University College,London,for his guidance duringthis investigation also the Department of Scientificand Industrial Research for a maintenance grant.
+    R.FATEHCHAND
+    Application of the Xenon Arc-Discharge
+    Electrical Research Laboratory.
+    to Experiments in Crop Physiology
+    University College,
+    A RECENT comnmunication!described the lighting
+    London,W.C.1.
+    arrangements in a growth-cabinet with radiation
+    Nov.23.
+    having a spectral energy distribution and intensity
+    Hershey,A.V.,Phys.Rev.,56,908 (1939)
+    equivalent to sunlight at 2,000 lumens per sq.ft.By
+    Electrical Discharge in
+    installing more powerful lamps,this intensity has
+    Charlton,E.E.,and Cooper,F.S.,Gen.Elec.Rev.,40,438 (1937).
+    been substantially raised but field experiments
+    Warren,J.W.,Hopwood,W.,and Craggs,J.D.,Proc.Plys.Soc.
+    indicate that it is still below the maximum to which
+    63,180(1950).
+    many plants will respond.
+    A quantitative under.
+    standing of the morphological and physiologicalchanges at intensities approaching full sunlight is notonly of theoretical interest,but also has immediate
+    Photoelastic Constants of Sodium Chlorate
+    bearing on a number of pasture problems of con-
+    SoDIUM chlorate belongs to the tetrahedrite (
+    siderable economic importance.The xenon arc lamp
+    class of the cubic system and exhibits optical activity
+    announced by Aldington2,and the more recently
+    without birefringence.The birefringence introduced
+    developedair-cooled designs,appeared to have
+    by stress is of the same order as the difference in
+    definite possibilities for meeting this requirement.
+    refractive indices of the two circular components.
+    These lamps,rated at 1,000 or 5,000 watts,have
+    Special techniques are therefore needed for measuring
+    a comparatively high source brightness and radiate
+    the photoelastic constants,and the stressing appara-
+    the normal spectrum of xenon together with a
+    tus was so designed that a petrological microscope
+    powerful continuum.This gives an energy-distribu-
+    could be used in conjunction with it.
+    tion which,within the visible region,is very similar
+    Detailed measurements were made of the ellipticity
+    to that of sunlight.Tests were recently undertaken
+    and other characteristics of the transmitted light for
+    in the Siemens Lamp Research Laboratories at
+    different azimuths of the incident plane of polariza-
+    Preston to examine the effectiveness of a 1-kW.air.
+    tion.These enable one to calculate separately the
+    cooled xenon lamp for stimulating the growth of the
+    birefringence and rotatory power of the compressed
+    strains of rye grass (Loliam)being studied at Man-
+    crystal,using the idea of the Poincare spherel.An
+    chester.Two series of plants were grown for fifteen
+    auxiliary measurement was provided by an 'elliptic
+    consecutive days,one being exposed directly to
+    analyser'which determined the ellipse that is prop-
+    radiation from the lamp and the other being screened
+    agated unchanged through the crystal.By studying
+    from wave-lengths less than some 3200 A.by a
+    the effects of stresses along [100],[110],and f111]
+    sheet of glass 3/16 in.thick.There was 9 hr.illum.
+    directions,the following values were found for the
+    ination per day at intensities of the order of 200,
+    piezo-optic constants
+    500 and 1,000 lumens per sq.ft.in the regions where
+    1951 Nature Publishing Group
+
+==========第1页==========

@@ -1,0 +1,789 @@
+    CRYSTAL
+    GROWTH
+    Article
+    DESIGN
+    Cite This:Cryst.Growth Des.2019,19,3453-3460
+    pubs.acs.org/crystal
+    Secondary Nucleation of Sodium Chlorate:The Role of Initial
+    Breeding
+    Rene R.E.Steendam*and Patrick J.Frawley
+    Synthesis and Solid State Pharmaceutical Centre (SSPC),Bernal Institute,University of Limerick,Castletroy,Limerick,Ireland
+    ABSTRACT:Secondary nucleation is the key mechanism behind thecreation of new crystals in industrial crystallization processes.Sodiumchlorate has widely been used throughout literature as a model compoundto study secondary nucleation due to its ability to crystallize as a chiralsolid which makes it feasible to determine whether new crystals haveoriginated from solution or from a seed crystal.Despite its widespread
+    (Ln)60:SE:tI le 610
+    use,a significant level of ambiguity regarding sodium chlorate still existsincluding inconsistent solubility data,nontransferrable results betweenbatch and continuous experiments and inconclusive theories about
+    whether secondary nucleation of sodium chlorate is possible through fluid shear.In the present work,the inconsistencies aroundsodium chlorate are resolved using novel continuous shear-induced secondary nucleation experiments involving stationary seedcrystals.First,accurate solubility data of sodium chlorate in water was determined using a laser method and compared with
+    4
+    literature data.Second,the metastable zone width was determined to be surprisingly narrow and continuous shear-inducedsecondary nucleation experiments of sodium chlorate using stationary seed crystals were therefore unsuccessful asheterogeneous nucleation was favored over secondary nucleation.This explains why previous continuous secondary nucleationexperiments failed.Finally,it was found that mechanical impact readily created fines on the seed crystal surface and that theresulting fines acted as new particles through initial breeding.Based on microscopic analysis it was observed that a washing stepwas sufficient to remove fines from the seed crystal surface.Intriguingly,the resulting seed crystals without fines failed to inducesecondary nucleation.Therefore,fluid shear was insufficient to disperse secondary nuclei of sodium chlorate.Overall,the resultspresented herein reveal a better understanding of secondary nucleation as the impact of initial breeding is reported in detail forthe first time.Initial breeding significantly contributes to secondary nucleation and controlling initial breeding is thereforeessential to govern crystallization processes.
+    AINO
+    1.INTRODUCTION
+    crystals can be used as a unique tool to establish whether
+    Crystallization is an essential unit operation in the chemical
+    nuclei have been formed through primary or secondary
+    industry for the production and purification of fine chemicals,
+    nucleation.
+    agrochemicals,and pharmaceuticals.Industrial crystallization
+    One of the suggested origins of secondary nuclei is the
+    processes are typically initiated using seed crystals of the target
+    absorbed noncrystalline supersaturated solution layer on the
+    product.Once added to a supersaturated solution,seed crystals
+    surface of the seed crystal.Denk and Botsaris,and later Qian
+    grow,undergo breakage,agglomerate,and induce the
+    and Botsaris,showed that stagnant and agitated experiments
+    formation of new nuclei through secondary nucleation.The
+    involving NaClO3 at high levels of supersaturation led to the
+    newly formed nuclei grow into crystals that in turn induce the
+    crystallization of both chiral forms,despite the presence of a
+    formation of a new generation of nuclei,making secondary
+    chiral pure seed crystal.,7 The applied supersaturation was
+    nucleation a highly efficient autocatalytic process.As a
+    lower than the metastable limit (MSL)and the crystals could
+    consequence,secondary nucleation significantly influences
+    therefore not have been formed through primary nucleation
+    the crystallization process and final crystalline product
+    Instead,these results were explained by the Embryo
+    specifications.
+    Coagulation Secondary Nucleation (ECSN)theory,which
+    Sodium chlorate (NaClO,)has been extensively used as amodel system to investigate secondary nucleation mechanisms
+    states that prenucleation clusters are attracted to a seed crystal
+    Although achiral in solution,NaClO3 crystallizes in a
+    through achiral van der Waals forces,resulting in the rapid
+    noncentrosymmetric space group,making it chiral in the
+    agglomeration of clusters of both chiral forms into stable
+    solid state.4 Most of the physical-chemical properties of the
+    nuclei.A similar mechanism,which was coined as nuclei
+    two chiral forms are the same and crystallization in the absence
+    breeding more recently,was described using computer
+    of seed crystals proceeds through primary nucleation,typically
+    simulations.
+    resulting in a racemic mixture of both chiral forms.On theother hand,chiral seed crystals induce secondary nucleation
+    Received:March 11,2019
+    resulting in product crystals that have the same chiral form as
+    Revised:April 12,2019
+    the seed crystal.Hence,the chirality of NaClO product
+    Published:May 1,2019
+    ACS Publications American chemical odet
+    3453
+    D010.1021/acs.cgd.9b00317
+    Cryst.Growth Des.2019,19,3453-3460
+
+==========第1页==========
+    Crystal Growth Design
+    Article
+    Once stable,secondary nuclei are dispersed from the seed
+    2.EXPERIMENTAL SECTION
+    crystal surface into the bulk solution through contact and/or
+    2.1.Materials.The solutes NaClO3 (>99%)and NaBrO3
+    shear forces.In videotaped experiments involving NaClO it
+    (>98%)were purchased from Merck and used as received.The
+    was observed that collisions of a seed crystal with an impeller
+    purity of these solutes was determined by the supplier through a
+    resulted in contact nucleation,giving rise to thousands of
+    titration method.Ultrapure HPLC grade water was used as a solvent
+    crystals with the same chirality as the seed crystal,10In
+    and was obtained through a PURELAB flex 3 purification instrument.
+    addition,contact nucleation of NaClO3 can proceed through
+    Seed crystals of NaClO,and NaBrO,were prepared by evaporative
+    microattrition from less significant sources of impact such as
+    recrystallization from water.A literature procedure was used to wash
+    from sliding of crystals along the bottom of a flask.
+    e in te nm
+    Secondary nuclei can alternatively be dispersed from theseed crystal surface through fluid shear.Experiments by
+    crystallization experiments (Figure 1),whereas larger seed crystals of
+    Buhse et al.,in which a supersaturated solution of NaClO was
+    Stationary
+    made to flow over a stationary chiral sodium bromate
+    seed crystal
+    Optical rotation
+    (NaBrO3)seed crystal,revealed that fluid shear alone was
+    NaClO2 crystals
+    sufficient to induce secondary nucleation.s In those experi-ments,the chirality of most of the NaClO,product crystals was
+    solvent
+    found to correlate to the chirality of the NaBrO,seed crystals.
+    evaporation
+    After the formation and dispersion of secondary nuclei,thecrystal surface becomes available to induce secondary
+    。0■0u
+    nucleation again,provided that the solution remains
+    NaClO2 solution
+    NaClO:crystals
+    IIIIID>
+    sufficiently supersaturated.As a result,secondary nucleation
+    supersaturated△T
+    is an excellent approach to make new crystals in continuous
+    Figure 1.Schematic overview of the experimental procedure to test
+    crystallization experiments as seed crystals would continuously
+    initial breeding.
+    convert a supersaturated feed solution into secondary nuclei.16
+    A proof of concept of the continuous generation of secondarynuclei has been reported for glycine and paracetamol,where
+    about 10 mm in size were used in the sequential batch crystallizationexperiments (Figure 6).The chirality of the crystals was identified
+    secondary nuclei were formed through continuous contact
+    through optical rotation using polarized microscopy.
+    nucleation.Alternatively,continuous shear-induced secon-
+    2.2.Laser Methodology To Determine Phase Diagram
+    dary nucleation through fluid shear should also be feasible
+    NaClO3.The metastable limit temperatures (cloud points)and
+    However,continuous flow experiments involving stationary
+    saturation temperatures (clear points)of NaClO,in water were
+    NaClO seed crystals revealed that the chirality of the product
+    determined using a methodology reported in literature.4 An
+    crystals was stochastic and did not match the chirality of the
+    accurately weighted amount of NaClO3 and water were dissolved
+    seed crystals.The absence of a correlation in chirality between
+    and filtered using a 0.2 um poly(ether sulfone)membrane syringefilter.About 60 mL of the filtered solution was transferred to a 100
+    product and seed crystals of NaClO in continuous flow
+    mL borosilicate flask,equipped with a Teflon-coated magnetic stirrer
+    experiments is surprising,as batch experiments without contact
+    bar.In the unfiltered experiments,the solute and solvent were added
+    nucleation involving stationary seed crystals of NaClO3 do
+    directly to the borosilicate flask.The flask was tightly sealed with a
+    result in chiral-specific crystallization.7,5
+    screw cap and transferred to a transparent polycarbonate bath filled
+    It remains unclear why continuous shear-induced secondary
+    with deionized water.The temperature of the water was controlled
+    nucleation of NaClO3 is not feasible as opposed to batch
+    using a Grant TX150 thermostat (stability +0.005 C and uniformity
+    experiments.Furthermore,the present work shows that
+    +0.02 C)and recorded using Labwise software.The difference
+    literature solubility data of NaClO,in water displays significant
+    between the set temperature and the solution temperature was within
+    inconsistencies across multiple literature sources.Moreover,it
+    +0.1 C.The suspension was mixed using a MIXdrive magneticstirring plate at a stirring rate of 300 rpm.The temperature was set to
+    is reported that like many other inorganic compounds,both
+    ncrease at a rate of 0.1 C/min until all crystals dissolved.During the
+    NaClO,and NaBrO;are classified as inert seeds which means
+    increase in temperature,the solids gradually dissolved as indicated by
+    that the seed crystals grow only slowly and fail to proliferate.
+    an increase in transmissivity of laser power which was emitted using
+    As outlined in the present introduction,this view is in contrast
+    an MRL-III-635L-30Mw red diode laser.The laser could detect
+    to studies that show that secondary nucleation of NaClO.
+    particles of 20 nm and potentially smaller.The temperature at which
+    through fluid shear is feasible.Thus,an overall level of
+    maximum transmissivity was reached was taken as the saturation
+    ambiguity regarding sodium chlorate still exists to date.
+    temperature.The solution was stirred for an hour at a temperature of
+    Herein,the inconsistencies around NaClO are resolved
+    10 c above the saturation temperature to ensure completedissolution.Subsequently,the temperature of the water bath was set
+    using novel continuous shear-induced secondary nucleation
+    to decrease at a rate of 0.1 C/min until crystallization occurred.The
+    experiments involving stationary seed crystals.The solubility
+    onset of crystallization was identified by a start of a decrease in
+    and metastable zone width of NaClO was reviewed and
+    transmissivity.The temperature at which the transmissivity started to
+    accurately measured using a laser methodology.Seed crystals
+    decrease was taken as the cloud point temperature.Each
+    of NaClO3 and NaBrO3 were prepared and tested for initial
+    concentration was measured three times and the resulting average
+    breeding which is a mechanism through which fines that were
+    metastable limit temperatures and saturation temperatures are
+    present before the experiment are dislodged from the seed
+    reported.
+    crystal to become nuclei.Finally,continuous shear-induced
+    2.3.Continuous Flow Experiments.Isothermal crystallization
+    secondary nucleation experiments were carried out involving
+    experiments involving NaClO,in water were performed at a labtemperature of 20 C.A Grant water bath (type GR150;38 Li
+    stationary seed crystals.The results presented herein provide a
+    stability +0.005 C and uniformity +0.02 C)was used to control the
+    better understanding of NaClO and secondary nucleation
+    temperature of the solution of the continuous flow experiments.To
+    mechanisms and show for the first time the significant impact
+    ensure complete dissolution,each solution was stirred at 500 rpm
+    of initial breeding.
+    using a Teflon coated magnetic stirrer for 1 h on a hot plate set at a
+    3454
+    D010.1021/acs.cgd.9b00317
+    Cryst.Growth Des.2019,19,3453-3460
+
+==========第2页==========
+    Crystal Growth Design
+    Article
+    temperature of 50 C.The resulting solution was filtered using a 0.2
+    was slowly evaporated until the product crystals were sufficiently large
+    um syringe filter and transferred to a flask which was placed in a water
+    to enable chiral identification.
+    bath.In the experiments involving unfiltered solutions the flask was
+    2.4.Microscopic Analysis of Optical Rotation and Seed
+    placed immediately in a water bath without a filtration step.The
+    Crystal Surface.The chirality of NaClO;and NaBrO3 can be
+    temperature of the water bath was set to 20 C and the flask remained
+    described using optical rotation,leading to the levorotatory (and
+    stagnant in the water bath for 1 h to create a supersaturated solution
+    dextrorotary (d)or the (+)and (-)nomenclature.5,19 The chiral
+    The resulting supersaturation,denoted by supercooling AT,is
+    configuration of the crystal structure is denoted by A and B and this
+    expressed as the difference between the theoretical saturation
+    description is used in the present work.
+    temperature (T)and the actual temperature (T)of the solution
+    An Olympus IX53 inverted microscope was used to determine the
+    (i.e.,20 C).For the tested supercoolings AT=0,2.7,4.6,and 6.4
+    optical rotation of the crystals.Brightfield microscope settings were
+    C,the used concentrations were C 949,974,992,and 1009 mg/
+    used and the light transmitted through the crystals was polarized using
+    mL with corresponding clear point temperatures of T=20,22.7,24.6,
+    a polarization filter.After passing through the crystals,the polarized
+    and 26.4 C,respectively (Figure 2).The amount of solvent used in
+    light was passed through another polarization filter (i.e.,the analyzer)before reaching the camera or eyepiece of the microscope.By aclockwise rotation of the analyzer,A-NaClO3 and B-NaClO3 crystals
+    ■Mivamoto
+    become dark and bright,respectively.This situation is reversed for
+    NaBrO3,where a clockwise rotation of the analyzer resulted in A-
+    1400
+    Osaka
+    NaBrO and B-NaBrO crystals to become bright and dark,
+    Mullin
+    Chen et al.
+    respectively.
+    Ni et al
+    The optical rotation of each sample was identified and the solid
+    ▣Buhse et al
+    phase enantiomeric excess (E)was determined through
+    Maver and Lacmann
+    1200
+    ★pres
+    ent work
+    E=-×100
+    na+nR
+    (3)
+    where na represents the number of A-NaClO crystals and ng
+    ●
+    represents the number of B-NaClO3.For example,an experiment
+    1000
+    involving an A-NaBrO3 seed crystal induced the crystallization of na200 A-NaClO3 crystals and ng=100 B-NaClO3.Therefore,the solidphase enantiomeric excess E 33%.
+    Some of the NaClO3 and NaBrO3 seed crystals were examinedusing scanning electron microscopy (SEM)to visualize the crystal
+    800
+    20
+    30
+    50
+    surface.The crystals were placed on a SEM sample holder and coatedwith a thin layer of gold.The SEM images were taken using a JEOL
+    T[C]
+    CarryScope JCM-5700 instrument.
+    Figure 2.Solubility C*of NaClO3 expressed in milligram per
+    3.RESULTS
+    milliliter of water and plotted as a function of temperature T.
+    The solubility and metastable limit of NaClO3 in water aredescribed in the first section.The second part outlines theimportance of seed crystal preparation and shows that a
+    each experiment was 20 mL of water.The saturated or supersaturated
+    rigorous washing regime is required to avoid initial breeding.
+    solution was transferred through tubing (Figure 1)and was collected
+    The final section describes continuous secondary nucleation
+    into petri dishes over the course of 8 min.The solution was collected
+    and shows that the seeded chiral form could not be obtained
+    in a new petri dish each minute,resulting in a total of eight samples.A
+    Lambda Preciflow peristaltic pump in combination with transparent
+    through shear-induced crystallization experiments.
+    silicon tubing (inside 3 mm)was used to create a flow system.
+    3.1.Solubility of NaClO3 in Water.The solubility of
+    In the seeded experiments,a single crystal was placed at the end of
+    NaClO3 in water has been reported in at least 28 literature
+    the tubing.The seed crystal was secured in the tubing as the tube
+    sources to date.Miyamoto reviewed 22 publications and the
+    diameter was smaller than the seed crystal creating an interference fit.
+    corresponding data is shown in Figure 2.20 In addition,Figure
+    The applied flow rates were too small to remove the seed crystal from
+    2 shows the solubility data obtained by Seidell,21 Osaka,22
+    the tubing.After each experiment,the collection of solution stopped
+    Mullin,23 Chen et al.,24 Mayer and Lacmann,25 Ni et al.,26and
+    and 100 mL ultrapure HPLC grade water was transferred through the
+    Buhse et al.as well as our own solubility data.The solubility
+    tubing to remove any residual NaBrO3 or NaClO3.The tubing was
+    data by Ni et al.was taken from Seidell and reportedly verified
+    subsequently dried and used in the following experiment.
+    and confirmed at a temperature T=40C with a solubility C*
+    The collected solution contained crystals of NaClO:which weretoo small to be analyzed for optical rotation.Therefore,water was
+    1005.8 mg/mL.However,this data point is significantly
+    evaporated from the solution at a temperature of 20 C over the
+    different from the data from Seidell,who found a solubility of
+    course of 4 h in order to grow the crystals to sufficiently large sizes for
+    C*1260 mg/mL at that temperature.A similar
+    the analysis of the optical rotation.During evaporation,no primary
+    comparatively low solubility data point of C*=829 mg mL
+    nucleation occurred as test runs showed that the chirality of the
+    at T=23C was reported by Buhse et al.As all other solubility
+    product crystals was the same as chiral-pure starting material.
+    data is significantly higher,we assume that the two points
+    Flow experiments were also carried out in combination with an
+    reported by Ni et al.and Buhse et al.are incorrect.
+    approach based on a literature report,as shown in Figure 6a.15 In
+    In most of the reported literature,the method used to
+    these experiments,the supersaturated solution was filtered through an
+    determine the solubility has not been described but will most
+    0.2 um syringe filter and immediately passed over a chiral-pure seedcrystal which was held stationary inside a tubing.The silicon tubing
+    likely have been thermogravimetric analysis.Mayer and
+    was flexible and it was therefore possible to insert a seed crystal with a
+    Lacmann used a temperature oscillating method,and the
+    larger diameter than the diameter of the tubing,creating an
+    resulting second-order equation is plotted in Figure 2.25 The
+    interference fit.As a result,the seed crystal remained in place despite
+    lowest solubility data was obtained by Chen et al.where the
+    the applied flow of solution.The water from the collected solution
+    solubility was measured through Mach-Zehnder interferom-3455
+    D010.1021/acs.cgd.9b00317
+    Cyst.Growth Des..2019,19,3453-3460
+
+==========第3页==========
+    Crystal Growth Design
+    Article
+    etry.In general,most solubility points are similar to our data
+    MSL of unfiltered solutions.The main difference between the
+    except for the data obtained by Seidell and Mullin who found
+    two data sets is the standard deviation,which is wider for the
+    solubility data which is significantly higher than the majority of
+    filtered solutions.Particles in the unfiltered solutions may act
+    literature reports.
+    as a template for heterogeneous nucleation and as such make
+    The solubility C*of NaClO,in water as determined herein
+    primary nucleation a more deterministic process.On average
+    is also shown in Figure 3 and shows a linear dependency to the
+    across the investigated temperature range,the metastable zonewidth (MZW)was determined to be T=8.6C,which is
+    1300
+    narrow as is common for inorganic salts and small molecules.27
+    Thus,the solubility of NaClO3 in water shows variations
+    1250
+    across literature.The solubility data determined herein is
+    1200
+    similar to most reported literature data.The solubility and theMSL of NaClO,in water were used as a framework for the
+    1150
+    continuous shear-induced secondary nucleation experiments.
+    3.2.Seed Crystal Preparation:Saturated Solutions.
+    1100
+    Literature results from batch experiments show that NaClOsingle seed crystals induce chiral-selective secondary nucleation
+    )1050
+    of NaClO3.Chiral-selective secondary nucleation of NaClO
+    1000
+    can also be realized with NaBrO seed crystals,as NaClO and
+    C=9.3552*T+762.01
+    NaBrO3 have isomorphous crystal structures.s In the present
+    950
+    work,both types of seed crystals were tested in secondarynucleation experiments,in which either a chiral pure NaClOa
+    900
+    or a chiral pure NaBrO seed crystal was used.
+    0
+    30
+    40
+    50
+    Prior to the crystallization experiment,seed crystals aretypically washed with a solvent to remove small crystalline fines
+    T[C]
+    from the seed crystal surface,as such particles would otherwise
+    Figure 3.Averaged saturation temperatures T*(black and
+    be transferred to the bulk solution through initial breeding.In
+    metastable limits for filtered (blue A)and unfiltered (red aqueous
+    previous studies,15 NaClO and NaBrO seed crystals were
+    NaClO,solutions.Standard deviations are shown by horizontal bars.
+    washed with water and the same approach was used herein.
+    The line is a linear fit to the solubility data,and the corresponding
+    In the absence of initial breeding and supersaturation,the
+    equation is shown in the graph.
+    collected solution from the flow experiment must be free fromcrystals.After evaporation of the solvent (Figure 1),
+    temperature T.Such a linear temperature-concentration
+    crystallization of NaClO should proceed through primary
+    relationship was also found for NaBrO3 in water.16The
+    nucleation to give a racemic mixture of crystals where the solid
+    standard deviation in the solubility data increased with
+    phase enantiomeric excess E =0.In unseeded experiments
+    temperature T but remained smaller than 1 C up to a
+    tested herein,a flow of saturated solution of NaClO was
+    temperature T of 55 C.
+    continuously collected over time and the water from the
+    In addition to the solubility,knowledge of the metastable
+    resulting samples was evaporated until the crystals were
+    limit (MSL)at which point spontaneous nucleation occurs
+    sufficiently large for analysis.For the unseeded experiments,
+    is desirable for designing secondary nucleation experiments.In
+    this resulted in a few large product crystals that were close to E
+    our work,we determined the MSL for both filtered and
+    0 and randomly in favor of either the A or B chiral form
+    unfiltered solutions in magnetically stirred flasks.Figure 3
+    (Figure 4a).Deviations from a racemic mixture are typical,as a
+    shows that the MSL for filtered solutions are very similar to the
+    small odd number of crystals always lead to an enantiomeric
+    a)
+    100
+    A-NaCIO80
+    30、
+    E[%]
+    0
+    -20
+    0、
+    B-NaCIO
+    -100
+    00
+    200
+    300
+    400
+    Time [s]
+    X300.5m
+    Figure 4.(a)Solid phase enantiomeric excess E of NaClO3 product crystals as a function of time for an unseeded experiment (blue A)as well asexperiments involving a damaged A-NaBrO3 (red O)or a B-NaBrO3 (black single seed crystal.A flow of saturated solution of AT=0 C wasused and the product crystals from the seeded experiments therefore originated from initial breeding.The lines are linear fits to the data.(b)SEMimage of the surface of a damaged NaBrO;seed crystal.
+    3456
+    D010.1021/acs.cgd.9b00317
+    Cryst.Growth Des.2019,19,3453-3460
+
+==========第4页==========
+    Crystal Growth Design
+    Article
+    a)
+    100
+    A-NaCIO3 80-
+    60
+    40-
+    20
+    E[%]
+    0-
+    -20
+    40-
+    60-
+    B-NaClO3-80-
+    -100+
+    100
+    200300
+    400
+    500
+    Time [s]
+    10kV X300 50um
+    Figure 5.(a)Solid phase enantiomeric excess E of NaClO,product crystals as a function of time for experiments involving a freshly washed A-
+    NaBrO3(red●)，B-NaBrO3(black■)，A-NaCIO3(blue▲)，orB-NaClO3(green V)single seed crystal.A flow of saturated solution of△T=0Cwas used.(b)SEM image of the surface of a freshly washed NaBrO3 seed crystal
+    a)
+    b)
+    100
+    A-NaCIO3 80
+    60
+    40
+    NacIO solution
+    supersaturated△i
+    20
+    ◆
+    E[%]
+    0
+    0.2μn filter
+    4
+    -20
+    -40
+    -60
+    B-NaClO2%
+    -100
+    7
+    3
+    4
+    Sample
+    Figure 6.(a)Schematic depiction of the flow setup,in which a filtered supersaturated solution of NaClO was passed over a stationary seed crystalthat was fixed inside a piece of tubing.(b)Solid phase enantiomeric excess E of NaClO3 product crystals obtained from the setup in (a)incombination with supersaturation AT=4.6 C and a single seed crystal of A-NaBrO3(red )B-NaBrO3 (black),A-NaCIO3 (blue A),or B-
+    NaClO (green )Four consecutive experiments were carried out for each chiral pure seed crystal.
+    excess (i.e.,E0).The enantiomeric excess E was found to be
+    on the surface of the NaBrO3 seed crystals by SEM
+    randomly in favor of either A or B over time and no chiral
+    microscopy,even though the seed crystals were thoroughly
+    selectivity was therefore observed in the absence of a seed
+    washed before use (Figure 4b).Crystals of both NaBrO3 and
+    crystal.
+    NaClO3 are highly brittle and friction or impact from solid
+    Figure 4a also shows the solid phase enantiomeric excess E
+    objects would easily cause the formation of fines.The fines
+    of NaClO3 product crystals collected over time after a flow of
+    were probably formed in our experiments after the washing
+    saturated solution of NaClO3 was subjected to a stationery
+    step due to crystal breakage during the seed crystal preparation
+    NaBrO3 seed crystal.Interestingly,the chirality of the product
+    procedure,as the seed crystals were placed on a glass slide for
+    crystals obtained after evaporation of water across all samples
+    microscopic analysis and were moved using a pair of tweezers
+    was found to be,in majority,the same as the chirality of the
+    Prior to each experiment,the seed crystals were washed
+    seed crystal.These results were observed for both chiral forms
+    again with water to remove any fines that were formed during
+    of the NaBrO seed crystals.Over time,the correlation
+    the seed crystal preparation procedure.The surface of the
+    between the chirality of the product crystals and the seed
+    resulting crystals appeared to be free from fines,as indicated by
+    crystal gradually disappeared.
+    SEM microscopy (Figure 5b).These freshly washed NaBrO
+    The decrease in solid phase enantiomeric excess E over time
+    seed crystals,as well as NaClO3 seed crystals,were carefully
+    due to the presence of a NaBrO3 seed crystal points to initial
+    subjected to a flow of saturated solution of NaClO and the
+    breeding,as fines could dislodge and transfer from the seed
+    solution was collected over time.Water from the samples was
+    crystal to the bulk solution as a result of the continuously
+    evaporated which resulted in the formation of a small number
+    applied flow of saturated solution.Fines were indeed observed
+    of large NaClO3 crystals with a solid phase enantiomeric excess3457
+    D010.1021/acs.cgd.9b00317
+    Cryst.Growth Des.2019,19,3453-3460
+
+==========第5页==========
+    Crystal Growth Design
+    Article
+    E that was randomly in favor of either the a or B chiral form
+    create an undersaturated solution according to our solubility
+    (Figure 5a).Therefore,no correlation in chirality existed
+    data.
+    between the seed crystal and the product crystals,showing that
+    To test the secondary nucleation approach by Buhse et al.,a
+    initial breeding did not take place with the freshly washed seed
+    supersaturated solution of AT=4.6C was created using the
+    crystals.
+    solubility data obtained in the present work.The super-
+    3.3.Supersaturated Seeded Experiments.Having
+    saturated solution was passed over a stationary NaBrO3 seed
+    established the phase diagram of NaClO,in water (section3.1)
+    crystal using the approach in Figure 6a.This approach was
+    as well as a procedure to prepare the seed crystals (section
+    adapted from the work of Buhse et al.,who used a pair of
+    3.2),the stage was set to test whether continuous secondary
+    tweezers to keep the NaBrO,seed crystal stationary whereas in
+    nucleation of NaClO;using a stationary enantiopure seed
+    the present work the seed crystal was fixed partially inside a
+    crystal is feasible.The continuous flow setup in Figure 1 was
+    piece of stationary tube.In our work,the chirality of the
+    tested in combination with a flow of supersaturated solution of
+    resulting small number of NaClO3 product crystals did not
+    AT=2.7C and in the absence of a seed crystal.The resulting
+    correlate with the chirality of the NaBrO seed crystal across all
+    solution contained many small crystals after passing through
+    samples but instead was found to be stochastic(Figure 6b).As
+    the tubing whereas the same solution that was not subjected to
+    with the experiments involving NaClO,seed crystals,similar
+    flow conditions remained clear.The flow setup therefore
+    flow experiments involving supercoolings AT=2.7 C and AT
+    induces heterogeneous nucleation and as such could not be
+    6.4 C also resulted in a stochastic product outcome.Thus,
+    used to study secondary nucleation through seeding.There
+    continuous chiral-selective secondary nucleation of NaClO by
+    fore,heterogeneous nucleation may explain why a previous
+    flow in combination with a stationary NaBrO3 seed crystal is
+    study involving seeded continuous crystallization attempts with
+    not possible without initial breeding.
+    NaClO3 did not lead to secondary nucleation.
+    To avoid heterogeneous nucleation,an approach similar to
+    4.DISCUSSION
+    the one used by Buhse et al.s was employed where a filtered
+    To date,two conflicting views regarding the dispersion of
+    supersaturated solution of NaClO was made to flow over a
+    secondary nuclei are reported.Some authors have discussed
+    seed crystal (Figure 6a).In the present work,the seed crystal
+    that secondary nuclei can be dispersed through fluid flow alone
+    was fixed partially inside a stationary piece of tubing as to avoid
+    whereas others have found that secondary nucleation can only
+    the creation of fines and initial breeding.It was found that the
+    occur through impact.s The significant differences in
+    setup in Figure 6a was suitable to study secondary nucleation
+    compounds,solvents and experimental conditions across
+    of NaClO3 as heterogeneous nucleation was only observed at a
+    literature makes an exact comparison between the results
+    supersaturation of AT=6.5 C and higher.
+    virtually impossible.
+    3.3.1.NaC/O3 Seed Crystals.Experiments by Denk and
+    In the case of NaClO,it has been widely reported and
+    Botsaris,and later by Qian and Botsaris,showed that shear-
+    recognized that impact can disperse secondary nuclei.On the
+    induced secondary nucleation of NaClO,in the presence of a
+    other hand,shear-induced secondary nucleation of NaClO3 is
+    stationary NaClO3 seed crystal is feasible in both stirred and
+    less well established and was first proposed by Denk and
+    stagnant batch solutions.In their experiments,a correlation
+    Botsaris who found a correlation between the chirality of the
+    was observed between the chirality of the seed crystal and the
+    stationary seed crystal and the product crystals.Later,similar
+    product crystals at a supercooling range with an average
+    experiments were carried out by Qian and Botsaris who again
+    supercooling of about AT =4 C.To test if secondary
+    found a correlation between the chirality of the stationary seed
+    nucleation is possible using just a flow,we passed a
+    crystal and the product crystals,depending on the applied
+    supersaturated solution of NaClO3 of supercooling AT=4.6
+    supersaturation.In these experiments,both stagnant and
+    C over a chiral-pure stationary NaClO,seed crystal using the
+    stirred batch crystallization experiments were used in
+    setup in Figure 6a.This procedure was carried out four times
+    combination with a stationary seed crystal.
+    in a row.Figure 6b shows that the chirality of the resulting
+    It is unclear why the experiments reported in literature by
+    small number of NaClO3 product crystals was stochastic as it
+    Denk and Botsaris as well as by Qian and Botsaris led to a
+    does not correlate with the chirality of the NaClO seed
+    correlation between the chirality of the seed crystal and the
+    crystals across all samples.The same stochastic outcome was
+    product crystals whereas in the present work no such
+    obtained for experiments involving supercoolings AT=2.7C
+    correlation could be established.Although some experimental
+    and AT=6.4 C.These results therefore show that continuous
+    information has been reported in literature,the important
+    chiral-selective secondary nucleation of NaClO by flow in
+    information such as solubility data and details regarding the
+    combination with a stationary seed crystal of NaClO is not
+    washing step of the seed crystals is missing.Moreover,in
+    possible.
+    literature,the seed crystal was mounted in a stainless steel rod
+    3.3.2.NaBrO2 Seed Crystals.To investigate whether
+    with a split end and the experiments were conducted in 2 L
+    secondary nucleation of NaClO3 is feasible using a stationary
+    jacketed vessels.Overall,the significant differences in
+    NaBrO,seed crystal,we attempted to reproduce the
+    experimental approach and absence of experimental details
+    experiments by Buhse et al.s In their work,Buhse et al.
+    make it very difficult to compare the present results with the
+    prepared a saturated solution at 23 C of C=829 mg/mL of
+    previously reported findings.However,it should be noted that
+    NaClO in water which was subsequently brought to a
+    in stirred crystallization experiments the presence of agitation
+    temperature of 19C to create a supersaturated solution of AT
+    may lead to Viedma ripening which could cloud the results and
+    =4 C.However,according to our solubility data,a
+    28
+    conclusions.Agitation-free experiments are therefore more
+    temperature of 19 C leads to a saturated solution of 935
+    suitable to study shear-induced secondary nucleation.
+    mg/mL,which is significantly higher than the concentration
+    The third and final literature report on shear-induced
+    used by Buhse et al.As a result,the concentration and
+    secondary nucleation of NaClO was by Buhse et al.,who used
+    temperature combination employed by Buhse et al.would
+    a stationary NaBrO3 seed crystal in a setup similar to Figure
+    3458
+    D010.1021/acs.cgd.9b00317
+    Cryst.Growth Des.2019,19,3453-3460
+
+==========第6页==========
+    Crystal Growth Design
+    Article
+    6a.15 However,in their work the seed crystal was held
+    Funding
+    stationary using a pair of tweezers.In our work we found that
+    This research has been conducted as part of the Synthesis and
+    any small impact from a solid object,including the use of a pair
+    Solid State Pharmaceutical Centre (SSPC)and funded by
+    of tweezers,readily creates small fines on the surface of the
+    Science Foundation Ireland (SFI)under Grant 12/RC/2275.
+    seed crystal.Therefore,initial breeding of NaClO3 and
+    Notes
+    NaBrO3 readily occurs and may explain the reportedcorrelation in chirality by Buhse et al.The reported differences
+    The authors declare no competing financial interest.
+    in solid phase enantiomeric excess E between experiments maybe explained by differences in the amount of crystal attrition
+    ■REFERENCES
+    and initial breeding.
+    (1)Ter Horst,J.H.;Schmidt,C.;Ulrich,J.Fundamentals of
+    Overall,our results show that the dispersion of secondary
+    Industrial Crystallization.In Handbook of Crystal Growth,Second ed.;
+    nuclei of NaClO through fluid shear alone was not feasible
+    Rudolph,P.,Ed.;Elsevier:Boston,2015;pp 1317-1349.
+    under the tested conditions.Instead,secondary nucleation
+    (2)Frawley,P.J.;Mitchell,N.A.;O'Ciardha,C.T.;Hutton,K.W.
+    using a flow was only possible through initial breeding.Initial
+    The effects of supersaturation,temperature,agitation and seed surface
+    breeding readily occurred and could easily be mistaken for
+    area on the secondary nucleation of paracetamol in ethanol solutions
+    nuclei breeding.Failure of NaClO3 and NaBrO3 to bring about
+    Chem.Eng.Sci.2012,75,183-197.
+    secondary nucleation through fluid shear has been recognized
+    (3)Kolkmeijer,N.H.;Bijvoet,J.M.;Karssen,A.Investigation by
+    before,as both compounds are considered to be inert seeds
+    means of X-Rays of the crystal structure of sodium-chlorate and
+    like many other inorganic compounds.sFor instance,in
+    sodium-bromate.Proc.K.Ned.Akad.Wet.C 1920,23,644-653.
+    stirred crystallization experiments,secondary nucleation of
+    (4)Dickinson,R.G.;Goodhue,E.A.The Crystal Structures of
+    NaClO:failed to occur in the presence of small seed crystals
+    Sodium Chlorate and Sodium Bromate.J.Am.Chem.Soc.1921,43
+    but only occurred for large seed crystals.25 This is because
+    (9),2045-2055
+    contact nucleation more readily occurs for larger crystals.29
+    (S)Agrawal,S.G.;Paterson,A.H.J.Secondary Nucleation:
+    Mechanisms and Models.Chem.Eng.Commun.2015,202 (5),698-
+    Shear-induced nucleation on the other hand should also occur
+    706.
+    for small crystals but this was not observed.Therefore,the
+    (6)Qian,R.-Y.;Botsaris,G.D.Nuclei breeding from a chiral crystal
+    results in literature and the results presented herein show that
+    seed of NaClO3.Chem.Eng.Sci.1998,53 (9),1745-1756.
+    the dispersion of secondary nuclei of NaClO3 requires contact
+    (7)Laudise,R.A.;Mullin,J.B.;Mutaftschiev,B.;Denk,E.G.
+    interactions as fluid shear alone is insufficient.
+    Botsaris,G.D.Third International Conference on Crystal
+    It is important to take great care in seed crystal preparation
+    GrowthFundamental studies in secondary nucleation from solution
+    as initial breeding readily occurs and could cloud the
+    J.Cryst..Growth1972,13,493-499.
+    experimental results.An inspection of the seed crystal surface
+    (8)Anwar,J.Khan,S.;Lindfors,L.Secondary Crystal Nucleation:
+    is a straightforward approach to provide an indication of
+    Nuclei Breeding Factory Uncovered.Angew.Chem.,Int.Ed.2015,54
+    whether fines are present.In addition,continuous or sequential
+    (49),14681-14684.
+    batch experiments may be used to test the feasibility of
+    (9)Kondepudi,D.K.;Kaufman,R.J.;Singh,N.Chiral symmetry-
+    whether fluid shear is capable of dispersing secondary nuclei as
+    breaking in sodium-chlorate crystallization.Science 1990,250(4983)975-976.
+    such an approach would first lead to any potential initial
+    (10)McBride,J.M.;Carter,R.L.Spontaneous Resolution by Stirred
+    breeding which would then be followed up by nuclei breeding.
+    Crystallization.Angew.Chem.Int.Ed.Engl.1991,30(3),293-295.(11)Denk,E.G.;Botsaris,G.D.Mechanism of contact nucleation
+    5.CONCLUSIONS
+    J.Cryst..Growth1972,15（1),57-60.
+    The solubility of NaClO in water is reviewed,and the
+    (12)Richard,D.;Speck,T.The role of shear in crystallization
+    measured solubility data corresponds to most of the reported
+    kinetics:From suppression to enhancement.Sci.Rep.2015,5,14610.
+    literature data.Due to the narrow metastable zone width,it
+    (13)De Souza,B.;Cogoni,G.;Tyrrell,R.;Frawley,P.J.Evidence of
+    was not possible to employ a continuous flow setup as such
+    Crystal Nuclei Breeding in Laboratory Scale Seeded Batch Isothermal
+    Crystallization Experiments.Cryst.Growth Des.2016,16 (6),3443-
+    conditions favor heterogeneous nucleation over secondary
+    3453.
+    nucleation.Seed crystals of NaClO,and NaBrO were found
+    (14)Yousuf,M.;Frawley,P.J.Experimental Evaluation of Fluid
+    to be highly susceptible to undergo attrition,and fines on the
+    Shear Stress Impact on Secondary Nucleation in a Solution
+    seed crystal surface were easily created.Sufficiently washed
+    Crystallization of Paracetamol.Cryst.Growth Des.2018,18 (11)
+    seed crystals of NaClO3 and NaBrO;failed to induce
+    6843-6852.
+    secondary nucleation through fluid shear.Importantly,chiral-
+    (15)Buhse,T.;Durand,D.;Kondepudi,D.;Laudadio,J.;Spilker,S.
+    selective secondary nucleation of NaClO through fluid shear
+    Chiral Symmetry Breaking in Crystallization:The Role of
+    was only possible through initial breeding.The results
+    Convection.Phys.Rev.Lett.2000,84 (19),4405-4408.
+    presented herein reveal a better understanding of secondary
+    (16)Steendam,R.R.E.;Ter Horst,J.H.Continuous Total
+    nucleation as the role of initial breeding is significant and
+    Spontaneous Resolution.Cryst.Growth Des.2017,17 (8),4428-
+    influences the development of secondary nucleation mecha
+    4436.
+    (17)Wong,S.Y.;Cui,Y.;Myerson,A.S.Contact Secondary
+    nisms.
+    Nucleation as a Means of Creating Seeds for Continuous Tubular
+    ■AUTHOR INFORMATION
+    Crystallizers.Cryst.Growth Des.2013,13 (6),2514-2521.
+    (18)Coles,S.J.;Threlfall,T.L.A perspective on a century of inert
+    Corresponding Author
+    seeds in crystallisation.CrystEngComm 2014,16 (21),4355-4364.
+    *E-mail:renesteendam@gmail.com.
+    (19)Niedermaier,T.;Schlenk,W.,Jr.Studies on Optical-Activity of
+    ORCID
+    Sodium Chlorate and Sodium Bromate Crystals.Chem.Ber.1972,105(10),3470.
+    Rene R.E.Steendam:0000-0002-3363-4160
+    (20)Miyamoto,H.Alkaline Earth Metal Halates.In IUPAC SDS;
+    Patrick I.Frawley:0000-0001-7066-0942
+    Pergamon Press:Oxford,New York,1987;p 24.
+    3459
+    D010.1021/acs.cgd.9b00317
+    Cryst.Growth Des.2019,19,3453-3460
+
+==========第7页==========
+    Crystal Growth Design
+    Article
+    (21)Seidell,A.Solubilities of inorganic and organic compounds;acompilation of quantitative solubility data from the periodical literature;
+    D.Van Nostrand Company:New York,1919;p xxii,843
+    (22)This publication could not be found but the data is reportedand referenced in the book Crystallization by J.W.Mullin (2001)(23)Mullin,J.W.Crystallization,4th ed.;Elsevier:2001.
+    (24)Chen,W.C.;Liu,D.D.;Ma,W.Y.;Xie,A.Y.;Fang,J.Thedetermination of solute distribution during growth and dissolution of
+    NaClO3 crystals:the growth of large crystals.J.Cryst.Growth 2002,236(1),413-419.
+    (25)Mayer,C.;Lacmann,R.Secondary nucleation of sodiumchlorate studied with the aid of asymmetric crystallization.Chem.Eng.
+    Technol..1997,20(9),633-640.
+    (26)Ni,X.;Shepherd,R.;Whitehead,J.;Liu,T.Chiral symmetrybreaking due to impeller size in cooling crystallization of sodiumchlorate.CrystEngComm 2018,20,6894-6899.
+    (27)Threlfall,T.L.;De'Ath,R.W.;Coles,S.I.Metastable Zone
+    Widths,Conformational Multiplicity,and Seeding.Org.Process Res.
+    Dev.2013,17(3),578-584.
+    (28)Viedma,C.Chiral symmetry breaking during crystallization:
+    Complete chiral purity induced by nonlinear autocatalysis andrecycling.Phys.Rev.Lett.2005,94(6),065504-1-065504-4.(29)Tyrrell,R;De Souza,B.;Frawley,P.J.Particle Breakage:
+    Limiting Conditions for Crystal-Crystallizer Collisions.Cryst.Growth
+    Ds.2018,18(2),617-622.
+    3460
+    D0l:10.1021/acs.cgd.9b00317
+    Cryst.Growth Des.2019,19,3453-3460
+
+==========第8页==========

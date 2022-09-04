@@ -1,0 +1,407 @@
+    1172
+    日本化学会誌1991No.9
+    文
+    (日本化学会誌，1991，（9)，p.1172~1176)
+    C 1991 The Chemical Societx of Japan
+    塩素酸ナトリウムの熱分解におよぼす金属酸化物の触媒作用
+    (1991年4月9日受理)
+    森島信悟·岩倉秀明·角田範義上野晃史*·岸和男*·加藤順*
+    塩素酸ナトリウムは，およそ270℃で融解し，600℃付近で分解する。本研究では，27種類の金属酸化物を触媒として用い塩素酸ナトリウムの熱分解による酸素発生について，研究した。その結果，金属酸化物の添加により分解温度の低下が観測されたが，融解温度にはほとんど変化がみられなかった。このことから，金属酸化物は溶融した塩素酸ナトリウムに対し触媒として作用し，その結果，低温で酸素発生が測定されることが判明した。また，触媒による塩素酸ナトリウムの分解機構についても検討を行った。
+    分解反応に金属酸化物を触媒として利用する研究が関心を集めて
+    1赭
+    言
+    いる。
+    アルカリ金属塩素酸塩・アルカリ金属過塩素酸塩の分解は，固
+    本研究では，27種類の金属酸化物を塩素酸ナトリウム分解反
+    体反応の基本的反応機構を理解するうえで興味深い反応である。
+    応の触媒として使用した。その結果，酸化ニッケル（エ）が最も高
+    MarkowitzとBorytaは，LiC1O4の分解の速度論を研究し，二種
+    い触媒活性を示した。また，金属酸化物と塩素酸ナトリウムとの
+    の分解反応機構を報告した"。Markowitzらは，さらに他のアル
+    反応は金属酸化物粉末と，溶融塩素酸塩による固相-液相間の触
+    カリ金属塩素酸塩へ研究を広げ，各種の塩素酸塩分解のDTAス
+    媒反応であること，および，その触媒反応は金属酸化物粒子と溶
+    ベクトルにおいて二つのピークを観察した2り。第一のピークは
+    融塩素酸ナトリウムの界面で進行していることが判明した。さら
+    200~400°Cの温度範囲にみられ塩素酸塩の融解によるものであ
+    に，塩素酸ナトリウムと金属酸化物との触媒反応についても検討
+    り，300~700Cの間で観察される第二のピークは，溶融した塩
+    を行った。
+    素酸塩が分解し，塩化物と酸素が発生するためである。また，アルカリ金属塩素酸塩にMnO2添加するとその分解温度が低下す
+    2実
+    験
+    ると言うことがMarkowitzとBorytaによって報告され，塩素
+    2.1触媒調製
+    酸塩の分解における金属酸化物の触媒効果が示された。古市ら
+    本研究で使用した金属酸化物のらち，Mn2O3,Co:O4,NiO,
+    は，過塩素酸カリウムに対するa-Fe2O3とAl2O3の触媒作用を
+    CuO,ZnO,SrO,Y2O,Bi2Osについては，それぞれの硝酸塩水
+    研究し"，金属酸化物の粒子径が分解温度の低下に対し最も重要
+    溶液にアンモニア水を滴下して得られた沈殿を110Cで24時
+    な要素であると報告している。RudloffとFreemanは，塩素酸ヵ
+    間乾燥後，空気中，500℃℃2時間焼成L金属酸化物粉体上飞
+    リウムや過塩素酸カリウムに対し触媒として13種類の金属酸化
+    た。酸化鉄については，シュウ酸鉄アソモニウムを直接，空気
+    物を添加し，分解反応中の電気伝導度の変化を測定した。その結
+    中，500Cで2時間焼成したものを使用し，その他の酸化物は市
+    果，金属酸化物と溶融した塩素酸塩中で生成するCIO4イオン
+    販品を使用した。また，酸化ニッケル（Ⅱ）については，300，
+    との間で電荷移動があることを見いだした。
+    500,700°℃の各温度で2時間焼成を行った。
+    最近，自動車のエアーバックなどのガス発生源としてアルカリ
+    2.2TPR(昇温熱分解スペクトル)測定
+    金属塩素酸塩やアルカリ金属過塩素酸塩の分解が注目され，この
+    金属酸化物を塩素酸ナトリウムに対し，10wt%となるよう物
+    费橘技術科学大学，441豐橋市天伯
+    理混合した試料0.2gを石英ガラス製の反応管に充し，110
+    布事ダイセル化学工業株式会社，110東京都千代田区霞が関
+    ml/minのHe気流中，10C/minで昇温を行い熱分解によって発
+    虎ノ門三井ビル
+    1)M.M.Markowitz,D.A.Boryta,J.Phys.Chem.,65,
+    生する酸素を熱伝導度セルにより検出した。
+    1419(1961).
+    2.3XRD測定
+    2)M.M.Markowitz,D.A.Boryta,H.Stewart,Jr.,ibid.,
+    ガイガーフレックス2028型X線回折装置（理学電機社製，
+    68,2282(1964).
+    CuKa線使用)を用いて，酸化ニッケル（Ⅱ）添加塩素酸ナトリウ
+    3)M.M.Markowitz,D.A.Boryta,ibid.,69,1115(1965).
+    ムの昇温時における分解過程を測定した。
+    4)R.Furuichi,T.Ishii,K.Kobayashi,J.Therm.
+    Anal.,6,305(1974).
+    2.4DTA測定
+    5)W.K.Rudloff,E.S.Freeman,Phys.Chem.,74,
+    NaCIO3単味および，NaC1O3にその10wt%のNiOを添加
+    3317(1970).
+    混合した試料について測定を行った。測定条件は，100ml/minの
+
+==========第1页==========
+    日化，1991，No.9森島・岩倉・角田・上野・岸・加藤：塩素酸ナトリウムの熱分解におよぼす金属酸化物の触媒作用1173
+    N2気流中，昇温速度10C/minとした。
+    600℃，希土類位屈陵化物：480~530℃，遷移金属酸化物仁儿、
+    3結果
+    ては，Mn2O,Fe2O,CogO4NiO,CuOが350℃付近の低温で塩素酸ナトリウムを分解することがわかった。そこで，最も添
+    アルカリ土類金属酸化物，希土類金属酸化物に添加した塩素酸
+    加効果の高かった酸化ニッケル()についてさらに検討した。
+    ナトリウムのTPR測定結果をそれぞれ図1,2に示す。アルカ
+    リ土類金属酸化物添加の場合，約500Cから塩素酸ナトリウム
+    の分解開始が見られるのに対し，希土類金属酸化物の場合はそれ
+    より約100℃ほど低温の400C付近から分解開始が見られる。
+    しかし，希土類金属酸化物添加の場合，酸素発生のピークがブロードなことからアルカリ土類金属酸化物より分解速度が遅いと考えられる。
+    図3には，添加効果の高かった遷移金属酸化物のうちNiO,
+    善
+    CuO,Mn2O3添加のTPRスペクトルを示してある。これらの金属酸化物添加の場合はピークが鋭いことから分解速度が速く，しかも塩素酸ナトリウムのみの場合と比較して分解温度が約260~280℃低温にシフトしていることから，かなりの触媒効果がある
+    と思われる。
+    [OAa
+    Ni0
+    318
+    以上のようにTPRによって測定した各金属酸化物を添加した
+    邕
+    塩素酸ナトリウムの分解温度を金属酸化物の融点に対しプロット
+    Cuo
+    326
+    したものを図4に示す。図から金属酸化物の融点と分解温度には相関性はみられなかったが，アルカリ土類金属酸化物はほぼ
+    hn203
+    331
+    营
+    NaC103
+    596
+    576
+    ADJ1qV/paAn[ona
+    200
+    4而
+    60
+    Sr0
+    Temoerature(C)
+    573
+    Fig.3 TPR spectra of (10 wt)transition metal
+    Ca0
+    oxide/NaCIOs and pure NaClOs
+    562
+    总
+    Mg0
+    5
+    596
+    NaC10z
+    8
+    600
+    200
+    400
+    600
+    Temperature(°c)
+    500
+    Fig.1 TPR spectra of (10 wt%)alkaline earth metal
+    2211
+    oxide/NaCIOs mixtures and pure NaClOs
+    400
+    d
+    300
+    0
+    Yb203
+    522
+    1000
+    2000
+    Melting point(oC)
+    Er203
+    510
+    Fig.4 Relationship between the decomposition temperatureof NaClO;in metal oxide/NaClO:mixtures and the
+    Dy203
+    532
+    兰
+    melting temperatutes of the metal oxides employed
+    596
+    NaC103
+    OAlkaline earth 1.Mgo,2.Cao,3.Sro
+    unow
+    Transition 4.TiO2,5.V2Os,6.Cr2O3.7.Mn2Oa.
+    8.Fe20g,9.Co04,10.Ni0,11.Cu0,12.Zr0e,
+    200
+    13.Nb2O3,14.MoO3,15.WOa
+    400
+    600
+    Temnerature(C)
+    ARare earth 16.Y2O3,17.La2Os,18.CeO2.19.Sm:O3.
+    20.Eu20g,21.Gd20,22.Dy0
+    Fig.2 TPR spectra of (10 wt%)rare earth metal
+    AOthers 23.Al2Os.24.SiO:.25.ZnO,26.PbO,
+    oxide/NaClOg mixtures and NaClOa
+    27.Bi203
+
+==========第2页==========
+    1174
+    日本化学会誌
+    1991
+    No.9
+    (b)
+    4NiO
+    (a)
+    。NaC103
+    ■Nacl
+    556
+    342
+    (TO)
+    器
+    4000
+    )6R
+    264
+    310
+    200
+    400
+    600
+    200
+    400
+    Temp (c)
+    Temp (c)
+    NaC103
+    .RiO-NaClO3
+    Fig.6 DTA curves (a)for pure NaClOs and (b)for
+    C112)
+    (10 wt)NiO/NaClOg mixture
+    Room Te
+    1520
+    40
+    60
+    70
+    20/degree
+    Fig.5 X-Ray diffraction spectra of NiO/NaClOg mixture
+    11g
+    heated at various temperatures
+    Spectra were obtained at room temperature
+    図5は，酸化ニッケル（Ⅱ）添加の塩素酸ナトリウムの昇温段階におけるX線回折結果である。室温ではNiOとNaCIo3のピ
+    10wt NiO/NaC103
+    318
+    ークのみがみられ，290,310Cと温度が上がるにつれNaC1の回折線が大きくなり，これにともなってNaCIO3の回折線が减少
+    岂Swt HiO/NaC103
+    328
+    していることが観測される。400Cでは，完全にNaCIO3の回折線が消破し，反応が完了する。塩素酸ナトリウムの熱分解反応は
+    3wt7 Ni0/NaC103
+    362
+    次式で示されるように，まず過塩素酸ナトリウムが生成し，その後，これが分解して塩化ナトリウムと酸素になると言われている
+    1wt NiO/NaC103
+    381
+    が，過塩素酸ナトリウムの回折線が確認されなかったことから，酸化ニッケル（Ⅱ）存在下で瞬時に反応(2)が進行しているもの
+    NaC103
+    596
+    と思われる。
+    200
+    400
+    600
+    NaCl0g→NaC1+1.5O2
+    Temperature(C)
+    NaCIO3-0.25 NaCl 0.75 NaCIO,(1)
+    Fig.7 Change in the TPR spectrum of NiO/NaCIOa
+    mixture with NiO concentration in the mixture
+    NaCIO4→NaC1+2O2
+    (2)
+    また，反応前後でNiOの回折線に変化がみられないことから酸
+    作用していると考えられる。すなわち，金属酸化物と塩素酸塩の
+    化ニッケルは明らかに触媒として作用しているものと考えられ
+    反応は，固液反応であると言える。
+    る。
+    図7には，酸化ニッケルの添加量(1~10wt%)の違いによる
+    然分解反応に関する知見を得るため塩素酸ナトリウム，酸化
+    塩素酸カリウムのTPRスペクトルの違いを示してある。酸化二
+    ッケル（Ⅱ）添加の塩素酸ナトリウムについてDTA測定を行っ
+    ッケルの添加量の増加にともない分解温度が低温側にシフトし
+    た。その結果を図6に示す。NaCIO3単独では267Cで融解する
+    ピークも鋭くなる傾向がみられる。これは，溶融塩素酸ナトリウ
+    吸熱ビーク，556℃で分解による発熱ビークが観察される。酸化
+    ムと酸化ニッケル（Ⅱ）粉末の接触面積が大きくなるほど分解反
+    ニッケルを添加したものでは，吸熟ピークの直後に発熱ピークが
+    応が速やかに進行することを示している。
+    観測されるが吸熱ビーク温度にほとんど変化がないことから添加
+    図8には，焼成温度の異なる酸化ニッケル（Ⅱ）の塩素酸ナト
+    した酸化ニッケルは溶融した塩素酸ナトリウムに対し触媒として
+    リウムへの添加効果をTPRによって測定した結果を示してあ
+
+==========第3页==========
+    日化，1991，No.9森島・岩倉・角田・上野・岸・加藤：塩素酸ナトリウムの熱分解におよぼす金属酸化物の触媒作用1175
+    る。酸化ニッケル（Ⅱ）の焼成温度の上昇にともない分解温度が
+    積をBET法により測定し，その結果と分解温度の関係をグラフ
+    高くなり，また，ピークもブロードになることがわかった。これ
+    にした（図9）。図9から，焼成温度の上昇にともないNiOの比
+    は，焼成温度にともなって酸化ニッケル（Ⅱ）が焼結し，その表
+    表面積が減少し，分解温度の上昇が確認できる。これは金属酸化
+    面積が減少するためと思われる。そこで，各焼成温度での比表面
+    物と溶融塩素酸ナトリウムの界面で分解が進行することを示唆し
+    ている。
+    4考
+    察
+    300
+    これまでの結果から，金属酸化物と塩素酸ナトリウムとの反応は固相-液相反応であること，および，塩素酸ナトリウムを低温で分解するには，同一金属酸化物であれば表面積が大きいものが
+    318
+    有利であることが示された。また，遷移金属酸化物のMn2O
+    言
+    Fe2O3,Co,O4,NiO,CuOが塩素酸ナトリウムの分解に対し高活性を示すことが判明した。しかしながら，金属種によって分解温
+    600
+    03
+    N10(300)
+    2。
+    莒
+    500
+    04B
+    5
+    N10(500)
+    010
+    400
+    377
+    300
+    08
+    N10(700)
+    NaClO3
+    596
+    0
+    Activation energy(1019J)
+    200
+    400
+    60
+    Fig.10 Relationship between the decomposition tempera-
+    Temperature(C)
+    ture of NaClOs in metal oxide/NaClOa mixtures and
+    Fig.8 Change in the TPR spectrum of (10 wt%)
+    the activation energy for electrical conductivity ofthe metal oxides
+    NiO/NaClOa mixture with the calcinationtemperature of Nio
+    1.Mg0,2.CaO,3.Ti02,4.V20,5.Cr20,
+    6.Mn2O3,7.Fe2O3,8.NiO,9.CuO,10.MoOa.
+    11.Y20g,12.La20g,13.Sm20g,14.Eu20,15.
+    100
+    Gd20g,16.Dy20g,17.Al20g,18.Si02
+    CI-+202
+    90
+    C.B.
+    e
+    400
+    0
+    30
+    V.B
+    300
+    CIO3
+    Fig.11 A schematic model to explain a role
+    300
+    500700
+    of electron deficiencies in metal oxides
+    Calcination temperature(C)
+    during the catalytic decomposition of
+    NaClO
+    Fig.9 Relationship between the decomposition temperatureof (10 wt)NiO/NaClOa mixture and the specific
+    Schematic model for the decomposition of
+    surface area
+    ClOs ions on metal oxides surfaces
+
+==========第4页==========
+    1176
+    日本化学会誌1991No.9
+    Table 1 Activation energies for electrical conductivities
+    度が異なる理由は判然としない。金属酸化物特性の一つは，その
+    of various metal oxides
+    電気的性質であり，伝導電子やホッピング電子の性質が大きな影
+    Oxide
+    Q(J
+    響を持つ。そこで、各金属酸化物のホッピング電子生成の活性化
+    V2Os
+    1.60×1019
+    エネルギーが塩素酸ナトリウムの分解温度にどのように関係して
+    Cr2O3
+    0.64
+    Mn2O3
+    いるのかを検討した。図10に添加した金属酸化物のホッピング
+    0.83
+    Fe203
+    1.28
+    電子生成の活性化エネルギー)に対して塩素酸ナトリウムの分解
+    NiO
+    0.35
+    温度をプロットして示してある。また，表1に各金属酸化物のホ
+    CuO
+    1.12
+    ッピング電子生成の活性化エネルギーを示しておく。図10か
+    MoOs
+    1.04
+    ら，塩素酸ナトリウムの分解温度はホッピング電子生成の活性化
+    Y2Os
+    2.32
+    La203
+    1.67
+    エネルギーに関係していると思われる。そこで，次のようなモデ
+    Sm203
+    1.85
+    ル（図11）を想定した。
+    Eu203
+    1.96
+    金属酸化物の表面は，温度の上昇によりホッピング電子が発生
+    Gd203
+    2.15
+    するため一時的にホールが形成される。そして，そこへ溶融した
+    Dy2O3
+    2.20
+    MgO
+    塩素酸イオンが引き寄せられ，電子の授受が行われて分解する。
+    1.86
+    Cao
+    2.72
+    このモデルによればホッピング電子生成の活性化エネルギーが高
+    A12O
+    2.08
+    い希土類金属酸化物や絶縁性酸化物では塩素酸ナトリウムの分解
+    SiO2
+    2.12
+    温度が比較的高くなると言う本実験の結果も説明される。
+    TiO,
+    1.76
+    6)G.V.Samsonov,"The Oxide Handbook",IFI/Plenum(1972).
+    Catalytic Performances of Metal Oxides for Thermal Decomposition
+    of Sodium Chlorate
+    Shingo MoRISHIMA,Hideaki IwAKURA,Noriyoshi KAKUTA,Akifumi UENo*
+    Kazuo KIsHI**and Jun KATo**
+    Department of Materials Science,Toyohashi University of Technology;
+    Tempaku,Toyohashi-shi 441 Japan.
+    Daicel Chemical Industry Co,Toranomon Mitui Building,Kasumigaseki,
+    Chiyoda-ku,Tokyo 110 Japan.
+    In the present work,27 kinds of metal oxides were employed as catalysts for the decom-position of sodium chlorate.Using the TPR (Temperature Programmed Reaction)method,we observed the decomposition temperature of sodium chlorate.One of the most effectivemetal oxide was prone to be nickel oxide.From the DTA (Differential Thermal Analysis)measurement,it was found that addition of metal oxides to sodium chlorate lowered thedecomposition temperature to some extent,though the melting temperature did not change.
+    Thus,the metal oxides added work as catalysts for the decomposition of the molten sodiumchlorate,resulting in oxygen evolution at lower temperature.
+    We discussed about the reaction mechanism between the metal oxides and sodium chlorate.
+    As the temperature rises,the hopping electrons are generated at the surface of the metaloxides,then the positive holes are formed.The chlorate ions are drawn toward the holesto be oxidized to perchlorate ions,which yield to sodium chloride and oxygen at the successivestep.Thus,the decomposition temperature of sodium chlorate depends upon the activationenergy of hopping electrons in the metal oxides.
+    。。
+    へへ
+
+==========第5页==========

@@ -1,0 +1,355 @@
+    FOODBORNE PATHOGENS AND DISEASE
+    Volume 1,Number 1,2004
+    Mary Ann Liebert,Inc.
+    Short Communication
+    Effects of Sodium Chlorate on Antibiotic Resistance
+    in Escherichia coli O157:H7
+    T.R.CALLAWAY,R.C.ANDERSON,T.S.EDRINGTON,K.M.BISCHOFF,K.J.GENOVESE,
+    T.L.POOLE,J.A.BYRD,R.B.HARVEY,and D.J.NISBET
+    ABSTRACT
+    The spread of antibiotic resistance from farm animals to human pathogens has become a matter of great publichealth significance,and methods to reduce foodborne pathogenic bacteria without utilizing traditional antibioticshave been sought.Chlorate kills Escherichia coli O157:H7 in vitro and in vivo and has been proposed as a feedadditive to be included in food animal rations immediately prior to slaughter to reduce E.coli O157:H7 popula-tions in the animal gastrointestinal tract.This study was designed to examine the effect that the development ofchlorate resistance in E.coli O157:H7 has on resistance to 32 medically important antibiotics.Chlorate resistancenumerically increased antibiotic resistance in E.coli O157:H7 strain 6058 and strain 933 to six and four antibiotics,respectively,but chlorate resistance affected resistance to only two antibiotics(cefoxotin and sulfadimethoxine)in both strains examined.Based on the fact that chlorate resistant mutants do not appear to compete well in vivoand based on the results of the current study,it appears unlikely that chlorate treatment will result in a dissemi-nation of antibiotic resistance.However,further research is needed to confirm these results.
+    INTRODUCTION
+    terial cell by the enzyme nitrate reductase(Stewart,1988).Chlorate addition in vitro re-
+    scherichia coli O157:H7 is a foodborne patho-duced E.coli O157:H7 populations (from 106 togen that causes severe illnesses in humans 101 CFU/mL)in ruminal fluid incubations,andand has been closely linked with ruminant an-in vivo (Anderson et al.,2000b;Callaway et al.,imals (Mead et al.,1999).Cattle are a natural 2002).Although chlorate kills E.coli O157:H7reservoir of E.coli O157:H7(Rasmussen et al.,chlorate resistant mutants arise easily in pure1999).A novel strategy to reduce E.coli O157:H7 culture (Stewart,1988).Because chlorate resis-populations in cattle prior to slaughter by specif-tance is mediated by a fundamental change inically targeting a bacterial respiratory pathway microbial metabolism (Stewart,1988),it washas been recently proposed (Anderson et al.,hypothesized that chlorate resistance could2000a).
+    cause unintended effects on E.coli O157:H7,in-
+    Sodium chlorate kills bacteria when it is re-cluding effects on the antibiotic resistance pro-duced from chlorate to chlorite inside the bac-file of this important pathogen.
+    Food and Feed Safety Research Unit,Southern Plains Agricultural Research Center,Agricultural Research Service,USDA,College Station,Texas.
+    59
+
+==========第1页==========
+    60
+    CALLAWAY ET AL.
+    MATERIALS AND METHODS
+    Antibiotic resistances (minimum inhibitoryconcentrations [MIC])of cultures were deter-
+    Culture growth and chlorate addition
+    mined via standard antibiotic sensitivity panels
+    Escherichia coli O157:H7 strain 933 (ATCC(Texas Veterinary Medical Diagnostic Labora-43895)and 6058 were anaerobically (90%N2,
+    tory,College Station,TX)using standardized
+    5%H2,5%CO2 atmosphere)incubated at 39C,methods of the National Committee on Clinicaland growth rates (n 2)were estimated viaLaboratory Standards (NCCLS,1999).Briefly,measurement of absorbance changes using acultures were grown in 96-well plates that con-
+    Spectronic 20D spectrophotometer (600 nm;tained multiple twofold dilutions of antibiotics
+    Thermo Spectronic Inc.,Madison,WI).Finalthat bracketed the known MC range for eachoptical densities were measured by a Hewlett-specific antibiotic.Antibiotics examined (n 32)
+    Packard 8453 spectrophotometer (600 nm,1 cmwere amikacin,amoxicillin/clavulanate,ampi-cuvette).Cultures with optical densities greatercillin,apramycin,cefazolin,cefoxotin,ceftiofur,than 0.7 O.D.units were appropriately dilutedcephalothin,chloramphenicol,clindamycin,in 0.9%NaCl.All incubations and sensitivityenrofloxacin,erythromycin,florfenicol,gen-tests were performed in duplicate (n 2);re-
+    tamicin,imipenem,neomycin,novobiocin,orb-
+    producibility in MIC determination was deter-ifloxacin,oxacillin,penicillin,rifampin,sara-mined to be approximately 100%.
+    floxacin,spectinomycin,sulfachlorpyridazine,sulfadimethoxine,tetracycline,tiamulin,ticar-
+    Chlorate and antibiotic resistance
+    cillin,ticarcillin/clavulanic acid,tilmicosin,trimethoprim/sulfamethoxazole,and tylosin
+    Cultures were cultivated in anoxic Trypticbase.
+    Soy Broth (TSB)broth in the presence of 0,1,10,or 100 mM NaClO3 to determine the effects
+    RESULTS
+    of chlorate on growth rate of E.coli O157:H7strains (Fig.1).Cultures that developed the
+    Sodium chlorate addition at concentrations
+    ability to grow in the presence of 10 mMof >1 mM decreased (p <0.05)the maximum
+    NaClO3 were designated as "chlorate-resistant."specific growth rate of E.coli O157:H7 strain
+    Chlorate-resistant cultures that were repeatedly 933 and strain 6058;the maximal growth ratetransferred in the presence in 10 mM NaClO3 reduction occurred at 10 mM(Fig.1).However,through eight consecutive transfers were exam-cultures always grew overnight,no matter theined for their antibiotic resistance profiles.
+    chlorate concentration used,likely due to a se-lection of chlorate resistant mutants occurringat a low frequency (Callaway et al.,2001).
+    Minimum inhibitory concentrations (MIC's)of the antibiotics tested were not greatly dif-ferent between E.coli O157:H7 strains 933 and6058(Table 1).The selection of chlorate-resis-tant strains did alter some antibiotic resistancesrelative to the respective parental strains.Theantibiotic resistance to cefoxotin,cephalothin,
+    0.5
+    orbifloxacin,sarafloxacin,sulfadimethoxine,and tetracycline for E.coli O157:H7 strain 6058and the resistance to chloramphenicol and sul-
+    0-
+    fachlorpyridazine in E.coli O157:H7 strain 933
+    0.1
+    10
+    100
+    were increased,but these changes did not cross
+    [Chlorate](mM)
+    any NCCLS breakpoint threshold.The resis-
+    FIG.1.The effect of sodium chlorate concentrations ontance of strain 933 to cefoxotin and spectinothe maximum specific growth rate (h-1)of E.coliO157:H7mycin was increased,crossing the NCCLSstrains 6058(O)and 933().The broken horizontal linethreshold from "sensitive"to "intermediate,"indicates the growth rate of untreated control cultures.
+    Standard error bars are included on the figure,but arebut the change was only that of a single dilu-smaller than the symbols.
+    tion factor (Table 1).Chlorate resistance in
+
+==========第2页==========
+    TABLE 1.ANTIBIOTIC RESISTANCE BREAKPOINTS AND MINIMUM INHIBITORY CONCENTRATIONS (MIC'S)FOR E.COLI O157:H7 STRAINS 933 AND 6058 (IN Lg/mL)
+    CHLO
+    E.coli O157:H7 6058
+    E.coli O157:H7 933
+    Parent strain
+    Cohlrate resistant
+    Parent strain
+    Chlorate resistant
+    Resistance
+    breakpoint
+    MIC
+    MIC
+    MIC
+    MIC
+    ND
+    Antibiotic
+    (8/nL)
+    (ug/mL)
+    Interpretationa
+    (8mL)
+    Interpretation
+    (ug/mL)
+    Interpretation
+    (ug/mL)
+    Interpretation
+    Amikacin
+    ≥32
+    <4
+    S
+    <4
+    S
+    <4
+    <4
+    S
+    Amoxicillin/clavulanate
+    ≥32
+    <4
+    <4
+    S
+    <4
+    S
+    <4
+    Ampicillin
+    ≥32
+    2
+    Apramycin
+    ≥32
+    <4
+    Cefazolin
+    ≥32
+    Cefoxotin
+    2
+    Ceftiofur
+    敦
+    <0.5
+    Cephalothin
+    48
+    noooono o
+    2
+    4
+    4
+    <4
+    oooO OO
+    <4
+    <4
+    S
+    NTIBIOTIC
+    <2
+    1话
+    S
+    4
+    <0.5
+    <0.5
+    <0.5
+    8
+    8
+    I
+    16
+    I
+    Chloramphenicol
+    8
+    I
+    >16
+    Clindamycin
+    >2
+    R
+    >2
+    R
+    >2
+    R
+    Enrofloxacin
+    <0.5
+    <0.5
+    R
+    RESISTANCE
+    Erythromycin
+    >4
+    K
+    4
+    수
+    Florfenicol
+    R
+    248
+    R
+    Gentamicin
+    Imipenem
+    Neomycin
+    ≥16
+    Novobiocin
+    Orbifloxacin
+    Oxacillin 2%NaCl
+    Penicillin
+    二
+    41441482
+    oOO
+    4
+    <4
+    O
+    >4
+    2148114424
+    4
+    R
+    刘公本
+    수
+    R
+    R
+    R
+    s
+    KA
+    >8
+    R
+    Rifampin
+    R
+    >2
+    >2
+    R
+    Sarafloxacin
+    ≥0.25
+    0.25
+    R
+    >0.25
+    R
+    ≤0.25
+    >0.25
+    R
+    Spectinomycin
+    ≥32
+    I
+    Sulfachlorpyridazine
+    ≥512
+    <32
+    Sulfadimethoxine
+    ≥512
+    64
+    ≥16
+    <1
+    oOO
+    <8
+    <8
+    6
+    <32
+    <32
+    256
+    128
+    64
+    S
+    >256
+    R
+    Tetracycline
+    2
+    4
+    4
+    Tiamulin
+    ≥16
+    >32
+    R
+    32
+    R
+    >32
+    R
+    >32
+    R
+    Ticarcillin
+    ≥128
+    <8
+    S
+    <8
+    S
+    <8
+    S
+    <8
+    Ticarcillin/clavulanic acid
+    ≥128
+    <8
+    s
+    <8
+    <8
+    <8
+    Tilmicosin
+    ≥32
+    32
+    R
+    16
+    >32
+    R
+    >32
+    R
+    Trimethoprim/sulfamethoxazole
+    ≥4
+    <0.5
+    S
+    <0.5
+    S
+    <0.5
+    S
+    <0.5
+    Tylosin base
+    ≥20
+    >20
+    R
+    >20
+    R
+    >20
+    R
+    >20
+    aInterpretation based upon NCCLS(1999)threshold standards:S,sensitive;I,intermediate;R,resistant.
+    Chlorate-resistant cultures (n 2)were transferred repeatedly (8 successive transfers)in the presence of 10 mM NaClO3.
+    입
+
+==========第3页==========
+    62
+    CALLAWAY ET AL.
+    strain 6058 resulted in a slightly decreased re-this increased resistance remained at leastsistance to tilmicosin,crossing the NCCLS twofold below the NCCLS resistance threshold.threshold from "resistant"to "intermediate."Sulfadimethoxine is an inhibitor of folic acid
+    However,chlorate resistance in strain 933 in-synthesis,but cross-resistance to other closely-creased resistance to sulfadimethoxine,cross-related antibiotics did not occur in this study.ing the breakpoint threshold from "sensitive"The lack of a broad cross-resistance to other sul-to "resistant."
+    fonamides appears to indicate a more specificbasis for resistance,rather than a readily trans-mittable form of antibiotic resistance.
+    DISCUSSION
+    Escherichia coli can respire via a dissimilatory
+    CONCLUSION
+    nitrate reductase that reduces nitrate to nitrite(Stewart,1988).Intracellular nitrate reductase
+    Short-term sodium chlorate supplementa-
+    also reduces chlorate to chlorite,which accu-
+    tion has potential as a pre-harvest method to
+    mulates within the cell,killing the bacteriumcontrol E.coli O157:H7 and other EHEC popu-
+    (Stewart,1988).Bacteria not equipped with ni-lations in food animals.It appears unlikely thattrate reductase are unaffected by chlorate.chlorate treatment will result in a dissemina-
+    Chlorate has been used successfully to reduce tion of antibiotic resistance based upon the fol-
+    E.coli O157:H7 populations in cattle,sheep,lowing:(1)chlorate supplementation will be aand swine (Callaway et al.,2002,2003).
+    short-term treatment (24-48 h);(2)the fact that
+    Sodium chlorate kills E.coli O157:H7 in chlorate resistant mutants do not compete wellmixed culture and in vivo (Callaway et al.,in vivo;and (3)the results of the current study.2001),but in pure culture chlorate only reduces However,further research is needed to confirmthe initial growth rate of E.coli O157:H7(Fig.these results in a mixed bacterial population,1)because E.coli O157:H7 chlorate resistant especially in vivo.mutants do occur in vitro,albeit at a low fre-quency (Callaway et al.,2001;Stewart,1988).
+    Chlorate usage to reduce food borne pathogens
+    DISCLAIMER
+    has been suggested for a period of 24-48 h priorto slaughter (Anderson et al.,2000a).This nar-
+    Proprietary or brand names are necessary to
+    row window will limit the exposure of gas-report factually on available data;however,trointestinal bacteria to chlorate,reducingthe USDA neither guarantees nor warrants thechances for long-term selection of deleteriousstandard of the product,and the use of the namemutants(Callaway et al.,2001).Because the bac-by the USDA implies no approval of the prod-tericidal activity of chlorate is catalyzed by ni-uct,and exclusion of others that may be suitable.trate reductase,a reduction of nitrate reductaseactivity would cause cells to become chlorate-resistant (Stewart,1988).The most common
+    REFERENCES
+    mutation sites conferring chlorate-resistance in-volve the molybdenum co-factor of nitrate re-
+    Anderson,R.C.,S.A.Buckley,L.F.Kubena,et al.2000a.
+    ductase which also results in other changes to
+    Bactericidal effect of sodium chlorate on Escherichia coli
+    O157:H7 and Salmonella typhimurium DT104 in rumen
+    the respiratory chain of E.coli (Stewart,1988),contents in vitro.J.Food Prot.63:1038-1042.potentially resulting in a co-selection for an-
+    Anderson,R.C.,S.A.Buckley,L.H.Stanker,et al.2000b
+    timicrobial resistant mutants.
+    Effect of sodium chlorate on Escherichia coli concentration
+    The antibiotic resistance of chlorate-resistant in the bovine gut.Microb.Ecol.Health Dis.12:109.
+    E.coli157:H7strains were different from par-CallawayT.RR.C.Anderson,TJ.Anderson,et al 2001.ent strains for only eight of the 32 antibiotics Escherichicli157:H7becomes resistant to sodium chlo-examined.The greatest numerical increase in rate addition in pure culture but not in mixed culture orresistance was to sulfadimethoxine,yet even in vivo.J.Appl.Microbiol.91:427-434.
+
+==========第4页==========
+    CHLORATE AND ANTIBIOTIC RESISTANCE
+    63
+    Callaway,T.R.,R.C.Anderson,K.J.Genovese,et al.2002.Escherichia coli O157:H7 and the rumen environment.In:
+    Sodium chlorate supplementation reduces E.coliO157:H7
+    E.coli O157 in Farm Animals.C.S.Stewart and H.J.Flint
+    populations in cattle.J.Anim.Sci.80:1683-1689.
+    (eds),pp.39.CAB International.
+    Callaway,T.R.,T.S.Edrington,R.C.Anderson,et al.2003.
+    Stewart,V.J.1988.Nitrate respiration in relation to facul-
+    Escherichia coli O157:H7 populations in sheep can be re-
+    tative metabolism in enterobacteria.Microbiol.Rev.
+    duced by chlorate supplementation.J.Food Prot.52:190-232.66:194-199.
+    Mead,P.S.,L.Slutsker,V.Dietz,et al.1999.Food-related
+    Address reprint requests to:
+    illness and death in the United States.Emerg.Infect.Dis.5:607-625.
+    Todd R.Callaway
+    Food and Feed Safety Research Unit
+    NCCLS.1999.Performance Standards for Antimicrobial Disk
+    Southern Plains Agricultural Research Center
+    and Dilution Susceptibility Tests for Bacteria Isolated from An-imals.Approved Standard.National Committee for Clinical
+    2881 F&B Road
+    Laboratory Standards,Wayne,PA.
+    College Station,TX 77845
+    Rasmussen,M.A.,T.L.Wickman,W.C.Cray,et al.1999.
+    E-mail:callaway@ffsru.tamu.edu
+
+==========第5页==========

@@ -1,0 +1,80 @@
+    1216
+    I.F.CHANG AND S.S.MITRA
+    2
+    TABLE I.MREI-model parameters for Ga-xAlxAs.
+    Mass As,Al,Ga
+    74.92,
+    26.98,69.72
+    ∈(AlAs)，∈o(GaAs)
+    8.5
+    10.9
+    wA1AsTO）,Wg
+    364,
+    252
+    WGaAs(TO）,w1oc
+    268,
+    356
+    WA1As(LO),WGaAs(LO)
+    402,
+    292
+    FA1As0,
+    FGaAs0,
+    FAl-Ga0,日
+    262.38,
+    304.54138.200.1484
+    aw in cm-i and F in 104 cm-2g.For definition of symbols,see Ref.1.Except for a and wioe frequencies,no othermixed-crystal data have been used in the calculation of parameters of last line
+    where m and u,respectively,denote atomic and
+    the experimental data of Ref.6 are also shown.
+    reduced mass,indeed predict that Gai-Al,As is
+    We conclude that (i)the MREI-model mass cri-
+    a two-mode system.Next,we perform a two-
+    terion predicts the correct mode behavior of the
+    mode calculation based on the properties of the
+    III-V mixed crystal Ga-Al,As,and (ii)the model
+    end member crystals.The derived parameters
+    also predicts well the concentration dependence of
+    along with the physical properties of the crystals
+    the mode frequencies of this system.
+    are given in Table I.Using the method of Ref.1,
+    We thank Professor G.L.Pearson for providing
+    the results obtained are presented in Fig.1,where
+    a preprint of Ref.6.
+    1I.F.Chang and S.S.Mitra,Phys.Rev.172,924
+    p。1164.
+    (1968).
+    4虹.F.Chang,s。S。Mitra,J.N.PlendI,,andL.C.
+    20.Brafman,I.F.Chang,G.Lengyel,S.S.Mitra,
+    Mansur,Phys.Status Solidi 28,663 (1968).
+    and E.Carnall,Phys.Rev.Letters 19,1120 (1967);
+    5For a theoretical discussion of this splitting,see
+    in Localized Excitations in Solids,edited by R.F.
+    A.A.Maradudin and J.Oitmaa,Solid State Commun.7,
+    Wallis (Plenum,New York,1968),p.602.
+    1143(1969).
+    3J.Parrish,C.H.Perry,O.Brafman,I.F.Chang,
+    6M.Ilegems and G.L.Pearson,Phys.Rev.B 1,1576
+    and S.S.Mitra,in II-VI Semiconducting Compounds,
+    (1970).
+    edited by D.G.Thomas (Benjamin,New York,1967),
+    PHYSICAL REVIEW B
+    VOLUME 2,NUMBER 4
+    15 AUGUST 1970
+    ERRATA
+    Relativistic Band Structure and Electronic Prop-
+    metry points I,X,L,K are 0.66,0.45,0.73,
+    erties of SnTe,GeTe,and PbTe,Y.W.Tung and
+    and 0.38 ev,respectively.
+    M.L.Cohen [Phys.Rev.180,823(1969)].Theestimate for the spin-orbit splitting for PbTe at
+    Optical Phonons in Sodium Chlorate,C.M.Hart-
+    Ip.824,fourth line after Eq.(2)]should be
+    wig,D.L.Rousseau,and S.P.S.Porto Phys.
+    1.09 ev and not 1.82 eV.This smaller splitting
+    Rev.188,1328 (1969).In Table I,the 65 cm-
+    results in an upward shift of the third valence
+    line in the A symmetry column should be in the
+    band in Fig.3;the shape of the band is unchanged.
+    E symmetry column.The 86 cm line in the E
+    The shifts of the energies for this band is the sym-
+    symmetry column should be in the A column
+
+==========第1页==========

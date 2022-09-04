@@ -1,0 +1,103 @@
+    Short Notes
+    K13
+    phys.stat.so1.(b）123,K13(1984)
+    Subject classification:6 and 20.1;13.5;22.8.1
+    Istituto di Metodologie Avanzate Inorganiche del C.N.R.,Roma)
+    Radiative (Brewster-Type)Surface Mode Dispersionin Sodium Chlorate
+    Ey
+    M.PAGANNONE,B.FORNARI,G.MATTEI,and L.MATTIOLI
+    We report in this note the measurement of the dispersion of radiative surfacephonon-polaritons,the so-called Brewster modes (EM)/1,2/,in sodiumchlorate crystals performed by means of an attenuated total reflection (ATR)-type experimental configuration.The purpose of this work is twofold:i)tocontinue the study of the surface polaritons (SP)in sodium chlorate startedwith the measurement of the non-radiative or Fano-type SP dispersion by
+    Raman scattering /3/and ii)to test the anharmonic dielectric function with afrequency-dependent damping factor evaluated for this crystal in a differentexperiment /4/.To our knowledge,the only previous data on BM dispersioncurves have been obtained on x-quartz /5,6/by performing transversemagnetic (TM)reflectivity measurements in an ATR-type configuration atfixed frequencies and varying the angle of incidence.We have used here thesame technique but we have monitored the TM spectra by frequency scans
+    at fixed angles of incidence.In our case a teflon sheet a few um thick (dielectricspacer)has been pressed between a KRS5 hemicylinder (prism)and a sodiumchlorate single crystal (active medium).Actually,such a three-media con-figuration would be necessary only for measuring the non-radiative sP branch;nevertheless,it turns out to be very convenient for studying the BM dispersionsince it allows easy exploration of the frequency region immediately below thetransverse optical(TO)bulk mode where the external reflection would requirenearly grazing angles of incidence.We biefly recall that a EM manifests itselfas a minimum in the TM reflectivity,R),when the angle of incidence is
+    lower than the critical angle between prism and dielectric spacer,while the
+    Fano modes are associated to the RM minima at angles of incidence larger
+    than the critical angle.We also recall that the experimental SP dispersioncurve obtained by ATR measurements must be compared with the theoretical
+    1)Area della Ricerca di Roma,C.P.10,00016 Monterotondo Scalo,Rome,
+    Italy.
+
+==========第1页==========
+    K14
+    physica status solidi(b)123
+    270
+    Fig.1.Experimental (full lines)and calculated(dashed lines)reflection spectra for the systemKRS5/teflon/sodium chlorate at three angles ofincidence:27,32,and 35.Arrows indicatethe reflection minima taken as BM frequencies.
+    The experimental spectrum at 35 is comparedalso with the curve calculated with a constantdamping term,r=2 cm-(dotted line)
+    35
+    one obtained from the calculated Rminima6/.
+    Expressions for RTM in the present configurationhave been given by several authors (see,e.g.,/2/).Obviously,the calculated RrM spectradepend upon the dielectric function of the three
+    920
+    940
+    960
+    9807000
+    w(cm)-
+    media involved in the ATR geometry and upon
+    the thickness of the dielectric spacer.
+    A Perkin Elmer model 180 infrared spectrophotometer connected through a
+    Camac interface system to a PDP 11 minicomputer and equipped with a RIICmodel TR-5 ATR unit was used,always in TM polarization.The sodiumchlorate single crystal has been grown by slow evaporation from aqueoussolution at room temperature and the crystal face in contact with the teflon
+    sheet has been ground and polished flat.NaC1O is cubic,space group
+    T(P2,3),with fourteen polar optical phonons of F symmetry that give rise toa rather complex infrared reflection spectrum /7/.In this note we are con-
+    cerned with the high-frequency region of the spectrum(900 to 1000 cm-1).In
+    Fig.1 three reflection spectra(full lines)for three different angles of incidenceare compared with calculated curves (dashed lines).In performing these cal-culations we have used a constant dielectric function(=5.62)for KRS5 anda weakly dispersive dielectric function for teflon,with a constant dampingfactor and resonance frequencies extracted from the measurements of the
+    quasi-normal reflectivity at the air-teflon interface in the range500to1300cm-1
+    see Table 1.No effort has been made to accurately determine this function out-
+    Table
+    Parameters used in the dielectric function of teflon
+    TO(em-1)
+    503
+    550572
+    11461200
+    LO(cm-1)
+    524558
+    641
+    1158
+    1248
+    o1.81;T=2cm-1
+
+==========第2页==========
+    Short Notes
+    K15
+    980m0
+    Fig.2.BM dispersion curve associated with theTO phonon at a)965 cmand b)987 cm-1 of
+    sodium chlorate relative to the teflon/NaC1O3
+    interface.Dots represent the experimental
+    960
+    points.Note different error bars in differentfrequency regions.The solid curve was drawnthrough the calculated reflectivity minima.The
+    940
+    dashed line =o separates the Brewster
+    990
+    from the Fano surface mode region
+    side the frequency range of interest here (900 to1000 cm).For sodium chlorate we have used
+    984
+    ●
+    the above mentioned anharmonic dielectric
+    400
+    7800
+    function.A thickness of 3 um for the teflon
+    9 (cm)-
+    spacer is the value that better fits the experi-
+    mental spectra.It is in good agreement with the estimated value((4+1um))ofthat actually used.
+    The close dependence of the calculated spectra upon the chosen dielectricfunction can be appreciated by comparing the experimental results also with thetheoretical curves calculated with just a constant damping factor in the dielectricfunction of sodium chlorate.This is shown at the bottom of Fig.1 for thespectrum at 35(dotted line).In this case,as it can be seen,the agreement ispoor for what concerns both the shape of the overall spectrum and the frequencyof the minima.In Fig.2a and b we report the experimental RrM minima (dots)
+    -1
+    associated with BM below the NaCIO bulk TO modes at 965 and 987 cm,re-spectively,in comparison with the theoretical dispersion curves obtained aslocus of the calculated RrM minima.
+    Our data extend somewhat in the non-radiative region where a thinner teflonsheet,(2 +1 um),very close to the value,1.5 um,found suitable in the cal-culation in this region,has been used.The agreement between experiment andcalculated curves is very good in all the explored range of frequencies.
+    To conclude,the results presented in this note show that Brewster-typeSP dispersion curves can be measured in a rather easy way by means of theATR technique.A very good description of both the experimental reflectionspectra and of the surface (Brewster as well as Fano)mode dispersion can beobtained,provided sufficiently accurate dielectric functions are taken into ac-count for all the media involved in the employed experimental configuration.
+
+==========第3页==========
+    K16
+    physica status solidi (b)123
+    References
+    /1/E.BURSTEIN,A.HARTSTEIN,J.SCHOENWALD,A.A.MARADUDIN,
+    D.L.MILLS,and R.F.WALLIS,in:Polaritons,Ed.E.BURSTEIN and
+    F.DE MARTINI,Pergamon Press,Inc.,New York 1974(p.89).
+    /2/A.OrTO,in:Optical Properties of Solids,New Developments,Ed.B.O.
+    SERAPHIN,North-Holland,Amsterdam 1976(p.677).
+    /3/G.MATTEI,M.PAGANNONE,B.FORNARI,and L.MATTIOLI,Solid
+    State Commun.44,1495(1982).
+    /4/M.PAGANNONE,B.FORNARI,G.MATTEI,and L.MATTIOLI,to bepublished;Boll.Soc.Ital.Fis.130,39 (1983).
+    /5/E.SCHULLER,H.J.FALGE,and G.BORSTEL,Phys.Letters A55,109
+    (1975).
+    /6/G.BORSTEL,E.SCHULLER,and H.J.FALGE,phys.stat.sol.(b)76,
+    759(1976).
+    /7/C.M.HARTWIG,D.L.ROUSSEAU,and S.P.S.PORTO,Phys.Rev.188,1328(1969).
+    (Received February 6,1984)
+
+==========第4页==========

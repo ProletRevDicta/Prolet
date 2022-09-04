@@ -1,0 +1,325 @@
+    Royal Society Publishing
+    Inforing the soenceof the future
+    X-Ray Topographic Investigations of Solid State Reactions.I.Changes in Surface and Bulk
+    Substructure During Incipient Thermal Decomposition in Sodium Chlorate Monocrystals
+    Author(s):I.D.Begg,P.J.Halfpenny,R.M.Hooper,R.S.Narang,K.J.Roberts and J.N.
+    Sherwood
+    Source:Proceedings of the Royal Society of London.Series A.Mathematical and Physical
+    Sciences,Vol.386,No.1791(Apr.8,1983,pp.431-442
+    Published by:The Royal Society
+    Stable URL:http://www.jstor.org/stable/2397422
+    Accessed:18/06/201400:01
+    Your use of the JSTOR archive indicates your acceptance of the Terms Conditions of Use,available athttp://www.jstor.org/page/info/about/policies/terms.jsp
+    JSTOR is a not-for-profit service that helps scholars,researchers,and students discover,use,and build upon a wide range ofcontent in a trusted digital archive.We use information technology and tools to increase productivity and facilitate new formsof scholarship.For more information about JSTOR,please contact support @jstor.org.
+    The Royal Society is collaborating with JSTOR to digitize,preserve and extend access to Proceedings of the
+    Royal Society of London.Series A,Mathematical and Physical Sciences.
+    STOR
+    http://www.jstor.org
+    This content downloaded from 185.2.32.109 on Wed,18 Jun 2014 00:01:29 AM
+    All use subject to JSTOR Terms and Conditions
+
+==========第1页==========
+    Proc.R.Soc.Lomd.A386,431-442(1983)
+    Printed in great Britain
+    X-ray topographic investigations of solid state reactions.
+    I.Changes in surface and bulk substructure during incipientthermal decomposition in sodium chlorate monocrystals
+    By I.D.BEGG,P.J.HALFPENNY,R.M.HOOPER:,R.S.NARANGS,
+    K.J.ROBERTS AND J.N.SHERWOOD
+    Department of Pure and Applied Chemistry,University of Strathclyde,
+    Glasgow G1 1XL,U.K.
+    (Communicated by J.M.Thomas,F.R.S.-Received 23 November 1982)
+    [Plates 1-6]
+    On heating,sodium chlorate monocrystals undergo a limited degree ofthermal decomposition in the solid state (0.1-1 mass loss)between450 K and the melting point,ca.535 K.The degree to which this occursdepends on the perfection of the sample,the more perfect crystals sufferinglower mass loss.Examination of thermally treated pristine surfaces witha microscope reveals distributions of decomposition sites characteristic ofthe reaction initiating where emergent dislocations intersect the crystalsurface.There is little correlation,however,between dislocation etch-pitsand decomposition centres.
+    X-ray topographic studies of changes in bulk substructure duringthermal treatment confirm that 'grown in'dislocations play little or nopart in the nucleation of the decomposition process in the bulk.There issome evidence,however,that they may contribute to the surface reaction.
+    In the bulk,the potential nuclei are strained regions in the lattice.Fromthese,and possibly as a consequence of decomposition,dislocation loopsare punched out into the surrounding lattice along (100>and (110>directions.Similar defects are emitted from localized regions at thesurface and it is possible that these give rise to the surface decompositionpatterns.Impurity doped crystals show considerably enhanced decom-position
+    1.INTRODUCTION
+    It is generally accepted that structural imperfections,and dislocations in par-ticular,can act as the nucleation centres for reactions occurring in the bulk andon the surface of solids (Fox 1975;Thomas 197o;Thomas Williams I97I).This
+    Department of Electrical Engineering,University of Southampton,Southampton
+    SO9 5NH,U.K.
+    Department of Engineering Science,University of Exeter,Stocker Road,Exeter
+    EX4 4RD,U.K.
+    Xerox Corporation,Webster Research Center,Rochester,New York 14644,U.S.A.
+    Institut fur Kristallographie,Technische Hochschule Aachen,5100 Aachen,F.R.G.
+    [431]
+    This content downloaded from 185.2.32.109 on Wed,18 Jun 2014 00:01:29 AM
+    All use subject to JSTOR Terms and Conditions
+
+==========第2页==========
+    432
+    I.D.Begg and others
+    concept originated in the observation by Faraday (1834)that hydrated saltsdehydrate spontaneously when deformed by scratching.It was strengthened bythe later recognition that cold-working and mechanical deformation,processes thatcan alter the defect structure of materials,do in some cases lead to enhancementof reactivity (Tompkins 1962;Thomas 197o;Fox 1975).The most detailedevidence for this association has come from recent examinations of the thermaldecomposition of organic and inorganic materials (Thomas Ig7o).In these,thepositions of dislocation outcrops at the surface were identified by etching tech-niques,a process that itself defines the enhanced reactivity near the emergentdislocation core (Johnston Ig6I).Subsequently,decomposition was shown tooccur preferentially at similar sites (see for example Thomas Renshaw 1967,1969;Herley et al.1970,1971;Herley Levy 1972),in regions of high dislocationdensity (Thomas Williams 1g67),or at a rate proportional to the density andtype of dislocations (Fox Soria-Ruiz 197o;Thomas Renshaw 1969).In additionto defining the dislocations as the principal nucleation sites,some studies alsoindicate that successive multiplication of the dislocations could lead to the even-tual propagation of the reaction (Thomas et al.1966).
+    Although these experiments are revealing,a major problem is that they showonly the situation at the surface and there is no evidence to confirm that a parallelsituation will hold for the bulk.To assess whether or not this is so we have initiateda series of examinations of the sub-structural changes that occur during thermally,photolytically and radiolytically induced decomposition and reaction of organicand inorganic solids using X-ray topographic techniques(Tanner Bowen 198o).
+    These techniques enable a detailed assessment to be made of the surface andbulk defect structure of large (cm3)crystals of most solids both before andduring the various stages of reaction.Although the techniques have been usedpreviously to define changes in the defect structure of metal surfaces during oxi-dation at room temperature(Champier 198o)and the development of lattice strainduring X-radiation damage of sodium bromate(Roberts et al.1982),they have notbeen used for studies of the currently proposed type.We report herein aninitial examination of the substructural changes that occur in sodium chlorateduring incipient thermal decomposition.
+    2.EXPERIMENTAL
+    Crystals of sodium chlorate (ca.1x 1 x 0.1 cm3)were grown by the slow evapor-ation of aqueous solutions of the multiply recrystallized Analar salt at constanttemperature (ca.298 K).These crystals were dominantly of the simple f100 form.
+    Occasionally,crystals of the more complicated {100,{110,{120,{111 form werefound.The relative perfection of these forms has been described in a previous paper(Hooper et al.1982).Crystals selected for the present study were of a variety ofdegrees of perfection as defined by X-ray topography.
+    X-ray transmission topographs of the complete crystals,pristine and thermally
+    This content downloaded from 185.2.32.109 on Wed,18 Jun 2014 00:01:29 AM
+    All use subject to JSTOR Terms and Conditions
+
+==========第3页==========
+    Reactivity and dislocations in NaClOx
+    433
+    treated,were taken by using AgKo (ot=1.3)and MoKo(wot=2)radiationsand were recorded on Ilford L4 nuclear plates.
+    Preliminary thermal analyses were made by using a Stanton Redcroft thermo-balance and a Du Pont differential scanning calorimeter.
+    3.RESULTS
+    3.1.Preliminary thermal examination
+    Recrystallization of sodium chlorate from aqueous solution yields a cubic form(I)of space group P213 with four NaClOs per unit cell (Aravindakshan 1959;
+    Ramachandran Chandrasekaran 1957).Studies of the phase behaviour of thismaterial made in conjunction with crystallographic measurements (Meyer 1972;
+    Meyer Gosperin 1973;Meyer Rimsky 1979)have indicated that the solidretains this structure on heating to the melting point (535 K).In contrast,recrystallization from the melt at various cooling rates was reported to yield amore complicated phase behaviour.On slow cooling,the melt crystallized atca.535K to a monoclinic form (III)related structurally to I by a (110>sliptranslation.This transformation,at 503 K,proceeded so readily that no latticedisruption occurred and the crystal maintained its singularity.Supercooling of themelt to less than 528 K yielded a second form (II-uncharacterized),which againtransformed to phase I at 503 K.Additionally,rapid supercooling of the melt toless than 503 K resulted in the direct formation of phase I.Since the possibleoccurrence of a series of phase transformations in the solid state could influenceour experiments,we attempted to confirm these observations by differentialscanning calorimetry.
+    Heating of the solid revealed the existence of a previously unobserved but welldefined endothermic change (AH (transition)=2.5 kJ mol-1,AH (fusion)=
+    22.8 kJ mol-1)within 2-5K of the melting temperature depending on therate of heating of the sample.Different samples also showed a variable melting tem-perature (528-535 K)depending on the perfection of the crystal;the higher valuebeing more characteristic of the more perfect samples.Our topographic studies ofhighly perfect single crystals confirmed that these persist in the cubic phase fromambient temperature to within a few degrees of the melting temperature.Abovethis temperature,breakdown of the lattice precluded further assessment.Calori-metric studies on cooling at different rates after the solidification of the meltconfirmed the more complex behaviour noted by Meyer and her coworkers.
+    The one detailed study by Jach (1963)has shown that sodium chlorate does notundergo significant,rapid,thermal decomposition until 673 K in the melt.Otherworkers have noted evidence for decomposition in the solid state at temperaturesgreater than 518K(Ramasastry et al.197).Thermogravimetric analyses of singlecrystals of a variety of perfections made during the present examination showedthat all suffered a mass loss of the order of 0.1-1%over a temperature range383 K to the melting point.This mass loss was coupled with a gradual breakdown
+    I5
+    Vol.386.A
+    This content downloaded from 185.2.32.109 on Wed,18 Jun 2014 00:01:29 AM
+    All use subject to JSTOR Terms and Conditions
+
+==========第4页==========
+    434
+    I.D.Begg and others
+    of the crystal lattice.The lower mass loss was characteristic of the more perfectsamples and the higher of the most defective.
+    The course of the decomposition varied considerably.Microcrystalline samplesshowed an initial rapid mass loss at 380 K followed by a more gradual loss,whichaccelerated to melting.For single crystals of low perfection the process began atca.420 K.In contrast,crystals of increased perfection maintained their integrityuntil much higher temperatures (470-520 K).In some crystals of intermediateperfection,two processes could be discerned:a rapid loss at 420-470 K followedby a slower process,which increased in rate at ca.520 K.
+    Our general conclusions from these experiments are that a minor degree ofthermal decomposition of this solid does occur in the solid state.This is principallyevidenced by the progressive small mass loss on heating,the breakdown of thecrystal lattice and the variable melting temperature.The degree to which thisdecomposition occurs depends on the perfection of the solid.These factors makesodium chlorate an ideal substance for preliminary studies of the relations betweensubstructural changes and thermal treatment before one proceeds to more reactivematerials,which are likely to show a more complicated behaviour.
+    3.2.Surface examinations
+    Previous attempts to correlate bulk solid-state thermal decomposition withdislocations have relied on surface etching studies to reveal the sites of emergentdislocations.The resulting etch-pits and their densities have been correlatedsubsequently with decomposition sites or with rates of decomposition (Thomas
+    Renshaw 1967,1969;Herley et al.1970,197I).
+    Etching of sodium chlorate (001 surfaces with aqueous ethanol at roomtemperature gave etch patterns as shown in figure 1a(plate 1).These are charac-teristic of a random distribution of growth dislocations(large pits)and mechanicallyinduced dislocations(small pits)emergent at the surface.The geometry of the pits(centre point bottoms)corresponds to a dislocation line normal to the surface,i.e.(001〉line direction.
+    Since sodium chlorate does not cleave,the only tests that could be applied toconfirm the association of these etch pits with dislocations were that continuedetching yielded no significant change in the numbers or the distribution of pits on aparticular surface and that high stress deformation by indentation yieldedcharacteristic (100>and more occasionally (110>alignments (figure 16,c).Thesewere always few in number but,as we have noted previously (Hooper et al.1982),sodium chlorate shows a dominantly brittle behaviour at temperatures below
+    420-470K.
+    The combination of dislocation line direction ((100>)and slip trace alignmentsdefines (100)and (110)as the most likely slip planes and indicates the possibleslip systems {100010>and {110(110>edge or (100>and (110>screw.This isconsistent with the results of previous and current topographic studies (Hooperet al.1982).For energetic reasons,dislocations with b (100>should dominate.
+    This content downloaded from 185.2.32.109 on Wed,18 Jun 2014 00:01:29 AM
+    All use subject to JSTOR Terms and Conditions
+
+==========第5页==========
+    Reactivity and dislocations in NaC1O
+    435
+    In the relatively perfect crystals,the density of the pits at 102-103 cm-2 exceedsthe bulk density of dislocations as defined by X-ray topography (ca.10 cm-3)(seebelow).Hence the procedure serves to define the surface rather than the bulk defectstructure.This is a common feature of etching examinations.
+    On heating to 520 K,the crystal surfaces showed evidence of thermal decompo-sition.Attempts to correlate decomposition sites with etch-pits on pre-etchedcrystals were inconclusive.Decomposition sites were randomly distributed over thepre-etched surface (figure 2,plate 1).However,on pristine crystals the decompo-sition nuclei formed in arrays along the (100>direction (figure 3a,plate 1).Oncontinued decomposition,these primary nucleation sites developed to cover thecrystal surface (figures 36,c).Few additional secondary nucleation sites wereformed.These alignments again correlate with the possible principal dislocationslip directions.
+    3.3.X-ray topographic examination
+    Bulk structural examinations of a series of crystals of different defect structureswere made as a function of temperature,in order to assess if substructural changesdid occur and whether or not these could be related to the observed decomposition.
+    Firstly,crystals initially characterized in the unreacted state,were heated ona hot stage microscope until the onset of decomposition was noted from changesin bulk and surface appearance.This was followed by a study of the gradualdevelopment of defect structure during heating from room temperature to themelting point.
+    3.3.1.Gross changes in substructure on heating
+    Figure 4a(plate 2)shows a topograph of a portion of a typical crystal of highperfection.It contains only two major types of defect:dislocations induced duringthe growth process,probably after impurity inclusion or point defect aggregation;and strain centres (e.g.S),which possibly arise from the same cause but in whichthe stress has not been relaxed by dislocation generation.Additionally,there aregrowth sector boundaries (G).These are faintly contrasted,which is indicative ofa low degree of strain across the boundary.
+    The growth dislocations are similar in character to those analysed in a previouspaper(Hooper et al.1982).Thus those lying normal to the growth facet are of edgeand screw character with 6(100>.A potential mixed dislocation,6(110>,can beseen lying at an angle to the surface at M.Surface damage is minimal and isconfined to damage marks D and abrasions A on the (001)surface and the fewindentation marks at I on the (010)surface.
+    Heating to 530 K yielded the changes noticeable in figure 46.In the bulk latticethe growth dislocations retain their original integrity and show no spreading ofimage,which might be associated with a preferential decomposition within thedislocation core.
+    In contrast,the strain centres undergo a significant change to form crosspatterns with arms along the (100>directions.Centred on each pattern is a distorted
+    I5-2
+    This content downloaded from 185.2.32.109 on Wed,18 Jun 2014 00:01:29 AM
+    All use subject to JSTOR Terms and Conditions
+
+==========第6页==========
+    436
+    I.D.Begg and others
+    region,noticeable from the lack of contrast,surrounded by a darker defectivevolume.At a more advanced stage these patterns appear to emit curved straindefects into the surrounding lattice (e.g.A).Additionally,many other dark spotsappear in regions where no defects were imaged initially.Other changes involvesome possible preferential surface effects (E)where dislocations are injected intothe bulk.Some of these could be centred near dislocation outcrops.The growthsector boundaries do not undergo any noticeable change.
+    The influence of other defect structures is well demonstrated in figure 5(plate 2).
+    As can be seen from the topograph,figure 5a,the original crystal contains a moredefective structure.Here we have very well contrasted growth sector boundaries(G),evidence of excessive strain in the (100)growth sector,growth banding and awell defined central distorted volume around the nucleus.
+    Heating to 533 K produced the result shown in figure 56.Again we cannot inferany contribution to the changes by the growth dislocations.Although no distinctstrain centres were visible in figure 5a,a few of these were incorporated and havedecomposed in like manner to those in figure 46.The principal result is,however,that all strained volumes have reacted to push out dislocations in the (100>and(110>directions.Many of these show evidence of migration in their slip planes,forexample at L.It is noticeable that the density of damage is greater around thecentre,along the growth sector boundaries and emanating from these,and in thestrained (001)growth sector.Additionally,defects penetrate into the bulk fromthe surface both as (110>(A)and (100>(B)loops.These no doubt result fromstrain set up by the surface decomposition reactions.This is reflected in a darkerimage at points along the surfaces.Again there is little indication that thesesurface reactions originate specifically at the emergence point of the growth dis-locations at the surface.
+    As an extreme example we present figure 6a(plate 3).This crystal was deliber-ately doped with borax.Borax in adequate amounts causes sodium chlorate tochange habit from a cubic to an octahedral form (Buckley 1930).It being arguedthat this probably involves incorporation of the impurity,the growth solutionwas doped with an amount of borax (20 g/1)less than that reported to produce theoctahedral form.The result,figure 6,was a very defective sample similar in basicdefect structure to that shown in figure 5 but with marked impurity segregation
+    DESCRIPTION OF PLATE 1
+    FIGURE 1.Solvent etch patterns on the(001)surface of a sodium chlorate crystal.(a)Random
+    distributions on an unstrained crystal.(6),(c)Alignments along the [100]and [110]directions after straining.Scale bar,20 um.
+    FIGURE 2.The appearance of decomposition centres on a previously etched crystal of sodium
+    chlorate.Scale bar,20 um.
+    FIGURE 3.Progressive changes in surface structure on a {001)surface of sodium chlorate withincreasing temperature:(a)520 K,(6)525 K,(c)530 K.A marks the equivalent point onsuccessive photographs.Scale bar,20 um.
+    This content downloaded from 185.2.32.109 on Wed,18 Jun 2014 00:01:29 AM
+    All use subject to JSTOR Terms and Conditions
+
+==========第7页==========
+    Proc.R.Soc.Lond.A,volume 386
+    Begg et al.,plate 1
+    1(a
+    3(a)
+    [100]
+    1(6)
+    1(c
+    [10]-
+    3(c
+    2
+    A
+    ioo]
+    FIGURES 1-3.For description see opposite
+    (Facing p.436)
+    This content downloaded from 185.2.32.109 on Wed,18 Jun 2014 00:01:29 AM
+    All use subject to JSTOR Terms and Conditions
+
+==========第8页==========
+    Proc.R.Soc,Lond.A,volume 386
+    Begg et al.,plate 2
+    4(a)
+    g,020]
+    (b)
+    g,020→
+    5a)
+    (b)
+    G
+    8,020
+    g,020
+    FIGUREs 4 and 5.For description see opposite.
+    This content downloaded from 185.2.32.109 on Wed,18 Jun 2014 00:01:29 AM
+    All use subject to JSTOR Terms and Conditions
+
+==========第9页==========
+    Proc.R.Soc.Lond.A,volume 386
+    Begg et al.,plate 3
+    6(a)
+    8,020
+    8,020
+    FIGURE 6.X-ray transmission topograph of an impure sodium chlorate crystal doped with20 g/1 borax during growth.(a)The crystal as grown showing impurity segregation ingrowth sectors and along growth sector boundaries.(b)The same crystal after heatingto 423 K(15 min),at which temperature decomposition had begun.Scale bars,1 mm.
+    FIGURE 4.X-ray transmission topographs of a sodium chlorate crystal (1 mm thick).Scalebars,1 mm.(a)As grown,showing growth dislocations,strain centres (S)and growthsector boundaries(G).(6)The same crystals after light washing to remove surface damage,and heating to 525 K(15 min).The lighter portion of the image in (b)was obscured bythe circular aluminium mount.
+    FIGURE 5.X-ray transmission topographs of sodium chlorate.(a)As-grown crystal showingstrained nucleation volume,growth sector boundaries,G,lattice strain and growthhorizons.(b)The same crystal after heating to 530 K (15 min).Considerable latticedisorder has been induced around all the above-noted defects,resulting in distortionof the lattice and penetration of dislocations into the bulk.Scale bars,1 mm.
+    This content downloaded from 185.2.32.109 on Wed,18 Jun 2014 00:01:29 AM
+    All use subject to JSTOR Terms and Conditions
+
+==========第10页==========
+    Proc.R.Soc.Lond.A,volume 386
+    Begg et al.,plate 4
+    76205
+    ww I 'sreq elBos
+    This content downloaded from 185.2.32.109 on Wed,18 Jun 2014 00:01:29 AM
+    All use subject to JSTOR Terms and Conditions
+
+==========第11页==========
+    Proc.R.Soc.Lond.A,volume 386
+    Begg et al.,plate 5
+    d
+    000
+    020
+    —00z8
+    This content downloaded from 185.2.32.109 on Wed,18 Jun 2014 00:01:29 AM
+    All use subject to JSTOR Terms and Conditions
+
+==========第12页==========
+    Proc.R.Soc.Lond.A,volume 386
+    Begg et al.,plate 6
+    (a)
+    b
+    8,011
+    g,020-
+    (c)
+    g,020-
+    e
+    g,020-
+    (g
+    FIGURE 9.For description see opposite
+    This content downloaded from 185.2.32.109 on Wed,18 Jun 2014 00:01:29 AM
+    All use subject to JSTOR Terms and Conditions
+
+==========第13页==========
+    Reactivity and dislocations in NaClO
+    437
+    both in the growth sectors and along the growth sector boundaries,resulting inenhanced strain in thelattice.This crystal showedevidenceof considerable decompo-sition at 423 K.The resulting topograph,figure 66,showed no distinguishablestructure at all.
+    Further heating of all samples led to rapid decomposition (sample 3 fell topowder)and no further topographs could be obtained.
+    We conclude from the above that the principal substructural features that couldinfluence the nucleation of thermal decomposition are strained volumes in thelattice.Either decomposition nucleates at these points and in so doing formsproducts that further strain the lattice and generate dislocations,or the strain isreleased at a temperature at which dislocation slip becomes easy,the movingdislocations aiding decomposition.Particular crystals were studied in detail toassess this conclusion and to analyse the nature of the defects formed.
+    3.3.2.Development of the defect structure on gradual heating
+    From the initial examination of gross changes in substructure,it is apparentthat lattice strain (localized or extended)is the principal contributing factor tothese changes.To assess the development of this structure two crystals weresubjected to successive increases in temperature,and the gradual development ofthe defect structure was defined.
+    Figure 7 (plate 4)presents a series of topographs of a relatively perfect erystal.
+    Figure 7a shows the crystal at ambient temperature after washing in distilledwater to remove surface damage and thus reveal the internal defect structure.Theresidual square pattern arises from a hopper growth feature on the rear face andreflects variations in crystal thickness.Other than this,the defects are in the bulkand include growth dislocations,strain centres and lightly contrasted growthsector boundaries.
+    Gradually increasing the temperature produced no changes until 430 K.Theresult (figure 76)was that some of the strain centres started to develop into thecross patterns noted previously,whereas a number of others (e.g.A)did not do so.
+    Continuing to 500 K (figure 7c)yielded little additional substructure.The cross
+    DESCRIPTION OF PLATE 6
+    FIGURE 9.Details of topographs showing the development of defect structure around strain
+    centres in sodium chlorate during incipient decomposition.(a)Differentiation betweenstrain centres of types A and B (detail from figure 5a).Scale bar 0.25 mm.(6)Asym-metric reflexion of the same crystal as in (a)showing the elongation of the type A centre.
+    Scale bar,0.25 mm.(c),(d)Enlargement of the small area ringed in figure 7c in 200 and020 reflexions defining the predominantly b(100>screw character of the arms of the crosspatterns.Scale bar,0.25 mm.(e),(f)Enlargement of the area P in figure 8c in 110and 110 reflexions defining the predominantly 6(110>screw character of the disloca-tions lying along the [110]direction.Scale bars,0.5 mm.(g)Enlargement of a type Bstrain centre after heating to 530 K showing the climb of the screw dislocation in thearms of the cross into a helical configuration.Scale bar,0.1 mm.
+    This content downloaded from 185.2.32.109 on Wed,18 Jun 2014 00:01:29 AM
+    All use subject to JSTOR Terms and Conditions
+
+==========第14页==========
+    438
+    I.D.Begg and others
+    patterns enlarged along the (100>directions and in some areas punched outdislocation loops in these directions (X)and along (110>directions (Y).By 520 Kthe cross patterns had expanded over larger volumes (figure 7d)and those straincentres that previously did not expand,had begun to do so.Simultaneously,evidence of increased bulk and surface damage was noticeable from both theappearance of defective regions around the border of the crystal image and thegeneral increase in the density of small dark spots across previously clear volumesof the image.Examination of the topographs with a microscope showed thesespots to have components along (100>directions,i.e.they are small cross patterns.
+    At this point the crystal fractured and subsequent development was followed byusing a second crystal.This crystal showed fewer dislocations and strain centresbut contained larger inclusions.Raising the temperature to 520K yielded theresult shown in figure 8a,6 (plate 5),which is very similar to that achieved infigure 7d.Surface damage is well developed and bundles of dislocations arepunched from the surface and from the larger inclusions into the bulk of thecrystal.Those that emanate from the surface to not initiate at the emergent endsof the few growth dislocations.That all these bundles comprise prismatic loops ofedge and screw character with b(100>can be assessed by comparison of figures 8a,
+    6.The noted variation in g-vector yields the expected variation in contrast.Theorientation contrast of the small background spots can also be seen from thesetwo photographs.
+    By 530 K (figure 8c)the emission of dislocations along the (110>directions fromboth surfaces and cross patterns had begun in addition to the expansion of the(100>dislocation loops.From this temperature,the crystal deteriorated rapidlywith the increase the disorder,reaching the stage where the developing strainprogressed to an extent such that part of the topographic image tended to go outof contrast (figure 8d).Finally,at temperatures close to the melting temperature(figure 8d)(110>slip bands penetrated into the bulk of the crystal from thesurface.Also,dense clouds of dislocations were emitted from the cross patterns.
+    4.DISCUSSION
+    Our preliminary examination showed that crystals of sodium chlorate undergoa limited two-stage decomposition process:the first stage occurring at ca.420 Kand the last at ca.520 K,coupled with a noticeable deterioration of the crystalsurface.The degree to which these changes occurred was associable with the degreeof perfection of the crystal.The initial topographic study confirmed that there areparallel changes in substructure and that these are more significant in the moredefective and impure crystals.We note that we do not observe parallel changes onheating crystals of materials that do not undergo decomposition.It is of interestto characterize the nature of the developing defect structure.
+    At 420 K,the region of the initial mass loss,we observe an expansion of somestrain centres into cross patterns.Others do not change until higher temperatures
+    This content downloaded from 185.2.32.109 on Wed,18 Jun 2014 00:01:29 AM
+    All use subject to JSTOR Terms and Conditions
+
+==========第15页==========
+    Reactivity and dislocations in Na0lO
+    439
+    (ca.520 K)are reached.Closer examination of the topographs shows a distinctionin contrast between the two types of centre.Those that expand are relativelysmall,circular and show a black/white contrast in the positive-g direction.
+    Examples are shown at B in figure 9a (plate 6).This shape and contrast arecharacteristic of isotropic strain centres produced by impurity precipitates orvacancy clusters.This contrast orientation indicates that the defect is smallerthan the available lattice volume,i.e.the surrounding lattice is in tension ratherthan under compression (Meiran Blech 1965).
+    The other strain centres are larger and have a well defined double-lobed blackcontrast and contour pattern resulting from both direct and dynamical effectssymmetric around g(for example at A in figure 9a).Examination of the images intopographs produced by using other reflexions showed that the orientation ofcontrast of both images always lies parallel to g.In asymmetric reflexions of the0 kl types,however,the type A images elongate in the g direction in a manner(figure 96)suggesting that they represent the contrast variation around theemergent end of a linear defect lying normal to the (001)crystal surface.Thetype B images do not show this elongation.On this basis we identify type A defectsas bundles of dislocations lying in the (001)growth sector with line direction (parallel to [001].The images thus represent an end-on view of bundles equivalentto those adjacent images (C)in the (100)growth sector with l [100]that lie in theplane of the topograph.Comparison of A and C(figure 9a)allows a judgement tobe made of the close similarity of the contrast distribution around the images.
+    That these defects show no change in structure at 423 K is then in keeping with thegeneral observation that in-plane growth dislocations show no change in contrastduring heating.The eventual broadening of these particular images at much highertemperatures (ca.520 K)probably reflects a preferential reaction in the surfacearound the emergent end of the dislocation.This conclusion would be in keepingwith previous observations (Thomas Renshaw 1967;1969)of the association ofdislocation etch-pits with decomposition sites in other materials.The eventualdevelopment of these type A centres at 520 K is somewhat different to that oftype B centres in that one-dimensional linear ((100>)slip bands probably com-prising edge dislocations of 6(100>are punched out in the (100>directions,ratherthan the three-dimensional cross patterns emitted from the type B centres atlower temperatures.
+    The surface development of these type A centres is immediately followed bygeneral surface decomposition,which punehes dislocation loops into the crystal.
+    This general dislocation multiplication,rather than the emergent growth dislo-cation cores,which are too few in number,is the most probable source of thesurface decomposition patterns presented in figure 3.The alignment of thedecomposition patterns in the (100>directions would be consistent with theexpected geometry of the resulting dislocation loops as proved by figures 8a and
+    6.The small number of emergent dislocation bundles precludes an assessmentwith a microscope of the correlation between these and decomposition centres.
+    This content downloaded from 185.2.32.109 on Wed,18 Jun 2014 00:01:29 AM
+    All use subject to JSTOR Terms and Conditions
+
+==========第16页==========
+    440
+    I.D.Begg and others
+    The etch-pits observed presumably reflect general surface damage,which has littleinfuence on any decomposition.
+    The general lack of change of growth dislocation bundles and individual dislo-cations in the bulk can perhaps be attributed to the fact that the stress generatedby the initial incorporation of the initiating impurity is released by the formationof the dislocations.In contrast,type B inclusions can be regarded as highlystrained centres from which the strain energy has not been relaxed by the for-mation of dislocations.From the mode of preparation of the crystals (saturatedaqueous solution),it is tempting to assume that these must result from aqueousinclusions.Growth of crystals from tritiated water,however,yielded estimates oftotal water content of less than 1/1010(by mass),which renders this possibilityunlikely.
+    Whatever the basic cause,the developing defect structure of the type B inclu-sions can be defined.The initial expansion at 420 K is by the emission of micro-scopic loops of Burgers vector b a(100>.That these comprise a long screw andshort edge component can be discerned from the contrast variation between topo-graphs taken with 200 and 020 reflexions.As defined in figures 9c,d,which showan enlarged portion of the area ringed in figure 7c.This particular system has alsoemitted a long loop visible in figure 9c and,out of contrast,in figure 9d,whichshows evidence of its starting to cross slip at the closed end.
+    On further increase in temperature,more loops of dislocations of b(100>areemitted from cross patterns,other bulk inclusions and the surfaces.These loopsexpand (figure 8)until at around 530 K dislocations and dislocation loops withl(110>are also punched out into the lattice.In spite of the broad image widthcharacteristic of topographs taken in 110 type reflexions,the presence and absence(only residual strain contrast remains)of the images of one set of such dislocations(figure 8,P)in 110 and 110 reflexions(figures 9e,f)show these to be predominantlyof screw character with a small edge component closing the loop.Similar deduc-tions as to character can be made concerning the dislocations of l(110>pene-trating from the surface.
+    The final change in the cross patterns is the development of the screw part ofthe dislocations into closed prismatic loops and helices of 6(100>.A numberof these can be seen figure 46.For clarity,an enlarged example is given infigure 9h.The development of helical dislocations is usually associated with thegeneration of a large supersaturation of point defects in the crystal lattice,whichthen migrate to existing dislocations causing the observed climb process.They arecommon in quenched and annealed crystals owing to the trapping of vacanciesduring the quenching process (Grider Leighley 1973;G'Sell&Champier 1976;
+    Bontinck Amelinckx 1957).Examples have also been found,however,incrystals of a-sulphur prepared at low temperatures,as a consequence of thetrapping of excess vacancies in the mobile interface during rapid crystal growth(Hooper Sherwood 1982).In the present case the climb might have occurred asa consequence of annealing after the heat treatment.Alternatively,it could reflect
+    This content downloaded from 185.2.32.109 on Wed,18 Jun 2014 00:01:29 AM
+    All use subject to JSTOR Terms and Conditions
+
+==========第17页==========
+    Reactivity and dislocations in NaClO
+    441
+    a supersaturation of vacancies generated by the decomposition process either as adirect consequence of decomposition or from the resulting lattice strain built upbetween decomposition product and host.
+    The final gross increase in defect structure parallels the noted acceleration of thedecomposition to melting.The onset of wholesale slip and the penetration of slipbands may simply result from this gross increase in strain or from a change in theease of cross slip with temperature,the process required for a slip band to propa-gate.Examination of the topographs under the microscope suggests that the slipbands are composed of dislocations that lie with their line direction at right anglesto the slip direction,i.e.they probably comprise edge dislocations of 6(110>
+    It is interesting to note that the thermal development of the dislocationstructure follows the relative energies of the dislocation types.As we show else-where (Hooper et al.1982),the order of line energies of the simplest dislocations insodium chlorate is
+    a(100>screw (41 eV/nm)<a(100>edge (69 eV/nm)<a(110>screw
+    (100ev/nm)<a(110>edge (130 ev/nm).
+    On this basis we must question whether or not the developing defect structurereflects the gradual release of strain,either growth-induced or thermally inducedduring heating,with temperature,by the generation of progressively moreenergeti slip systems or whether gradual decomposition causes strain,which inturn generates slip systems characteristic of the temperature attained.It wouldbe expected that the initial generation of dislocations,e.g.those of 6(100>,at420 K would release any growth-induced strain,and no further multiplicationwould ensue.The continued development of the defect structure,which exceedsthe observable small degree of dislocation migration,implies a continuouslygenerated strain provoking both multiplication and,eventually,new slip systemsin the bulk and at the surface.Since we and others have found no similar influenceof heating in other materials in which no reactions occur,we rule out the possibilityof thermomechanical effects and suggest that the damage does result duringincipient reaction.Whether or not the initial strain developed leads to reactionand hence dislocation generation or the strain leads to the motion of dislocationsand hence reaction,etc.is difficult to assess at present.Further studies are inprogress on a wide variety of systems to test these speculations.
+    CONCLUSIONS
+    Between room temperature and the melting point,sodium chlorate undergoesa small degree of decomposition.This begins at ca.420 K and continues to melting(ca.535 K)with an increase in rate at ca.520 K.At the initial temperature,straincentres in the lattice develop to emit dislocations with b(100>.These centresexpand by the emission and multiplication of further dislocations of similarcharacter over the temperature range up to 520 K,when in the region of increaseddecomposition a more rapid development of these and additional (6=a(110>)
+    This content downloaded from 185.2.32.109 on Wed,18 Jun 2014 00:01:29 AM
+    All use subject to JSTOR Terms and Conditions
+
+==========第18页==========
+    442
+    I.D.Begg and others
+    dislocations occurs in the bulk and at the surfaces of the crystal.At temperaturesclose to the melting point,wholesale (110>slip bands are introduced.
+    Growth dislocations appear to play no role in the decomposition process in thebulk but their emergent ends may contribute to a preferentialsurface decomposition.
+    The financial assistance of S.E.R.C.by the provision of apparatus (J.N.S.)and
+    Fellowships (R.M.H.,K.J.R.)is gratefully acknowledged.
+    REFERENCES
+    Aravindakshan,C.1959 Z.Kristallogr.Kristallogeom.111,241.
+    Bontinck,W.Amelinckx,S.1957 Phil.Mag.2,94.
+    Buckley,H.E.1930 Z.Kristallogr.Kristallogeom.75,15.
+    Champier,G.198o In Characterization of crystal growth defects by x-ray methods (ed.B.K.
+    Tanner D.K.Bowen),NATO ASI series B,pp.63,97.New York:Plenum.
+    Faraday,M.1834 Phil.Trans.R.Soc.Lond.55.
+    Fox,P.G.1975 J.Mater.Sci.10,340.
+    Fox,P.G.Soria-Ruiz,J.197o Proc.R.Soc.Lond.A 314,429.
+    Grider,J.T.M.Leighley,H.P.J.1973 Phil.Mag.28,465.
+    G'Sell,C.Champier,G.1976 Phil.Mag.34,333.
+    Herley,P.J.,Jacobs,P.W.M.Levy,P.W.1970 Proc.R.Soc.Lond.A.318,197.
+    Herley,P.J.,Jacobs,P.W.M.Levy,P.W.197I J.chem.Soc.A 2338.
+    Herley,P.J.Levy,P.W.1972 Reactivity of solids,Proc.7th International Symposium
+    (ed.J.S.Anderson,M.W.Roberts F.S.Stone),p.387.London:Chapman and Hall.
+    Hooper,R.M.,Roberts,K.J.Sherwood,J.N.1982 J.Mater.Sci.(In the press.)
+    Hooper,R.M.Sherwood,J.N.1982 Phil.Mag.A 46,559.
+    Jach,J.1963 J.Phys.Chem.Solids 25,63.
+    Johnston,W.G.196I Prog.ceram.Sci.2,1.
+    Meiran,E.S.Blech,I.A.1965 J.appl.Phys.36,3162.
+    Meyer,P.1972 Bull.Soc.fr.Miner.Cristallogr.95,541.
+    Meyer,P.Gosperin,M.1973 Bull.Soc.fr.Miner.Cristallogr.96,18.
+    Meyer,P.Rimsky,A.1979 Acta crystallogr.A 35,871.
+    Ramachandran,G.N.Chandraskaran,K.S.1957 Acta crystallogr.10,671.
+    Ramasastry,C.,Reddy,K.V.Marthy,V.S.197I Proc.R.Soc.Lond.A 325,347.
+    Roberts,K.J.,Sherwood,J.N.,Bowen,D.K.Davies,S.T.1982 J.Mater.Sci.Lett.1,
+    300.
+    Tanner,B.K.Bowen,D.K.(ed.)198o Characterization of crystal growth defects by X-ray
+    methods,NATO ASI series B.New York:Plenum.
+    Thomas,J.M.,Williams,J.O.,Marsh,H.Rand,B.1966 Carbon 4,143.
+    Thomas,J.M.Renshaw,G.D.1967 J.chem.Soc.A 2058.
+    Thomas,J.M.Williams,J.O.1967 Trans.Faraday Soc.63,1922
+    Thomas,J.M.Renshaw,G.D.1969 J.chem.Soc.A 2749,2753,2756.
+    Thomas,J.M.1970 Adv.Catalysis 10,293.
+    Thomas,J.M.Williams,J.O.1971 Prog.solid St.Chem.6,119.
+    Tompkins,F.C.1962 Pure appl.Chem.5,501.
+    This content downloaded from 185.2.32.109 on Wed,18 Jun 2014 00:01:29 AM
+    All use subject to JSTOR Terms and Conditions
+
+==========第19页==========

@@ -1,0 +1,738 @@
+    CRYSTAL
+    GROWTH
+    Article
+    &DESIGN
+    pubs.acs.org/crystal
+    Nongrowing Faces of Sodium Chlorate Crystals in Supersaturated
+    Solution
+    Branislava M.Misailovic,'Dragana A.Malivuk,Andrijana A.Zekic,and Mico M.Mitrovic*
+    Faculty of Physics,University of Belgrade,P.O.Box 44,11001 Belgrade,Serbia
+    Faculty of Science,University of Banja Luka,Mladena Stojanovica 2,78000 Banja Luka,Bosnia and Herzegovina
+    ABSTRACT:The results of investigations of {1001,the nongrowing faces ofsodium chlorate crystals in supersaturated solutions,are presented.It occurredthat some of the faces did not grow,whereas the neighbor faces of the samecrystals grew.The dissolution and refaceting of the crystals did not affect theprobability of the nongrowing face appearance and the reduction of the rangeof face growth rates.Nongrowing faces are very stable;they start to grow at arelatively high supersaturation,face by face or several faces simultaneously.Theorder of the start of the growth is random,subsequently grown neighbor oropposite faces.Possible reasons for coexistence of growing and nongrowingfaces,Ostwald ripening,microscopic conditions in the crystallization cell,microstructure of crystal face,and the impurity effects are discussed.
+    ■INTRODUCTION
+    EXPERIMENTAL SECTION
+    Under the same external conditions,different crystals of the
+    The aim of our experiments was to investigate the growth of small
+    same material grow at different rates.-3 This phenomenon,
+    sodium chlorate crystals with nongrowing faces in aqueous solution
+    termed as growth rate dispersion,is still not understood well.
+    The analar grade of this system (99%purity)was used.The relativesolution supersaturation=(C-Co)/Co(C and Co are the actual and
+    The dispersion of growth rates can be described by the finite
+    saturated solution concentrations)was changed during the experiment
+    mixture of normal distributions.Distribution maxima probably
+    by varying the solution temperature T.The concentration C was
+    correspond to different activities of dominant dislocation
+    calculated on the basis of the empirical formula C 0.226T(C)+
+    groups,while the maxima width correspond to the dislocation
+    44.38(g of NaClO3/100 g of solution).5 The solution was prepared
+    perimeter.The maxima shift during the growth is probably a
+    by equilibrating an excess of crystals with deionized water for 3 days at
+    6
+    a saturation temperature of T=(31.0+0.1)C.Corresponding
+    consequence inherent to crystal growth rate changes.
+    concentration,C=51.386 g of NaClO3/100 g of solution,was kept
+    It is shown that in the supersaturated solution,there exist
+    constant the during growth runs in all experiments.Saturated solute
+    among the growing crystals those that did not grow in
+    concentrations Co at growth temperatures T are calculated using the
+    particular directions:sodium chlorate in (100),78 KDP in
+    previous formula.
+    [001],679 Rochelle salt in [001],7 calcium sulfate in [001],10
+    The crystal growth carried out in a crystallization cell,described
+    and sodium perborate crystals.Many of these crystals stopped
+    previously.The cylindrical crystallization chamber had the solutioncapacity of about 15 mL.The velocity of the solution at the bottom
+    their growth after significant dissolution and refaceting.
+    (around the crystals)and at the top of the chamber was about 0.05
+    Otherwise,a small amount of dissolution and refaceting does
+    and 0.5 mm/s,respectively.Crystals were nucleated in the cell by
+    not affect growth rate significantly.s
+    introducing air bubbles through a needle into the cell.The nucleation
+    The existence of the "dead zone"for crystal growth,which
+    of the crystals was performed at T=(28.0+0.1)C.
+    Between 10 and 20 of the crystal nuclei,sufficiently distant from
+    was confirmed for many substances,is usually explained by the
+    their closest neighbors as to avoid intergrowth during the growth,were
+    presence of impurities.Immobile impurities adsorbed on the
+    selected for detailed growth observation during one growth run.Initial
+    crystal face may completely block step propagation.
+    crystal sizes were 0.024-0.313 mm.
+    Dithionate impurity gradually decreased the step velocity of
+    Our attention was occupied by the crystals with nongrowing faces.
+    the {111}faces of sodium chlorate crystals.5 It has been shown
+    Growth in (100)direction of sodium chlorate evolves through growth
+    recently6 that at a low supersaturations coexistence of growing,
+    of two 100}faces at opposite sides of the crystal.Growth rate in the(100)direction is the sum of growth rates of {100}and {100}faces,
+    nongrowing,and dissolving sodium chlorate crystals exist.
+    that is,R=Roo+RToo)The distinction between the growth
+    In this paper,the results of investigations of {100}
+    rates of opposite faces was difficult.The calculation of Roo)from the
+    nongrowing faces of sodium chlorate crystals in supersaturatedsolutions will be presented.The stability of these faces and
+    Received:July 31,2013
+    influence of dissolution and refaceting on their appearance was
+    Revised:
+    December 18,2013
+    investigated.
+    ACS Publications American chemical sodet
+    dx.doi.org/10.1021/cg401162n I Cryst.Growth Des.XXXX,XXX,XXX-XXX
+
+==========第1页==========
+    Crystal Growth Design
+    Article
+    crystal length-time dependence is simple.For determination of the
+    neighbors.Only two experiments were prolonged to a temperature of
+    {100 face displacement,a reference point is necessary.
+    18.0oC.
+    An optical microscope Nikon SMZ800 supplied by camera
+    The Ro was determined from crystal length versus time
+    Luminera,Infinity 1,is used for analysis of the pictures of the crystals.
+    dependence,whereas R[oo]and RToo]were determined from
+    We measured the crystal length changes in (100)directions and
+    corresponding face displacement versus time dependence.The initial
+    displacement of {100}faces with an accuracy of about +2 um.
+    crystal growth rates were calculated using the first two experimental
+    Without a reference point,it is impossible to conclude whether one
+    data points,pertaining to the first 20-30 min of growth.The stabilized
+    of the opposite faces are nongrowing.The reference point (object)can
+    growth rates were calculated using two experimental data points
+    be inside the crystals (visible defects)or near the crystal in the cell
+    measured after 3 h of growth.Average growth rates of motionless (at
+    (marker on the bottom of the cell).Because of that,we performed two
+    least 1.5 h)crystals,in type 2 experiments,as well as the average
+    types of experiments.
+    growth rates after the dissolution and refaceting in experiments type 1,
+    Type 1:Experiments with dissolution and refaceting.Most of the
+    were determined by the least-squares method.
+    observed crystals had no visible defects.If defects are present in thecrystals,they changes during growth,so they cannot be a reference
+    ■RESULTS
+    points.The reliable reference points were obtained by partialdissolution followed by the refaceting of crystals.Defects formed on
+    Significant growth rate dispersion of sodium chlorate crystals in
+    the border between seed and the newly grown portion had no further
+    (100)direction was occurred during the first 3 h of growth in
+    changes;they were good reference points for face displacement
+    experiments of type 1 (before the dissolution),as is shown
+    measurement.
+    previously
+    Type 2:Experiments with external markers.The bottom of the cell
+    It was also confirmed that growth rates in the (100)direction
+    was randomly scratched.These scratches were reference objects for
+    of most of the crystals change during this period,as was shown
+    the crystal length measurements.The problem in this type of the
+    recently.17,20 The majority of the measured growth rates (80-
+    experiments was that the crystal movements were due to the solution
+    90%)significantly decreased in the initial growth period.Less
+    flow.Only motionless crystals could have scratches as reference
+    than 10%of the growth rates increased predominantly in the
+    objects.Approximately during the first hour of growth,most of thecrystals moved on the bottom of the cell.Approximately 1-3 of the
+    first stage of the growth run or did not change significantly at
+    10-20 observed crystals,after that period,became motionless in
+    all.About 4%of all growth rates were zero all the time or
+    different moments.They stayed at the same positions for 1-2 h.
+    decreased to zero,even though the solution was supersaturated
+    As we will show later on,the dissolution and refaceting did not
+    and the other neighboring crystals grew.In Figure 1,the time
+    affect the probability of appearance of nongrowing faces,and crystals
+    evolution of the growth rates in one typical growth run is
+    continued their growth at rates practically independent of the
+    presented.
+    conditions of nucleation,which are difficult to control.Besides thatthe reference points were easier to obtain in type 1 experiments,and
+    120
+    the motionless period in the type 2 experiments was relatively short
+    =1.34%
+    Because of that,we performed many more type 1 experiments inwhich the light movement of the crystals had no influence on
+    100
+    measurement errors;therefore it was possible due to a longerobservation (markers moving with crystals).Experiments of type 2were performed only in order to test the influence of dissolution andrefaceting on the existence of nongrowing faces.
+    60
+    The type 1 experiments consisted of three parts.In the first part,thecrystals were nucleated and grown for about 3 h at a T=(28.0+0.1)
+    C.The dissolution and refaceting of crystals were performed during
+    40.
+    the second part of the experiments.The temperature of the solutionwas increased to the dissolution temperature Ta =(34.0+0.1)C
+    2/
+    with heating rate of about 0.5 C/min.The solution was kept at thistemperature for about 25 min.In that period,the dissolution androunding of the observed crystals occurred.At the end of dissolution
+    Time [x10's]
+    crystal size in (001)direction was decreased for a minimum of 20%.
+    Some crystals completely dissolved,the others were used as seeds for
+    Figure 1.Time evolution of the growth rates in one typical growth run
+    further growth performed in the third part of the experiments.After
+    prior to dissolution.
+    the dissolution,the temperature of the solution was rapidly decreasedto a growth temperature of T=(28.0+0.1)C,the same as in the
+    During the dissolution,many of the small crystals totaly
+    first part of the experiments.Meanwhile,the refaceting of the crystalswas completed.This procedure provided instantaneous refaceting of
+    dissolved.The scatter diagram,which represents the correlation
+    the crystals,which had clear borders between the dissolved and newly
+    between the growth rate after rafaceting and the growth rate of
+    growing portion.
+    the same crystals before dissolution (stabilized growth rates)is
+    In order to test stability of nongrowing faces,the third part of
+    shown in Figure 2.
+    experiments was performed in two ways:(a)the growth temperature
+    Figure 3a-d shows histograms that represent (a)the
+    was kept for about 3 h at 28.0 C in five experiments;(b)the growth
+    dispersion of the initial growth rates (during the first 20-30
+    temperature was decreased below 28.0 C.During these parts of the
+    min),rates in (100)direction in experiments of type 1,(b)the
+    experiments,we observed the behavior of the crystals that had only
+    growth rate dispersion of stabilized growth rates in (100)
+    and at least one nongrowing face.After the growth at T=28.0 C,the
+    direction,about 3 h of growth,for both types of experiments,
+    solution temperature gradually decreased in steps of 1.0C until 18.0
+    C.At each growth temperature,the solution was kept for about 30
+    (c)the dispersion of average growth rates of {100}faces after
+    min.
+    refaceting in experiments of type 1,and (d)the dispersion of
+    Decreasing the temperature during the third part of the experiments
+    average growth rates of {100}faces of motionless crystals in
+    caused a significant increase in the crystal growth rate.Because of that
+    experiments of type 2.To describe the growth rate
+    they started intergrowing with their neighbors.Experiments were
+    distributions,the fitting of finite mixture normal distributions
+    ended when the last crystal with a nongrowing face intergrew with its
+    to the frequency distributions was performed.Details of the
+    B
+    dx.doi.org/10.1021/cg401162n lCryst.Growth Des.XXXX,XXX,XXX-XXX
+
+==========第2页==========
+    Crystal Growth Design
+    Article
+    ⊙100
+    growth rates;and Ri,R2,and R3,the growth rates thatcorrespond to the first,second,and third distribution maxima,
+    80
+    are shown in Table 1.It can be seen from Figure 3a-c and
+    60-
+    Table 1 that the growth rate distributions have one to threewell-defined maxima.
+    40
+    Table 1.Parameters That Describe Growth Rate
+    20-
+    Distributions of Small Sodium Chlorate Crystals
+    0
+    "te.
+    R [nm/s]R [nm/s]R2 [nm/s]R3 [nm/s]
+    0
+    50
+    100
+    150
+    Figure 3a
+    528
+    56±1
+    27±1
+    53±1
+    74±1
+    Figure 3b
+    536
+    47±1
+    24±2
+    43±1
+    68±3
+    Growth Rate Before Dissolution [nm/s]
+    Figure 3c
+    286
+    18.5±0.4
+    21±2
+    Figure 2.Scatter diagram representing the correlation between the
+    Figure 3d
+    296
+    23±2
+    growth rate after rafaceting and the growth rate of the same crystalsbefore dissolution.
+    The nongrowing faces either existed when crystal observa-tion began or were the result of growth rates decreasing to zero
+    fitting procedure were described previousyAccording to
+    inexperiments without dissolution (type 2)or before
+    the histograms,some of the growth rates at the beginning and
+    dissolution (type 1).In experiments of type 1,nongrowing
+    the end of the distributions did not pertain to any of the
+    faces exist after the refaceting.There was no occurrence of
+    maxima.These growth rates were eliminated from the fitting
+    growth stopping of the faces that grew after refaceting.
+    procedure.The distributions obtained are also included in
+    Appearance of the crystals with nongrowing faces is
+    Figure 3.The growth rate dispersion in Figure 3d did not fit
+    independent of the crystal position in the crystallization cell
+    because growth rates were not measured at the same time from
+    the crystal orientation with respect to the solution flow
+    the beginning of the growth runs(crystals became motionless
+    direction,the distance between the closest neighbors,and the
+    at different moments).
+    crystal size.
+    Parameters describing the growth rate dispersions,namely,
+    Several groups of sodium chlorate crystals with nongrowing
+    N,the number of growth rates;R,the arithmetic mean of
+    faces appeared at the beginning (experiments of types 1 and 2)
+    a
+    b)
+    60
+    40
+    40
+    20
+    50100150200
+    50
+    100150200
+    Growth Rate [nm/s]
+    Growth Rates [nm/s]
+    80
+    d
+    60
+    60-
+    40
+    40
+    20
+    20
+    1015202530
+    35
+    50
+    100150200
+    Growth Rates [nm/s]
+    Growth Rate [nm/s]
+    Figure 3.Histograms representing the dispersion of (a)initial growth rates,(b)stabilized growth rates,(c)average growth rates after refaceting,and(d)average growth rates of motionless crystals.
+    dx.doi.org/10.1021/cg401162n I Cryst.Growth Des.XXXX,XXX,XXX-XXX
+
+==========第3页==========
+    Crystal Growth Design
+    Article
+    a)28C
+    a)28℃
+    )279
+    a)26℃
+    0.2mm
+    0.5mm
+    0.5mm
+    Imm
+    b)28℃
+    b)28℃
+    b)22℃
+    b)19C
+    ☑
+    0.5mm
+    0.5mm
+    c)28℃
+    c)25C
+    c)22C
+    c)19C
+    c)18℃
+    0.5mm
+    0.5mm
+    0.5mm
+    m
+    0.5mm
+    d28℃
+    d28℃
+    d)24℃
+    d20℃
+    d19℃
+    0.5mm
+    Imm
+    1mm
+    2mm
+    Figure 4.Examples of time evolution of the crystals denoted a,b,c,and d.First image of crystal,28C,before dissolution;second image of crystal,28C,after refaceting;other images,crystals at specific temperatures after refaceting.
+    Table 2.Time (Supersaturation)Evolution of a Number of Different Groups of Non-Growing Crystals
+    T(C)
+    28
+    27
+    26
+    25
+    24
+    23
+    22
+    21
+    20
+    19
+    18
+    6(%)
+    1.34
+    1.79
+    2.25
+    2.71
+    3.19
+    3.65
+    4.12
+    4.60
+    5.08
+    5.57
+    6.06
+    N4
+    31
+    31
+    28
+    28
+    25
+    20
+    13
+    10
+    0
+    0
+    N
+    6
+    7
+    6
+    6
+    4
+    2
+    4
+    2
+    0
+    N2
+    19
+    19
+    20
+    20
+    19
+    18
+    15
+    10
+    12
+    7
+    5
+    N
+    18
+    18
+    16
+    15
+    18
+    17
+    6
+    2
+    0
+    4
+    0
+    No
+    0
+    0
+    3
+    6
+    10
+    0
+    2
+    3
+    0
+    or during growth (experiments of type 2).Crystals that are in
+    (equal probability to start the growth of opposite or adjacent
+    horizontal plane (1)grew through the growth of three adjacent
+    faces).
+    faces,(2a)grew through the growth of two opposite faces,(2b)
+    The temperature decreasing significantly increases crystal
+    grew through the growth of two adjacent faces,(3)grew
+    growth rates.This results in neighboring crystals intergrowing
+    through the growth of only one {100}face,or(4)did not grow
+    after the temperature decreases below 23 C.Intergrown
+    at all.
+    crystals were exluded from further observation.Because of that,
+    The examples of time evolution of the crystals after the
+    the total number of observed crystals at lower temperatures
+    solution temperature decreased are shown in Figure 4.The
+    decreases.
+    crystals pertaining to groups listed above can be recognized in
+    Temperature decreasing below 28.0 C stimulates some of
+    this figure.Similar forms also occurred at the beginning of the
+    the nongrowing faces to grow.We can see in Table 2 that some
+    growth.
+    The main results from experiments with temperature
+    of the nongrowing faces did not start to grow until after 6 h of
+    decreasing below 28.0C are presented in Table 2.During
+    temperatures decreasing to 18 C(undercooling 13 C).Less
+    27 growth runs we observed the behavior of 74 crystals with
+    than 20%of the observed crystals with nongrowing faces start
+    nongrowing faces.The table presents the time (super-
+    to grow in all directions after 3 h of temperature decreasing to
+    saturation)evolution of a number of different groups of
+    23C.
+    nongrowing crystals.N4,N3,N2,Nu,and No are the number of
+    The number of crystals with nongrowing faces is higher than
+    crystals with 4,3,2,1,and 0 nongrowing faces,respectively.In
+    number of nongrowing directions,because zero growth in
+    the other words,N4 is the number of crystals that did not grow
+    particular direction is the result of zero growth of opposite
+    in all the observed directions,whereas No is the number of
+    crystal faces.Because of that,the mentioned 4%nongrowing
+    crystals growing in all the observed directions,developed from
+    directions are the consequence of higher percents of non-
+    any group of nongrowing crystals.It has been noticed that the
+    growing faces.Using the ratio between numbers of different
+    evolution from the shape 3 to 2a or 2b has the same probability
+    types of nongrowing crystals (Table 2),we can estimate that at0
+    dx.doi.org/10.1021/cg401162n l Cryst.Growth Des.XXXX,XXX,XXX-XXX
+
+==========第4页==========
+    Crystal Growth Design
+    Article
+    28C(supersaturation 1.34%)about 10%of all crystals had at
+    significant dissolution and refaceting practically destroyed the
+    least one nongrowing face.
+    'memory"effect,which probably existed for small dissolution
+    Examples of time evolution of these crystals after temper-
+    and refaceting.In other words,after refaceting,crystals
+    ature decreases below 28 C are shown in Figure 4.The
+    continued their growth at rates practically independent of
+    corresponding temperatures are denoted on the pictures.The
+    conditions of nucleation,which are difficult to control.
+    first and second images of each crystal show crystals at 28C
+    By comparison of the growth rate distributions with initial
+    before dissolution and after refaceting,respectively.We cannot
+    and stabilized growth rates(Figure 3a,b and Table 1),it can be
+    conclude anything about the order of the start of the
+    seen that growth rates corresponding to maxima decrease for
+    nongrowing faces'growth (first neighboring or the opposite).
+    the first 3 h of crystal growth.This is probably a consequence
+    Crystal (a)with all nongrowing faces at 28 C starts
+    inherent to crystal growth rate changes,that is,independent of
+    simultaneous growth of three faces at 26C with approximately
+    macroscopic external growth conditions.s,6 For example,in
+    the same rates,while the fourth face starts growth at 23C.
+    Figure 1,the time evolution of the growth rates in one growth
+    Different faces of other crystals started the growth at different
+    run is presented.
+    temperatures.The order of the start of the growth is random,
+    As is proposed in ref 4,the maxima positions correspond to
+    subsequently grown neighboring or opposite faces.
+    different activities of dominant dislocation groups,while the
+    We have recently shown that sodium chlorate crystals can
+    width of each maximum corresponds to its perimeter.
+    dissolve in low supersaturated solutions but cannot grow in
+    According to Figure 3c,d,after the dissolution and refaceting
+    undersaturated ones;all crystals dissolve just above the
+    fast growing faces disappeared.All faces either grow at rates
+    saturation temperature.In those experiments,we could not
+    that correspond to one maximum,that is,to one activity of a
+    observe particularly nongrowing faces (no markers)so that
+    dominant dislocation group,or they did not grow.
+    possibly different behavior could occur.
+    Because the growth in the (100)direction evolves through
+    Now,particular attention was paid to the dissolution of
+    growth of two {100}faces at opposite sides of the crystal,the
+    crystals with nongrowing faces.We have shown that all
+    first maximum in Figure 3b corresponds to their minimal
+    nongrowing faces start to dissolve a step above the saturation
+    growth rates.In other words,the growth rate of {100 is zero,
+    temperature,while the temperature slowly increases,at (31.02
+    while the growth rate of the {100}face is (24+2)nm/s and
+    +0.02)C.During the temperature decrease,a refaceting of
+    corresponds to a minimal activity of a dominant dislocation
+    the crystal was noticed at (30.98+0.02)C.In other words,
+    group.It confirms Figure 3c presenting the distribution of
+    dissolution and refaceting of nongrowing and growing faces
+    growth rates of {100}faces.The first and only maximum
+    started at the same temperatures.
+    corresponds to a minimal activity of the dominant dislocation
+    Crystals with all nongrowing faces and some crystals with
+    group.Within the error limits,the position of the maximum is
+    one to three nongrowing faces stay small at 28C(the first part
+    the same,(21+2)nm/s.Similar growth rates of all faces can
+    of experiment)and completely dissolve at a temperature of 34
+    be noticed by observing the evolution of the crystals(Figure 4).
+    C(the second part of experiment).
+    Displacements of all faces are similar during the same time,thatis,on the subsequent images.
+    ■DISCUSSION
+    Summary:
+    The main result of our investigation is the coexistence of
+    nongrowing and growing sodium chlorate crystal faces
+    nongrowing and growing sodium chlorate crystal faces in
+    coexisted in supersaturated solution,
+    supersaturated solution.Nongrowing faces are very stable;they
+    nongrowing faces are very stable,
+    exist at very high solution undercooling (supersaturation).In
+    dissolution and refaceting did not affect the probability of
+    other words,particular crystal faces had a wide "dead zone"forthe growth,while the others did not have.
+    appearance of nongrowing faces,
+    Since many of growing faces stopped growing after
+    after the dissolution and refaceting,the crystal faces do
+    refaceting,we expected that dissolution and refaceting
+    not grow or grow with similar rates.
+    increased the probability of the appearance of nongrowing
+    It was shown recently16 that at low supersaturations (below
+    faces.However,as mentioned before,the probability of an
+    0.18%)coexistence of growing,nongrowing,and dissolving
+    appearance of nongrowing faces is similar (approximately the
+    sodiumchlorate crystals exist.As possible reasons for
+    same)for primary nucleated crystals and crystals after
+    coexistence of growing and dissolving crystals such as the
+    refaceting (about 10%).This indicated that dissolution and
+    Ostwald ripening,microscopic conditions in the crystallization
+    refaceting have no influence on the appearance of nongrowing
+    chamber,microstructure of growing face,overall crystal lattice
+    faces.As mentioned,many crystals with nongrowing faces
+    strain,the Gibbs-Thompson effect,and the presence of
+    dissolved in type 1 experiments,and none of the growing
+    impurities are discussed.Some of them can be the reason for
+    crystals stopped the growth after refaceting.Nongrowing
+    existence of nongrowing faces in highly supersaturated
+    crystals either existed from the beginning of observation,or
+    solutions and will be discussed in the following paragraphs.
+    they were the result of growth rate decreasing to zero in
+    Ostwald Ripening.Ostwald ripening23 is identified with
+    experiments without dissolution (type 2).
+    the growth of large crystals at the expense of smaller ones
+    As is shown in Figure 2,the dissolution and refaceting
+    which dissolve.The dissolution of the smaller crystals
+    essentially changed growth rates of almost all observed crystals.
+    (CH-NH),CuCla near the bigger one was observed earlier
+    Some crystals growing at high rates before dissolution grew at
+    in the supersaturated solution.Accordingly,it could be
+    low rates after dissolution,and vice versa.After the dissolution
+    expected that there exists a size ratio between closest small and
+    and refaceting,many of the crystals had nongrowing faces,even
+    big crystals at which the small crystal does not grow.In our
+    some of those that were fast growing crystals before dissolution.
+    experiments crystals with nongrowing faces appeared inde-
+    A similar result was obtained for growth of KDP and Rochelle
+    pendently of distance between the closest neighbors and the
+    salt crystals in 001 direction.This indicates that the
+    crystal size.Consequently,the existence of nongrowing faces
+    dx.doi.org/10.1021/cg401162n I Cryst.Growth Des.XXXX,XXX,XXX-XXX
+
+==========第5页==========
+    Crystal Growth Design
+    Article
+    observed in our experiments,cannot be explained by Ostwald
+    nongrowing and dissolving crystals (faces)are the absorbed
+    ripening.
+    impurities in crystals.If it is true,the impurity at the
+    Microscopic Conditions in the Crystallization Cell.As
+    nongrowing faces had solubility lower than sodium chlorate.
+    was noticed,16sodium chlorate crystal growth and dissolution
+    Why those impurities incorporate only onto particular crystals
+    was independent of the crystal position,its orientation in
+    or particular faces,when even the external growth conditions
+    respect to the solution flow,and the distance between the
+    were the same is a question that arises.The answer may lie in
+    closest neighbors.Consequently,the existence of the non-
+    the differences in the bulk or the surface structure (differences
+    growing crystal faces in a supersaturated solution cannot be
+    in affinities of the faces on particular impurity)generated
+    explained by different microscopic growth conditions around
+    during the nucleation or the growth processes.
+    the crystals
+    As is proposed in the literature,3536the“dead zone'”was
+    Microstructure of the Crystal Face.Classical BCF
+    clearly recognized,both for growth and the dissolution of(001)
+    dislocation theory of the crystal growth,25,26predicts that a
+    faces of K2Cr2O7.Our results show that all nongrowing faces
+    crystal face with higher activity of the dominant dislocation
+    start to dissolve at(31.02+0.02)C during slow temperature
+    group emerging at the surface grows at a higher rate.Higher
+    increase.In other words,the"dead zone"exists only for growth
+    activity of dislocation could be expected for crystals with more
+    of sodium chlorate crystals.
+    structure defects.According to this theory,the dislocationsources free faces as well as those that have sources of opposite
+    ■CONCLUSION
+    sign and cancel one another will not grow at all.
+    We have shown that growing and nongrowing 100}sodium
+    According to the BCF theory the transition of the dominant
+    chlorate crystal faces coexist in supersaturated solutions
+    dislocation source from one face to the neighboring one can be
+    Dissolution and refaceting have no influence on the probability
+    a reason for crystal faces ceasing to grow.Namely,the crystal
+    of appearance of nongrowing faces.These processes signifi-
+    growth rate can change regardless of the growth conditions,as
+    cantly reduce the range of face growth rates.All nonzero
+    the result of a transition of the dominant dislocation source
+    growth rates pertain to one maximum of the growth rate
+    from one face to a neighboring one (growth sector
+    changed)Stopping of the face growth can be the result
+    distribution.It is probably a consequence of the minimalactivity of the dominant dislocations groups.Nongrowing faces
+    of leaving of unique dislocation sources to a neighboring face or
+    are very stable;some of them exist at a relatively high
+    transition of the dislocation source of opposite sign from
+    undercooling of 13 C.The crystal faces can start to grow
+    neighboring face,which cancel one another.Transition of
+    subsequently or simultaneously in random order,subsequently
+    dislocation sources to neighbor faces can increase their growth
+    grown neighbor or opposite faces.We have concluded that
+    rates.Stopping of the growth of any face in our experiments did
+    possible reasons for coexistence of growing and nongrowing
+    not cause the increase of the growth rate of neighboring faces.
+    faces can be the microstructures of crystal face and the impurity
+    Because of that,transition of the dominant dislocation sources
+    effects
+    from one face to the neighboring one is probably not thereason for growth stopping of previously grown faces.
+    ■AUTHOR INFORMATION
+    The dissolution and refaceting induce additional defects incrystal structures,which probably change the dislocation
+    Corresponding Author
+    structure25,26 and the"overall"lattice strain2-3 of the crystals.
+    E-mail:mico@ff.bg.ac.rs
+    The dissolution and refaceting have no influence on the
+    Author Contributions
+    appearance of nongrowing faces in the experiments presented.
+    The manuscript was written through contributions of all
+    This means that the defects probably do not influence the
+    authors.All authors have given approval to the final version of
+    appearance of nongrowing faces.
+    the manuscript.
+    Impurity Effects.The presence of small amounts of
+    Funding
+    impurities at the growing face affects the crystal growth.
+    This work was supported by the Serbian Ministry of Education
+    Random perturbations in impurity concentrations near the
+    and Science through Grant No.171015
+    crystal surface are the usual explanation for growth rate
+    Notes
+    changes.Growth rate dispersion and zero and negative values
+    The authors declare no competing financial interest.
+    of the growth rates of calcium sulfate crystals were explained by
+    the efects of mpurities
+    ■ACKNOWLEDGMENTS
+    The existence of a "dead zone"for crystal growth wasconfirmed for many substances.12 This phenomenon might be
+    The authors thank Mr.M.Rados for assistance with the
+    explained by the presence of impurities.Immobile impurity
+    experiments
+    particles can adsorb on the surface and completely abrogatestep spreading at low supersaturations.They also may block the
+    ■REFERENCES
+    entrance of growth units to kinks13,14and progressively
+    (1)Randolph,A.D.;White,E.T.Chem.Eng.Sci.1977,32,1067.
+    1
+    decrease the step velocity.
+    (2)Janse,A.H.;de Jong,E.J.In Industrial Crystallization '78;de
+    sa不iep所
+    Jong,E.J.;Jancic,S.J.,Eds.;North-Holland:Amsterdam,1979;pp135-142.
+    which result in crystal growth rate changes.Crystal growth rate
+    (3)Virone,C.;ter Horst,J.H.;Kramer,H.J.M.;Jansens,P.J.I.
+    increaswl happen f an adsorbed impurity has soub
+    Cryst.Growth 2005,275,1397.
+    (4)Zekic,A.A.;Mitrovic,M.M.J.Cryst.Growth 2003,258,204
+    higher than that of a crystallizing substance,and vice versa.
+    (5)Mitrovic,M.M.J.Phys.Chem.1995,99,5438.
+    In experiments described above,the analar grade of sodium
+    (6)Mitrovic,M.M.Chem.Phys.Lett.1997,265,315.
+    chlorate (99%purity)was used.It was proposed recently that
+    (7 Mitrovic,M.M.;Zekic,A.A.;Ilic,Z.Z.Chem.Phys.Lett.2002
+    for this system,a possible reason for coexistence of growing,
+    361,312.
+    dx.doi.org/10.1021/cg401162n I Cryst.Growth Des.XXXX,XXX,XXX-XXX
+
+==========第6页==========
+    Crystal Growth Design
+    Article
+    (8)Mitrovic,M.M.;Zekic,A.A.J.Cryst.Growth 2005,275 (1-2),e337.
+    (9)Mitrovic,M.M.;Zekic,A.A.Cryst.Res.Technol.2002,37,57.(10)Linnikov,O.D.Desalination 2000,128,47.
+    (11)Sohnel,O.;Bravi,M.;Chianese,A.;Mazzarotta,B.J.Cryst.
+    Growth1996,160(3-4),355.
+    (12)Sangwal,K.Prog.Cryst.Growth Charact.1996,32,3.
+    (13)Mullin,J.W.;Amatavivadhama,A.;Chakraborty,M.J.Appl.
+    Chem.1970,20,153.
+    (14)Mullin,J.W.Crystallisation,2nd ed.;Butterworths:London1972.
+    (15)Ristic,R;Shekunov,C.Yu.;Sherwood,J.N.J.Cryst.Growth1994,139,336.
+    (16)Malivuk,D.A.;Zekic,A.A.;Mitrovic,M.M.;Misailovic,B.M.I.
+    Cryst.Growth 2013,377,164.
+    (17)Mitrovic,M.M.;Zekic,A.A.;Elezovic-Hadzic,S.;Malivuk,D.AInd.Eng.Chem.Res.2011,50(14),8726.
+    (18)Mitrovic,M.M.;Zekic,A.A.In Recent Research Developments in
+    Crystal Growth;Pandalai,S.G.,Ed.;Transworld Research Network:
+    Kerala,India,2009;pp 33-60.
+    (19)Ristic,R.I;Sherwood,J.N.;Wojciechowski,K.J.Cryst.Growth1988,91,163.
+    (20)Harding,M.M.;Rule,R.J.;Oldman,R.J.;Davey,R.J.J.Cryst.
+    Growth1992,123(3-4),373.
+    (21)Mitrovic,M.M.;Zekic,A.A.;Baros,Z.Z.Chem.Phys.Lett2008,464,38.
+    (22)Mitrovic,M.M.;Zekic,A.A.;Petrusevski,Lj.S.J.Cryst.Growth1999,198/199,687.
+    (23)Ostwald,W.Z.Phys.Chem.1901,37,385.(24)Mischgofsky,F.H.J.Cryst.Growth 1983,65,500.
+    (25)Burton,W.K;Cabrera,N.;Frank,F.C.Philos.Trans.R.Soc.,A1951,243,299.
+    (26)Chernov,A.A.;Rashkovich,L.N.;Smolskii,I.L.;Kuznetsov,
+    Yu.G.;Mkrtchan,A.A.;Malkin,A.A.In Rost Kristallov;Givargizov,E
+    L,Ed.;Nauka:Moscow,1986;Vol.15.
+    (27)Zaitseva,N.;Carman,L.;Smolsky,I.J.Cryst.Growth 2002,241,
+    363.
+    (28)Klapper,H.;Becker,R.A.;Schmiemann,D.;Faber,A.Cryst.Res
+    Technol.2002,37,747.
+    (29)van der Heijden,A.E.D.M.;van der Eerden,J.P.J.Cryst
+    Growth1992,18,14.
+    (30)Mitrovic,M.M.;Ristic,R.L;Ciric,I.Appl.Phys.1990,A51,374.(31)Zacher,U.;Mersmann,A.Cryst.Growth 1995,147,172.(32)Linnikov,O.D.Desalination 2000,128,35.(33)Sangwal,K.J.Cryst.Growth 1989,97,393.
+    (34)Sangwal,K.In Elementary Crystal Growth;Sangwal,K,Ed.;
+    Saan:Lublin,Poland,1994;Chapter 4.
+    (35)van Enckevort,W.J.P.J.Cryst.Growth 1996,166,156.(36)Ceyhan,A.A.;Bulutcu,A.N.J.Cryst.Growth 2011,327,110.
+    G
+    dx.doi.org/10.1021/cg401162n I Cryst.Growth Des.XXXX,XXX,XXX-XXX
+
+==========第7页==========

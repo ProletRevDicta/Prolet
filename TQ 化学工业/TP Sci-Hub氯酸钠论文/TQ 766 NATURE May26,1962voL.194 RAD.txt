@@ -1,0 +1,183 @@
+    766
+    NATURE
+    May26,1962voL.194
+    RADIATION CHEMISTRY
+    Radiation Decomposition of Sodium
+    Chlorate
+    THe decomposition of alkali chlorates by ionizing
+    radiation has already been examined.In 1959.Heallidentified chloride,chlorite,hypochlorite,oxygen,dichlorine hexoxide and chlorine dioxide as_thedecomposition products from solid potassium chloratesubjected to X-rays.Baberkin2 reported onlychloride,oxygen and chlorite as products of thedecomposition of solid potassium chlorate by cobalt.60 y-rays.The yield of chlorite was 1.2 moleculesformed/100 eV.of energy absorbed.In samples after.wards heated to 200C.the yield of chlorite decreasedto 0.8 molecule/100 eV.The decrease in the yield ofchlorite was attributed to its decomposition into
+    Fig.3.(×450)
+    chloride and oxygen.An investigation of the decomposition of solid sodium,potassium and bariumchlorates by cobalt-60 y-rays has been carried out by
+    Burchilla.Oxygen,chlorite and chloridewereidentified as major products in solutions of the irrad-iated salts,with smaller amounts of chlorine dioxide.hypochlorite and perchlorate being formed.
+    The work reported here concerns a more detailedinvestigation of the effects of annealing previouslyirradiated sodium chlorate.Irradiations were carriedout at room temperature in a commercial cobalt-60irradiation unit.It was found by chemical analysisof solutions of the irradiated salt that go,=1.95,
+    Gc02=134,Gc1-=095,Gc02=023,G10-=021,and Gcio-=0-22.
+    Irradiated crystals were heated for varying timesat a given temperature,and the effect of this thermalannealing on the a values of all the products wasstudied.The most striking change was observed tooccur in the chloride yield.The variation in Gcl-isshown in the figure0 n annealing at50°，Gc-reaches a maximum,Gcl-=1.38,then falls,levelling
+    Fig.4.(×e.260)
+    off at a plateau value Gc--0.55.At the higher
+    considered as being built up of plates in which screw
+    temperatures of100°，l85°and210°C,the yield of
+    dislocations play a part in the growth mechanism.
+    chloride increases,but the later decrease is notobserved.
+    Impurity blocking of the serew front would lead toformation of a branch while plates growing from the
+    The results may be interpreted in terms of theformation of a high-energy lattice defect structure
+    branch would complete the layered dendritic appear-
+    produced by irradiation,which normally yields
+    ance.
+    While growth patterns due to screw dislocations
+    chlorate ion when the crystals are dissolved.How-
+    have been observed on graphite found in the naturalstates and on graphite formed by solid state graphitiz-ation',no direct evidence is available for participa-
+    -210°C
+    tion of serew dislocations in the growth of graphitefrom the melt.
+    20
+    The dendritic graphite observed in the presentexperiments appears to grow by the repeated nuclea-
+    100℃
+    tion of steps which advance as a series of macro-stepsinto the liquid.The aggregation of small steps intomacro-steps suggests kinetic factors associated with
+    홍
+    the flow of steps.The layered structure of thecrystal is related to the macro-steps and may be
+    10
+    observed on etching a prepared microsection inhydrogen peroxide (Fig.4).
+    I.MINKOFF
+    D50°C
+    I.EINBINDER
+    Faculty of Mechanical Engineering
+    Technion,Haifa,Israel.
+    1
+    Nipper,Ⅱ.，Gie8sere,22,280(1935).
+    0
+    5
+    1015
+    %
+    25
+    30
+    Saratovkin,D.D.,(Dendritic Crystallization Consultants Bureau,
+    Time (hr.)
+    Inc.,New York,1959).
+    8Horn,E.H,Nature,170,581(1962).
+    then amme theere tme
+    Tsuzuku,Takuro,J.Phys.Soc.Japan,12 (7),778 (1957).
+    and temperatures
+    1962 Nature Publishing Group
+
+==========第1页==========
+    No.4830May26,1962
+    NATURE
+    767
+    ever,when the solid is heated,sufficient energy is
+    that the a values obtained even with identical samples
+    provided for the defect structure to decompose to
+    of DNA from herring sperm irradiated by example at
+    chloride on heating.At 50C.the later decrease in
+    a rate of2-7×104r./hr.to a dosage of34×10sr.
+    chloride is presumably due to recombination of
+    are greatly affected by the external conditions?and
+    chloride with the oxygen atoms to reform chlorate.
+    are in fact much greater in vacuo (24 x 10-4)than in
+    At higher temperatures,this recombination is less
+    air(1.9×10-4).
+    complete,probably because of competing reactions
+    In the present experiments,both the shape and the
+    such as diffusion of oxygen atoms away from the
+    intensity of the resonance line was found to vary with
+    damage site or by combination of oxygen atoms to
+    time.Four hours after the end of irradiation the
+    form oxygen molecules.
+    central line was practically unchanged,though the
+    P.F.PATRICK
+    heights of the derivatives of the side lines had
+    K.J.MCCALLUM
+    decreased significantly.But,after 24 hr.,the central
+    Department of Chemistry
+    line width had become 14 cersteds whereas the side
+    University of Saskatchewan
+    lines were so smeared out and the signal-to-noise was
+    Saskatoon,Canada.
+    so bad that they could not be measured with any
+    I Heal,H.G.,Canad.J.Ckem.,37,979 (1959)
+    accuracy.In these conditions,the total number of
+    a Babeeki2,T67odaSo8ha2o&aast9em.Akad.Nauk,
+    unpaired spins may only be tentatively estimated as
+    a Burchill,C.E.,M.A.thesis,Univ.of Saskatchewan (1960).
+    being 45 per cent less than in the initial state.
+    We thank Prof.J.Duchesne for helpful discussions,
+    Prof.J.A.V.Butler and Dr.P.Alexander for
+    Electron Spin Resonance in Y-Irradiated
+    samples of DNA,and the Centre d'Etude de I'Energie
+    Nucleaire,Mol,for providing irradiation facilities.
+    Deoxyribonucleic Acid
+    DuRING the past five years radiation-induced free
+    C.DORLET
+    radicals in deoxyribonucleic acid (DNA)have been
+    A.VAN DE VORST
+    the object of studies using electron spin resonance1-5.
+    A.J.BERTINCHAMPS*
+    In particular,some work in this field was undertaken
+    Institut d'Astrophysique,
+    in our laboratory6 with the main result that the
+    University of Liege.
+    yield of free radicals from y-rays depends on thedose-rate.
+    Present address:Euratom,rue Belliard,Brussels,Belgium.
+    The present communication summarizes some new
+    Shields,H.,and Gordy,W.,Bull.Amer.Phys.Soc.,Ser.2,1,267(1956).
+    results obtained using DNA from trout sperm which,
+    Gordy,W.,Rad.Res.,Supp.1,491 (1959).
+    irradiated in air at a temperature of 30 C.with
+    i-Guen.Blumenfeld.s
+    .s
+    A.and Fasynaki,
+    Y-rays of cobalt-60,gave rise to a remarkable structure
+    Boag,J.W.,and Mtiller,A.,Nalure,183,831 (1959).
+    of the resonance line.The sample contained 0.1 per
+    5 Alexander,P.,Lett,J.J.,and Ormerod,M.G.,Biochim.Biophys.
+    cent by weight of protein,approximately 20 per cent
+    Acta,51,207(1961).
+    of water and a trace of sodium acetate.A conven-
+    Van de Vorst,A.,Van der Kaa,J.M.,Duchesne,J.,Depireux,J..
+    Bertinchamps,A.,Bul.Anpere,geme annee,Spec.Fasc.
+    tional X-band electron spin resonance spectrometer
+    (1960).
+    with reflexion cavity was used.The external mag.
+    Van de Vorst,A.,and Dorlet,C.(unpublished results).
+    netic field was modulated at 416 c./s.and the firstderivatives of the absorption curves were recordedafter selective amplification and phasesensitive
+    CHEMISTRY
+    detection
+    Fig.I shows a typical spectrum recorded 2 hr
+    Catastrophic Failure of Stressed
+    after irradiation at a rate of 5 x 105r./hr.to a dose of
+    Polyethylene Terephthalate
+    3 x 107 r.It consists of a central peak and twoless-intense non-symmetrical side peaks.The central
+    Ir has recently been reportedi that nylon and
+    peak has a width at maximum slope of 10 cersteds
+    'Plexiglas'plates,if subjected to a bending stress in a
+    and its G value is 2.003 +0.003.The number of free
+    vice,will give rise to catastrophic failure if the point
+    radicals per gram measured from the total area under
+    of greatest tension is treated with a drop of some
+    the curve is3·6×I015.The radiation yield G is
+    suitable liquid.It was concluded that the cohesive
+    2×10-4as compared with 9x 10-4 obtained pre-
+    forces in the plane of greatest tensile strain collapse
+    viously by uss with commercial samples of DNA from
+    via the action of wetting and adsorption processes.
+    herring sperm irradiated in air at the same rate.It
+    Similar behaviour occurg with amorphous poly-
+    should be mentioned that vields of 9 x 10-4
+    ethylene terephthalate sheet;but here a somewhat
+    and
+    2 x 10-1 have been obtained with Y-rays by Blumen-
+    different mechanism for the cohesive breakdown is
+    felds and Alexander respoctively on DNA's of different
+    suggested.
+    origins.However in these cases,the irradiations
+    If a strip of sheet (approximately 0.1 x 1 x 5 cm.)
+    were performed in vacuo so that onlydoubtful
+    is given a bending stress by wrapping round a steel
+    comparisons may be drawn.We have indeed shown
+    rod (15 em.diam.)and then held firmly in a vice,itwill initially become opaque in the area of treatmentwith a spot of acetone,and ultimately fracture.
+    It has been shown2,3 that a series of organic liquidswill induce crystallization in amorphous polyethyleneterephthalate,particularly if the solubility parametersof the liquids lie within a certain critical range.Thisprocess of crystallization is accompanied by anincrease in opacity.It is therefore suggested that
+    29 oersteds
+    in the case of the stress-cracking described above,theacetone,or indeed presumably any liquid the solu-
+    Fig.irat8fB架of68seh92aeeoma8a8alsot
+    bility parameter of which lies within the permitted
+    1962 Nature Publishing Group
+
+==========第2页==========

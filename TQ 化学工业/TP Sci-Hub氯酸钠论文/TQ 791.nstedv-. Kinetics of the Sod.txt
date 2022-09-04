@@ -1,0 +1,496 @@
+    791.nstedv-.
+    Kinetics of the Sodium Chlorate Formation in Electrolysisof Chloride Solutions with Use of Dimensionally Stable Anodes
+    S.V.Evdokimov
+    Russian Federation Scientific Center "Karpov Research Institute of Physical Chemistry,"
+    ul.Vorontsovo Pole 10.Moscow.103064 Russia
+    Received November 15,1999;in final form,October 23,2000
+    Abstract-The kinetics of the formation of sodium chlorate during electrolysis of chloride solutions with useof dimensionally stable anodes is studied.An analysis and calculations suggest that the experimental results arewell described by the proposed set of differential equations under the assumption that the homogeneous chem-ical reaction of chlorate formation has second,rather than third,order by active chlorine.
+    INTRODUCTION
+    Scheme (II)with an irreversible chemical stage for-
+    This work continues the research we initiated into
+    mally corresponds to a fast electrochemical process
+    the electrochemical and corrosion processes that occur
+    accompanied by a subsequent slow homogeneous
+    during chlorate electrolysis with use made of dimen-
+    chemical reaction of order p (the process was consid-
+    sionally stable anodes DSA [1,2].
+    ered in 6-101)
+    In the conditions of chlorate electrolysis on porous
+    Red VMM+ne,
+    (IΠ.1)
+    DSA,there occurs a fast primary process of the forma-tion of chlorine molecules,which then undergo hydrol-
+    pM=Ox,
+    (.2)I
+    ysis,with the subsequent slow homogeneous chemical
+    provided the rate of the reverse chemical stage of con-
+    reaction of the NaClO3 formation [3-5]
+    version of Ox to M can be ignored in scheme (III),where Vm is a stoichiometric coefficient by component
+    2C1=Cl2+2e,
+    I.1)
+    M.As shown in [6-10],sufficiently far from equilib-rium,the Tafel slope of a polarization curve (PC)for
+    Cl2+H2O HCIO+CI+H,
+    1.2)
+    such an irreversible process in scheme III is
+    HCIO =H*+CIO,
+    1.3)
+    b=2.32yMR7
+    (3)
+    p+InF
+    2HCIO+CIO C1O3+2H"+2C1.
+    (I.4)I
+    while the reaction's exchange current is
+    According to Ferster,the rate of a homogeneouschemical reaction similar to stage (I.4)is described by
+    io nF2
+    (4)
+    the kinetic equation
+    VMND+T VoCOD,
+    where D is the diffusion coefficient for substance M in
+    v=ko[HCIO][CIO ]
+    (1)
+    the bulk solution,vo is the chemical reaction rate under
+    As follows from (1),the homogeneous reaction of the
+    open-circuit conditions,and co is the concentration of
+    NaClO,formation has third order by active chlorine
+    component M at infinite distance from the electrode.
+    (AC)[3].The AC concentration [CI*]is
+    In view of the above,for conditions of chlorate elec-trolysis,the Tafel slope must equal 2.3RT/4F,because
+    [CI*]=[HCIO]+[CIO ]
+    (2)
+    n =2,VHcio 1,and p=3.
+    Formally,the NaClO3 formation can be representedas involving two successive stages.Species of AC form
+    THEORETICAL MODEL
+    in the first,fast and reversible,electrochemical stage.In
+    When studying the NaClO;formation kinetics,one
+    the second,slow,homogeneous reaction,these irrevers-
+    can employ not only the method of steady-state PC,but
+    ibly convert to NaClOs via a third order reaction:
+    a non-steady-state method as well.The latter involvesanalysis of relevant kinetic curves,specifically,time
+    C1厂=Cl*+2e,
+    .1)
+    dependences of concentrations of AC and NaClO3.
+    Suppose that a "pure"chloride solution is used in
+    3C1*→C103.
+    I.2)I
+    experiments.By such a solution we mean an electrolyte
+    1023-1935/01/3708-0786$25.00©2001MAIK“Nauka/Interperiodica”
+
+==========第1页==========
+    KINETICS OF THE SODIUM CHLORATE FORMATION
+    787
+    where initial concentrations of AC and NaclO are
+    E.V
+    zero.
+    1.38
+    Once a polarization is imposed,in accordance withscheme (ID),AC starts to form in the solution at the rate
+    Wo KI/2FV,at the expense of electrolysis.Simulta-neously,AC will be spent at the rate W=3k[Cl*],due
+    1.34
+    to the NaClO formation at the rate W=k[Cl*JP.Quan-tities W and W differ by a factor of three,because threespecies of AC participate in the formation of one chlo-rate ion.In these formulas,p is the reaction order by
+    1.30
+    AC,which can be other than three;K=CE/100,whereCE is the overall current efficiency by AC and NaC1O3,which can vary with time;I is the current;Vis the over-
+    3
+    -2
+    -1
+    all electrolyte volume;and k is an effective rate con-
+    logi [A cm-2]
+    stant,which can depend on pH.We assume that thechloride concentration and the solution volume
+    Fig.1.Angdic PC for DSA (=5g m-2 Ru,2 cm2),recorded
+    undergo no substantial changes during the time period
+    in 300 g 1-NaCl+0.2 g1-K2Cr2O7 solution of pH 6 to 7
+    it takes [Cl*]to reach a steady-state value.The time
+    at a steady-state AC concentration and 90C.
+    dependences of volume concentrations of AC and
+    NaClO satisfy the set of differential equations
+    The sought-for parameters in (9)are varied until the
+    d[Cl*]KI
+    discrepancy between the theoretical and "experimen-
+    (5)
+    dt
+    2FV-3k[C*
+    tal"dependences of v on [Cl*]is reduced to a mini-mum.
+    d[CIO3]=k[C1*]P.
+    (6)
+    dt
+    EXPERIMENTAL
+    Using the time dependence of CE and concentrations of
+    The electrochemical behavior of DSA in a chlorate
+    AC and NaClO3,one can determine k and p by search-
+    electrolysis was studied in a setup with common anodic
+    ing for optimum parameters in (5)and (6).To this end,
+    and cathodic compartments [11].The cathode was
+    one has to have an experimental dependence v=
+    made of titanium,on which a protective porous film of
+    v([CI*])in an explicit form,where vis the rate of vari-
+    chromates had been formed,the film substantially
+    ations in [Cl*]with time.Such a dependence can be
+    diminishing the AC reduction current.
+    found by differentiating an experimental time depen-
+    The experiments,in which current efficiencies for
+    dence of [CI*],provided one succeeded in deriving
+    AC and NaClO3 were determined,were carried out in
+    approximating functions for the experimental curves.
+    the following manner.Upon pouring 600 ml of a work-
+    To the first approximation,one can describe the
+    ing solution (5 M NaCl 0.2 g 1-1 K2Cr2O)into the
+    obtained experimental time dependences by polynomi-setup,we imposed polarization on the electrolyzing cellals
+    (I=4.2 A)and started supplying an HCI solutiondiluted in a 1:1 ratio.In the course of experiment,solu-
+    [CI*]=∑a,1,[CIO]=∑b,'
+    (7)
+    tion samples were collected at certain time intervals.To
+    (r)
+    (r)
+    prevent chemical conversion of AC into NaClO3,thesamples were rapidly cooled with ice to room tempera-
+    According to linear programming (linear regression)
+    ture.Then the overall content of [HCIO][NaClO]
+    calculations,the time dependences of concentrations of
+    [NaC1O3],was determined in these solutions by iodo-
+    AC and NaClO3 satisfy polynomials of fifth and third
+    metric titration with concentrated hydrochloric acid.
+    order,respectively.
+    The NaClO3 concentration in similar portions of solu-
+    From(7)and the polynomial coefficients,we com-
+    tions was determined by separate iodometric titration
+    pute v(t)
+    with dilute sulfuric acid.
+    vd[Cl*]
+    a rt
+    (8)
+    dt
+    RESULTS AND DISCUSSION
+    (r)
+    Figure 1 shows a typical anodic PC recorded on
+    Then we utilize the available time dependences of Cl*]and v to construct an"experimental"dependence of v
+    standard DSA in a 5 M NaCl +0.2 g 1-1 K2Cr2O7 solu-
+    tion of pH 6 to 7 at 90C in conditions of chlorate for-
+    on [Cl*].This dependence is described by the equation
+    mation at a steady-state concentration of AC in solu-
+    K
+    V=
+    -3k[CI*]P.
+    (9)2FV
+    I The experimental part of the work was carried out with the partic-
+    ipation of V.V.Gorodetskii
+    RUSSIAN JOURNAL OF ELECTROCHEMISTRYVol.37No.82001
+
+==========第2页==========
+    788
+    EVDOKIMOV
+    c,M
+    CE.
+    0.20-
+    150
+    0.15
+    100-
+    0.10
+    50
+    2
+    0.05
+    0
+    50
+    100150200250
+    t,min
+    nnnm
+    50
+    100
+    150
+    200
+    250
+    t,min
+    Fig.3.Time dependence of overall CE for AC and NaClO?for 300g 1 NaCl+0.2 g 1-K2Cr2O7;pH 8 to 9,90C.
+    Fig.2.Time dependences of concentrations of (1)AC and
+    (2)NaClO3 for 300 g1 NaCl +0.2 g1 K2Cr2O7;pH 8 to
+    9,90°C.
+    the background of a higher AC concentration.Hence,when searching for parameters k and p via (9),we willassume K≈l.
+    tion.The electrode's open-circuit potential was 1.29 V.
+    Using these data,equation (9),and nonlinear pro-
+    The PC has a long linear portion with a slope of
+    gramming,we can find the rate constant for the NaClO
+    32.7 mV,which is close to 2.3RT/2F,which corre-
+    formation and the reaction order by AC.When search-
+    sponds to the preceding electrochemical stage (II.1)
+    ing for optimum parameters,the initial value of p was
+    with an exchange current of about 1 mA cm-2.Due to
+    taken to be three.The calculation yielded optimum
+    the effect of the reverse process (chlorine ionization)
+    order p=2.2.If the initial approximation wasp=1,the
+    near the open-circuit potential,it proved impossible to
+    result was the same,i.e.p=2.2.The optimum rate con-
+    observe the lower Tafel portion with a smaller slope
+    stant was the same in either case,specifically,3k
+    (2.3RT/4F),which corresponds to the subsequent slow
+    0.087 (with time expressed in minutes and volume,in
+    chemical stage (II.2).Thus the method of steady-state
+    liters).The overall curve,computed with (9)for opti-
+    PC allows one to investigate only the kinetics of the
+    mum parameters k and p is represented in Fig.4.
+    preceding electrochemical stage.Information aboutkinetic parameters of the homogeneous chemical reac-tion of the NaClO3 formation can apparently be
+    A MORE EXACT DEFINITION
+    obtained only with a non-steady-state method.
+    OF THE THEORETICAL MODEL
+    We used such a non-steady-state method for study-ing the kinetics of the NaClO3 formation at higher pH
+    As the order of the NaClO formation reaction by
+    values of 8 to 9(this was dictated by procedural consid-
+    AC proved to be closer to two than to three,for a theo-
+    erations).Figure 2 shows time dependences of concen-
+    retical model,instead of equations (5)and (6),with
+    trations of AC and NaC1O3,which are typical for these
+    allowance made for the approximation K~1,we should
+    conditions.The symbols in Fig.2 represent experimen-
+    write the equations
+    tal points,and the lines were calculated with equations
+    (7).With time,[Cl*]increases and tends to a steady-
+    dC*]=
+    (11)
+    state value [Cl*]1,which must correspond to a zero
+    dt
+    2FV-3kIC,
+    right-hand part in (5)
+    KIp
+    dICIo3=k[CI*]2
+    (12)[CI*]1=
+    (10)
+    dt
+    6FVk
+    From (12),we obtain the equation for the time
+    The NaClO,concentration steadily increases with time
+    dependence of the NaClO;concentration:
+    in accordance with (6).
+    Figure 3 shows an experimental time dependence of
+    [C1O3]=k[C1*]dt.
+    (13)
+    overall CE (by AC and NaClO).As seen,throughoutthe entire experiment,overall CE of about 80-90%
+    Let us introduce the designation
+    remains nearly constant.The marked deviation of thefirst two points from 100%is due to the inaccuracy of
+    1
+    (14)
+    determination of a low NaClO3 concentration againsta=
+    2FV
+    RUSSIAN JOURNAL OF ELECTROCHEMISTRYVol.37No.82001
+
+==========第3页==========
+    KINETICS OF THE SODIUM CHLORATE FORMATION
+    789
+    Solution of (11)reduces to the standard integral
+    v,mol 1-min-1
+    0.003-
+    [CI*]=a (exp(23akt)-
+    (15)
+    3kexp(23akt)+1
+    Equation (15)explicitly defines the sought time depen-
+    0.002
+    dence of the AC concentration.As follows from (15).atinfinite time,[Cl*]tends to its steady-state value [Cl*]
+    0.001
+    [C1*]1=3k
+    (16)
+    Equation (16)offers a simple means for evaluating therate constant through experimentally measured value of
+    0
+    0.1
+    0.2c,M
+    the steady-state AC concentration
+    Fig.4.Rate of change in [CI*]vs.current concentration ofa
+    AC in 300g1 NaCl+0.2g1-K2Cr207;pH 8 to 9,90C.
+    k=
+    (17)
+    시3[C1*
+    Substituting (15)into (14)and integrating,we obtain
+    Thus,the combination of the above equations allowsone to calculate basic characteristics of a chlorate elec-
+    the sought time dependence of the NaclO concentra-
+    trolysis.
+    tion
+    As the reaction order by AC is equal to two,and not
+    [CIO3]
+    to three,reaction (1.4)is not an elementary one.Rather,
+    it represents,most likely,a sequence of bimolecular
+    2√a/3k(18)
+    +(a/3k)tconst.
+    steps.With this assumption in mind and taking into
+    3k'(exp(2√3akt)+1)
+    account that no chlorate forms in pure HCIO solutions[4],we can divide the scheme of reaction (1.4)into two
+    Given the initial condition [C1O3]=0 at t=0,we find
+    stages
+    the integration constant
+    HCIO+CIO=C1O,+H+CI,
+    .4a)
+    const =-(1/3)a/3k.
+    (19)
+    HCIO+C1O2 CIO3+H+CI,
+    I.4b)
+    With the time dependences of concentrations of AC and
+    NaclO available,we can calculate the rates of their
+    and assume that the process rate is limited by stage
+    increase with the equations
+    (I.4a),while stage (I.4b)is fast.Then,the kinetic equa-tion for the process rate takes on the form
+    v(CI*)=a-3k[CI*]2,
+    (20)
+    v=ko[HCIO][CIO ]
+    (27)
+    v(C1O3)=k[CI*]2.
+    (21)
+    We can express concentration [CIO-]in (27)
+    Then we can find currents corresponding to the forma-
+    through [HCIO]and [H+]from equilibrium condition
+    tion of AC and NaClO3
+    1.3):
+    I(CI*)=2Fv(Cl*)V,
+    (22)
+    [C1O]=KD[HCIO]
+    (28)
+    I(C1O3)=6Fv(C1O3)V,
+    (23)
+    [H]
+    where V is the solution volume where these reactions
+    where Kp is the dissociation constant for hypochlorous
+    occur.We can also compute relevant CE for AC and
+    acid.Equation (27)must be expressed through [Cl*],asone can measure experimentally [Cl*],rather than indi-
+    NaClO3,CE(Cl*)and CE(C1O3),respectively:
+    vidual concentrations of hypochlorous acid andhypochlorite.From(2)and(28),we find [3]
+    CE(CI*)=1(CI2x100%,
+    (24)
+    [HCIO][H']ICI*]
+    (29)
+    CE(CIO3)=I(CIO3)
+    [H]+Kp
+    ×100%
+    (25)
+    I
+    Substituting(28)and(29)into (27),then
+    The overall CE for AC and NaClO3 is
+    =koKpIH'IICI*2
+    (30)
+    CECE(CI*)+CE(CIO)
+    (26)
+    ([H]+KD)
+    RUSSIAN JOURNAL OF ELECTROCHEMISTRY
+    Vol.37No.82001
+
+==========第4页==========
+    790
+    EVDOKIMOV
+    CE(C1*),%
+    logc M]
+    Or
+    100▣
+    50
+    5
+    9pH
+    50
+    100150200250
+    t,min
+    Fig.6.The pH dependence of steady-state AC concentration (based on data given in table)in 300 g 1 NaCl
+    Fig.5.Time dependence of CE for AC for 300g1 NaCl+
+    0.2 g1-K2Cr207 at 90C:(symbols)experiment and (solid
+    0.2g 1-1 K2Cr207;pH 8 to 9,90C.
+    line)calculation.
+    This implies that the effective rateconstant of the
+    pH.This conforms to relation (31),from which it fol-
+    NaC1O,formation is pH-dependent
+    lows that the effective rate constant increases with [H+]by first order,provided [H+]<Kp.At [H+]>Kp,a fur-
+    koKp[H]
+    ther decrease in solution pH will make the rate constant
+    k=
+    (31)of the NaClO3 formation decrease (our estimate yielded
+    ([H]+KD)
+    KD=6.6×10-8at90°C).
+    As follows from(16)and (31),at [H+]<Kp,the pH
+    COMPARING THE CORRECTED MODEL
+    dependence of the logarithm of the steady-state AC
+    WITH EXPERIMENT
+    concentration is linear,with a slope of 0.5.To verifythis conclusion,the relevant experimental dependence
+    When calculating dependences of concentrations of
+    (Fig.6)was approximated with the equation
+    AC and NaClO with (15)and (18),we employed theoptimum constant 3k 0.055 mol 1 min-1,which had
+    log [C1*]1=a+bpH.
+    (32)
+    been found using a nonlinear programming method.
+    The curves thus calculated coincided with relevant
+    The optimum coefficients,found with a linear regres-
+    experimental and calculated curves (Fig.2).Figure 5
+    sion method,are a =-3.726 and b=0.36.When deter-
+    shows time dependences of CE for AC:experimental
+    mining these parameters,we ignored the first point.
+    (symbols)and calculated with (20),(22)and (24)(solid
+    because [Cl*]is pH-independent at pH 6-6.5.The
+    line)and demonstrates good agreement between the
+    slope value 0.36 we obtained is in a reasonable agree-
+    model and experiment.Similar kinetic measurements
+    ment with its expected theoretical value of 0.5.
+    were taken at lower pH values of 7.4-7.8 (table).
+    Similar non-steady-state measurements were car-
+    The calculations we performed showed that,in a
+    ried out at pH 6 to 7.The conclusion was that a steady-
+    chlorate electrolysis,the rate constant of the NaClO
+    state AC concentration occurs in this case much sooner.
+    formation increases to 3k=1 with decreasing solution
+    which makes it difficult to study the NaClO3 formationkinetics.That is why we performed all the measure-ments in this work at higher pH and tested basic proce-
+    Time dependences of concentrations and CE of AC and
+    dural questions connected with the obtaining of exper-
+    NaCIO3,measured in 300 g 1-1 NaCl +0.2 g 1-1 K2Cr207;
+    imental results and their subsequent mathematical
+    pH7.4-7.8,90C
+    treatment.
+    t,min
+    [CI*],M[NaCIO3],M
+    CE(C1*),
+    CE(NaCIO3),
+    %
+    %
+    ACKNOWLEDGMENTS
+    10
+    1.75×102
+    1.83×10-3
+    83.75
+    26.3
+    The author thanks E.V.Kasatkin for useful critical
+    30
+    4.75×10-2
+    6.8×103
+    69.70
+    30.1
+    advice aired when discussing this work.
+    60
+    4×10-2
+    2.8×10-2
+    28.10
+    58.6
+    120
+    4×10-26.75×10-2
+    13.40
+    67.8
+    REFERENCES
+    180
+    4.5×10-21.23×10-1
+    9.57
+    78.4
+    1.Evdokimov,S.V.,Elektrokhimiya,1999,vol.35,p.366.
+    240
+    4.5×10-21.54×101
+    7.18
+    73.8
+    2.Evdokimov,S.V.,Elektrokhimiya,1999,vol.35,p.202.
+    RUSSIAN JOURNAL OF ELECTROCHEMISTRY Vol.37 No.8 2001
+
+==========第5页==========
+    KINETICS OF THE SODIUM CHLORATE FORMATION
+    791
+    3.Kokoulina,D.V.and Krishtalik,L.I.,Elektrokhimiya,
+    An Introduction),Moscow:Vysshaya Shkola,1975,
+    1971,vol.7,p.346.
+    p.319.
+    4.Kheifets,L.I.,Gol'dberg,A.B.,and Mazanko,A.F.,Itogi
+    8.Bagotzky,V.S.,Osnovy elektrokhimii (Fundamentals of
+    Nauki Tekh.,Ser:Elektrokhimiya,1983,p.244.
+    Electrochemistry),Moscow:Khimiya,1988,p.272.
+    5.Yakimenko,L.M.and Seryshev,G.A.,Elek-
+    9.Antropov,L.I.,Teoreticheskaya electrokhimiya (Theo-
+    trokhimicheskii sintez neorganicheskikh soedinenii (The
+    Inorganic Electrosynthesis),Moscow:Khimiya,1984,
+    retical Electrochemistry),Moscow:Vysshaya Shkola,
+    p.35.
+    1984,p.324.
+    6.Vetter,K.,Elektrochemische Kinetik,Berlin:Springer,10.Rotinyan,A.L.,Tikhonov,K.I.,and Shoshina,I.A.,Teo-1961.
+    reticheskaya elektrokhimiya (Theoretical Electrochem-
+    7.Damaskin,B.B.and Petrii,O.A.,Vvedenie v elek-
+    istry),Leningrad:Khimiya,1981,pp.268,302.
+    trokhimicheskuyu kinetiku (Electrochemical Kinetics:11.Evdokimov,S.V.,Elektrokhimiya,2001,vol.37,p.420.
+    RUSSIAN JOURNAL OF ELECTROCHEMISTRY Vol.37 No.8 2001
+
+==========第6页==========

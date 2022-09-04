@@ -1,0 +1,800 @@
+    l&EC
+    ARTICLE
+    research
+    pubs.acs.org/IECR
+    Industrial Engineering Chemistry Research
+    Long-Time Growth Rate Changes of Sodium Chlorate,Potassium
+    Dihydrogen Phosphate,and Rochelle Salt Crystals Independent of
+    Growth Conditions
+    Andrijana A.Zekic,t Mico M.Mitrovic,*Suncica M.Elezovic-Hadzic,t and Dragana A.Malivuk
+    Faculty of Physics,University of Belgrade,P.O.Box 44,11001 Belgrade,Serbia
+    Faculty of Science,University of Banja Luka,Mladena Stojanovica 2,78000 Banja Luka,Bosnia and Herzegovina
+    ABSTRACT:Results of investigations of the changes in growth rate inherent to crystals (i.e.,independent of macroscopic externalconditions)during a 15-h growth period are presented.The results of the investigations regarding the time evolution of the growthrate dispersion are also presented.The majority of the investigations were carried out with sodium chlorate crystals,and severalexperiments were carried out with potassium dihydrogen phosphate (KDP)and Rochelle salt crystals.It was found that,for themajority of the crystals,the main changes in growth rate occurred in the initial growth stage,which extended to for up 4 h.Thesegrowth rates probably slowly decrease toward the end of the growth run.Some of the very high initial growth rates that decreasedduring the initial growth period were followed by relatively high intermediate growth rates for the next few hours and thensubsequently decreased.The growth rates for the majority of crystals probably gradually decreased after 15 h of growth.The resultsobtained show that these changes,which have not previously been taken into account,should be included in the interpretation ofgrowth rate changes affected by various parameters (supersaturation,temperature,fields,stress,impurities,etc.).The obtainedresults could improve the current crystal growth theories,which are based on the design of specific growth conditions that result in atarget product.
+    1.INTRODUCTION
+    might have a significant influence on conclusions concerning the
+    Changes with time have been observed in the growth rates of
+    effects of additional parameters on the growth rate.
+    crystals.Lacmann and Tanneberger'noticed that,during the
+    The growth rate dispersion(GRD)has been studied exten-
+    first hour of observation,damaged crystals of potassium alum
+    sively formut the time eoio ofthe GRD has
+    exhibited characteristic healing periods,with growth velocities
+    been studied only recently.This phenomenon is still not well
+    that were initially very high and subsequently decreased to a
+    understood.It can be a consequence of differences in the
+    constant value.The rapid increase in the growth rate of sodium
+    ofthe ain the er ftaic ran
+    chlorate crystals in the initial stage stabilizes in about 90 min and
+    or in the degree of crystal lattice strain.2
+    then undergoes a gradual decrease,as reported by Matsunaka
+    Numerous authors have proposed several purely empirical
+    et al.2 Flood et al.3 observed that the initial rate of crystal growth
+    models for size-dependent growth kinetics that anticpated an
+    increase in growth rate with increasing crystal size.
+    in batch experiments for up to 30 min of growth is significantly
+    Investigations of process modeling and the determination of
+    higher than subsequent crystal growth of D-fructose from aqu-
+    kinetic data might significantly improve our understanding of
+    eous ethanol.Gibbsite single crystals growing from aqueous
+    crystallization processes and the possibilities designing crystal-
+    sodium aluminate solutions were studied by Sweegers et al.,who
+    lization processes in which the final product quality and its
+    reported that,after an initial increase,the growth rate reached a
+    application are of great importance.Modeling of the product
+    maximum and then decreased slowly.The decrease in the growth
+    properties depends strongly on the crystal growth kinetics.For
+    rate with time was explained in terms of a decrease in super-
+    that reason,this article presents the results ofinvestigations of the
+    saturation in the closed cell system
+    growth rate changes inherent to crystals,and the resulting GRD
+    Results of systematic studies of the changes in growth rate
+    changes,in prolonged growth experiments (up to 27 h).These
+    independent of growth conditions,that is,inherent to crystals,
+    investigations follow up on the recent study of the time evolution
+    were published recently.The growth rate changes of sodium
+    of the GRD,with the aim of analyzing the growth rate behavior
+    chlorate crystals during 4 h of growth,as well as the stability of
+    after 4 h of crystal growth.The main investigations were carried
+    the growth rates of these crystals,were investigated.
+    out with sodium chlorate crystals.To confirm the similar growth
+    The influence of various parameters,such as impurities,stress,
+    rate behaviors of different substances,the growths of potassium
+    ultrasound,and electric and magnetic fields,on the growth rates
+    dihydrogen phosphate (KDP)and Rochelle salt crystals were
+    of crystals grown from aqueous solution has been studied in
+    studied as well.
+    depth for a long time.The effects of growth rate history on
+    current growth rate were studied through changes in sup
+    Received:December 2,2010
+    saturationand crystal dissolution and refaceting
+    Accepted:
+    June10,2011
+    growth runs.However,the changes in growth rate inherent to
+    Revised:
+    May26,2011
+    crystals have not attracted particular attention,even though they
+    Published:June 10,2011
+    ACS Publications0 American chemical Socdety
+    8726
+    dx.doi.org/10.1021/ie102425zInd.Eng.Chem.Res.2011,50,8726-8733
+
+==========第1页==========
+    Industrial Engineering Chemistry Research
+    ARTICLE
+    Table 1.Experimental Conditions
+    crystal
+    N(n)
+    T(°C)
+    (mass %
+    SC
+    132(12)
+    28.0±0.1
+    1.3
+    KDP
+    28(3)
+    26.0±0.1
+    10.4
+    RS
+    25(3)
+    29.0±0.1
+    8.2
+    a)
+    2.EXPERIMENTAL SECTION
+    The aim of all of the experiments described herein was toinvestigate the changes in growth rate inherent to sodiumchlorate (SC),potassium dihydrogen phosphate (KDP),and
+    Rochelle salt(RS)crystals grown from aqueous solutions.Theanalar grade of these systems (99%purity)was used.Thesolutions were prepared by equilibrating an excess of crystals
+    Glass
+    with distilled water for 3 days at a saturation temperature of
+    Aluminium
+    To=(31.0+0.1)C.The solution supersaturation is expressedin terms of mass percentages aso=(C-Co)/Co,where Cand Coare the concentration and the saturation concentration,respec-tively,at the growth temperature.The crystal growth tempera-tures T and the corresponding relative supersaturations o for allof the investigated substances are listed in Table 1.Also includedare the numbers of growth rates measured,N,along with the
+    b)
+    number of growth runs performed,n,in parentheses.
+    06
+    Crystals were nucleated in the cell by momentarily stopping
+    0100
+    the solution flow and introducing air bubbles through a needleinto the cell.To avoid uncontrolled changes of growth condi-
+    Figure 1.Schematic drawings of the (a)experimental setup and (b)
+    tions,the nucleation was performed at the crystal growth
+    crystallization cell.C,pipe for incoming solution;C2 pipe for outgoingsolution;C3-Cs,thermostatically controlled water pipes;OM,optica
+    temperature.This procedure was repeated several times until
+    microscope;N,needle;TC,thermocouple;K,crystallization cell;T and
+    small crystals had appeared at the bottom of the cell,sufficiently
+    T,thermostats providing growth and saturation temperatures,respec-
+    distant from their closest neighbors to avoid intergrowth during
+    tively;and P,peristaltic pump.All dimensions are given in millimeters
+    the growth periods.
+    The crystals were observed under a microscope using trans-mitted light at a total magnification of 60x,which gave an
+    experiments.The capacity of the cell was about 15 mL.The
+    accuracy of +5 um.Between 5 and 12 crystal nuclei were
+    velocities of the solution at the bottom (around the crystals)and
+    selected for detailed growth observations during each growth
+    at the top of the cell were about 0.05 and 0.5 mm/s,respectively.
+    run.We measured the changes in crystal length in the chosen
+    The temperature of the aqueous solution in the crystallization cell
+    direction and calculated the corresponding average linear growth
+    was kept constant to within +0.02C.The typical crystal arrange-
+    rate in that direction within the observation interval.The
+    ments in part of the cell at the beginning and end of a growth run are
+    measurement time interval varied from 20 min(at the beginning)
+    shown in Figure 2 for all substances investigated.
+    to 90 min (at the end of the longest experiments).
+    Further analysis excluded complete growth runs with flow
+    Many difficulties,such as nucleation and accumulation of
+    rates that decreased or with many intergrown crystals
+    small crystals in the interior of the pipes through which the
+    (approximately two-thirds of growth runs).Separate crystals
+    solution flowed and the formation of crystals intergrown inside
+    intergrown with neighbors were excluded from the analysis as
+    the crystallization cell,were encountered during the long-term
+    well(crystals 1-4 in Figure 2).A wide range in the initial growth
+    experiments(about 24 h).To enable long growth runs of several
+    rates,as well as different growth behaviors of crystals with the
+    crystals,a specially designed experimental setup was used.A
+    same initial growth rates,required the observation of large
+    schematic drawing of the setup is shown in Figure la,and a
+    numbers of crystals.This method,as opposed to measuring only
+    schematic of the crystallization cell used is shown in Figure 1b.
+    one crystal per growth run investigation,significantly improved
+    To optimize the growth conditions by minimizing spontaneous
+    the statistics.
+    crystallization in the entrance (C1)and the exit (C2)solution
+    The growths of 66 sodium chlorate crystals(132 in the (100)
+    pipes,the diameters and lengths of thermostatically controlled
+    direction),28 KDP crystals (in both the (100)and 001
+    water pipes(C3-Cs)were changed.The cooled section of pipe
+    directions),and 25 Rochelle salt crystals(in the [001]direction)
+    CI was 120 cm long,whereas the heated section of pipe C2 was
+    were observed.In Table 2,the intervals between the crystal sizes
+    80 cm long.The solution flow rate was about 0.5 mL/s,which
+    at the beginning (lo and end (1)of the experiments for the
+    corresponds to solution velocities of 8 and 25 mm/s through the
+    measured growth rate directions are reported.
+    entrance (C1)and exit (C2)pipes,respectively.The thermo-
+    The growth rate changes inherent to sodium chlorate,
+    statically controlled water flow rate was about 10 L/min,which
+    KDP,and Rochelle salt crystals are presented in terms of
+    corresponds to water velocities of 0.7 and 1.2 m/s through the
+    initial,intermediate,and stabilized growth rates.The initial
+    entrance (C3)and exit(Cs)pipes,respectively.This setup config-
+    crystal growth rate was calculated using the first two experi-
+    uration ensured the lack of considerable spontaneous nucleation in
+    mental data points,pertaining to the first 20-30 min of
+    the cell and pipes for 24 h in approximately one-third of the
+    growth.The intermediate and stabilized growth rates were
+    8727
+    dk.doi.org/10.1021/ie102425zlnd.Eng.Chem.Res.2011,50,8726-8733
+
+==========第2页==========
+    Industrial Engineering Chemistry Research
+    ARTICLE
+    a)
+    KDP
+    a)
+    4
+    2
+    Sodium chlorate
+    b)
+    b)
+    0,5
+    0
+    mm
+    0,5mm
+    Rochelle salt
+    6
+    0,5 mm
+    Figure 2.Typical crystal arrangements,in part of the cell,at the (a)beginning and(b)end of the growth run,for all investigated substances.
+    calculated using three experimental data points measured
+    growth rates changed significantly.Five of the experiments
+    after 3 and 11 h of growth,respectively.Intermediate growth
+    performed ran for more than 24 h.
+    rates were calculated after 3 h of growth because the firstsignificant changes in growth rate in all investigated sub-stances ended during that period for the majority of the
+    3.RESULTS
+    crystals observed.Stabilized growth rates were calculated
+    To test the stability of the supersaturation in long-term
+    after 11 h of growth,because four (of the 12)growth runs
+    experiments,the stabilities of the dissolution and refaceting
+    finished after 15 h,and because after that period,only a few
+    temperatures were tested in introductory experiments.In the
+    8728
+    dk.doi.org/10.1021/ie102425zlnd.Eng.Chem.Res.2011,50,8726-8733
+
+==========第3页==========
+    Industrial Engineering Chemistry Research
+    ARTICLE
+    Table 2.Initial and Final Crystal Size Intervals
+    crystal
+    direction
+    lo (mm)
+    1(mm)
+    SC
+    (100)
+    0.02-0.87
+    0.18-6.81
+    KDP
+    (100)
+    0.07-1.07
+    0.75-2.89
+    2
+    [001]
+    0.07-0.46
+    0.87-3.90
+    RS
+    [001]
+    0.08-1.12
+    0.62-3.26
+    1
+    80-
+    10203040
+    50
+    60
+    Time [x10's]
+    40
+    200
+    6
+    三20
+    1502
+    0
+    20
+    4060
+    60
+    100
+    Time [x10's]
+    Figure 3.Changes in the growth rate of Rochelle salt crystals in the
+    50
+    introductory experiments
+    first experiment,crystals were grown for 1 h,and in the second,
+    1020304050
+    they were grown for 5 h.In both experiments,after these growth
+    Time [x10's]
+    periods,the temperature in the cell first slowly increased(0.05C/h)
+    Figure 4.(a)Crystal size and(b)growth rate in the[100]direction as a
+    to(30.90+0.02)C and then gradually increased by 0.02C to
+    function of time.In the two plots,each crystal is presented by the same
+    (31.04 +0.02)C.After that,the temperature gradually
+    color.The typical growth rate changes listed in the text are denoted 1-4
+    decreased in the same steps until crystal refaceting occurred
+    The solution was held for 45 min at each of these temperatures.
+    The dissolution of crystals was noticed at (31.00+0.02)C
+    0.04
+    (i.e.,at the saturation temperature).Crystal refaceting was
+    noticed at(30.98+0.02)C.The same results were obtained
+    .03
+    目0.04，for crystals grown for 1 or 5 h,for all substances investigated.
+    Another type of introductory experiment was also performed
+    0.02
+    to test the stability of the macroscopic growth conditions (notjust the supersaturation stability).In these experiments,crystals
+    0.01
+    were nucleated and grown at the growth temperature in approxi-
+    8
+    mately 24 h.About 10 h after the beginning of crystal growth,
+    0.00
+    0.00
+    0
+    50100150200
+    0
+    50100150200
+    additional air bubbles were introduced into the cell,thereby
+    Initial Growth Rate [nm/s]
+    Intermediate Growth Rate [nm/s]
+    provoking the nucleation of new crystals.In about one-third ofthe experiments,newly nucleated and already growing crystalshad sufficient distances between them to allow for crystal growthwithout intergrowth with neighbors in the next 11 h.Theseexperiments were performed for all of the substances investi-
+    0.04
+    gated.In Figure 3,the growth rate changes of Rochelle saltcrystals in this type of introductory experiment are presented.
+    Similar changes in growth rate were obtained for the other
+    0.02
+    substances investigated.
+    For all of the substances investigated,a significant dispersion in
+    growth rate was noticed at all crystal growth stages,even though all
+    0.00
+    0000
+    50100150200
+    of the crystals grew under the same macroscopic external condi-
+    Stabilized Growth Rate [nm/s]
+    tions(temperature and supersaturation in the cell).
+    Most of the growth rates changed significantly during the
+    Figure 5.Histograms representing (a)initial,(b)intermediate,and
+    period of observation.The majority of crystals in all of the
+    (c)stabilized growth rate dispersions of sodium chlorate crystals.
+    investigated substances significantly changed their growth ratesin the first few hours of the growth period.The results of eight
+    chlorate crystals in the [100]direction in a typical long-time
+    experiments run for more than 15 h indicated a continuous slow
+    growth run.
+    decrease of growth rates,although this decrease was within the
+    Five types of crystal growth rate changes were noticed in our
+    measurement error limit for many of the crystals.
+    experiments on sodium chlorate,as follows:
+    3.1.Sodium Chlorate.Figure 4 depicts the time dependence
+    Type 1.The majority of the measured growth rates decreased
+    of the crystal size and the changes in the growth rate of sodium
+    during the initial period of growth for 2-4 h.This growth rate
+    8729
+    dk.doi.org/10.1021/ie102425zlnd.Eng.Chem.Res.2011,50,8726-8733
+
+==========第4页==========
+    Industrial Engineering Chemistry Research
+    ARTICLE
+    Table 3.Parameters Describing Growth Rate Distributions
+    元
+    of Sodium Chlorate Crystals
+    a
+    growth rate
+    R(nm/s)
+    R2(nm/s)
+    R3(nm/s)
+    initial
+    31±2
+    62.2±0.7
+    95±3
+    intermediate
+    29土2
+    49.5±0.5
+    stabilized
+    24±2
+    45.0±0.4
+    20
+    Table 4.Parameters Describing Growth Rate Changes of
+    Sodium Chlorate,KDP,and Rochelle Salt Crystals
+    20
+    40
+    Time [x10's]
+    substance
+    direction
+    RI (nm/s)
+    R2(nm/s)
+    R3 (nm/s)
+    SC
+    (100)
+    68±4
+    59±4
+    41±2
+    KDP
+    〈100)
+    36±2
+    29±2
+    26±2
+    KDP
+    [001]
+    43士4
+    36士4
+    21±3
+    Rs
+    [001]
+    49±4
+    41士3
+    31士3
+    did not change until the end of the experiments (within themeasurement error limits).
+    Type 2.Eleven very high initial growth rates decreased andthen,after 2-4 h,reached relatively high intermediate growthrates that were retained for the following few hours.After that,
+    they reached stabilized growth rates.
+    20
+    40
+    Time [x10's]
+    Type 3.Seven growth rates did not change during the wholegrowth run (within the measurement error limits).
+    Figure 6.Time dependence of the changes in the growth rate of KDP
+    Type 4.Five growth rates increased during the first couple of
+    crystals in the (a)(100)and (b)001]directions,in a typical long-time
+    hours of the experiment and reached the values which were
+    growth run.
+    retained until the end of the growth.
+    Type 5.One of the crystals stopped growing in one direction.
+    Three crystals did not grow at all.
+    80
+    Some of these behavior types are illustrated in Figure 4.
+    70
+    The histograms representing growth rate dispersions of so-dium chlorate crystals in various growth periods are shown in
+    60
+    Figure 5,with the growth rate dispersions of the initial,inter-
+    50H
+    mediate,and stabilized growth rates shown in parts a-c,respectively.To describe the growth rate distribution,the fittingof finite mixture normal distributions to the frequency distribu-tions were performed.Details of the fitting procedure were
+    30
+    described previously.5,16 It can be seen from the histograms
+    20
+    40
+    that some of the growth rates at the beginning and end of the
+    Time [x10's]
+    distributions did not pertain to any of the maxima.These growthrates were eliminated from the fitting procedure.The distribu-
+    Figure 7.Changes in the growth rate of Rochelle salt crystals in the
+    tions obtained are also included in Figure 5.Because of the
+    [001]direction in a typical long-time growth run
+    relatively small number of growth rates analyzed,only three,twoand two maxima of the initial,intermediate,and stabilized growth
+    The obtained results show growth rate changes similar to those at
+    rate distributions,respectively,are well-defined.
+    a supersaturation of 1.3%.The growth rate decreases in the first
+    In Table 3,the parameters describing the initial,intermediate,
+    stage of the experiments occurred in a shorter time than those at
+    and stabilized growth rate distributions,namely,R,R2,and R3,
+    0.9%supersaturation.
+    the growth rates corresponding to the first,second,and third
+    3.2.KDP.Parts a and b of Figure 6 depict the time dependence
+    distribution maxima,respectively,are reported.
+    of the growth rate changes of KDP crystals in the(100)and [001]
+    In Table 4,the parameters describing the growth rate
+    directions,respectively,in a typical long-time growth run.Crystal
+    changes,namely,Ri i=1,2,and 3,the arithmetic means of
+    growth rate changes in the (100)direction of types 1,3,and 4,
+    the initial,intermediate,and stabilized growth rates,respectively,
+    described for the growth of sodium chlorate crystals,occurred for
+    for sodium chlorate,KDP,and Rochelle salt crystals are reported.
+    KDP crystals,too.Neither crystals that did not grow at all nor
+    To verify similar growth rate changes at lower supersatura-
+    crystals that stopped growing were observed.Similarly to the
+    tions,two additional experiments were performed,in which
+    sodium chlorate crystals,type 1 growth rate changes dominated.
+    sodium chlorate crystals were grown at T=(29.0+0.1)C in
+    3.3.Rochelle Salt.Growth rate changes of Rochelle salt
+    a solution saturated at To=(31.0+0.1)C,corresponding to a
+    crystals in the [001]direction in the long-time growth run are
+    supersaturation of 0.9%.In the two growth runs,12 and 15
+    presented in Figure 7.Types 1-4 changes in growth rate
+    crystals (23 and 30 growth rates,respectively)were observed.
+    occurred for Rochelle salt crystals as well.Crystals that did not
+    8730
+    dk.doi.org/10.1021/ie102425zlnd.Eng.Chem.Res.2011,50,8726-8733
+
+==========第5页==========
+    Industrial Engineering Chemistry Research
+    ARTICLE
+    growth rates during long periods of growth,even under constantexperimental conditions.In general,from the growth rate
+    sector(101)
+    Sect
+    investigations of sodium chlorate in the (100)direction (at two
+    (101
+    supersaturations),KDP in the (100)direction,and Rochelle salt
+    disl.lines A
+    in the [001]direction,the following conclusions can be drawn:
+    The majority of the measured growth rates (80-90%)
+    disl.lines B
+    significantly decreased in the initial growth period,becauseof the growth conditions and the substance investigated
+    These growth rates probably slowly decreased after theinitial growth period,although any changes that occurredwere within the measurement error limit.
+    About 10%of the particles had very high initial growth rates.
+    These growth rates decreased in the initial growth period
+    Figure 8.Transition of the dislocation source between KDP growth
+    and reached relatively high intermediate growth rates,
+    sectors.
+    which were retained for the following few hours.After that,the growth rates decreased again.
+    grow or that stopped growing during the growth run were not
+    ●Less than 10%of the growth rates increased predominantly
+    observed.Similarly to the results for sodium chlorate and KDP
+    in the first stage of the growth run or did not change
+    crystals,type 1 rate changes in growth dominated.
+    significantly at all.
+    In addition to the crystal growth rates presented above,a few
+    ●The appearance of unusual changes in growth rates is
+    crystals of sodium chlorate and one crystal of Rochelle salt grew
+    scarce.Some sodium chlorate growth rates were zero all
+    at very high initial rates.These crystals intergrew with their
+    the time,or decreased to zero,even though the solution
+    neighbors relatively quickly,so their growth rate changes could
+    was supersaturated and the other neighboring crystals
+    not be traced,and the growth run could not be stopped
+    grew,as noticed earlier.5,6,10,16,37
+    completely.It is possible that these crystals did not retain
+    The growth rates of the majority of the crystals probably
+    stabilized growth rates during the 15 h of the experiment.
+    slowly decreased after 15 h of growth.
+    4.DISCUSSION
+    A significant decrease,mostly in the initial growth stage,occurred in more than 90%of the growth rates.Possible reasons
+    From the results presented in the preceding section,one can
+    for this phenomenon,such as a decrease of the solution super-
+    draw the conclusion that the changes in growth rate,independent
+    saturation during the long-term experiments,a decrease of the
+    of macroscopic growth conditions,of sodium chlorate crystals in
+    overall mass-transfer coefficient,the presence of impurities,the
+    the(10o〉direction,K①P crystals in the(10o〉direction,and
+    transition of the dominant dislocation source from one face to a
+    Rochelle salt crystals in the 001 direction are very similar.A
+    neighboring face,a change in crystal surface stage,and lattice
+    possible reason for the absence of type 2 changes in the KDP
+    strain effects on the crystal growth,are discussed in the following
+    crystal growth rate might be the relatively small number of
+    paragraphs.
+    crystals observed.KDP and Rochelle salt crystals that did not
+    Supersaturation.The same dissolution and refaceting tem-
+    grow or that stopped growing were likely missing for the same
+    peratures of the crystals grown for 1 and 5 h confirm the stability
+    reason or because of the relatively high supersaturation.The
+    of the macroscopic solution supersaturation,within the measure-
+    appearance of crystals that did not grow and crystals that stopped
+    ment error limits.The main characteristic of another type of
+    growing under supersaturated solutions was noticed earlier forboth KDP,15,33 and Rochelle salto,3
+    introductory experiments was that the new crystals introduced
+    crystals.
+    into the cell continued to grow similarly to the already-growing
+    The growth rates of KDP crystals in the [001]direction
+    crystals,with higher initial growth rates.In addition to the con
+    changed during the growth run in a very complex way.Although
+    firmation of supersaturation stability,this also confirms that neigh-
+    significant fluctuations in growth rates were observed,thetendency for them to decrease and level off with time can be
+    boring crystals did not influence the growth of the observed crystals.
+    seen in Figure 6b and Table 4.The growth in the [001]direction
+    That is,the newly nucleated crystals grew similarly to the ones that
+    of KDP evolves through the growth of eight110 faces,four at
+    were already growing,and even the distances between crystals were
+    each opposite side of the crystal.According to BCF
+    smaller.Both types of introductory experiments showed that the
+    (Burton-Cabrera-Frank)growth theory,1920 the KDP crystal
+    macroscopic growth conditions in the cell used were stable.On the
+    growth rates in the [001]direction can change as the result of
+    basis of these results,one can conclude that changes in the
+    transition of the dominant dislocation source between different
+    macroscopic solution supersaturation cannot induce a significant
+    110 faces or between the 110 and 100 faces (Figure 8).
+    growth rate decrease in the initial growth stage.Control of the
+    Changes in the eight (110)growth sectors,which determine
+    microscopic supersaturation distribution was not possible in the
+    growth in the [001]direction,can result in significant growth rate
+    experiments performed.This confirms that the observed growth
+    fluctuations,which occurred in the experiments described.The
+    rate changes are independent of macroscopic experimental condi-
+    fluctuations of the growth rates can also be explained in terms of
+    tions,that is,they are inherent to the crystals.
+    fluctuations of the dislocation growth sources caused by
+    Changes in Mass-Transfer Coefficient.In the volume diffu
+    impurities.The results of the KDP growth rate measurements
+    sion model of crystal growth,the overall mass-transfer coefficient
+    in the 001 direction were not included in the investigations of
+    decreases during the growth,because it is inversely proportional
+    the growth rate changes inherent to the crystal.
+    to the size of the crystals,which can result in a decrease in crystal
+    It can be seen from Figures 4-7 and Tables 2 and 3 that
+    growth rate.3 It can be expected that surface-integration-con-
+    sodium chlorate,KDP,and Rochelle salt crystals change their
+    trolled growth occurred for all substances investigated in our
+    8731
+    dk.doi.org/10.1021/ie102425zlnd.Eng.Chem.Res.2011,50,8726-8733
+
+==========第6页==========
+    Industrial Engineering Chemistry Research
+    ARTICLE
+    experiments.This was previously confirmed for sodium chlorate,39
+    and the time should exceed 0.99.2549 Some authors have used
+    KDP,4041 and Rochelle salt2 crystal growth.The results of our
+    rougher criteria for the CCG model (for example,0.81).A rough
+    experiments confirm these expectations.Specifically,the coefficients
+    criterion was also used in our previous investigation.Such rough
+    of linear correlation between the initial growth rates and the initial
+    criteria can mask the natural changes in the crystal growth rate.
+    crystal sizes are 0.52 for sodium chlorate,0.63 for KDP,and 0.32 for
+    Careful observation of the crystal size versus time graphs in many
+    the Rochelle salt.Better correlations were established previously
+    articles(such as those of Shiauand Mitrovicso)showed that some
+    (more crystals observed):0.55 for sodium chlorate>and 0.72 for
+    changes in growth rate (mostly decreasing)occur during the first
+    KDP.33 These small and positive values suggest that growth rates of
+    stage of growth under constant supersaturation.The decrease of the
+    crystals slowly increase with crystal size,which is in contrast to the
+    gibbsite single-crystal growth rate observed by Sweegers et al was
+    volume diffusion model.This conclusion,valid for the correlation
+    explained through the supersaturation,which decreased in the
+    between initial crystal sizes and initial growth rates,can be extended
+    closed-cell system.The described decrease in growth rates within
+    to the growth of one crystal.That is,the differences in the initial
+    the first 3 h of growth is similar to the results of our experiments.
+    crystal sizes are 14-43 times (Table 2)greater than the difference
+    This indicates that these changes are not induced by supersaturation
+    between the final and initial crystal sizes of one crystal.Therefore,it
+    alone.They can be inherent to crystals as well.
+    can be concluded that the mass-transfer changes are not relevant for
+    The first results of the systematic study of changes in the
+    the growth rate changes that occurred in our experiments.
+    growth rate inherent to sodium chlorate crystals during 4 h of
+    Presence of Impurities.Changes in growth rate are usually
+    growth were published recently..It was shown that the growth
+    explained by random perturbations in impurity concentrations
+    rates of sodium chlorate crystals changed (mostly decreased)
+    near the crystal surface.An increase in impurity concentration
+    during the first 2h ofgrowth.The tendency of the growth rates to
+    leads to a decrease in the crystal growth rate.3 Growth rate
+    level off with time was detected.As mentioned above,11 very
+    dispersion and zero and negative values of the growth rates of
+    high initial growth rates of sodium chlorate crystals (of 132)
+    calcium sulfate crystals can also be explained by the effects of
+    decreased and,after 2-4 h,attained relatively high intermediate
+    impurities.445 Fluctuations of growth rates of the (001)face of
+    growth rates that remained stable for the following few hours and
+    potassium nitrate can be induced by fluctuations of the growth
+    then subsequently decreased again.The existence of these
+    sources of dislocations caused by impurities.Changes in
+    crystals could not be detected in the short-term experiments.
+    impurity concentrations in the initial growth stage can be the
+    Growth rate dispersion has been noticed for many sub-
+    cause of the noticed significant changes in crystal growth rate.
+    stances,11-18 but the time evolution of the GRD was studied
+    Transition of the Dominant Dislocation Source from One
+    only recently.It can be seen in Figure Sa-c that the maxima of
+    Face to the Neighboring One.According to BCF theory,9,20
+    the intermediate and stabilized sodium chlorate growth rate
+    the crystal growth rate can change regardless of the growth
+    distributions shifted to lower values compared to the initial
+    conditions,as the result of a transition of the dominant disloca-
+    growth rate distribution.Thirteen initial growth rates and only
+    tion source from one face to a neighboring face(growth sector
+    two stabilized growth rates of sodium chlorate crystals were
+    changed).In this process,the possibilities of increasing and
+    higher than 100 nm/s.About 55%of the initial growth rates and
+    decreasing the growth rate are equal.Consequently,the tendency
+    even about 70%of the stabilized growth rates pertain to the
+    for the growth rates to decrease and level off,as observed in our
+    second distribution maximum.The presumption that the growth
+    experiments,cannot be explained by this process
+    rates would be more evened out after prolonged growth'was
+    Surface Stage Changes.Figure 5 shows that crystals grown
+    confirmed by the investigations presented.This result is in
+    with very high growth rates (very high activity of the dominant
+    accordance with an earlier sodium chlorate growth rate investi-
+    dislocation group)disappeared,as expected,because the domi-
+    gation and with the general observation of a decrease in the range
+    nant dislocation group cannot determine the growth of large
+    of growth rate dispersion with increasing crystal size.26 It can be
+    crystal faces.33 In other words,the reason for the high growth
+    concluded that a significant GRD existed during the whole growth
+    rates in the initial period of the growth process might be a high
+    run (i.e.,in any crystal growth stage observed).The shape of the
+    level of imperfection of the surface of the crystals after nucleation
+    distribution,which describes the GRD,changed during the growth
+    Effect of Lattice Strain on Crystal Growth.Changes in the
+    The existence of three (Figure Sa)or two maxima (Figure 5b,c)
+    growth rate during the initial growth stage could be explained in
+    indicates that growing sodium chlorate crystals pertaining to
+    terms of the effect of lattice strain on crystal growth.It has been
+    these maxima have activities of the dominant dislocation groups
+    shown that the growth rate of a crystal is inversely proportional to
+    that accumulate around three or two values3 respectively.
+    its mosaic spread,which represents a measure of the "overall'
+    Over the course of time,the crystal growth rates exhibit a
+    lattice strain or defects in the structure of the crystal.21-26 The
+    tendency of leveling (i.e.,the crystals have common face disloca-
+    described change in the crystal growth rate could be a conse
+    tion activities).Figure 5 shows that crystals grown with very high
+    quence of corresponding changes in the crystal lattice strain.The
+    growth rates (very high activities of the dominant dislocation
+    lack of differences in the physical properties of crystals grown at
+    group)disappear,as expected,because the dominant dislocation
+    various rates,because of GRD,could be a result of strain leveling,
+    group cannot determine the growth of large crystal faces.33
+    which unifies the growth rates.Physical properties are usually
+    From our results,one cannot draw any conclusion about a
+    measured on large crystals.These crystals grow at levelized rates,
+    correlation between the inherent changes in crystal growth rate
+    but only small portions of the crystals grow at different rates
+    and the crystal size or growth period.Specifically,the observed
+    during the initial growth stage,which does not make a significant
+    crystals reached stabilized growth rates over a wide range of
+    effect on the physical properties of the bulk crystal.
+    growth periods and with different crystal sizes.The size-depen-
+    The reason for neglecting the changes in growth rate at the
+    dent growth investigations suggest that the growth rate increases
+    start of the growth period in earlier investigations is the criterion
+    with the crystal size.27-32 These results refer to the observation
+    typically applied for the constant crystal growth (CCG)model:
+    of many crystals at one time.Our results show that,in most cases
+    the linear coefficient of the correlation between the crystal size
+    the growth rate of a crystal decreases with its size.
+    8732
+    dk.doi.org/10.1021/ie102425zlnd.Eng.Chem.Res.2011,50,8726-8733
+
+==========第7页==========
+    Industrial Engineering Chemistry Research
+    ARTICLE
+    The influence of various parameters,such as impurities,stress,
+    (16)Mitrovic,M.M.;Zekic,A.A.;Ilic,Z.Z.Chem.Phys.Lett.2002
+    ultrasound,electric and magnetic fields,supersaturation,and
+    361,312.
+    dissolution and refaceting,on the growth rate of crystals grown
+    (17)Shiau,L.D.Chem.Eng.Sci.2003,58,5299.
+    from aqueous solution has been studied intensively for a long
+    (18)Virone,C.;ter Horst,J.H.;Kramer,H.J.M.;Jansens,P.J.
+    time.The majority of these studies were performed under the
+    J.Cryst.Growth 2005,275,e1397.
+    same temperature and supersaturation,with the additional para-
+    (19)Burton,W.K;Cabrera,N.;Frank,F.C.Philos.Trans.R.Soc(London)1951,A243,299.
+    meter introduced after a certain period.Most of the experiments
+    (20)Chernov,A.A.;Rashkovich,L.N.;Smolskii,I.L.;Kuznetsov,
+    were relatively short (no longer than a couple hours).Growth
+    Yu.G.;Mkrtchan,A.A.;Malkin,A.A.In Rost Kristallov;Givargizov,E.I.,
+    periods with constant growth conditions in these experiments were
+    Ed.;Nauka:Moscow,U.S.S.R.,1986;Vol.15;pp 43-88.
+    comparable to the period of growth rate changes inherent to crystals.
+    (21)Ristic,R.I.;Sherwood,J.N.;Wojciechowski,K.J.Cryst.Growth
+    Accordingly,the growth rate changes inherent to crystals must be
+    1988,91,163.
+    included in all conclusions drawn from these investigations.
+    (22)Mitrovic,M.M.Ph.D.Thesis,University of Belgrade,Belgrade
+    Serbia,1989.
+    5.CONCLUSIONS
+    (23)Mitrovic,M.M.;Ristic,R.I.;Ciric,I.Appl.Phys.1990,A51,374(24)van der Heijden,A.E.D.M.;van der Eerden,J.P.J.Cryst
+    It was shown in this work that changes in growth rate inherent
+    Growth1992,118,14.
+    to crystals (i.e.,independent of macroscopic external growth
+    (25)Zacher,U.;Mersmann,A.J.Cryst.Growth 1995,147,172.
+    conditions)do,in fact,occur.These changes are dominant in the
+    (26)Sherwood,J.N.Ristie,R.I.Chem.Eng.Sci.2001,56,2267.
+    first few hours of crystal growth.During this period,the growth
+    (27)Mitrovic,M.M.J.Cryst.Growth 1994,139,332.
+    rates of the majority of the crystals decreased significantly.A slow
+    (28)Mitrovic,M.M.;Zekic,A.A.;Napijalo,M.M.J.Cryst.Growth
+    decrease of the growth rates probably occurs during prolonged
+    2000,216,437.
+    crystal growth.Leveling of the crystal growth rates during the
+    (29)Abegg,C.F.;Stevens,J.D.;Larson,M.A.AIChE J.1968,
+    long growth period is evident.Crystal growth changes result in
+    14,118.
+    adequate changes in the growth rate dispersions.Possible reasons
+    (30)Garside,J.;Jancic,S.J.AIChE J.1976,22,5.
+    for this phenomenon have been discussed
+    (31)Mydlarz,J.;Jones,A.G.Chem.Eng.J.1993,53,125(32)Wang,S.;Mersmann,A.Chem.Eng.Sci.1992,47,1365.(33)Zekic,A.A.;Mitrovic,M.M.J.Cryst.Growth 2003,258,204.
+    ■AUTHOR INFORMATION
+    (34)Mitrovic,M.M.J.Cryst.Growth 1987,85,411.
+    Corresponding Author
+    (35)Mitrovic,M.M.;Zizic,B.B.;Napijalo,M.Lj.J.Cryst.Growth1988,87,439.
+    *Fax:+381113282619.Tel.:+381112630152.E-mail:mico@ffbg.ac.rs.
+    (36)Treivus,E.B.;Novikova,L.G.Crystallography 1978,23,876 (in
+    Russian).
+    (37)Mitrovic,M.M.;Zekic,A.A.I.Cryst.Growth 2005,275(1-2),e337.
+    ■ACKNOWLEDGMENT
+    (38)Scrutton,A.;Grootscholten,P.A.M.Trans.Inst.Chem.Eng.
+    This work was supported by the Serbian Ministry of Education
+    1981,59,238.
+    and Science through Grant 171015.The authors thank Mrs.Z.Z.
+    (39)Bennema,P.J.Cryst.Growth 1967,1 (5),287.
+    Baros and Mr.M.Rados for their assistance during the
+    (40)De Yoreo,J.J.;Land,T.A.;Lee,J.D.Phys.Rev.Lett.1997,
+    experiments.
+    78,4462.
+    (41)Alexandru,H.V.;Berbecaru,C.;Grancea,A.;Iov,V.J.Cryst.
+    Growth1996,166,162
+    ■REFERENCES
+    (42)Kuroda,T.J.Cryst.Growth 1985,71,84.
+    (1)Lacmann,R.;Tanneberger,U.J.Cryst.Growth 1995,147,195.
+    (43)Botsaris,G.D.;Denk,G.E.;Shelden,R.A.Krist.Techn.1973,
+    (2)Matsunaka,M.;Kitamura,M.;Sunagawa,I.J.Cryst.Growth
+    8,769
+    1980,48,425.
+    (44)Linnikov,O.D.Desalination 2000,128,35.
+    (3)Flood,A.E.;Johns,M.R.;White,E.T.AIChE J.2000,46,239.
+    (45)Linnikov,O.D.Desalination 2000,128,47.
+    (4)Sweegers,C.;Meekes,H.;van Enckevort,W.J.P.;Hiralal,
+    (46)Linnikov,O.D.Desalination 1999,122,1.
+    I.D.K.;Rijkeboer,A.Cryst.Growth Des.2004,4,185.
+    (47)Zaitseva,N.;Carman.,L.;Smolsky,I.J.Cryst.Growth 2002,
+    (5)Mitrovic,M.M.;Zekic,A.A.;Baros,Z.Z.Chem.Phys.Lett.2008,
+    241,363.
+    464,38.
+    (48)Klapper,H.;Becker,R.A.;Schmiemann.,D.;Faber,A.Cryst.
+    (6)Mitrovic,M.M.;Zekic,A.A.;Baros,Z.Z.Chem.Phys.Lett.2009,
+    Res.Technol.2002,37,747.
+    467,299.
+    (49)Wang,S.;Mersmann,A.;Kind,M.J.Cryst.Growth 1990,
+    (7)Pantaraks,P.;Flood,A.E.Cryst.Growth Des.2005,5,365.
+    99,1104.
+    (8)Pantaraks,P.;Matsuoka,M.;Flood,A.E.Cryst.Growth Des.
+    (50)Mitrovic,M.M.I.Phys.Chem.1995,99,5438
+    2007,7,2635.
+    (9)Zekic,A.A.;Mitrovic,M.M.Cryst.Res.Technol.2002,37,57.(10)Mitrovic,M.M.;Zekic,A.A.In Recent Research Developments in
+    Crystal Growth;Pandalai,S.G.,Ed.;Transworld Research Network:
+    Kerala,India,2009;pp 33-60.
+    (11)Randolph,A.D.;White,E.T.Chem.Eng.Sci.1977,32,1067.(12)Janse,A.H.;de Jong,E.J.In Industrial Crystallization '78;de Jong,E.J.;Jancic,S.J.,Eds.;North-Holland:Amsterdam,1979;
+    Pp135-142.
+    (13)Zumstein,R.C.;Rousseau,R.W.AIChE J.1987,33,121(14)Mitrovic,M.M.J.Cryst.Growth 1987,85,411.
+    (15)Mitrovic,M.M.;Zekic,A.A.;Petrusevski,Lj.S.J.Cryst.Growth1999,198/199,687.
+    8733
+    dx.doi.org/10.1021/ie102425zlnd.Eng.Chem.Res.2011,50,8726-8733
+
+==========第8页==========

@@ -1,0 +1,615 @@
+    41st International Conference on Environmental Systems
+    AIAA2011-5045
+    17-21 July 2011,Portland,Oregon
+    U.S.Navy Sodium Chlorate Oxygen Candle Safety
+    Mr.Alan McCarrick'
+    Naval Surface Warfare Center,Carderock Division,Ship Systems Engineering Station,
+    Philadelphia,PA,19112
+    Mr.Jon Haas
+    National Aeronautics and Space Administration,Lyndon B.Johnson Space Center,
+    White Sands Test Facility,Las Cruces,NM,88004
+    Dr.Kevin Johnson
+    Naval Research Laboratory,Washington,DC,20375
+    and
+    Mr.Richard Hagar4
+    Naval Sea Systems Command,Washington,DC,20376
+    U.S.NAVY submarines burn sodium chlorate "candles"in an enclosed furnace foremergency and supplementary oxygen generation.Naval Surface Warfare Center,
+    Carderock Division,Ship Systems Engineers Station reviewed the safety of the U.S.Navy'suse of sodium chlorate oxygen generating candles in response to the chemical oxygengenerator accident aboard the HMS TIRELESS.As part of this safety review,deliberatelycontaminated oxygen candles were burned in a standard Navy candle furnace to observe theimpact of such contamination.Additionally,oxygen candles were burned at elevatedpressures to investigate their performance in a pressurized submarine.The results of theseinvestigations showed that the U.S.NAVY candle furnace is well designed from an oxygensafety standpoint,and that significant accidental contamination of a candle with organicmaterials would not cause an explosion or release of burning material from the currentfurnace.
+    Nomenclature
+    ACFM
+    actual cubic feet (gas)per minute
+    ASTM
+    originally American Society for Testing and Materials
+    CBD
+    Chesapeake Bay Division of Naval Research Laboratory
+    Cl2
+    chlorine,diatomic molecule
+    CIO2
+    chlorine dioxide
+    ft
+    feet(0.305 meters)
+    HOCI
+    hypochlorous acid
+    4H°
+    standard heat of formation of compound,kilojoules/gram-mole at 25C
+    AHr
+    クstandard heat of reaction,kilojoules/gram-mole at 25C
+    m
+    milliliters
+    Submarine Life Support Engineer,Code 926,Life Support and Air Systems Branch,Naval Surface Warfare
+    Center,Carderock Division,Ship Systems Engineering Station,Philadelphia,PA.
+    2 Project Manager,National Aeronautics and Space Administration Laboratories Office,Lyndon B.Johnson Space
+    Center,White Sands Test Facility,Las Cruses,NM.
+    3 Research Chemist,Code 6112,Chemometrics and Chemical Sensing,Naval Research Laboratory,Washington,
+    DC.
+    4 Technical Warrant Holder,Submarine Life Support Systems,NAVSEA 05,Washington,DC.
+    American Institute of Aeronautics and Astronautics
+    This material is declared a work of the U.S.Government and is not subject to copyright protection in the United States.
+
+==========第1页==========
+    MSA
+    Mine Safety Appliances company
+    NASA
+    National Aeronautics and Space Administration
+    NEPA
+    National Fire protection association
+    NOX
+    various gaseous nitrogen oxides
+    NRL
+    Naval Research Laboratory
+    NSWCCD-SSES Naval Surface Warfare Center,Carderock Division,Ship Systems Engineering Stationpsia
+    pounds per square inch absolute
+    psid
+    pounds per square inch differential
+    psig
+    pounds per square inch gage
+    SCFM
+    standard cubic feet (gas)per minute
+    SCOG
+    solid chemical oxygen generator or self-contained oxygen generator
+    sec
+    second
+    SFOG
+    solid fuel oxygen generator
+    WSTF
+    White Sands Test Facility,a division of Lyndon B.Johnson Space Center
+    I.Introduction
+    "At any time and without warning,a submarine may have to remain submerged for several days on accountof the presence of the enemy,or rough weather,or serious accident to the machinery.Fortunately suchoccurrences are rare;but every commanding officer must be prepared to meet such an emergency that willafford his men the greatest possible chance of survival."
+    hat quotation is taken from a review of submarine air purification technology published by the U.S.Bureau of
+    Medicine and Surgery in 1919.At that time,the U.S.Navy had just begun to experiment with possible airpurification devices and supplies of oxygen that might permit submarines to remain submerged longer than theuntreated closed atmosphere would allow.Submariners were exposed to elevated levels of carbon dioxide andreduced levels of oxygen that would be considered completely unacceptable by current standards.It was a differentworld,but humans are still humans,and the requirements for safe and effective functioning in a self-containedenvironment are really unchanged.The maximum submergence time for submarines as published in that work wasapproximately 48 hours.
+    In early submarines,the preferred supply of oxygen was 1800 psig compressed air bled into the boat asneeded..2 In order to maintain rough pressure control,while compressed air was bled in,"vitiated"air (air withreduced oxygen and elevated carbon dioxide)from the opposite end of the boat was compressed into waiting emptyvessels'.The periodic use of pressurized air to control oxygen caused swings in ambient pressure that wasuncomfortable for the crew.The need for added air or oxygen was occasionally "measured"by the physiologicalimpact on the crew rather than a reliable instrument.'The design of the submarine oxygen supply was limited toapproximately 25 day submerged operation.2 It was not until 1958 that U.S.submarines were able to carry out divesbeyond that period and necessitated new sources of oxygen.As early as 1919,liquid oxygen was a commerciallyavailable product and its use on submarines was contemplated.
+    As submarines were required to accomplish longer and longer submerged periods of operation,the need tomanage normal and emergency life support supplies became a priority.Sodium chlorate is a very efficient means ofstoring oxygen with a mass of oxygen per unit of volume greater than compressed oxygen (unless the pressure isabove roughly 4,000 psig).The volume efficiency of candles is almost equal to that of liquid oxygen without thedangers and equipment issues of cryogenic storage.3.4 These devices are known by several names:Oxygen Candles,
+    Chlorate Candles,SCOG (either Solid Chemical Oxygen Generator or Self-Contained Oxygen Generator)andSFOG (pronounced "S-FOG,Solid Fuel Oxygen Generator).
+    The use of chlorates and perchlorates as sources of oxygen dates from at least 1930 when German firms offeredemergency oxygen supplies for use in mines.5.6 During World War II,the Japanese introduced a chemical oxygengenerator for aircraft pilot use.Both of those devices had serious shortcomings because they generated oxygencontaminated with excessive amounts of chlorine and carbon monoxide.3.6 The early Japanese candles actually usedcarbon as the sacrificial energy source leading to much higher amounts of carbon monoxide and dioxide beingproduced.By 1945,sodium chlorate oxygen candles had been improved and had been tested aboard the USS
+    Sailfish.3 The candles were developed in part by the Naval Research Laboratory (NRL),5 and the Oldbury Electro-
+    Chemical Corporation.5.6 Candles were considered a supplementary oxygen supply to the high-pressure oxygen
+    2
+    American Institute of Aeronautics and Astronautics
+
+==========第2页==========
+    banks.3 Mine Safety Appliances Company (MSA)worked on developing efficient manufacturing processes and asuitable burning apparatus and ignition method.The work by NRL and Oldbury Electro-Chemical identified bariumperoxide as an effective chlorine scavenger.Approximately 4%wt barium peroxide was added to the candle mixtureand greatly reduced the chlorine output.Carbon monoxide is greatly reduced by careful use of purified carbon-freeiron as the fuel.These "candles"were very much like those still in use today:being a mixture of primarily sodiumchlorate,iron powder,barium peroxide and a fiber binder.For a period,asbestos was used as the binder.The adventof the nuclear-powered submarine provided sufficient electrical power to make production of oxygen by waterelectrolysis the ideal source of oxygen.3 Chlorate candles remained as an alternative or emergency source ofbreathing oxygen.
+    The U.S.Navy conducted a thorough safety review of its use of sodium chlorate oxygen candles concluding thatcurrent candle design,handling and storage policies and equipment are indeed safe for continued use.This paperpresents some of the material collected and tests performed as part of the safety review.
+    StoS-1107'9/ISOI :IO
+    II.Chemicals and Chemistry of Solid Oxygen Sources
+    The most common commercial and military chemical oxygen generating candles are composed primarily ofsodium chlorate,NaCIO3.This material melts at approximately 248C(478F)and decomposes at 478C (892F).
+    Other chemicals that may be used alone or combined are sodium perchlorate (NaClO4),potassium chlorate (KCIO3),potassium perchlorate (KC1O4),lithium chlorate (LiClO3),and lithium perchlorate (LiClO4).Table 1 lists the mostcommon materials that have been or could be used as a source of chemically generated oxygen along with theirmelting and decomposition temperatures.The release of oxygen from either chlorates or perchlorates requiresraising the material to substantial temperatures.As seen in Table 2,the decomposition reactions are mildlyexothermic,but an additional energy source is generally required to form a sustained reaction.Increasing thereaction temperature increases the rate of oxygen production.
+    III.Impurities in Oxygen Product
+    The presence of some carbon in the iron (or steel fibers)generates both carbon dioxide and carbon monoxide.
+    The use of reduced iron powder as opposed to steel wool lowers the amount of both carbon gases.Early U.S.NAVYfurnaces were equipped with Hopcalite filters to convert the more hazardous carbon monoxide to carbon dioxide.6
+    The current British SCOGs have an internal Hopcalite (Moleculite)filter1.Hopcalite acts as a catalyst for thecarbon monoxide conversion and is not consumed in use.
+    Table 1.Basic Chemical Data for Most Common Sources of Chemical Oxygen
+    Name
+    Formula
+    Weight
+    oxygen
+    T melt
+    T decomp
+    Sodium chlorate
+    248°C
+    NaClO2
+    106.4
+    45%
+    478C
+    261℃
+    266C
+    480°C
+    Sodium perchlorate
+    NaClO
+    122.4
+    52%
+    471℃
+    482C
+    368℃
+    Potassium chlorate
+    KCIO3
+    122.5
+    39%
+    400°C
+    357℃
+    Potassium
+    525C
+    KCIO4
+    138.5
+    46%
+    perchlorate
+    588C
+    400C**
+    Lithium chlorate
+    LiClO3
+    90.4
+    53%
+    129°C
+    270°C
+    236C
+    430°C
+    Lithium perchlorate
+    LiClO
+    106.4
+    60%
+    247C
+    410°℃
+    Percentage by mass based on a molecular weight calculation.
+    From references 4,7 and 8.Multiple valves from different sources.
+    Decomposition occurs before solid melts.
+    3
+    American Institute of Aeronautics and Astronautics
+
+==========第3页==========
+    Table 2.Standard Heat of Formation and Heat of Reaction for Oxygen Production.
+    △Hfo
+    △Hf°
+    △Hro
+    Name
+    Reaction (one mole reactant)
+    (reactant)
+    (chloride)
+    (kJ/mole)"
+    ~366*
+    -411
+    -45
+    Sodium chlorate
+    NaClo3→NaCl+3/2O2
+    [-358]
+    「-4091
+    -51]
+    -383
+    -411
+    NaClO4→NaCl+2O,
+    -28
+    Sodium perchlorate
+    [-384]
+    [-409]
+    [-25]
+    -436
+    -38
+    Potassium chlorate
+    KClO3→KCl+3/2O2
+    -398
+    [-435]
+    【-37刀
+    Potassium perchlorate
+    KClO4→KCl+2O2
+    -433
+    -436
+    -3
+    [-430]
+    [-435]
+    [-5]
+    Lithium chlorate
+    LiCIO3→LiCl+3/2O2
+    -409
+    、
+    Lithium perchlorate
+    LiCIO4→LiCl+2O2
+    -381
+    -28
+    -409
+    [-380]
+    [-29]
+    Standard Heats of Formation from reference(7)in units of Kilojoules per gram-mole,and compared favorablywith values from reference (9)in brackets.
+    米*
+    Standard Heat of Reaction calculated based on balanced equation.(Standard Heat of Formation for O,ingaseous state is defined as 0.0.)
+    ***Negative heat of reaction indicates an exothermic (heat given off)reaction.***Heat of formation for lithium chlorate not found,heat of reaction not determined.
+    Residual water12 ad13 from manufacturing can lead to formation of hypochlorous acid (HOCI),14 or Cl2 and
+    ClO2.The prior use of asbestos as the binder generated higher levels of chlorine in the exhaust.2 The effect wasattributed to the "water of crystallization"in the asbestos.6 The chlorine producing side reactions become moreserious as the reaction temperature increases.*The chlorine appears to be generated in the candle interior where thetemperature is highest and gas species may be trapped briefly before escaping.12 A small amount(3%wt-5%wt)ofbarium peroxide is added to the candle mixture as a scavenger for HOCl and chlorine.12 While performing thisfunction,the barium peroxide releases additional oxygen,5 and heat.2 Measurements have shown that the presenceof barium peroxide increases the candle internal temperature and thereby increases the rate of oxygen production.
+    Early oxygen candles with approximately 5%barium peroxide from MSA produced an average of 5 ppm chlorineover their entire burn.The Hopcalite filter for carbon monoxide treatment also was found to remove chlorine.6
+    For the application of the oxygen candle to the submarine where the oxygen is diluted throughout the vessel,thelevels of carbon monoxide and chlorine (all species together)are not a hazard at the levels normally generated bycandles.14 The current specification for U.S.NAVY candles,15 places a limit of 25 ppm carbon monoxide and 2.5ppm chlorine (all species)averaged over the entire burn.A significant portion of both impurities are generatedduring the ignition phase or first 5 minutes.146 When using SCOGs to directly feed personnel (e.g.emergencyoxygen supply in airplanes)the oxygen is must usually be filtered of chlorine and carbon monoxide.
+    IV.Manufacturing Processes
+    The candle manufacturing process involved thoroughly mixing the dry ingredients,moistening with 1.5%wt to5%wt3 water and pressing with a high pressure ram.The higher the ram pressure the higher the final candle density.NRL performed tests from 5,000 to 24,000 psi.From 5,000 to 12,000 psig the density of the candle rose from 2.1 to
+    2.27 g/ml (an 8%increase).Increasing to 24,000 psig yielded a density of 2.4 g/ml (a further 6%increase).Thedensity of crystalline sodium chlorate is approximately 2.7 g/ml.
+    In order to remove the water,the final candles had to be thoroughly heated,without raising the exteriortemperature too high.The original manufacturing process dried the candles at 100C.5 Poor heat transfer within thecandle led to long drying times of up to eight days.Drying at 235C caused roughly 25%of the barium peroxide to
+    4
+    American Institute of Aeronautics and Astronautics
+
+==========第4页==========
+    release oxygen.This is not thought to be a decomposition reaction,but a reaction between the barium peroxide andwater forming barium hydroxide.12 This small loss of oxygen is trivial compared with total candle capacity,andshould also not inhibit the function of the barium in removing chlorine.A maximum oven temperature of 240C isrecommended.12
+    A second manufacturing process involving heating the initial mixture prior to forming was proposed byNRL..6.11-1417 The NRL process involved melting/casting or softening/pressing the semi-molten material into thefinal shape.The casting process yielded higher density material(23 lb for the cast candle versus 21.5 lb per pressedcandle 6 inches diameter x 10 length)and reduced CO emission.Softening at higher temperature allowed densecandle production at reduced pressures.At 225C,a pressure of 10,000 psig was used,while at 240C,only 5000psig was needed.Candles manufactured by either casting or hot pressing must be cooled slowly to avoid crackingof the finished product.4At 22C,candles nearly at the theoretical density could be formed.
+    MSA found that the casting method was difficult to scale up to industrial quantities preferring to use the pressingmethod.6.1 One issue was observed:the metal powder or fibers tended to clump together in the melted material and
+    stos-11079/ISOI :IOQ
+    also sunk through the material while being cast.*The clumping of the iron in molten chlorate could be addressed byadding small amounts of potassium chlorate.4 The high temperatures necessary for highest density product alsolead to some decomposition of the material (bubbles forming).It was observed that a small addition (0.5%wt)ofsodium perchlorate dramatically decreased the bubble formation.2 Currently,both manufacturers of U.S.NAVYcandles continue to use the wet high-pressure process.
+    3o'eere'se//:dny s1o'isn3nv
+    V.Ignition of Candles
+    The ignition of the candles is aided by a high concentration of iron in an igniter zone.The proportion of reducediron in that zone may be 20%wt to 30%wt or higher.Some candles also incorporate an elevated iron "booster"section across the entire top of the candle surrounding the igniter zone.This booster section serves to evenly ignitethe cross section of the candle.Ignition is accomplished by a high energy source.Sufficient energy is required toraise the temperature of a local area to the decomposition point.Several methods have typically been used:
+    A.Red phosphorous nail
+    Ignition by a red phosphorus tipped nail was employed as early as 1950.The U.S.NAVY igniter "match"is asix inch long,nine gauge foundry nail.The head of such a nail is approximately 1/2 inch in diameter.The nail headis coated with red phosphorous by painting or dipping the head into phosphorus dissolved in various mixtures ofglue and acetone.The phosphorous igniter was found to be reliable at room temperature.For aircraft devices,thephosphorous proved to be inconsistent at very low temperatures(-50C).3
+    B.Cartridge,Standard 0.410 Bore
+    The British SCOG utilizes a bullet-less 0.410 bore cartridge and striker.8 The burning debris from the cartridgeimpacts the ignition end of the candle,or "brick,"and begins the burn.
+    C.Thermite
+    National Aeronautics and Space Administration (NASA)has a flight qualified chemical oxygen generatorsimilar to the SCOG,designated the SFOG.Because of the NOx emissions associated with the cartridge igniter.NASA developed an igniter in the same cartridge utilizing a mixture of aluminum and magnesium powders and ironoxide.The cartridge primer,ignited by a physical strike,sets the exothermic reaction off.This type of ignitergenerated much lower amounts of NOx.
+    VI.Brief List of Oxygen Generator Events
+    The danger of misuse or abuse of chemical oxygen generators can be seen in several historical events as listedbelow.Common themes appear in these events:presence of both fuel and oxygen making extinguishing difficult,
+    5
+    American Institute of Aeronautics and Astronautics
+
+==========第5页==========
+    critical impact of combustible contaminants,rapidly increasing chemical reaction rates caused by temperaturebuildup,energy buildup caused by pressure buildup due to confinement.
+    A.USS Seawolf,1985,extensive candle fire within furnace,damaging furnace drum,inner basket and deck floor,probable hydrocarbon contamination of candles.20.21
+    B.ValuJet Flight 592,1996,fire in cargo compartment likely caused by expired airline oxygen generator ignitionbecause safety pins had been removed.22
+    C.MIR fire,1997,fire in oxygen generator including stainless steel shell,possible contamination of generator.23
+    D.HMS Tireless,2007,pressure buildup causing SCOG to explode,probable hydrocarbon contamination.18.24
+    stos-11079/ISOI :IOQ
+    E.HrMs Bruinvis,2007,pressure release causing furnace lid to open breaking two lid bolts,probable clogging ofsalt filters.25
+    VII.Recommendations for Safe Manufacturing,Storage and Use of Solid Oxygen Generators
+    The following National Fire Protection Association documents offer useful instructions for manufacturers,
+    3o'eere'se//:dny s1o'isn3nv
+    storage facilities and end users of solid oxygen generators:
+    A.NFPA 430,"Code for the Storage of Liquid and Solid Oxidizers,"26 addresses storage of oxidizers rather thanmanufacturing.Many of the requirements for storage facilities apply to candle manufacturers since they must storesodium chlorate as well as finished candles
+    B.NFPA 495,"Explosive Materials Code,"27 specifically deals with manufacturers of explosive materials andtherefore does not apply directly to manufacturers of oxygen generators.However,a number of the requirementsand suggestions are valuable for consideration
+    C.NFPA 1124,"Code for Manufacture,Transport,and Storage of Fireworks and Pyrotechnic Articles,"28 andNFPA 1125,"Code for Manufacture of Model Rocket and High Power Rocket Motors,"29 provide usefulinformation although oxygen candles are not considered pyrotechnics nor rocket motors.The similarity lies in thefact that oxygen candles,pyrotechnics and solid rocket motors contain both fuel and oxidizer mixtures.
+    D.NFPA 86,"Standard for Ovens and Furnaces,"30 discusses regulations for furnaces that may be exposed toflammable or combustible substances.Although oxygen candles are not classified as combustible or flammabletechnically;they are a danger when exposed to fire and are certainly combustible once ignited.The manufacture ofsolid oxygen generators involves drying the prepared candles before final packaging and oven safety is paramount.
+    E.NFPA 70,"National Electrical Code,"31 Chapter 5,articles 500,502 deals with specific electrical requirementsfor various environments.Although sodium chlorate is not combustible,mixed with iron powder it may beconsidered as such.The dust generated by oxygen generator manufacture can justifiably require electricalinstallation be classified as class il.Division 2.
+    VIII.Materials of the US Candle Furnace and Recommended Cleanliness Requirements
+    The U.S.NAVY has recommended that the typical oxygen cleanliness standard MIL-STD-133032 is not requiredfor any components of the Oxygen Candle Furnace.In place,sections of MIL-STD-162233,will be required whenthe pressure gage and relief valves are cleaned.The supporting reasoning follows:
+    A.MIL-STD-1330D32 is generally appropriate for all oxygen or oxygen-enriched systems and components.
+    However,paragraph 1.2.5 states:
+    6
+    American Institute of Aeronautics and Astronautics
+
+==========第6页==========
+    "For open ended piping or configurations constructed of material and operated in an oxygen or oxygen-enriched atmosphereat a pressure that does not propagate a flame when determined in accordance with the guidelines of ASTM G63 [reference34],and ASTM G94 [reference 35]clean in accordance with MIL-STD-1622 [reference 33]for diver's applications;otherwise use best commercial practice to remove loose scale,rust,grit,filings,oil,and grease."
+    B.The candle furnace is an "open ended system."
+    1.The internal filters are to be cleaned when a pressure of 5 psig is observed.36
+    2.The relief valve is set to 10 psig.3
+    3.In the case of a blocked exhaust and relief valve,the drum is designed for a maximum internal pressure of 15psig.It is expected that the lid clamp will fail at that pressure immediately releasing the interal pressure.
+    stos-1107'9/ISOI :IO
+    C.The furnace is constructed of materials that will not propagate a flame in the presence of oxygen at the pressurespossible in the furnace:
+    1.The metallic parts of the furnace are listed below.
+    a.Drum and internals-Type 304 stainless steel37.38
+    b.Igniter Assembly Brass38
+    c.Relief Valve-Brass body w/316 stainless steel poppe0
+    d.Pressure gage fitting-brass4
+    internals exposed to oxygen-phosphor bronze41
+    2.The appropriate data to determine the resistance to flame propagation of metals is the Promoted Combustion
+    Test,ASTM G124.2 Other ignition mechanisms such as particle impact,friction,and flow friction are consideredremote for the furnace configuration.In the Promoted Combustion Tests,an overwhelming energy source (usuallyelectrically ignited aluminum powder)is applied to the bottom end of a rod shaped sample in a pressurized oxygenenriched chamber and the extent of the resulting burned material is measured.Loss of an inch or more of the sampleis defined as a burn (as opposed to just melting and loss of material due to the promoter).The tests are repeated atincreasing pressure.Most materials undergo a transition from self-extinguishing to flammable as oxygen pressureincreases.Data for metals and alloys are given in references 35,43 and 44.Reference 44 contains an earlier versionof the reference 43 table with additional stainless steel data.Table 3 presents the data for furnace materials.Themetallic elements of the furnace are appropriate for the conditions on the Oxygen candle Furnace.
+    Table 3.Promoted Combustion Data for Furnace Metals
+    Component
+    Material
+    Lowest Burn Pressure
+    Reference
+    >7,000psia
+    35
+    Igniter Assembly,Relief Valve
+    Brass
+    >10,000psia
+    43
+    Pressure gage internals
+    Phosphor Bronze
+    >7000 psia
+    35,43
+    Furnace drum,basket,
+    Type 304 or 316
+    (316-Relief Valve poppet)
+    35,44
+    Stainless Steel
+    500 psia
+    No data found specifically for phosphor bronze found,used "Tin Bronze."
+    3.The non-metal components of the furnace that are exposed to oxygen are
+    a.Lid gasket rope
+    -fiber glass38
+    b.Filter socks
+    -fiber glass38.45
+    C.Relief Valve o-ring
+    -Viton(assumed grade A)40
+    d.Filter assembly washer seal-Teflon(assumed grade TFE)38.46
+    7
+    American Institute of Aeronautics and Astronautics
+
+==========第7页==========
+    Table 4.Oxygen Compatibility data for Candle Furnace Non-Metals
+    Component
+    Material
+    Autogenous Ignition
+    Oxygen Index (OD)
+    References
+    Temperature (AIT)
+    Lid Gasket Rope,Filter
+    Fiber Glass
+    Non-flammable
+    Non-flammable
+    socks
+    Relief Valve O-Ring
+    57%
+    Viton®A
+    31.5-57.5%
+    268-322℃1
+    33,43
+    Filter assembly washer
+    Teflon®TFE
+    95-100%
+    511-526℃2
+    33,43
+    seal
+    1 Data for 1,500 psia test,no data available at 1 atm.AIT increases at lower pressures.2 Data for 1 atm.
+    4.The appropriate data for non-metals to determine their suitability for oxygen service are Oxygen Index (OI)ASTM test D2863,7 and Autogenous Ignition (Autoignition)Temperature (AIT),ASTM G72.The effects ofparticle impact,friction,flow friction and other ignition mechanisms are considered remote.Table 4 presents theappropriate data for the non-metallic components.The non-metallic elements are appropriate for the conditions onthe Oxygen Candle Furnace.
+    D.The furnace is necessarily dirty.Normal burning of the candles generates significant amounts of fine NaClparticles that are mostly filtered out before the oxygen leaves the furnace.However,the relief valve and pressuregage are exposed to the unfiltered oxygen-enriched environment.If those pieces were oxygen cleaned wheninstalled,they would no longer be clean after burning a single candle.The relief valve and pressure gage will haveto be cleaned to MIL-STD-1622,33 before being calibrated.
+    E.The particles of NaCl are not flammable,but could theoretically contribute to"particle impact"ignition if theirvelocity were significant.The design of the furnace ensures that the maximum velocity of the oxygen streams ismodest.Operation of the furnace involves low velocities of the oxygen.The exhaust line is a one inch schedule 40stainless steel pipe.The U.S.NAVY candle generates oxygen at an average rate of approximately 2 SCFM49 and atypical maximum under 6 SCFM.The velocity of the oxygen through the exhaust pipe is approximately 6 ft/secaverage and 18 ft/sec maximum.Velocities within the furnace drum are much smaller.
+    IX.Contaminated Candle Tests
+    A.Test setup and instrumentation:
+    Naval Surface Warfare Center,Carderock Division,Ship Systems Engineering Station(NSWCCD-SSES)tasked theNASA Lyndon B.Johnson Space Center,White Sands Test Facility (WSTF)to burn deliberately contaminatedsodium chlorate oxygen candles in the furnace basket and in the full candle furnace.50.51 Some members of the sameNASA WSTF team that had worked on the Royal Navy SCOG investigation performed the contaminated candletests.A NASA safety review approved testing up to 100 ml of hydrocarbon contaminant.Three separate tests wereperformed:(1)50 ml oil contaminated candle burned in the inner basket,without the outer furnace,(2)50 ml oilcontaminated candle installed in the furnace and (3)100 ml (91 actually used)oil contaminated candle installed inthe furnace.The tests were conducted at the WSTF 700 Area,a controlled access area with protected facilities fordata acquisition and personnel safety.This test site had also been used for the tests of the British SCOG.Figure 1shows the instrumented U.S.NAVY candle furnace installed at the WSTF 700 Area.The candles were remotelyignited electrically.
+    The candles were contaminated with light hydraulic oil.The oil was allowed to wick up into the lower end of theupper candle for several hours.This simulated an accidental contamination scenario in which a candle containerwith a hole in the bottom sat in oil for some period of time or in which a sailor inadvertently placed an open candlein a small puddle of oil before loading the furnace.Figure 2 shows the candle after sitting in oil for about 3 hours.
+    8
+    American Institute of Aeronautics and Astronautics
+
+==========第8页==========
+    The lower candles were not contaminated.Thetests were recorded with both visible and infraredvideo.The infrared video could recordtemperature changes that were undetectable to
+    Pressure Transducer
+    the observers or the visible-light video camera.
+    Flow meter
+    Gas flow rate,furnace internal pressure,oneinternal and one external temperature were to be
+    Thermecouple
+    recorded in each closed furnace test.
+    B:Results
+    A rapid increase in gas flow-rate and internalfurnace pressure occurred only when the burning
+    Relief Valve
+    candle front reached the contamination zone
+    Figure 3 plots both the 91 ml test pressure(rightaxis)and flow (left axis)on the same graph for
+    Thermocouple
+    comparison.Table 5 gives the salient details ofthe enclosed furnace tests with 50 and 91 ml ofoil.(Normal generation of oxygen from a candle
+    FIGURE 1.Instrumented U.S.Navy Candle Furnace
+    is approximately 2.3 SCFM).The larger the
+    Located at WSTF Area 700
+    amount of contaminant the greater the maximumgas flow,the higher the maximum pressure andthe more rapidly the pressure rises.The 91 mltest experienced a maximum pressure four timesgreater than the pressure rise of the 50 ml test.
+    This implies that the increasing effect ofcontaminants is not simply linear,but roughlyexponential.
+    The total time for both candles to beconsumed was 65 and 61 minutes for the 50 and91 ml tests respectively.A typical burn of twouncontaminated candles requires approximately100 minutes.It is hypothesized that the heatreleased by the burning contaminant led toincreased chemical reaction rates of the secondcandle.Further inspection by NSWCCD-SSES ofthe infrared video of the open basket testrevealed a mechanism for the rapid consumptionof the second candle.Figure 4 shows selected
+    12345678
+    frames from the 50 ml contaminated candle inthe open basket test (not in furnace).Althoughthe visual video indicated nothing untowardoccurring,the IR video showed the basket
+    11
+    surface temperatures rapidly changing.The
+    12
+    frames are interpreted to show melted candlematerial spilling over the side of the lower candlecausing it to "burn"from both top and side.The
+    FIGURE 2.U.S.Navy Candle Contaminated from
+    majority of the lower candle is consumed in the 6
+    Bottom for NASA Test
+    minutes shown.Melting of the bottom candlewas confirmed by the presence of misshapenmasses of sodium chloride found in the bottom ofthe basket from the NASA tests.Unlike typicaldull grey clinkers,the lower clinker material waspartially black,severly deformed and badlyadhered to the basket.
+    9
+    American Institute of Aeronautics and Astronautics
+
+==========第9页==========
+    Outlet Flowmeter (ACFM)
+    25
+    Furnace Pressure (psia)
+    ---WSTF Ambient (psia)
+    20
+    20
+    10
+    10
+    5
+    0
+    十
+    0
+    0
+    10
+    20
+    25
+    303540
+    45
+    50
+    55
+    60
+    Time (Minutes)
+    FIGURE 3,Flow and Pressure Data from NASA Test of 91 ml Oil Contaminated Candle
+    TABLE 5.Results of NASA Contamination Tests
+    50 ml Oil
+    91 ml Oil
+    Time of oil ignition
+    48 minutes
+    43 minutes
+    Maximum Internal Pressure *
+    +2.7 psid
+    +11.2 psid
+    Maximum Flow
+    18 ACFM (approx)***
+    25 ACFM
+    Time to reach Max Pressure ***
+    ~6 minutes
+    ~3 minutes
+    Time to burn two candles
+    65 minutes
+    61 minutes
+    Time when rapid increase in pressure and flow was observed.*Pounds per square inch above WSTF ambient.
+    **Flow meter performed intermittently,max flow measured during oil burning phase.***Time from onset of rapid pressure rise to peak pressure.
+    10
+    American Institute of Aeronautics and Astronautics
+
+==========第10页==========
+    Time in minutes and seconds from ignition
+    5200”52'49”53'49”5426”
+    5530”58'01”
+    DE CTR T-
+    DE CTR T-DE CTR T+DE CTR T+DE CTR T+DDE CTR T
+    FIGURE 4.Individual Frames From Infrared Video of 50 ml Oil Contaminated Candle in Open Basket
+    Test Showing Melting of Lower Candle
+    The basket,furnace,and lid were not damaged (melted,burned or deformed)by the tests.The furnace was stillfully functional after all the tests.However,the fiberglass filters were partially melted and had become brittle afterexposure to the heat of the contamination burns.Initially,the filters appeared normal under the normal grey saltlayer.The brittleness was only detected when they were removed from the furnace after the testing.The lack ofdamage to the furnace and basket differs from the higher level of contamination tested by NRL in 1985.The 300 ml
+    and 600 ml tests performed in 1985 severely damaged the baskets,furnace welds,lid,lid clamp and filters.20.21
+    The sudden increase in pressure and gas flow indicating combustion of the oil occurred at approximately thetime that the candle's burning front should have reached the oil soaked layer (see Table 5 and Figure 2).Thisindicates that heat from the burning top candle was not significantly transferred down the candle.This isinconsistent with the early NRL contamination tests,in which the fires started within a few minutes of ignition eventhought it was the lower candle that was contaminated.The reason for the difference in ignition time between the
+    NASA and NRL tests is not known,but may be related to the higher amounts of oil used in the NRL tests.0.
+    X.Elevated Pressure Tests
+    NSWCCD-SSES tasked the NRL to burn U.S.Navy sodium chlorate candles in a standard Navy furnace in a firerated pressure chamber located at the NRL,Chesapeake Bay Detachment(CBD).52.53
+    The tests were conducted in the NRL CBD pressure chamber known as "Fire 2.""Fire 2"is a 5 cubic meter(177cubic feet)chamber rated to 100 psig,shown in Figure 5.The chamber is large enough to place the entire furnaceand scale.The chamber is equipped with pass-throughs for temperature measurement,electrical lines (power andsensor)and tubing connections.The candles were remotely ignited electronically.
+    The furnace exhaust fitting was connected via a 1/2 inch stainless steel flexible line within the chamber to a 1/2inch stainless steel tube that passed through a sealed fitting in the test chamber wall.Once outside the test chamber,the oxygen exhaust line was connected to a flow controller and finally to gas analyzers,gas sample vessels and wasexhausted outside the building.The flow-controller was operated by a computer to maintain the desired pressure inthe candle furnace while venting the generated oxygen.The flow-controller would also provide instantaneous massflow data.
+    11
+    American Institute of Aeronautics and Astronautics
+
+==========第11页==========
+    A second method of oxygen flowmeasurement was incorporated intothe test setup.The entire furnace wasmounted on a digital scale locatedinside the pressure chamber.Thechange in mass of the furnace equalsthe mass of oxygen generated by theburning candle.Standard cubic feetof oxygen at 70F were computedfrom the oxygen mass data assumingthe ideal gas equation.
+    Measurement
+    of
+    oxygen
+    production by gas flow measurementproved unreliable in part because thefurnace is not a well sealed chamber.
+    Gas can leak either into the furnacefrom the pressure chamber or out ofthe furnace into the pressurechamber.The fiberglass lid gasket ispermeable to modest gas flows.
+    During the low pressure test,theinternal pressure of the furnacequickly rose above the chamber
+    FIGURE 5.NRL Fire 2 Chamber located at
+    pressure due to the restriction of the
+    Chesapeake Bay Detachment
+    oxygen exhaust system.Someoxygen flowed out of the furnaceinto the test chamber rather thanflowing through the gas exhaustpiping.The chamber pressure roseslightly (much larger volume thanthe furnace)during the test.The totaloxygen flow from the flow-controller
+    140
+    was well below the oxygen flowderived from the mass change.The120
+    reverse occurred during the high
+    。2论088888a6oo0C805(o
+    pressure test when air from the
+    100
+    pressure chamber leaked into thefurnace and out theexhaust
+    80
+    measurement system generating afalsely elevated oxygen flow result.
+    60
+    During the 5 atm test,the pressurechamber slowly dropped during the
+    40
+    test as gas leaked out through thefurnace and into the furnace exhaust.
+    20
+    The second method (mass)formeasuring oxygen generation hadbeen planned for the possibility that
+    0
+    10
+    20
+    30
+    40
+    50
+    the gas flow method might prove
+    Time (minutes)
+    difficult to control.The mass methodproved to be accurate,reliable and
+    ◇1.0atm▣1.7atma5.0atm
+    immune from stray gas flows.
+    At 1.7 atm and 5.0 atm,thecandles produced the normal volume
+    FIGURE 6.Oxygen Generated by Candles at Ambient and Elevated
+    of oxygen.The average generation
+    Pressures
+    rate increased as the pressure
+    12
+    American Institute of Aeronautics and Astronautics
+
+==========第12页==========
+    increased.Figure 6 shows the oxygen produced as a function of time.(Ambient pressure data from testing atNSWCCD-SSES is included for reference.)
+    There was a visual difference in the tops of candles burned at elevated pressure.Figure 7 shows the ignitionregion of the test candles arranged from ambient to the highest test pressure.The appearance of the candles indicatesadditional melting of the igniter region probably due to the elevated burning rate leading to higher temperatures.The5 atm candles also showed dripping of molten material down the side of the candle clinker.This molten material didnot interfere with removal of the clinkers.The temperature of igniter zone of the candles is close to the melting point(801C)of sodium chloride (the major constituent of the clinker).If the reaction is accelerated,more material will bemelted rather than increasing the material's temperature.The endothermic process of melting will act to limit furtherrise in temperature of the candle.
+    Phila.
+    NRL
+    NRL
+    1 atm
+    1.7 atm
+    5 atm
+    FIGURE 7.Ignition Region of Candles Burnt at Ambient and Elevated Pressures.
+    XI.Conclusions
+    A.The U.S.NAVY Oxygen Candle Furnace is constructed of materials that are compatible with its intendedexposure to high concentrations of oxygen at elevated temperatures.The required conditions are eased by the lowpressures expected during operation.
+    B.The current U.S.NAVY Oxygen Candle Furnace will safely contain fires and pressures resulting from anycredible level of accidental oil contamination of the candles.The crew is instructed to visually inspect all candlesprior to loading them into the furnace.Since hydrocarbon contamination is the only known scenario that can triggera candle fire,the U.S.Oxygen Candle Furnace should be considered safe as currently used by the U.S.submarineforce.The basket,furnace,and lid were not damaged in these tests.Should a similar shipboard event occur,the crewcould continue to burn candles in the same furnace.The residue from the contaminated candles may be difficult toremove from the furnace.Sailors are instructed to attempt to chip or pry the clinker material.If chipping provesdifficult,they are instructed to use water to loosen or dissolve the hard material.
+    Contamination of the candle by wicking hydrocarbon up through the bottom has been shown to slow downconsiderably after approximately 80 ml had been absorbed through the entire bottom surface.Oil wicking upthrough a pin-hole in the candle can would be a slow process and may be limited in the maximum amount of oil thatcan be absorbed.
+    The limit of 91 ml of oil contaminant is most likely a conservative limit.Some additional contamination shouldbe able to be handled without damaging the furnace or its component parts.(The large volumes of contaminantsused in the 1985 NRL tests,which destroyed the furnace baskets,are not considered a credible accidentalcontamination scenario.)The function of the relief valve did not come into play with these tests since the relief
+    13
+    American Institute of Aeronautics and Astronautics
+
+==========第13页==========
+    pressure was not reached.Past tests by NRL showed that the flow from the relief valve is sufficient to preventpressure increases that could eject the furnace lid.The precise limit of contaminant that can be handled withoutdamaging the furnace or basket is not known.
+    C.The current U.S.sodium chlorate candles will operate effectively and safely at pressures up to 5 atm.Theamount of oxygen generated will be unchanged from operation at ambient pressure.The candles will burn slightlyfaster at elevated pressures,and the clinker may appear different to the operator.The clinker should be able to beremoved from the furnace basket as easily as those burned at ambient pressure.The candle furnace will not bedamaged by operation at elevated pressure.
+    References
+    Du Bois,LCDR Eugene F.,"Submarine Ventilation,Review of Recent Work on Air Purification in Submarines,"Bulletin
+    stos-1107'9/ISOI :IO
+    No.4,Bureau of Medicine and Surgery,March 15,1919.
+    Erersole,J.H.,"The New Dimensions of Submarine Medicine,"New England Journal of Medicine,262:599-610,March 24.1960.
+    White,J.C.,"Atmospheric Control in the True Submarine,"Report of NRL Progress,5465,PB-161518,December 1958.
+    8.Mausteller,J.W.,Mine Safety Appliances Corporation,"Oxygen Generating Systems,"Kroschwitz,J.,I.,Howe-Grant,
+    M.,editors,Kirk-Othmer Encyclopedia of Chemical Technology,fourth edition,John Wiley and Sons,Inc.,1996.
+    PSchechter,W.H.,Miller,R.R.,Bovard,R.M.,Jackson,C.B.and Pappenheimer,J.R.,"Chlorate Candles as a Source of
+    Oxygen,"Ind.Eng.Chem.32:2348,November 1950.
+    Smith,S.H.,Jr.,"Chlorate Oxygen Candles,"chapter 15,Miller,R.R,Piatt,V.R.,editors,The Present Status of Chemical
+    Research in Atmosphere Purification and Control on Nuclear-Powered Submarines,NRP Report 5465,April 21,1960.
+    Lide,David,editor-in-chief,Handbook of Chemistry and Physics,80h edition,CRC Press Ltd.,1999.
+    http://www.analytyka.com.mx/tabla%20periodica/MSDS/Na/SODIUM%20PERCHLORATE.htm [cited 14 Jun 2009.]
+    Purdue AAE Propulsion page,http://cobweb.ecu.purdue.edu/~propulsi/propulsion/comb/propellants.html [cited 15 Jun20091
+    10Molecular Products web site http://molprod.realnet2000.co.uk/video.htm [cited 2 Oct 2009]
+    Musick,J.K.,Gustafson,P.R.,"Chlorate Candles,"chapter 3,Piatt,V.R.,Ramskill,E.A.,editors,Annual Progress Report,
+    The Present Status of Chemical Research in Atmosphere Purification and Control on Nuclear-Powered Submarines,NRL Report5630,July14,1961.
+    12Gustafson,P.R.,Smith,S.H.,Miller,R.R.,"Chlorate-Candle Fabrication by Hot Pressing,"NRL Report 5732,January 23,1962.
+    13Gutstafson,P.R.,Chlorate Candle for Oxygen Production,United States Patent Office,Patent number 3,207,695,
+    September 21,1965.
+    Musick,J.K.,Gustafson,P.R.,"Chlorate Candles,"chapter 4,Piatt,V.R.,White,J.C.,editors,Second Annual Progress
+    Report,The Present Status of Chemical Research in Atmosphere Purification and Control on Nuclear-Powered Submarines,NRL Report 5814,August 29,1962.
+    15Chlorate Candles drawing (4460-0-875-4568),CS-4460-0001,Defense Supply Center Columbus,Revision G,May 5,2006.
+    16Uhtoff,R.,"Forwarding of Product Verification Testing Results of Chlorate Candles,Submarine Use,Breathing Oxygen
+    Supply,NSN 4460-00-875-4568,"Report,3996 Ser 20/067-08,Naval Undersea Warfare Center Division,Keyport,dated April10,2008.
+    17Schechter,W.H.,Chlorate Candles as Oxygen Yielding Compositions,United States Patent Office,Patent number2,469,414,May10,1949.
+    1Report of the Board of Inquiry into the Circumstances Surrounding the Deaths of LOM(WSM)Paul David McCann
+    D252555M and OM(WSM)2 Anthony Huntrod D261007R and the Injury to xxxxx of Her Majesty's Ship Tireless on 20 March2007,http://www.mod.uk/nr/rdonlyres/20fb4165-ec92-418d-b6e7-16ba599f11a/0/boi_hms tireless.pdf.
+    19Graf,John,personal communications,NASA Johnson Space Center and with Jon Haas,NASA White Sands Test Facility,
+    December,2007
+    Witzenburg,D.L.,Commanding Officer USS Seawolf,SSN 575,"Oxygen Candle Furnace Fires On Board USS Seawolf(SSN 575),"letter report 9000 SSN 575:9:Ser 131,April 6,1985.
+    2Doyle,R.J.,Campana,J.E.,Mitchell,C.A.,"Analysis of Oxygen Candle Furnace Fires on Board USS Seawolf(SSN 575),
+    Final Report,"NRL report 9515/Prob 61-1647-B5,Ser 6110-465,Aug 19,1985.
+    22Aircraft Accident Report,"In-Flight Fire and Impact with Terrain ValuJet Airlines,Flight 592,DC-9-32,N904VJ,
+    Everglades,Near Miami,Florida,Mat 11,1996,"National Transportation Safety Board Report PB97-910406,August 19,1997.
+    Beeson,H.,Haas,J.personal communication,NASA White Sands Test Facility,December 2007.
+    24Haas,J.,Keddy,C."Investigation,Analysis,and Testing of Self-contained Oxygen Generators,"NASA Report WSTF-IR-
+    129-001-08,Lyndon B.Johnson Space Center,White Sands Test Facility,Dec 1,2008.
+    2Baines,D.,Bogaert,J.,Theune,C."Report of Incident,"Molecular Products,May 6,2007.
+    14
+    American Institute of Aeronautics and Astronautics
+
+==========第14页==========
+    26NFPA 430,"Code for the Storage of Liquid and Solid Oxidizers,"National Fire Protection Association,1 Batterymarch
+    Park,Quincy,MA,2004 edition.
+    NFPA 495,"Explosive Materials Code,"National Fire Protection Association,1 Batterymarch Park,Quincy,MA,2001edition
+    28NFPA 1124,"Code for the Manufacture,Transportation,and Storage of Fireworks and Pyrotechnic Articles,"National Fire
+    Protection Association,1 Batterymarch Park,Quincy,MA,2003 edition.
+    NFPA 1125,"Code for the Manufacture of Model Rockets and High Power Rocket Motors,"National Fire Protection
+    Association,1 Batterymarch Park,Quincy,MA,2001 edition.
+    30NFPA 86,"Standard for Oven and Furnaces,"National Fire Protection Association,1 Batterymarch Park,Quincy,MA,2003 edition.
+    3NFPA 70,"National Electrical Code,"Chapter 5,articles 500,502,National Fire Protection Association,1 Batterymarch
+    Park,Quincy,MA,2005 edition.
+    32MIL-STD-1330D(SH)w/CHANGE 1,28 June 2007,Precision Cleaning and testing of Shipboard Oxygen,Helium,
+    Helium-Oxygen,Nitrogen,and Hydrogen Systems,superseding MIL-STD-1330D(SH),20 Sept 1996.
+    StOS-I107'9/IS'OI :IO
+    33MIL-STD-1662B(SH)w/CHANGE 1,15 November 2006,Standard Practice for Cleaning of Shipboard Compressed Air
+    Systems,superseding MIL-STD-1662B(SH),17 February 1999.
+    34ASTM G63-99,Standard Guide for Evaluating Nonmetallic Materials for Oxygen Service,American Society for Testingand Materials,100 Barr Harbor Dr.,West Conshohocken,PA.
+    ASTM G94-05,Standard Guide for Evaluating Metals for Oxygen Service,American Society for Testing and Materials,100 Barr Harbor Dr.,West Conshohocken,PA.
+    36MRC 8DTU-89(U-1),"Clean and Inspect Smoke Filter,Clean and Inspect Relief Valve,Clean Basket,Drum,Lid,and
+    Inspect Lid Gasket,"part of MIP 5154/009.
+    Technical Manual S9515-AX-MMC-010,Oxygen Candle Furnace,Type N,Part no.501597,Revision 1,Mine safety
+    3o'eere're/f:dny S1ot isn3nV
+    Appliances Company,Pittsburgh,PA,14 July 1992.
+    3Mine Safety Appliances drawing A501597,revision 9,12/30/1990.3NSN 4820-01-210-6874,Procurement Item Description.
+    40Circle Seal Controls,Inc.,Part Number,M5132B-4M-13,information sheet http://www.circlesealcontrols.com/products/relief_valves/asme/asme_2007-10_lo.pdf.
+    4NSN 6685-00-246-2363,Technical Characteristics.
+    2ASTM G124,Standard Test Method for Determining the Combustion Behavior of Metallic Materials in Oxygen Enriched
+    Atmospheres,American Society for Testing and Materials,100 Barr Harbor Dr.,West Conshohocken,PA.
+    Beeson,H.D.,Smith,S.R.,Stewart,W.F.,editors,Safe Use of Oxygen and Oxygen Systems:handbook for Design,
+    Operation,and Maintenance,2nd edition,American Society for Testing and Materials,100 Barr Harbor Dr.,West
+    Conshohocken,PA.,2007
+    4Fundamentals of Oxygen Systems Design and Analysis,Oxygen Safety Training Course Series,Wendell Hull Associates,
+    Inc.,Las Cruces,New Mexico,September,2007.
+    NSN 4330-00-933-9925,Technical Characteristics.
+    4Order for Supplies or Services,SPM5M3-08-M-3376,contract for purchase of NSN 5330-01-442-1242,Teflon Gasket,08
+    0CT2008.
+    4ASTM G2683,Test Method for Measuring the Minimum Oxygen Concentration to support Candle-like Combustion of
+    Plastics (Oxygen Index),American Society for Testing and Materials,100 Barr Harbor Dr.,West Conshohocken,PA.
+    4ASTM G72,Test Method for Autogenous ignition Temperature of Liquid and Solids in a High-Pressure Oxygen-Enriched
+    Environment,American Society for Testing and Materials,100 Barr Harbor Dr.,West Conshohocken,PA.
+    49Chlorate Candles drawing (NSN 4460-0-875-4568),CS-4460-0001,Defense Supply Center Columbus,Revision G,June24,2002
+    50McCarrick,A.,"Forward Final NASA White Sands Test facility (WSTF)Report of Burning Contaminated Chlorate
+    Kq papeolumo
+    Oxygen Candles,"Naval Surface Warfare Center Carderock Division (NSWCCD)letter report 9551,Ser 926/018 of 30 Sep2009.
+    5Haas,Jon,"Contaminated United States Chlorate Candles Testing:Summary Report,"NASA Report WSTF #09-43537,of
+    8Jun2009.
+    52McCarrick,A.,"Forward Final Naval Research Laboratory(NRL)Report of Oxygen Candles burned at elevated Pressures,"
+    Naval Surface Warfare Center Carderock Division (NSWCCD)letter report 9551,Ser 926/003 of 15 Jan 2010.
+    Johnson,Kevin,Hammond,Mark,"Submarine Oxygen Candle High Pressure Operation Test,"NRL Report 6180/0189A:KJ:MH,of 28 Jul 2009.
+    15
+    American Institute of Aeronautics and Astronautics
+
+==========第15页==========

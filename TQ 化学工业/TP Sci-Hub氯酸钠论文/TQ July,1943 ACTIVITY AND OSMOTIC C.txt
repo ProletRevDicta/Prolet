@@ -1,0 +1,239 @@
+    July,1943
+    ACTIVITY AND OSMOTIC COEFFICIENTS OF SODIUM CHLORATE
+    1353
+    recrystallization,constitute fairly convincing evi-tablish optimum conditions for carrying out elec-dence that the red product was a dimer of phenyl-trolytic preparations at a controlled potential.acridine and dihydrophenylacridine.The for-In the present investigation this method ofmation of this substance may account for the pecu-"polarographic synthesis"has been applied chieflyliar double wave that was observed on the polaro-
+    to the reduction of 9-(0-iodophenyl)-acridine,
+    grams of phenylacridine in strongly acid medium,which served as a good test case because the reduc-and the inconstancy of id/C,already mentioned,tion proceeds in two stages,first to 9-(o-iodo-and this possibility is being further investigated.phenyl)-dihydroacridine(I)and then to 9-phenyl-
+    The amounts of material prepared in the abovedihydroacridine (II)with elimination of iodine,experiments were limited to the order of a gram orand the reduction potentials of the two stages areless because the starting materials were fairlyseparated by only about 0.3 v.at a mercury cath-difficult to prepare and were available in only ode.A cell and procedure have been describedsmall amounts,but there is no evident reasonwith which it was easily possible to preparewhy the method could not be applied to much
+    either compound I or II in a high state of purity,
+    larger scale preparations.Furthermore,theand with practically quantitative yield,by propermethod need not be limited to the use of mercurycontrol of the potential of a working mercuryworking electrodes,but probably can also be ap-cathode.From the experience gained thus farplied with solid electrodes if the preliminary it appears that this method is capable of widepolarographic investigation is performed withapplication in organic chemistry,and it shouldmicroelectrodes of the same material.
+    be particularly valuable whenever a selectiveoxidation or reduction of only one of two approxi-
+    Summary
+    mately equally reactive structures in a molecule
+    The polarographic method has proved to be a is required.
+    valuable and convenient pilot technique to es-CAMBRIDGE,MASsACHUSETTs RECEIVED MARCH 29,1943
+    [CONTRIBUTION FROM THE CHEMICAL LABORATORY OF INDIANA UNIVERSITY
+    The Activity and Osmotic Coefficients of Sodium Chlorate by an Isopiestic Method
+    BY JAMES HOMER JONES
+    The activity coefficients of sodium chlorate in platinum dishes at 300-400 and powdered in an agateaqueous solution at concentrations up to one molal
+    mortar.The salt was stored in a vacuum desiccator over
+    have been determined by Scatchard!and co-work-
+    solid potassium hydroxide.
+    Sodium Chlorate.-Reagent grade sodium chlorate was
+    ers from freezing point measurements.This in-
+    recrystallized three times from conductivity water.The
+    vestigation was undertaken to obtain the activity
+    salt was partially dried at 100 in an oven.The lumps
+    coefficients at 25 and to extend the experimen-were broken up in an agate mortar and the salt finallytally determined activity coefficients to higherdried in a vacuum desiccator at 100 with solid potassium
+    hydroxide as desiccant.
+    concentrations.
+    Preparation of Solutions.-The dry salts were weighed
+    Experimental
+    by difference from weighing bottles into 125-ml.glass-stoppered Erlenmeyer flasks,and the calculated amount of
+    Method and Apparatus.-The method employed was
+    water added.Frequent checks of concentration were
+    the isopiestic method,using an apparatus similar to that
+    made by evaporation of solution with concentrated sulfuric
+    described by Phillips,Watson and Felsing.?The proce-
+    acid,igniting and weighing as sodium sulfate.
+    dure was similar except that only six cups were employed
+    The solutions were weighed by difference into the
+    at one time so that the time required to attain equilibrium
+    weighed cups from weight burets.Samples ranged from
+    would be shortened.Soditim chloride was chosen as the
+    2.0 to 3.5 g.The precision in weighing was better than one
+    reference salt.
+    part in 4000 for samples of two grams.
+    Purification of Materials:Sodium Chloride.-Re-
+    In order to test the apparatus,the isopiestic ratios of
+    agent grade sodium chloride was dissolved in conductivity
+    potassium chloride-sodium chloride were determined
+    water and precipitated by hydrogen chloride gas.Thesimultaneously with the sodium chloride-sodium chloratesalt was recrystallized from conductivity water,dried in ratios.The results agree within experimental error with
+    (1)Scatchard,Prentiss and Jones,Turs JoURNAL,56,805 (1934).
+    the results of both Felsing?and Robinson.3
+    (2)Phillips,Watson and Felsing,ibid.,64,244 (1942)
+    (3)Robinson,Trans.Faraday Soc.,85,1217 (1939).
+
+==========第1页==========
+    1354
+    JAMES HOMER JONES
+    Vol.65
+    The Data Obtained
+    by assuming the value of the activity coefficient
+    The isopiestic solutions investigated rangedat 0.2 M from the freezing point data of Scatchardfrom approximately 0.2 to 3.5 molal.The iso-and co-workers.1 The value of this integral up topiestic concentrations are given in Table I.The0.2 M is very small (0.0050).Extrapolation ofcolumn Mo -Ms gives the differences between
+    the integral to infinite dilution yielded a maximum
+    the observed concentration of sodium chlorate and
+    value for the integral of 0.0056.The value 0.0056
+    the value read from the smoothed curve through
+    for the integral will yield a value of the activity
+    experimental points
+    coefficient at 0.2 M that is 0.12%higher than thegiven value.This is still well within the esti-
+    TABLE I
+    mated error of =0.20%claimed.
+    ISOPIESTIC CONCENTRATION OF SODIUM CHLORIDE AND
+    The values of the osmotic coefficient for sodium
+    CHLORATE SOLUTIONS
+    chlorate were based on the values of Scatchard,
+    MNaCl
+    MNaCIoa,(obs.)
+    Mg一Mg
+    0.2180
+    0.2209
+    -0.0031
+    Hamer and Wood5 for sodium chloride using the
+    ,4073
+    .4193
+    .0004
+    relation
+    ,4347
+    4473
+    .0003
+    (NaCIO)=(NAC1)M(NaCI)
+    .7576
+    .7951
+    +.0003
+    M(NBCIO)
+    .9759
+    1.0360
+    ±.0000
+    TABLE II
+    1.0164
+    1.0804
+    .0003
+    1.4578
+    1.5910
+    +.0004
+    ACTIVITY AND OSMOTIC COEFFICIENTS OF SODIUM
+    1.5472
+    1.6953
+    +.0022
+    CHLORATE
+    Ratio NaClO,
+    NaCl
+    1.7553
+    1.9410
+    .0021
+    MNC1O3
+    d中
+    Y250
+    2.0508
+    2.3057
+    -.0011
+    0.2
+    0.9862
+    0.9130
+    0.720
+    0.710
+    2.3475
+    2.6774
+    .0007
+    .3
+    .9792
+    .9038
+    .687
+    .674
+    2.6825
+    3.1226
+    +.0075
+    .4
+    .9731
+    .8974
+    .663
+    .645
+    2.8782
+    3.3716
+    -.0020
+    .5
+    .9673
+    .8930
+    .644
+    .621
+    The differences in column three are well within the esti-
+    6
+    .9617
+    ,8895
+    .630
+    .602
+    mated over-all error of +0.200.
+    .7
+    .9565
+    ,8866
+    .616
+    .585
+    8
+    ,.9513
+    .8845
+    .605
+    .57
+    Treatment of Data
+    .9
+    .9459
+    8828
+    595
+    From the observed isopiestic molalities,the
+    1.0
+    .9409
+    .8812
+    .586
+    .54+
+    1.2
+    .9306
+    isopiestic ratios M(Nac/M(Nacio)were deter-
+    .8785
+    .566
+    1.4
+    .9205
+    .8758
+    .557
+    mined.These ratios were then plotted against
+    1.6
+    .9107
+    ,8743
+    547
+    the molalities of the reference salt.The isopies-
+    2.0
+    .8917
+    .8725
+    529
+    tic ratios at rounded concentrations of sodium
+    2.5
+    ,8693
+    8743
+    516
+    chlorate were calculated from the smoothed
+    3.0
+    8477
+    8785
+    506
+    curve passing through the origin.These ratios
+    a From Scatchard's freezing point measurements
+    are given in Table II.
+    I wish to thank the International Nickel Com-
+    The method of calculation of the activity co-
+    pany for the nickel from which the cups were
+    efficients of sodium chlorate is that outlined bypressed;and Mr.Benson of the Chemistry and
+    Robinson and Sinclair,4 using the equation
+    Chemical Engineering Shop of the University of
+    Texas for pressing the seamless cups.
+    1ogY=1og￥.+1ogM.
+    2
+    M
+    +2.3026
+    Summary
+    The subscript r denotes the reference salt and sub-
+    The isopiestic ratios of sodium chloride-sodium
+    script x denotes sodium chlorate.The values of
+    chlorate were experimentally determined over the
+    the reference salt were those obtained by Scatch-
+    approximate concentration range 0.2 to 3.5 molal
+    ard,Hamer and Wood.5
+    From the observed molalities and ratios,the
+    The value of the integral up to 0.2 M was made
+    activity and osmotic coefficients were determined
+    (4)Robinson and Sinclair,THIs JoURNAL,56,1830 (1934).
+    by comparison with sodium chloride.
+    (5)Scatchard,Hamer and Wood,ibid.,60,3069 (1938)
+    BLOOMINGTON,INDIANA
+    RECEIVED APRIL 1,1943
+
+==========第2页==========

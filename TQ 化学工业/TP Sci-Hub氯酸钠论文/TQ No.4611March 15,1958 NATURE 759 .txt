@@ -1,0 +1,143 @@
+    No.4611March 15,1958
+    NATURE
+    759
+    tories,demonstrates the presence of some 0.2 per
+    We would like to express our thanks to members
+    cent of nickel,with smaller quantities of other
+    of the research staff of the General Electrie Company.
+    elements (Si,Al,Fe,Mn,Mg,Na,K,Ti,Ca,Cr
+    Schenectady,who,within the limitations of United
+    Cu,B).This points to a probable explanation of
+    States security regulations,have given us every
+    the subsidiary structure.B-Nickel has a face-centred
+    assistance in thig investigation.
+    cubic structure of lattice constant 3.52 A.nickel
+    H.JUDITH GRENVILLE-WELLS
+    carbide,a solid solution Nio where4,is face
+    KATHLEEN LONSDALE
+    centred cubic above 210C.and has:the slightly
+    University College,
+    higher parameter 3.54 A.A simple face-centred cubic
+    London,W.C.1.
+    structure would not account for the high intensity of200 relative to other lines in the satellite structure
+    1boRe5 ain,品a0g95g》in8Y80208 o as in
+    The addition of some impurity or solvent atoms could
+    Nath,N.S.N.,
+    Ind.Acad.Sci.,A,1,841 (1935).
+    renyile welts.hesis Tondn
+    do so.A calculation shows that for incident nickelcopper ka or molybdenum radiation,even so smallan amount of niekel as 0.2 per cent,concentrated
+    Nuclear Quadrupole Resonance of
+    ina fewwell-crystallized and
+    oarallel islands
+    Neutron-irradiated Sodium Chlorate
+    would give reflexions of appreciable intensity,butthat for chromium or eopper KB radiation they would
+    RECENTLY a method based on intensity measure-
+    be much reduced in intensity if the extent of each
+    mentsin pure quadrupole resonance has been
+    igland is more than some 4 x 10-4 cm.linear.This
+    developed and has proved itself useful for the study
+    reduction in intensity is found to occur.
+    of golid solutionsl and for the investigation of the
+    Nickel does not normally appear as an impurity
+    damage induced in pure solid compounds by high
+    in natural diamonds.The closeness of its lattice
+    energy radiations such as gamma-rays2.
+    constant to that of diamond would point to it,how.
+    The present work was undertaken in order to try
+    ever,as a possible inducer of crystallization of carbon
+    to extend this method to the case of noutrons.With
+    in the diamond form (much as B silver iodide can
+    this in view,fused samples of sodium chlorate,which
+    induce the preeipitation of ice in clouds).The process
+    presents a favourable signal-to-noise ratio,were
+    of cooling from high temperatures and simultaneously
+    irradiated at 95 C.in the Belgian BR-1 reactor in
+    expanding from highpressures could well leave
+    which a high ratio of neutron to gamma energy is
+    islands of face-centred cubic nickel or Ni C or some
+    provided.A frequency-modulated super-regenerative
+    other nickel compound in a state of strain and the
+    detector was used and the spectra were automatically
+    existence of orientation relationships (not necessarily
+    recorded
+    after phase-sensitivedetectionof the
+    complete parallelism)in a precipitated phase
+    signals.
+    typical,for example,of Widmanstatten patterns in
+    The observations performed at 23 C.showed that
+    iron-richnickel-iron alloys in diamond-bearing
+    the height of the line (located at 29.932 Me./sec.
+    meteorites.The presence of nickel in these laboratory
+    corresponding to chlorine-35 was decreased by about
+    made diamonds recalls the Press release (February 15,
+    25,36 and 52 per cent for irradiationg with doses of
+    1955)by the Research Laboratory of the General
+    2×1014,1015and 2 x 1015 fast neutrons cm.-2
+    Electric Co.,in which it was stated that its scientists
+    respectively.We were unable to detect any signifi-
+    had "gained valuable help from nature,particularly
+    cant shift in the line frequency and,as was found to
+    from studies of diamonds found in Arizona meteor.
+    occur with the gamma-rays2,a plot of log I (irradiated
+    ites".This will be discussed in our later paper
+    sample)-log To (unirradiated sample)versus the dose
+    The question still remains as to the actual mech-
+    gave a straight line.This shows that,despite a
+    anism of transformation from graphitic carbon
+    different type of effect,an exponential law still
+    (assuming this to be the initial substance)to diamond.
+    describesthe intensity behaviour.
+    It should be
+    This could in fact oceur via an intermediate carbon
+    noticed that,within the range of doses used,no
+    structure,as shown in Fig.2.This structure,if it
+    significant broadening of the line (measured by the
+    has carbon atoms in the positions (x)
+    separation between the peaks of the first derivativecurve)was observed.For this reason,the intensity
+    000,0，0，0+1で；そ+x,き+,十x
+    of the line was regarded as being satisfactorily
+    in a unit cell which is geometrically cubic,of side
+    represented by its height.
+    3.54 A.,but of rhombohedral symmetry only,would
+    It may now be stated that the method here reported
+    give reflexions in precisely the positions of the
+    is also valuable for the study of damage induced by
+    satellite spots.Apart from the variation of absorp.
+    neutrons.Further research,ineluding radio-resistance
+    tion factor with incident radiation,the occurrenceof
+    in terms of structure and recovery effects,is now in
+    such an intermediate structure,in islands,each with
+    progress.
+    its trigonal axis orientated parallel to one of the four
+    We are indebted to the Centre d'Etudes pour les
+    diamond octahedral directions,could scarcelybe
+    applications de l'Energie Nucleaire for irradiation
+    distinguished from that of the nickel-rich islandswe
+    十9.Ci1tie
+    have postulated as the main cause of the satellite
+    JOSEPH DEPIREUX
+    reflexions.
+    JULES DUCHESNI空
+    Natha suggested in 1935 that the reverse trans
+    Institut d'Astrophysique
+    formation,diamond->graphite,might take place via
+    University of Liege.Jan.10.
+    rhombohedral graphite,but no experimental evidence
+    Duchesne,J.,and Monfls,A..C.R.Acad
+    egel
+    of this has yet been found,even in heavily irradiated
+    9s8317
+    or heat-treated diamonds3.We should also emphasize
+    a.22.541 (1956)Michel,R.E.and Spence
+    R.D.,J.Chem.Phys.,28,954(1956).Dreyfus,B.,and Dautreppe
+    that even the blackest of the laboratory-made
+    oessner,D.E.,and
+    diamonds examined showed no trace whatever of the
+    strong 0002 refexion typical of both hexagonal andDuchesne,J Monds Aand Duchesnem5rhombohedral graphites,or any other purely graphitic
+    Pa
+    48,259958Dac1esne.
+    Arch.Sci.Geneve.10.257
+    957).
+    1958 Nature Publishing Group
+
+==========第1页==========

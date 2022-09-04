@@ -1,0 +1,436 @@
+    1038
+    Journal of Food Protection,Vol.63,No.8,2000,Pages 1038-1042
+    Bactericidal Effect of Sodium Chlorate on Escherichia coli0157:H7 and Salmonella Typhimurium DT104 in Rumen
+    Contents In Vitro
+    ROBIN C.ANDERSON,SANDRA A.BUCKLEY,LEON F.KUBENA,LARRY H.STANKER,ROGER B.HARVEY,AND
+    DAVID J.NISBET
+    U.S.Department of Agriculture,Agricultural Research Service,Southern Plains Agricultural Research Center,
+    Food and Feed Research Unit,2881 F&B Road,College Station,Texas 77845,USA
+    AjuO
+    MS 99-380:Received 22 December 1999/Accepted 28 March 2000
+    ABSTRACT
+    [euosIad
+    Escherichia coli O157:H7 and Salmonella Typhimurium DT104 are important foodborne pathogens affecting the beefand dairy industries and strategies are sought to rid these organisms from cattle at slaughter.Both pathogens possess respiratorynitrate reductase that also reduces chlorate to the lethal chlorite ion.Because most anaerobes lack respiratory nitrate reductasewe hypothesized that chlorate may selectively kill E.coli O157:H7 and Salmonella Typhimurium DT104 but not potentiallybeneficial anaerobes.In support of this hypothesis,we found that concentrations of E.coli O157:H7 and Salmonella Typhi-murium DT104 were reduced from approximately 1,000,000 colony forming units(CFU)to below our level of detection (10CFU)following in vitro incubation (24 h)in buffered ruminal contents (pH 6.8)containing 5 mM added chlorate.In contrast,chlorate had little effect on the most probable number (mean+SD)of total culturable anaerobes (ranging from 9.9+0.72to 10.7+0.01 log1o cells/ml).Thus,chlorate was bactericidal to E.coli 157:H7 and Salmonella Typhimurium DT104 butnot to potentially beneficial bacteria.The bactericidal effect of chlorate was concentration dependent (less at 1.25 mM)andmarkedly affected by pH (more bactericidal at pH 6.8 than pH 5.6).
+    Escherichia coli O157:H7 and Salmonella Typhimu-
+    potential applications of these results to reduce gut colo-
+    rium DT104 are important foodborne pathogens of concern
+    nization by enteric pathogens.
+    to the beef and dairy industries (10,14,26,28).Like most
+    MATERIALS AND METHODS
+    members of the family Enterobacteriaceae,both pathogenspossess respiratory (also referred to as dissimilatory)nitrate
+    In several separate experiments,ruminal fluid was collected
+    reductase activity (6,25).Unlike assimilatory nitrate re-
+    from a cannulated cow maintained on pasture (predominantly rye
+    ductases that function to fix inorganic nitrogen into cell
+    grass)and was mixed 1:1 with 200 mM phosphate buffer (pH 5.6
+    protein,respiratory nitrate reductases function to conserve
+    or 6.8)containing cellobiose,glucose,soluble starch,and xylose
+    energy via electron transport phosphorylation (8,25).Char-
+    (1%wt/vol each).Aliquots of the buffered ruminal fluid were
+    acteristically,respiratory nitrate reductases also reduce
+    transferred to 18-by 150-mm crimp-top tubes and were incubated
+    chlorate intracellularly to cytotoxic chlorite,and this has
+    anaerobically under O2-free N2 gas at 39C with or without so-
+    traditionally been used to distinguish between the two dif-
+    dium chlorate and either a novobiocin-and nalidixic acid-resistant
+    ferent types of nitrate reductases (21,25).An intriguing
+    E.coli O157:H7 or Salmonella Typhimurium DT104 (DHEP
+    feature of this characteristic is that bacteria possessing re-
+    12362).Both E.coli 0157:H7 or Salmonella Typhimurium
+    spiratory nitrate reductases,such as Salmonella and E.coli,
+    DT104 were cultured overnight in tryptic soy broth (Difco,Lab-
+    are consequently killed by the chlorite,but bacteria not pos-
+    oratories Inc.,Detroit,Mich.)prior to inoculation into the bufferedruminal fluid.The E.coli 0157:H7 strain (ATTC 43895)was
+    sessing the respiratory nitrate reductase,i.e.,many com-
+    made nalidixic acid resistant via successive incubations in trytic
+    mensal and mutualist (beneficial)bacteria inhabiting the
+    soy broth (Difco)supplemented with up to 20 ug nalidixic acid/
+    gastrointestinal tract,are not affected.Whereas some ru-
+    ml.Colony counts for E.coli O157:H7 were determined via direct
+    minal anaerobes such as propionibacterium,Selenomonas,
+    plating on MacConkey agar (Difco)containing 25 wg novobiocin/
+    Clostridium,Denitrobacterium,Desulfobacterium,Viello-
+    ml and 20 wg nalidixic acid/ml and for Salmonella Typhimurium
+    nella,and Wolinella (Vibrio)possess respiratory nitrate re-
+    DT104 via plating on brilliant green agar (Oxoid,Unipath Ltd.,
+    ductase activity (1,2,4,16,27),most do not.We thus
+    Basinstoke,Hampshire,UK)containing novobiocin and chlor-
+    hypothesized that chlorate may selectively inhibit E.coli
+    amphenicol (25 ug/ml each).Most probable number estimates of
+    and Salmonella.Presently,we report results from in vitro
+    total culturable anaerobes were determined via a three-tube most
+    experiments that support this hypothesis,and we discuss
+    probable number test (5)using anaerobically prepared (O2-free N2gas)reinforced clostridial medium (Difco)supplemented with
+    Author for correspondence.Tel:409-260-9317;Fax:409-260-9332;
+    40%(vol/vol)clarified rumen fluid (13),0.0001%resazurin (wt/
+    E-mail:anderson @ffsru.tamu.edu.
+    vol),and with cellobiose and xylose (0.025%wt/vol each).
+    Present address:USDA/ARS,WRRC,800 Buchanan St.,Albany,CA
+    Data from each experiment were analyzed using the general
+    94710,USA.
+    linear models procedure of the Statistical Analysis System and
+
+==========第1页==========
+    J.Food Prot.,Vol.63,No.8
+    EFFECT OF CHLORATE ON E.COLI O157:H7 AND SALMONELLA TYPHIMURIUM
+    1039
+    1mM r
+    5 mM chlorate
+    -A-5 mM chlorate
+    》
+    -5 mM chlorate and 50 mM tungstate
+    5
+    4
+    3、
+    2
+    2
+    20
+    25
+    10
+    15
+    20
+    25
+    30
+    Time (h)
+    FIGURE 2.Bactericidal effect of sodium chlorate on E.coli0157:H7 during in vitro incubation in buffered ruminal fluid (pH
+    6.8)with or without added tungstic acid (sodium salt,dihydrate).
+    Kjuo asn leuosiad Io'81/L1/80 uo
+    Standard deviations (n =2)were less than 0.06 log1o CFU/mlunless indicated otherwise.
+    1c.c5D2
+    reduced (P<0.05)at pH 5.6,but we made no attempt todetermine the acid resistance of any potential survivors.
+    2
+    As expected,the bactericidal effect of chlorate on E.
+    50:150:50.0000
+    coli 0157:H7 was reduced (P<0.05)when tungsten (sup-plied as tungstic acid),a valence state analog of the critical
+    10
+    15
+    25
+    30
+    nitrate reductase component molybdenum,was also added
+    Time(h)
+    to the in vitro incubation mixtures (Fig.2).Excess tungsten
+    FIGURE 1.Bactericidal effect of sodium chlorate on E.coli
+    can cause the synthesis of inactive nitrate reductase due to
+    0157:H7 during in vitro incubation in buffered ruminal fluid at
+    its incorporation into the enzyme (3,11,17,25)and thus
+    pH 5.6 (A)or pH 6.8 (B).Standard deviations (n =2)were less
+    implicates the involvement of respiratory nitrate reductase
+    than 0.06 logo CFU/ml unless indicated otherwise.
+    Because the reduction of chlorate to chlorite occursintracellularly,it is reasonable to suspect that bacteria not
+    differences in mean log1o CFU/ml (n =2)were determined by
+    possessing the respiratory nitrate reductase,i.e.,many com-
+    using a repeated-measures analysis of variance (24).In some cas-
+    mensal and mutualist (beneficial)bacteria,would not be
+    es,similar tests have been repeated in separate experiments but
+    affected by the chlorate ion.In support of this hypothesis,
+    for ease of presentation,comparisons were made within experi-
+    we found that while the most probable number of total cul-
+    ments only.
+    turable anaerobes decreased from initial levels during the24-h incubation of buffered ruminal contents with added E.
+    RESULTS AND DISCUSSION
+    coli 0157:H7,the decrease was not exacerbated but was
+    wox
+    Concentrations of E.coli 0157:H7 were reduced (P<
+    moderated within the incubations containing added chlorate
+    0.05)in a dose-dependent manner during in vitro incubation
+    (Fig.3).
+    of buffered ruminal fluid supplemented with sodium chlo-
+    Salmonella Typhimurium DT104 concentrations were
+    rate (Fig.1).With the 5 mM chlorate addition,concentra-
+    also reduced(P<0.05)during in vitro incubation of buff-
+    tions of E.coli O157:H7 decreased from an initial level of
+    ered ruminal fluid supplemented with sodium chlorate at
+    approximately 1,000,000 cells/ml to concentrations below
+    pH 6.8 but not at pH 5.6 (Fig.4).Like that with E.coli
+    our level of detection (10 cells/ml)within a 6-h incubation
+    O157:H7,survivability of Salmonella Typhimurium DT104
+    period (Fig.1B).Consistent with the near neutral pH op-
+    was reduced (P<0.05)at pH 5.6,even in the absence of
+    timum of E.coli and ruminal nitrate reductase activity (19,
+    added chlorate.Addition of sodium nitrate to the buffered
+    20),chlorate was more bactericidal to E.coli O157:H7 at
+    ruminal fluid increased (P<0.05)the bactericidal effect
+    pH 6.8 than pH 5.6 (Fig.1).We cannot discount,however,
+    of sodium chlorate on Salmonella Typhimurium DT104
+    the possibility that other pH effects may be operative.The
+    (Fig.5B),suggesting that nitrate effectively induced ex-
+    finding that the bactericidal effect of chlorate is markedly
+    pression of the nitrate reductase activity.On the contrary,
+    reduced at pH 5.6 may have practical implications should
+    addition of nitrate had little effect on the bactericidal effect
+    chlorate be administered in vivo.For instance,rumen and
+    of chlorate on E.coli O157:H7 (Fig.5A),suggesting that
+    colonic pH are typically lower within grain-fed rather than
+    chlorate ion alone was sufficient to induce expression of
+    forage-fed cattle,and these have been implicated in affect-
+    the enzyme by this bacterium.
+    ing the ability of E.coli to colonize the gut or the subse-
+    For comparison purposes,we tested the bactericidal ef-
+    quent development of acid resistance,or both (9,15,23).
+    fect of other potential sources of chlorite ion on E.coli
+    Regarding the latter,we observed that even in the absence
+    O157:H7 and Salmonella Typhimurium DT104 during in
+    of added chlorate,survivability of E.coli O157:H7 was
+    vitro incubation in buffered ruminal fluid (pH 6.8)supple-
+
+==========第2页==========
+    1040
+    ANDERSON ET AL.
+    J.Food Prot.,Vol.63,No.8
+    -o-No additions
+    A
+    ☑pH6.8
+    口pH5.6
+    10.8
+    --5 mM chlorate
+    -2.5 mM nitrate &5 mM chlorate
+    10.4
+    10.2
+    4
+    10
+    3
+    9.8
+    2
+    9.6
+    9.4
+    Without
+    chlorate
+    1.25mM
+    10
+    30
+    chlorate
+    5 mMchlorate
+    B
+    Ajuo asn
+    oNo additions
+    FIGURE 3.Effect of sodium chlorate on most probable numbers
+    0-5
+    of total culturable anaerobes after 24 h in vitro incubation inbuffered ruminal fluid (pH 5.6 or 6.8)inoculated at time 0 with
+    6
+    jeuos.Iad
+    E.coli 0157:H7.Standard deviations (n 2)were less than 0.72
+    5
+    logo cells/ml and the mean SD (n 2)most probable numberof total culturable anaerobes for these incubations at time 0 was
+    IOH
+    11.10.01 log1o cells/ml.Changes in E.coli 0157:H7 concen-trations were presented in Figure 1.
+    1-75/0.00.0000
+    mented with added carbohydrates and found sodium chlo-rate to be superior to both calcium hypochlorite or sodium
+    10
+    .15
+    30
+    perchlorate under these conditions (Fig.6).The efficacy of
+    Time(h)
+    acidified sodium chlorite solutions in reducing E.coli
+    FIGURE 5.Bactericidal effect of sodium chlorate on E.coli0157:H7 (A)or Salmonella Typhimurium DT104 (B)during in
+    A
+    vitro incubation in buffered ruminal fluid (pH 6.8)with or withoutadded sodium nitrate.Standard deviations (n 2)were less than
+    chlorate
+    0.06 logo CFU/ml unless indicated otherwise.
+    0157:H7 and Salmonella concentrations on beef carcasseshas been tested (7).
+    3Io'uon3aoidpooll wox papeojuMod
+    4
+    Chlorate is only mildly toxic to cattle,with a lethaldose of 1 g/kg body weight (22)(equivalent to 100 mMruminal concentration,based on a 550-kg animal and 50-liter rumen volume).McCauley et al.(18)reported mod-erate toxicity in Sprague-Dawley rats provided drinkingwater containing 48 mM sodium chlorate for 90 consecu-
+    20
+    25
+    tive days and no observable adverse effects in rats similarlyprovided 3 mM sodium chlorate.However,reports regard-
+    Without chlorate1,25
+    ing chronic effects of feeding sodium chlorate to cattle orother ruminants are lacking and whether or not chronicfeeding is needed or desired remains to be determined.Itis reasonable to suspect that,at the concentrations usedhere,oral administration of chlorate may be useful against
+    11
+    enteric pathogens possessing respiratory nitrate reductaseactivity,but clearly this prospect needs to be tested in vivo.
+    From a food safety point of view,an obvious applicationof this strategy is to reduce gut concentrations of the re-spective pathogens via oral administration of chlorate just
+    10
+    15
+    20
+    25
+    30
+    prior to slaughter.An attractive feature of this application
+    Time(h)
+    is that terminal removal of chlorate-treated populations
+    FIGURE 4.Bactericidal effect of sodium chlorate on Salmonella
+    from the farm is possible and that this may reduce the
+    Typhimurium DT104 during in vitro incubation in buffered ru-
+    chance that chlorate-resistant populations may propagate
+    minal fluid at pH 5.6 (A)or pH 6.8 (B).Standard deviations (n
+    Chlorate-resistant mutants that typically involve the molyb-
+    =2)were less than 0.06 log CFU/ml unless indicated other-
+    denum component of nitrate reductase are readily generated
+    wise.
+    at high frequency in the laboratory (25),but the frequency
+
+==========第3页==========
+    J.Food Prot.,Vol.63,No.8
+    EFFECT OF CHLORATE ON E.COLI O157:H7 AND SALMONELLA TYPHIMURIUM
+    1041
+    A
+    -No addition
+    sessing respiratory nitrate reductases,it may be possible to
+    9
+    -5 mM chlorate
+    control certain species of Clostridium that are among the
+    8
+    mMpolorie
+    few anaerobic bacteria possessing a respiratory (dissimila-
+    7
+    tory)nitrate reductase (12).The strategy,if demonstrated
+    6
+    efficacious in vivo,should be easy to use and should be
+    5
+    applicable to all species of animals and work in these areas
+    4
+    is now underway.
+    3
+    2
+    ACKNOWLEDGMENT
+    、
+    We thank Meghan Carroll for animal care and laboratory assistance.
+    6
+    REFERENCES
+    0
+    B
+    1.Alaboudi,A.R.1982.Microbiological studies of nitrate and nitrite
+    -o-No addition
+    reduction in the ovine rumen.Ph.D.dissertation.University of Sas-katchewan,Saskatoon.
+    8
+    2.Allison,M.J.,and C.A.Reddy.1984.Adaptations of gastrointes-
+    Kjuo asn leuosiad Io'81/L1/80 uo
+    7
+    tinal bacteria in response to changes in dietary oxalate and nitrate
+    6
+    p.248-256.In M.J.Klug and C.A.Reddy (ed.),Current perspec-tives in microbial ecology,Proceedings of the 3rd International Sym-
+    5
+    01502
+    posium on Microbial Ecology,American Society for Microbiology,
+    4
+    Washington,D.C.
+    3.
+    Amy,N.K.,and K.V.Rajagopalan.1979.Characterization of molybdenum cofactor in Escherichia coli.J.Bacteriol.140:114-124.
+    50-950:00.0000
+    4.Anderson,R.C.,M.A.Rasmussen,N.S.Jensen,and M.J.Allison.
+    2000.Denitrobacterium detoxificans gen.nov.,sp.nov.,a ruminal
+    2
+    4
+    bacterium that respires on nitrocompounds.Int.J.Syst.Evol.Mi-
+    6
+    Time(h)
+    crobiol..50:633-638.
+    Association of Official Analytical Chemists.1980.Official methods
+    FIGURE 6.Bactericidal effect of sodium chlorate,sodium per-
+    of analysis,13th ed.Association of Official Analytical Chemists,
+    chlorate,or calcium hypochlorite on E.coli 0157:H7 (A)or Sal-
+    Arlington,Va.
+    monella Typhimurium DT104 (B)during in vitro incubation in
+    6.
+    Brenner,D.J.1984.Enterobacteriaceae,p.408-420.In N.R.Krieg
+    buffered ruminal fluid (pH 6.8).Standard deviations (n =2)were
+    and J.G.Holt (ed.),Bergey's manual of systematic bacteriology,
+    less than 0.06 log CFU/ml unless indicated otherwise.
+    vol.1.The Williams Wilkins Co.,Baltimore.
+    1.Castillo,A..L.M.Lucia,G.K.Kemp,and G.R.Acuff.1999.
+    Reduction of E.coli O157:H7 and Salmonella Typhimurium on beef
+    of mutation within mixed bacterial cultures is not known.
+    carcass surfaces using acidified sodium chlorite.J.Food Prot.62
+    Chlorate resistance,however,confers a deficiency in respi-
+    580-584.
+    8.Cole,J.A.1988.Assimilatory and dissimilatory reduction of nitrate
+    ratory metabolism that thus places the bacterium at a dis-
+    to ammonia,p.281-329.In J.A.Cole and S.J.Ferguson (ed.),The
+    advantage.In the absence of chlorate,it is plausible that
+    nitrogen and sulfur cycles.Cambridge University Press,Cambridge
+    nitrate reductase-proficient (chlorate-sensitive)populations
+    Diaz-Gonzalez,E,T.R.Callaway,M.G.Kizoulis,and J.B.Russell
+    may be selected via enrichment with nontoxic amounts of
+    1998.Grain feeding and the dissemination of acid-resistant Esche-
+    nitrate.Conceptually,chlorate could then easily be admin-
+    richia coli from cattle.Science 281:1666-1668.
+    10.Doyle,M.1998.Escherichia coli O157:H7-the nemesis of the cat-
+    istered to the rumen via inclusion in the last meal given
+    tle industry,p.42-45.In Proceedings of the beef safety symposium,
+    just before transport or in the drinking water upon arrival
+    emerging microbial pathogens and issues in beef.National Cattle
+    at the slaughter facility.Because of the reductive capacity
+    man's Beef Assoc.,Greenwood Village,Colo.
+    within the rumen however,some other means would pre-
+    11.
+    Enoch,H.G.,and R.L.Lester.1972.Effects of molybdate,tung-
+    sumably be needed to optimize delivery of effective con-
+    state,and selenium compounds on formate dehydrogenase and other
+    centrations of chlorate to lower portions of the alimentary
+    enzyme systems in Escherichia coli.J.Bacteriol.110:1032-1040.
+    12.Hasan,S.M.,and J.B.Hall.1975.The physiological function of
+    tract.
+    nitrate reduction in Clostridium perfringens.J.Gen.Microbiol.87:
+    In summary,we report the bactericidal effect of sodium
+    120-128.
+    chlorate on E.coli O157:H7 and Salmonella Typhimurium
+    13.
+    Hespell,R.B.,and M.P.Bryant.1981.The genera Butyrivibrio
+    DT104 in vitro and describe a potential use of chlorate as
+    Succinivibrio,Succinimonas,Lachnospira,and Selenomonas,p.
+    a strategy to reduce these pathogens immediately prehar-
+    1479-1494.In M.P.Starr,H.Stolp,H.G.Truiper,A.Balows,and
+    vest.A limitation of the present data is that the ruminal
+    H.G.Schlegel (ed.),The prokaryotes.A handbook on the habitatsisolation,and identification of bacteria,vol.II.Springer-Verlag,Ber-
+    fluid used in our experiments was collected from one cow
+    lin.
+    only.However,considering that ruminal populations from
+    14.Hogue,A.,J.Akkina,F Angulo,R.Johnson,K.Petersen,P.Saini,
+    like-fed animals are typically similar and that the predom-
+    and W.Schlosser.1998.S.typhimurium DT104 situation report,p.
+    inant chlorate effect was against E.coli O157:H7 and Sal-
+    13-23.In Proceedings of the beef safety symposium,emerging mi-
+    monella Typhimurium DT104,it is reasonable to expect
+    crobial pathogens and issues in beef.National Cattleman's Beef As-soc.,Greenwood Village,Colo.
+    that results obtained using ruminal fuid from similar fed
+    15.Hovde,C.J.,P.R.Austin,K.A.Cloud,C.J.Williams,and C.W.
+    cows would support the same conclusions.Because chlorate
+    Hunt.1999.Effect of cattle diet on Escherichia coli O157:H7 acid
+    should theoretically be toxic to practically all bacteria pos-
+    resistance.Appl.Environ.Microbiol.65:3233-3235.
+
+==========第4页==========
+    1042
+    ANDERSON ET AL.
+    J.Food Prot.,Vol.63,No.8
+    16.Inderlied,C.B.,and E.A.Delwiche.1973.Nitrate reduction and
+    23.Rasmussen,M.A.,W.C.Cray,T.A.Casey,and S.C.Whipp.1993.
+    the growth of Viellonella alcalescens.J.Bacteriol.114:1206-1212.
+    Rumen contents as a reservoir of enterohemorrhagic Escherichia
+    17.Korzeniowski,A.,J.H.Geurink,and A.Kemp.1981.Nitrate poison-
+    coli.FEMS Microbiol.Lett.114:79-84.
+    ing in cattle.6.Tungsten (wolfram)as a prophylactic against nitrate-
+    24.Statistical Analysis System Institute,Inc.1989.SAS/STAT user's
+    nitrite intoxication in ruminants.Neth.J.Agric.Sci.29:37-47.
+    guide,version 6.12.SAS,Cary,N.C
+    18.McCauley,P.T.,M.Robinson,E B.Daniel,and G.R.Olson.1995.
+    25.Stewart,V.1988.Nitrate respiration in relation to facultative metab-
+    The effects of subchronic chlorate exposure in Sprague-Dawley rats.
+    olism in enterobacteria.Microbiol.Rev.52:190-232.
+    Drug Chem.Toxicol.18:185-199.
+    26.Wells,S.,P.J.Fedorka-Cray,T.Besser,P.McDonough,and B.
+    19.Nicholas,D.J.D.,and A.Nason.1955.Diphosphopyridine nucle-
+    Smith.1999.E.coli 0157 and Salmonella,status on U.S.dairy
+    otide-nitrate reductase from Escherichia coli.J.Bacteriol.69:580-
+    operations,p.1-8.In NAHMS Dairy '96,National Animal Health
+    583.
+    Monitoring System.Available at:http://www.aphis.usda.gov:80/vs/
+    20.Pfister,J.A.1988.Nitrate intoxication of ruminant livestock,p.233-
+    ceah/cahm/Dairy-Cattle/ecosalm98.htm.Accessed 10 November
+    259.In L.F James,M.H.Ralphs,and D.B.Nielsen (ed.).The
+    1999.
+    ecology and economic impact of poisonous plants on livestock pro-
+    27.
+    Wolin,M.J.,E.A.Wolin,and N.J.Jacobs.1961.Cytochrome-
+    duction.Western Press,Boulder,Colo.
+    producing anaerobic vibrio,Vibrio succinogenes sp.n.J.Bacteriol
+    21.Pichinoty,E,and M.Piechaud.1968.Recherche des nitrate-reduc-
+    81:911-917.
+    tases bactereriennes A et B:methodes.Ann.Inst.Pasteur (Paris)114:
+    28.Woteki,C.E.1998.The food safety research agenda-emerging
+    77-98.
+    microbial pathogens and issues,p.1-5.In Proceedings of the beef
+    22.Radeleff,R.D.1970.Veterinary toxicology.Lea and Febiger,Phil
+    safety symposium,emerging microbial pathogens and issues in beef
+    adelphia.
+    National Cattleman's Beef Assoc.,Greenwood Village,Colo.
+
+==========第5页==========
