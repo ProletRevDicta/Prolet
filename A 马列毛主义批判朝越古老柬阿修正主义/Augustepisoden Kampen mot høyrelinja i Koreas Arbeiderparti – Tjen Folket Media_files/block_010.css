@@ -1,0 +1,96 @@
+/**
+ * All of the CSS for your public-facing functionality should be
+ * included in this file.
+ */
+/**
+ * Environment for all styles (variables, additions, etc).
+ */
+/*--------------------------------------------------------------*/
+/*--------------------------------------------------------------*/
+.has-drop-cap {
+	--cnvs-drop-cap-color: black;
+	--cnvs-drop-cap-font-size: 2.5rem;
+	--cnvs-drop-cap-dark-background: black;
+	--cnvs-drop-cap-dark-color: #fff;
+	--cnvs-drop-cap-light-background: #f8f9fa;
+	--cnvs-drop-cap-light-color: inherit;
+	--cnvs-drop-cap-bordered-width: 1px;
+	--cnvs-drop-cap-bordered-color: #dee2e6;
+}
+
+.is-style-cnvs-paragraph-callout {
+	--cnvs-callout-font-size: 1.25rem;
+	--cnvs-callout-font-weight: 600;
+}
+
+/*--------------------------------------------------------------*/
+.content .has-drop-cap.is-cnvs-dropcap-simple:after,
+.content .has-drop-cap.is-cnvs-dropcap-bordered:after,
+.content .has-drop-cap.is-cnvs-dropcap-border-right:after,
+.content .has-drop-cap.is-cnvs-dropcap-bg-light:after,
+.content .has-drop-cap.is-cnvs-dropcap-bg-dark:after,
+.entry-content .has-drop-cap.is-cnvs-dropcap-simple:after,
+.entry-content .has-drop-cap.is-cnvs-dropcap-bordered:after,
+.entry-content .has-drop-cap.is-cnvs-dropcap-border-right:after,
+.entry-content .has-drop-cap.is-cnvs-dropcap-bg-light:after,
+.entry-content .has-drop-cap.is-cnvs-dropcap-bg-dark:after {
+	content: "";
+	display: table;
+	clear: both;
+	padding-top: 14px;
+}
+
+.content .has-drop-cap.is-cnvs-dropcap-simple:first-letter,
+.content .has-drop-cap.is-cnvs-dropcap-bordered:first-letter,
+.content .has-drop-cap.is-cnvs-dropcap-border-right:first-letter,
+.content .has-drop-cap.is-cnvs-dropcap-bg-light:first-letter,
+.content .has-drop-cap.is-cnvs-dropcap-bg-dark:first-letter,
+.entry-content .has-drop-cap.is-cnvs-dropcap-simple:first-letter,
+.entry-content .has-drop-cap.is-cnvs-dropcap-bordered:first-letter,
+.entry-content .has-drop-cap.is-cnvs-dropcap-border-right:first-letter,
+.entry-content .has-drop-cap.is-cnvs-dropcap-bg-light:first-letter,
+.entry-content .has-drop-cap.is-cnvs-dropcap-bg-dark:first-letter {
+	display: block;
+	float: left;
+	margin-top: 0.5rem;
+	margin-right: 2rem;
+	margin-bottom: 1rem;
+	color: var(--cnvs-drop-cap-color);
+	font-size: var(--cnvs-drop-cap-font-size);
+	line-height: 1;
+	text-align: center;
+}
+
+.content .has-drop-cap.is-cnvs-dropcap-bg-dark:first-letter,
+.entry-content .has-drop-cap.is-cnvs-dropcap-bg-dark:first-letter {
+	padding: 0.5rem 1rem;
+	background: var(--cnvs-drop-cap-dark-background);
+	color: var(--cnvs-drop-cap-dark-color);
+}
+
+.content .has-drop-cap.is-cnvs-dropcap-bg-light:first-letter,
+.entry-content .has-drop-cap.is-cnvs-dropcap-bg-light:first-letter {
+	padding: 0.5rem 1rem;
+	background: var(--cnvs-drop-cap-light-background);
+	color: var(--cnvs-drop-cap-light-color);
+}
+
+.content .has-drop-cap.is-cnvs-dropcap-bordered:first-letter,
+.entry-content .has-drop-cap.is-cnvs-dropcap-bordered:first-letter {
+	margin-top: 0.25rem;
+	padding: 0.5rem 1rem;
+	border: var(--cnvs-drop-cap-bordered-width) solid var(--cnvs-drop-cap-bordered-color);
+}
+
+.content .has-drop-cap.is-cnvs-dropcap-border-right:first-letter,
+.entry-content .has-drop-cap.is-cnvs-dropcap-border-right:first-letter {
+	padding-right: 2rem;
+	border-right: var(--cnvs-drop-cap-bordered-width) solid var(--cnvs-drop-cap-bordered-color);
+	border-radius: 0;
+}
+
+.content .is-style-cnvs-paragraph-callout,
+.entry-content .is-style-cnvs-paragraph-callout {
+	font-size: var(--cnvs-callout-font-size);
+	font-weight: var(--cnvs-callout-font-weight);
+}

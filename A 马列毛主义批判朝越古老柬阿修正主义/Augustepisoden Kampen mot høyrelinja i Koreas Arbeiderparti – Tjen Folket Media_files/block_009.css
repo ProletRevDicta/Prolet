@@ -1,0 +1,62 @@
+/**
+ * All of the CSS for your public-facing functionality should be
+ * included in this file.
+ */
+/**
+ * Environment for all styles (variables, additions, etc).
+ */
+/*--------------------------------------------------------------*/
+/*--------------------------------------------------------------*/
+.wp-block-separator {
+	--cnvs-wp-block-separator-color: #dee2e6;
+}
+
+/*--------------------------------------------------------------*/
+.content .wp-block-separator:not(.has-text-color),
+.entry-content .wp-block-separator:not(.has-text-color) {
+	color: var(--cnvs-wp-block-separator-color);
+}
+
+.content .wp-block-separator.is-style-cnvs-separator-double, .content .wp-block-separator.is-style-cnvs-separator-dotted, .content .wp-block-separator.is-style-cnvs-separator-dashed,
+.entry-content .wp-block-separator.is-style-cnvs-separator-double,
+.entry-content .wp-block-separator.is-style-cnvs-separator-dotted,
+.entry-content .wp-block-separator.is-style-cnvs-separator-dashed {
+	position: relative;
+	display: block;
+	width: 100% !important;
+	height: 10px;
+	max-width: 100% !important;
+	background-color: transparent !important;
+	border-bottom: none !important;
+}
+
+.content .wp-block-separator.is-style-cnvs-separator-double:after, .content .wp-block-separator.is-style-cnvs-separator-dotted:after, .content .wp-block-separator.is-style-cnvs-separator-dashed:after,
+.entry-content .wp-block-separator.is-style-cnvs-separator-double:after,
+.entry-content .wp-block-separator.is-style-cnvs-separator-dotted:after,
+.entry-content .wp-block-separator.is-style-cnvs-separator-dashed:after {
+	content: '';
+	display: block;
+	position: absolute;
+	top: 50%;
+	left: 0;
+	right: 0;
+	margin-top: -1px;
+	border-bottom: 2px solid;
+}
+
+.content .wp-block-separator.is-style-cnvs-separator-double:after,
+.entry-content .wp-block-separator.is-style-cnvs-separator-double:after {
+	border-bottom-width: 4px !important;
+	border-bottom-style: double !important;
+	margin-top: -2px;
+}
+
+.content .wp-block-separator.is-style-cnvs-separator-dotted:after,
+.entry-content .wp-block-separator.is-style-cnvs-separator-dotted:after {
+	border-bottom-style: dotted !important;
+}
+
+.content .wp-block-separator.is-style-cnvs-separator-dashed:after,
+.entry-content .wp-block-separator.is-style-cnvs-separator-dashed:after {
+	border-bottom-style: dashed !important;
+}

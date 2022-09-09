@@ -1,0 +1,173 @@
+/**
+ * All of the CSS for your block editor functionality should be
+ * included in this file.
+ */
+/**
+ * Environment for all styles (variables, additions, etc).
+ */
+/*--------------------------------------------------------------*/
+/*--------------------------------------------------------------*/
+.cnvs-block-tabs {
+	--cnvs-tabs-border-width: 1px;
+	--cnvs-tabs-border-color: #dee2e6;
+	--cnvs-tabs-border-radius: 0.25rem;
+	--cnvs-tabs-button-font-size: 1rem;
+	--cnvs-tabs-button-color: #adb5bd;
+	--cnvs-tabs-button-hover-color: #212529;
+	--cnvs-tabs-button-active-color: #000;
+	--cnvs-tabs-button-active-background: #e9ecef;
+	--cnvs-tabs-button-pills-color: #adb5bd;
+	--cnvs-tabs-button-pills-active-color: #000;
+	--cnvs-tabs-button-pills-active-background: #e9ecef;
+	--cnvs-pc-tabs-button-active-border-bottom-color: #FFFFFF;
+	--cnvs-pc-tabs-button-active-background-color: #FFFFFF;
+}
+
+/*--------------------------------------------------------------*/
+.cnvs-block-tabs .cnvs-block-tabs-buttons {
+	display: -webkit-box;
+	display: -ms-flexbox;
+	display: flex;
+	-webkit-box-orient: vertical;
+	-webkit-box-direction: normal;
+	-ms-flex-direction: column;
+	flex-direction: column;
+	-ms-flex-wrap: wrap;
+	flex-wrap: wrap;
+	margin-bottom: 1.5rem;
+}
+
+.cnvs-block-tabs .cnvs-block-tabs-buttons .cnvs-block-tabs-button {
+	margin-bottom: 1.5rem;
+}
+
+.cnvs-block-tabs .cnvs-block-tabs-buttons .cnvs-block-tabs-button a {
+	display: block;
+	border: var(--cnvs-tabs-border-width) solid transparent;
+	border-color: var(--cnvs-tabs-border-color);
+	padding: 1rem 1.5rem;
+	line-height: 1;
+	font-size: var(--cnvs-tabs-button-font-size);
+	color: var(--cnvs-tabs-button-color);
+	text-decoration: none;
+	-webkit-box-shadow: none !important;
+	box-shadow: none !important;
+	border-top-left-radius: var(--cnvs-tabs-border-radius);
+	border-top-right-radius: var(--cnvs-tabs-border-radius);
+}
+
+.cnvs-block-tabs .cnvs-block-tabs-buttons .cnvs-block-tabs-button a:hover, .cnvs-block-tabs .cnvs-block-tabs-buttons .cnvs-block-tabs-button a:focus {
+	color: var(--cnvs-tabs-button-hover-color);
+}
+
+.cnvs-block-tabs .cnvs-block-tabs-buttons .cnvs-block-tabs-button.cnvs-block-tabs-button-active a {
+	color: var(--cnvs-tabs-button-active-color);
+	background-color: var(--cnvs-tabs-button-active-background);
+}
+
+.cnvs-block-tabs .cnvs-block-tabs-content > .cnvs-block-tab {
+	display: none;
+}
+
+.cnvs-block-tabs .cnvs-block-tabs-content > .cnvs-block-tab.cnvs-block-tab-active {
+	display: block;
+}
+
+.cnvs-block-tabs .cnvs-block-tabs-content > .cnvs-block-tab > *:last-child {
+	margin-bottom: 0;
+}
+
+.cnvs-block-tabs.cnvs-block-tabs-vertical {
+	margin-bottom: 0;
+}
+
+.cnvs-block-tabs.is-style-cnvs-block-tabs-pills .cnvs-block-tabs-buttons .cnvs-block-tabs-button {
+	margin-bottom: 0;
+}
+
+.cnvs-block-tabs.is-style-cnvs-block-tabs-pills .cnvs-block-tabs-buttons .cnvs-block-tabs-button:last-of-type {
+	margin-bottom: 1.5rem;
+}
+
+.cnvs-block-tabs.is-style-cnvs-block-tabs-pills .cnvs-block-tabs-buttons .cnvs-block-tabs-button a {
+	border-radius: var(--cnvs-tabs-border-radius);
+	padding: 0.75rem 1rem;
+	line-height: 1;
+	color: var(--cnvs-tabs-button-pills-color);
+	border: none;
+}
+
+.cnvs-block-tabs.is-style-cnvs-block-tabs-pills .cnvs-block-tabs-buttons .cnvs-block-tabs-button.cnvs-block-tabs-button-active a {
+	color: var(--cnvs-tabs-button-pills-active-color);
+	background-color: var(--cnvs-tabs-button-pills-active-background);
+}
+
+@media (min-width: 768px) {
+	.cnvs-block-tabs .cnvs-block-tabs-buttons {
+		-webkit-box-orient: horizontal;
+		-webkit-box-direction: normal;
+		-ms-flex-direction: row;
+		flex-direction: row;
+		border-bottom: var(--cnvs-tabs-border-width) solid var(--cnvs-tabs-border-color);
+	}
+	.cnvs-block-tabs .cnvs-block-tabs-buttons .cnvs-block-tabs-button {
+		margin-bottom: 0;
+		-webkit-transform: translateY(var(--cnvs-tabs-border-width));
+		transform: translateY(var(--cnvs-tabs-border-width));
+	}
+	.cnvs-block-tabs .cnvs-block-tabs-buttons .cnvs-block-tabs-button:not(.cnvs-block-tabs-button-active) a {
+		border-color: transparent;
+	}
+	.cnvs-block-tabs .cnvs-block-tabs-buttons .cnvs-block-tabs-button.cnvs-block-tabs-button-active a {
+		border-bottom-color: var(--cnvs-pc-tabs-button-active-border-bottom-color);
+		background-color: var(--cnvs-pc-tabs-button-active-background-color);
+	}
+	.cnvs-block-tabs.cnvs-block-tabs-vertical {
+		display: -webkit-box;
+		display: -ms-flexbox;
+		display: flex;
+	}
+	.cnvs-block-tabs.cnvs-block-tabs-vertical .cnvs-block-tabs-buttons {
+		-webkit-box-flex: 0;
+		-ms-flex: 0 0 30%;
+		flex: 0 0 30%;
+		border-bottom: none;
+		border-right: var(--cnvs-tabs-border-width) solid var(--cnvs-tabs-border-color);
+		-webkit-box-orient: vertical;
+		-webkit-box-direction: normal;
+		-ms-flex-direction: column;
+		flex-direction: column;
+		height: 100%;
+	}
+	.cnvs-block-tabs.cnvs-block-tabs-vertical .cnvs-block-tabs-buttons .cnvs-block-tabs-button a {
+		width: 100%;
+		max-width: 100%;
+		border-right-color: transparent;
+		border-radius: var(--cnvs-tabs-border-radius) 0 0 var(--cnvs-tabs-border-radius);
+		-webkit-transform: translateX(var(--cnvs-tabs-border-width));
+		transform: translateX(var(--cnvs-tabs-border-width));
+	}
+	.cnvs-block-tabs.cnvs-block-tabs-vertical .cnvs-block-tabs-buttons .cnvs-block-tabs-button-active a {
+		border-bottom-color: var(--cnvs-tabs-border-color);
+	}
+	.cnvs-block-tabs.cnvs-block-tabs-vertical .cnvs-block-tabs-content {
+		margin-left: 5%;
+		-webkit-box-flex: 0;
+		-ms-flex: 0 0 65%;
+		flex: 0 0 65%;
+	}
+	.cnvs-block-tabs.is-style-cnvs-block-tabs-pills .cnvs-block-tabs-buttons {
+		border-bottom: none;
+		border-right: none;
+	}
+	.cnvs-block-tabs.is-style-cnvs-block-tabs-pills .cnvs-block-tabs-buttons .cnvs-block-tabs-button:last-of-type {
+		margin-bottom: 0;
+	}
+	.cnvs-block-tabs.is-style-cnvs-block-tabs-pills .cnvs-block-tabs-buttons .cnvs-block-tabs-button.cnvs-block-tabs-button-active a {
+		color: var(--cnvs-tabs-button-pills-active-color);
+		background-color: var(--cnvs-tabs-button-pills-active-background);
+	}
+	.cnvs-block-tabs.is-style-cnvs-block-tabs-pills.cnvs-block-tabs-vertical .cnvs-block-tabs-button-active a {
+		border-radius: var(--cnvs-tabs-border-radius);
+	}
+}

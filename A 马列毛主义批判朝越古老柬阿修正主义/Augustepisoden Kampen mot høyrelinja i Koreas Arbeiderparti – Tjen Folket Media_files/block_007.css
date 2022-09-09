@@ -1,0 +1,116 @@
+/**
+ * All of the CSS for your block editor functionality should be
+ * included in this file.
+ */
+/**
+ * Environment for all styles (variables, additions, etc).
+ */
+/*--------------------------------------------------------------*/
+/*--------------------------------------------------------------*/
+.wp-block-group {
+	position: relative;
+}
+
+.wp-block-group .wp-block-group__inner-container {
+	position: relative;
+	width: 100%;
+	z-index: 3;
+}
+
+.wp-block-group .wp-block-group__inner-container > *:last-child {
+	margin-bottom: 0;
+}
+
+@media (min-width: 760px) and (min-width: 760px) {
+	.wp-block-group > .is-block-content {
+		max-width: 50%;
+		width: 100%;
+	}
+}
+
+.is-style-cnvs-block-bordered {
+	--cnvs-style-single-border-color: #dee2e6;
+	border: 1px solid var(--cnvs-style-single-border-color);
+	padding: 40px;
+}
+
+.is-style-cnvs-block-single-border {
+	--cnvs-style-single-border-width: 1px;
+	--cnvs-style-single-border-color: #dee2e6;
+	--cnvs-style-single-margin: 2rem;
+}
+
+.is-style-cnvs-block-single-border:before {
+	content: "";
+	background-color: var(--cnvs-style-single-border-color);
+	display: block;
+	width: 4rem;
+	height: var(--cnvs-style-single-border-width);
+	margin: var(--cnvs-style-single-margin) auto;
+}
+
+.is-style-cnvs-block-single-border:after {
+	content: "";
+	background-color: var(--cnvs-style-single-border-color);
+	display: block;
+	width: 4rem;
+	height: var(--cnvs-style-single-border-width);
+	margin: var(--cnvs-style-single-margin) auto;
+}
+
+.is-style-cnvs-block-single-border.alignright {
+	border: none;
+	padding-left: var(--cnvs-style-single-margin);
+	border-left: var(--cnvs-style-single-border-width) solid var(--cnvs-style-single-border-color);
+}
+
+.is-style-cnvs-block-single-border.alignright:before, .is-style-cnvs-block-single-border.alignright:after {
+	content: none;
+}
+
+.is-style-cnvs-block-single-border.alignleft {
+	border: none;
+	padding-right: var(--cnvs-style-single-margin);
+	border-right: var(--cnvs-style-single-border-width) solid var(--cnvs-style-single-border-color);
+}
+
+.is-style-cnvs-block-single-border.alignleft:before, .is-style-cnvs-block-single-border.alignleft:after {
+	content: none;
+}
+
+.is-style-cnvs-block-bg-light {
+	--cnvs-style-bg-light-background: #f8f9fa;
+	--cnvs-style-bg-light-padding: 40px;
+	background: var(--cnvs-style-bg-light-background);
+	padding: var(--cnvs-style-bg-light-padding);
+}
+
+.is-style-cnvs-block-bg-inverse {
+	--cnvs-style-bg-inverse-background: black;
+	--cnvs-style-bg-inverse-color: #fff;
+	--cnvs-style-bg-inverse-padding: 40px;
+	background: var(--cnvs-style-bg-inverse-background);
+	padding: var(--cnvs-style-bg-inverse-padding);
+	color: var(--cnvs-style-bg-inverse-color);
+}
+
+.is-style-cnvs-block-shadow {
+	--cnvs-style-shadow-box-shadow: 0 16px 36px 0 rgba(0,0,0,0.08);
+	--cnvs-style-shadow-padding: 40px;
+	-webkit-box-shadow: var(--cnvs-style-shadow-box-shadow);
+	box-shadow: var(--cnvs-style-shadow-box-shadow);
+	padding: var(--cnvs-style-shadow-padding);
+}
+
+@media (max-width: 1019.98px) {
+	.is-style-cnvs-block-single-border.alignleft,
+	.is-style-cnvs-block-single-border.alignright {
+		float: none;
+		width: 100%;
+		max-width: 100%;
+		border-left: none;
+		border-right: none;
+		margin-left: 0;
+		margin-right: 0;
+	}
+}

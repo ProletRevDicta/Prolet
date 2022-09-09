@@ -1,0 +1,145 @@
+/**
+ * All of the CSS for your public-facing functionality should be
+ * included in this file.
+ */
+/**
+ * Environment for all styles (variables, additions, etc).
+ */
+/*--------------------------------------------------------------*/
+/*--------------------------------------------------------------*/
+.cnvs-block-posts-sidebar {
+	--cnvs-posts-sidebar-thumbnail-width: 80px;
+	--cnvs-posts-sidebar-thumbnail-gutter: 2rem;
+	--cnvs-posts-sidebar-number-top: 0;
+	--cnvs-posts-sidebar-number-left: 0;
+	--cnvs-posts-sidebar-number-right: initial;
+	--cnvs-posts-sidebar-number-bottom: initial;
+	--cnvs-posts-sidebar-number-width: 30px;
+	--cnvs-posts-sidebar-number-height: 30px;
+	--cnvs-posts-sidebar-number-line-height: 30px;
+	--cnvs-posts-sidebar-number-background: #000;
+	--cnvs-posts-sidebar-number-color: white;
+	--cnvs-posts-sidebar-number-font-size: 80%;
+	--cnvs-posts-sidebar-number-border-radius: 0;
+}
+
+/*--------------------------------------------------------------*/
+.cnvs-block-posts-sidebar .cnvs-posts-list {
+	padding: 0;
+	margin: 0;
+	list-style: none;
+}
+
+.cnvs-block-posts-sidebar .cnvs-post-item:not(:first-child) {
+	margin-top: 1rem;
+}
+
+.cnvs-block-posts-sidebar .cnvs-post-outer {
+	display: -webkit-box;
+	display: -ms-flexbox;
+	display: flex;
+}
+
+.cnvs-block-posts-sidebar .cnvs-post-thumbnail {
+	position: relative;
+	-webkit-box-flex: 0;
+	-ms-flex: 0 0 var(--cnvs-posts-sidebar-thumbnail-width);
+	flex: 0 0 var(--cnvs-posts-sidebar-thumbnail-width);
+	margin-right: var(--cnvs-posts-sidebar-thumbnail-gutter);
+}
+
+.cnvs-block-posts-sidebar .cnvs-post-thumbnail img {
+	width: var(--cnvs-posts-sidebar-thumbnail-width);
+	height: var(--cnvs-posts-sidebar-thumbnail-width);
+	-o-object-fit: cover;
+	object-fit: cover;
+	font-family: 'object-fit: cover;';
+}
+
+.cnvs-block-posts-sidebar .cnvs-post-data {
+	-webkit-box-flex: 1;
+	-ms-flex-positive: 1;
+	flex-grow: 1;
+	width: 100%;
+}
+
+.cnvs-block-posts-sidebar .cnvs-post-number {
+	background: var(--cnvs-posts-sidebar-number-background);
+	position: absolute;
+	top: var(--cnvs-posts-sidebar-number-top);
+	left: var(--cnvs-posts-sidebar-number-left);
+	right: var(--cnvs-posts-sidebar-number-right);
+	bottom: var(--cnvs-posts-sidebar-number-bottom);
+	width: var(--cnvs-posts-sidebar-number-width);
+	height: var(--cnvs-posts-sidebar-number-height);
+	line-height: var(--cnvs-posts-sidebar-number-line-height);
+	color: var(--cnvs-posts-sidebar-number-color);
+	text-align: center;
+	font-size: var(--cnvs-posts-sidebar-number-font-size);
+	border-radius: var(--cnvs-posts-sidebar-number-border-radius);
+}
+
+.cnvs-block-posts-sidebar .cnvs-post-data .meta-category {
+	display: inline-block;
+	margin-bottom: 0.25rem;
+}
+
+.cnvs-block-posts-sidebar .cnvs-post-data .entry-title {
+	margin-top: 0;
+	margin-bottom: 0.25rem;
+}
+
+.cnvs-block-posts-sidebar .cnvs-post-meta {
+	display: -webkit-box;
+	display: -ms-flexbox;
+	display: flex;
+	-ms-flex-wrap: wrap;
+	flex-wrap: wrap;
+	-webkit-box-align: center;
+	-ms-flex-align: center;
+	align-items: center;
+}
+
+.cnvs-block-posts-sidebar .cnvs-post-meta .avatar {
+	margin-right: .5rem;
+}
+
+.cnvs-block-posts-sidebar .cnvs-post-meta a {
+	text-decoration: none;
+}
+
+.cnvs-block-posts-sidebar .cnvs-post-meta > * + * {
+	margin-left: .5rem;
+}
+
+.cnvs-block-posts-sidebar .cnvs-post-meta > * + *:before {
+	content: "\b7";
+	margin-right: .5rem;
+}
+
+.cnvs-block-posts-sidebar .cnvs-post-meta .published + .updated {
+	display: none;
+}
+
+.cnvs-block-posts-sidebar .cnvs-post-meta-hide {
+	display: none;
+}
+
+.cnvs-block-posts-sidebar-large .cnvs-post-item:not(:first-child) {
+	margin-top: 2rem;
+}
+
+.cnvs-block-posts-sidebar-large .cnvs-post-outer {
+	display: block;
+}
+
+.cnvs-block-posts-sidebar-large .cnvs-post-thumbnail {
+	margin-right: 0;
+	margin-bottom: 1rem;
+}
+
+.cnvs-block-posts-sidebar-large .cnvs-post-thumbnail img {
+	width: 100%;
+	height: auto;
+	border-radius: 0;
+}

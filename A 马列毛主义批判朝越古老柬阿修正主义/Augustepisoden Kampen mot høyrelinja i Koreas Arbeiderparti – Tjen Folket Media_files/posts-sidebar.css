@@ -1,0 +1,187 @@
+.cnvs-block-posts-sidebar .post-thumbnail {
+	overflow: initial;
+}
+
+.cnvs-block-posts-sidebar .post-thumbnail img {
+	width: 100%;
+}
+
+.cnvs-block-posts-sidebar.is-cnvs-block-rounded .post-thumbnail:before,
+.cnvs-block-posts-sidebar.is-cnvs-block-rounded .post-thumbnail img,
+.cnvs-block-posts-sidebar.is-cnvs-block-rounded .post-number {
+	border-radius: 50%;
+}
+
+.cnvs-block-posts-sidebar.is-cnvs-block-rounded .pk-lazyload.pk-lqip {
+	-webkit-clip-path: circle(50% at 50% 50%);
+	clip-path: circle(50% at 50% 50%);
+}
+
+/**
+ * Layouts
+ */
+.cnvs-block-posts-sidebar-list .post-thumbnail {
+	width: 100%;
+}
+
+.cnvs-block-posts-sidebar-list > ul > li + li {
+	margin-top: 1rem;
+}
+
+.cnvs-block-posts-sidebar-list .post-outer {
+	display: flex;
+}
+
+.cnvs-block-posts-sidebar-list .post-inner:first-child {
+	flex: 0 0 105px;
+	width: 105px;
+	max-width: 105px;
+	padding-right: 15px;
+}
+
+.cnvs-block-posts-sidebar-list .post-inner:first-child a {
+	display: block;
+	width: 100%;
+}
+
+.cnvs-block-posts-sidebar-list .post-inner:first-child img {
+	width: 100%;
+	height: auto;
+}
+
+.cnvs-block-posts-sidebar-list .post-inner:last-child {
+	display: flex;
+	flex: 0 0 calc(100% - 105px);
+	flex-direction: column;
+	justify-content: center;
+	max-width: calc(100% - 105px);
+	flex-basis: calc(100% - 105px);
+}
+
+.cnvs-block-posts-sidebar-numbered .post-thumbnail {
+	display: block;
+	position: relative;
+}
+
+.cnvs-block-posts-sidebar-numbered .post-thumbnail:before {
+	opacity: 1;
+}
+
+.cnvs-block-posts-sidebar-numbered .post-number-wrap {
+	position: absolute;
+	z-index: 1;
+	top: 0;
+	right: 0;
+	bottom: 0;
+	left: 0;
+	line-height: 1;
+}
+
+.cnvs-block-posts-sidebar-numbered .post-number {
+	display: inline-block;
+	overflow: hidden;
+	position: absolute;
+	top: 0;
+	left: 0;
+	text-align: center;
+	transition: all 0.2s ease;
+}
+
+.cnvs-block-posts-sidebar-numbered .post-number span {
+	display: block;
+	display: flex;
+	flex-direction: column;
+	align-items: center;
+	justify-content: center;
+	width: 30px;
+	height: 30px;
+	text-align: center;
+	transition: all 0.2s ease;
+}
+
+.cnvs-block-posts-sidebar-numbered .post-number span:first-child {
+	transform: translate(0);
+}
+
+.cnvs-block-posts-sidebar-numbered .post-number span:last-child {
+	position: absolute;
+	left: 50%;
+	transform: translateY(0%) translateX(-50%);
+}
+
+.cnvs-block-posts-sidebar-numbered .post-thumbnail:hover .post-number span:first-child {
+	transform: translateY(-100%);
+}
+
+.cnvs-block-posts-sidebar-numbered .post-thumbnail:hover .post-number span:last-child {
+	transform: translateY(-100%) translateX(-50%);
+}
+
+.cnvs-block-posts-sidebar-numbered > ul > li + li {
+	margin-top: 1rem;
+}
+
+.cnvs-block-posts-sidebar-numbered .post-outer {
+	display: flex;
+}
+
+.cnvs-block-posts-sidebar-numbered .post-inner:first-child {
+	flex: 0 0 105px;
+	width: 105px;
+	max-width: 105px;
+	padding-right: 15px;
+}
+
+.cnvs-block-posts-sidebar-numbered .post-inner:first-child a {
+	display: block;
+	width: 100%;
+}
+
+.cnvs-block-posts-sidebar-numbered .post-inner:first-child img {
+	width: 100%;
+	height: auto;
+}
+
+.cnvs-block-posts-sidebar-numbered .post-inner:last-child {
+	display: flex;
+	flex: 0 0 calc(100% - 105px);
+	flex-direction: column;
+	justify-content: center;
+	max-width: calc(100% - 105px);
+	flex-basis: calc(100% - 105px);
+}
+
+.cnvs-block-posts-sidebar-large .cnvs-post-item + .cnvs-post-item {
+	margin-top: 1.5rem;
+}
+
+.cnvs-block-posts-sidebar-large .post-inner + .post-inner {
+	margin-top: 1rem;
+}
+
+.cnvs-block-posts-sidebar-slider article {
+	position: relative;
+	margin-bottom: 0;
+}
+
+.cnvs-block-posts-sidebar-slider .ratio-landscape .overlay-media:after {
+	padding-bottom: 75%;
+}
+
+.cnvs-block-posts-sidebar-slider .cnvs-post-item:not(:first-child) {
+	margin-top: 0;
+}
+
+.cnvs-block-posts-sidebar-slider .cnvs-post-item {
+	display: none;
+}
+
+.cnvs-block-posts-sidebar-slider ul > .cnvs-post-item:first-child {
+	display: block;
+}
+
+.cnvs-block-posts-sidebar-slider .owl-item:first-child .cnvs-post-item,
+.cnvs-block-posts-sidebar-slider .owl-loaded .owl-item .cnvs-post-item,
+.cnvs-block-posts-sidebar-slider .owl-carousel {
+	display: block;
+}
