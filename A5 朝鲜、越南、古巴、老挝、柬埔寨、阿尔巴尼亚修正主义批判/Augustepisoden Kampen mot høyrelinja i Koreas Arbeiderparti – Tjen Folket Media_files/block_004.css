@@ -1,0 +1,152 @@
+/**
+ * All of the CSS for your public-facing functionality should be
+ * included in this file.
+ */
+/**
+ * Environment for all styles (variables, additions, etc).
+ */
+/*--------------------------------------------------------------*/
+/*--------------------------------------------------------------*/
+[class*="is-style-cnvs-list-styled"] {
+	--cnvs-list-styled-line-height: 1.5;
+	--cnvs-list-styled-font-size: 1rem;
+	--cnvs-list-styled-children-font-size: 0.875rem;
+	--cnvs-list-styled-ul-box-background: #ced4da;
+	--cnvs-list-styled-ul-box-border-radius: 0;
+	--cnvs-list-styled-ul-positive-box-color: #28a745;
+	--cnvs-list-styled-ul-negative-box-color: #dc3545;
+	--cnvs-list-styled-ol-box-color: #495057;
+	--cnvs-list-styled-ol-box-font-size: 0.875rem;
+	--cnvs-list-styled-ol-box-font-weight: 600;
+	--cnvs-list-styled-ol-box-background-color: #e9ecef;
+	--cnvs-list-styled-ol-box-border-radius: 50%;
+	--cnvs-list-styled-ol-positive-box-background-color: #28a745;
+	--cnvs-list-styled-ol-negative-box-background-color: #dc3545;
+	--cnvs-list-styled-ol-positive-box-color: #fff;
+	--cnvs-list-styled-ol-negative-box-color: #fff;
+}
+
+/*--------------------------------------------------------------*/
+.is-style-cnvs-list-styled,
+.is-style-cnvs-list-styled-positive,
+.is-style-cnvs-list-styled-negative {
+	line-height: var(--cnvs-list-styled-line-height);
+	list-style: none;
+	font-size: var(--cnvs-list-styled-font-size);
+}
+
+.is-style-cnvs-list-styled:not(:first-child),
+.is-style-cnvs-list-styled-positive:not(:first-child),
+.is-style-cnvs-list-styled-negative:not(:first-child) {
+	margin-top: 1.5rem;
+}
+
+.is-style-cnvs-list-styled:not(:last-child),
+.is-style-cnvs-list-styled-positive:not(:last-child),
+.is-style-cnvs-list-styled-negative:not(:last-child) {
+	margin-bottom: 1.5rem;
+}
+
+.is-style-cnvs-list-styled li:not(:first-child),
+.is-style-cnvs-list-styled-positive li:not(:first-child),
+.is-style-cnvs-list-styled-negative li:not(:first-child) {
+	margin-top: 0.5rem;
+}
+
+.is-style-cnvs-list-styled > li,
+.is-style-cnvs-list-styled-positive > li,
+.is-style-cnvs-list-styled-negative > li {
+	position: relative;
+	padding-left: 2.5rem;
+}
+
+.is-style-cnvs-list-styled > li:before,
+.is-style-cnvs-list-styled-positive > li:before,
+.is-style-cnvs-list-styled-negative > li:before {
+	display: -webkit-box;
+	display: -ms-flexbox;
+	display: flex;
+	-webkit-box-align: center;
+	-ms-flex-align: center;
+	align-items: center;
+	-webkit-box-pack: center;
+	-ms-flex-pack: center;
+	justify-content: center;
+	position: absolute;
+	left: 0;
+	top: 0;
+}
+
+ol.is-style-cnvs-list-styled,
+ol.is-style-cnvs-list-styled-positive,
+ol.is-style-cnvs-list-styled-negative {
+	counter-reset: ol;
+}
+
+ol.is-style-cnvs-list-styled > li:before,
+ol.is-style-cnvs-list-styled-positive > li:before,
+ol.is-style-cnvs-list-styled-negative > li:before {
+	width: 1.5rem;
+	height: 1.5rem;
+	content: counter(ol);
+	counter-increment: ol;
+	color: var(--cnvs-list-styled-ol-box-color);
+	font-size: var(--cnvs-list-styled-ol-box-font-size);
+	font-weight: var(--cnvs-list-styled-ol-box-font-weight);
+	background-color: var(--cnvs-list-styled-ol-box-background-color);
+	border-radius: var(--cnvs-list-styled-ol-box-border-radius);
+	line-height: 1;
+}
+
+ul.is-style-cnvs-list-styled > li:before {
+	content: '';
+	width: 0.25rem;
+	height: 0.25rem;
+	margin-top: 0.75rem;
+	left: 1rem;
+	background: var(--cnvs-list-styled-ul-box-background);
+	border-radius: var(--cnvs-list-styled-ul-box-border-radius);
+}
+
+ol.is-style-cnvs-list-styled ul,
+ol.is-style-cnvs-list-styled ol,
+ul.is-style-cnvs-list-styled ol,
+ul.is-style-cnvs-list-styled ul {
+	margin-top: 0.5rem;
+	margin-bottom: 0.5rem;
+	padding-left: 0;
+	font-size: var(--cnvs-list-styled-children-font-size);
+}
+
+ol.is-style-cnvs-list-styled ul > li:not(:first-child),
+ol.is-style-cnvs-list-styled ol > li:not(:first-child),
+ul.is-style-cnvs-list-styled ol > li:not(:first-child),
+ul.is-style-cnvs-list-styled ul > li:not(:first-child) {
+	margin-top: 0.25rem;
+}
+
+ol.is-style-cnvs-list-styled-positive > li:before {
+	background-color: var(--cnvs-list-styled-ol-positive-box-background-color);
+	color: var(--cnvs-list-styled-ol-positive-box-color);
+}
+
+ol.is-style-cnvs-list-styled-negative > li:before {
+	background-color: var(--cnvs-list-styled-ol-negative-box-background-color);
+	color: var(--cnvs-list-styled-ol-negative-box-color);
+}
+
+ul.is-style-cnvs-list-styled-positive > li:before,
+ul.is-style-cnvs-list-styled-negative > li:before {
+	width: 1.5rem;
+	font-family: 'canvas-icons';
+}
+
+ul.is-style-cnvs-list-styled-positive > li:before {
+	content: "\e912";
+	color: var(--cnvs-list-styled-ul-positive-box-color);
+}
+
+ul.is-style-cnvs-list-styled-negative > li:before {
+	content: "\e913";
+	color: var(--cnvs-list-styled-ul-negative-box-color);
+}

@@ -1,0 +1,37 @@
+/**
+ * All of the CSS for your public-facing functionality should be
+ * included in this file.
+ */
+/**
+ * Environment for all styles (variables, additions, etc).
+ */
+/*--------------------------------------------------------------*/
+/*--------------------------------------------------------------*/
+.cnvs-gallery-type-slider.gallery {
+	display: block;
+}
+
+.cnvs-gallery-type-slider .gallery-item {
+	width: 100%;
+	max-width: 100%;
+	padding: 0;
+}
+
+.cnvs-gallery-type-slider .wp-caption-text {
+	margin-top: 1rem;
+}
+
+.cnvs-gallery-type-slider figure {
+	margin-bottom: 0;
+}
+
+.cnvs-gallery-type-slider img {
+	width: 100%;
+	height: auto;
+}
+
+.cnvs-gallery-type-slider > .gallery-item:not(:first-child) {
+	position: fixed;
+	top: -9999px;
+	left: -9999px;
+}

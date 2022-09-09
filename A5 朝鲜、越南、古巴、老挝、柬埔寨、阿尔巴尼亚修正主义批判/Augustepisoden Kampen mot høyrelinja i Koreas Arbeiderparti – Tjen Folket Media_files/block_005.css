@@ -1,0 +1,85 @@
+/**
+ * All of the CSS for your block editor functionality should be
+ * included in this file.
+ */
+/**
+ * Environment for all styles (variables, additions, etc).
+ */
+/*--------------------------------------------------------------*/
+/*--------------------------------------------------------------*/
+.cnvs-block-alert {
+	--cnvs-alert-background: #f8f9fa;
+	--cnvs-alert-padding: 0.5rem 1rem;
+	--cnvs-alert-font-size: 0.875rem;
+	--cnvs-alert-margin-bottom: 1rem;
+	--cnvs-alert-border-left: 2px solid transparent;
+}
+
+/*--------------------------------------------------------------*/
+.cnvs-block-alert {
+	position: relative;
+	padding: var(--cnvs-alert-padding);
+	background: var(--cnvs-alert-background);
+	font-size: var(--cnvs-alert-font-size);
+	margin-bottom: var(--cnvs-alert-margin-bottom);
+	border-left: var(--cnvs-alert-border-left);
+}
+
+.cnvs-block-alert.cnvs-block-alert-dismissible {
+	padding-right: 4rem;
+}
+
+.cnvs-block-alert.cnvs-block-alert-dismissible button.cnvs-close {
+	position: absolute;
+	top: 0;
+	right: 0;
+	height: 100%;
+	padding: 0 1rem;
+	color: inherit;
+}
+
+.cnvs-block-alert .cnvs-block-alert-inner h1, .cnvs-block-alert .cnvs-block-alert-inner h2, .cnvs-block-alert .cnvs-block-alert-inner h3, .cnvs-block-alert .cnvs-block-alert-inner h4, .cnvs-block-alert .cnvs-block-alert-inner h5, .cnvs-block-alert .cnvs-block-alert-inner h6 {
+	margin-bottom: 1rem;
+}
+
+.cnvs-block-alert .cnvs-block-alert-inner > * {
+	margin-top: 0.5rem;
+	margin-bottom: 0.5rem;
+}
+
+.cnvs-block-alert .cnvs-block-alert-inner > *:first-child:last-child {
+	margin-top: 0;
+	margin-bottom: 0;
+}
+
+.is-style-cnvs-block-alert-primary {
+	border-left-color: #007bff;
+}
+
+.is-style-cnvs-block-alert-secondary {
+	border-left-color: #6c757d;
+}
+
+.is-style-cnvs-block-alert-success {
+	border-left-color: #28a745;
+}
+
+.is-style-cnvs-block-alert-info {
+	border-left-color: #17a2b8;
+}
+
+.is-style-cnvs-block-alert-warning {
+	border-left-color: #ffc107;
+}
+
+.is-style-cnvs-block-alert-danger {
+	border-left-color: #dc3545;
+}
+
+.is-style-cnvs-block-alert-light {
+	border-left-color: #f8f9fa;
+}
+
+.is-style-cnvs-block-alert-dark {
+	border-left-color: #343a40;
+}

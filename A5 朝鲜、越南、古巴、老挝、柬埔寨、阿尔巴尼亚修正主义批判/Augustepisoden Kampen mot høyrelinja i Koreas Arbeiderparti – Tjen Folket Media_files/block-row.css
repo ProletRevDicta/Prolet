@@ -1,0 +1,53 @@
+/**
+ * All of the CSS for your public-facing functionality should be
+ * included in this file.
+ */
+/*--------------------------------------------------------------*/
+.cnvs-block-row {
+	overflow: hidden;
+}
+
+.cnvs-block-row > .cnvs-block-row-inner {
+	display: -webkit-box;
+	display: -ms-flexbox;
+	display: flex;
+	-ms-flex-wrap: nowrap;
+	flex-wrap: nowrap;
+}
+
+.cnvs-block-column {
+	-ms-flex-preferred-size: 50%;
+	flex-basis: 50%;
+	-webkit-box-flex: 0;
+	-ms-flex-positive: 0;
+	flex-grow: 0;
+	min-width: 0;
+	word-break: break-word;
+	overflow-wrap: break-word;
+}
+
+.cnvs-block-column {
+	-webkit-box-align: start;
+	-ms-flex-align: start;
+	align-items: flex-start;
+	display: -webkit-box;
+	display: -ms-flexbox;
+	display: flex;
+}
+
+.cnvs-block-column-inner {
+	display: -webkit-box;
+	display: -ms-flexbox;
+	display: flex;
+	-webkit-box-flex: 100%;
+	-ms-flex: 100%;
+	flex: 100%;
+	width: 100%;
+}
+
+.cnvs-block-column-inner > div {
+	-webkit-box-flex: 100%;
+	-ms-flex: 100%;
+	flex: 100%;
+	width: 100%;
+}
