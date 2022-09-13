@@ -1,0 +1,49 @@
+.cnvs-block-twitter-layout-slider {
+	padding: 2rem;
+	text-align: center;
+}
+
+.cnvs-block-twitter-layout-slider .pk-twitter-wrap .pk-twitter-tweet {
+	margin-top: 0;
+	padding: 0;
+}
+
+.cnvs-block-twitter-layout-slider .pk-twitter-link {
+	margin-bottom: 0.5rem;
+}
+
+.cnvs-block-twitter-layout-slider .pk-twitter-time {
+	justify-content: center;
+}
+
+.cnvs-block-twitter-layout-slider .pk-twitter-label {
+	display: none;
+}
+
+.cnvs-block-twitter-layout-slider .pk-twitter-footer {
+	margin-top: 1rem;
+}
+
+.cnvs-block-twitter-layout-slider .pk-twitter-tweet {
+	display: none;
+}
+
+.cnvs-block-twitter-layout-slider .pk-twitter-tweet:before {
+	display: none;
+}
+
+.cnvs-block-twitter-layout-slider .pk-tweets > .pk-twitter-tweet:first-child {
+	display: block;
+}
+
+.cnvs-block-twitter-layout-slider .owl-slide:first-child .pk-twitter-tweet {
+	display: block;
+}
+
+.cnvs-block-twitter-layout-slider .owl-loaded .owl-slide .pk-twitter-tweet {
+	display: block;
+}
+
+.cnvs-block-twitter-layout-slider .owl-carousel {
+	display: block;
+}

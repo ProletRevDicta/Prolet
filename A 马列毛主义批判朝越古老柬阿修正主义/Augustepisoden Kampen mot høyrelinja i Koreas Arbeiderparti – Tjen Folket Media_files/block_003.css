@@ -1,0 +1,131 @@
+/**
+ * All of the CSS for your public-facing functionality should be
+ * included in this file.
+ */
+/**
+ * Environment for all styles (variables, additions, etc).
+ */
+/*--------------------------------------------------------------*/
+/*--------------------------------------------------------------*/
+.is-style-cnvs-heading-numbered {
+	--cnvs-heading-numbered-background: #ced4da;
+	--cnvs-heading-numbered-color: white;
+	--cnvs-heading-numbered-border-radius: 50%;
+}
+
+/*--------------------------------------------------------------*/
+.content,
+.entry-content {
+	counter-reset: h2;
+}
+
+.content h2,
+.entry-content h2 {
+	counter-reset: h3;
+}
+
+.content h3,
+.entry-content h3 {
+	counter-reset: h4;
+}
+
+.content h4,
+.entry-content h4 {
+	counter-reset: h5;
+}
+
+.content h5,
+.entry-content h5 {
+	counter-reset: h6;
+}
+
+.is-style-cnvs-heading-numbered {
+	display: -webkit-box;
+	display: -ms-flexbox;
+	display: flex;
+}
+
+.is-style-cnvs-heading-numbered:before {
+	margin-right: 1rem;
+}
+
+h2.is-style-cnvs-heading-numbered:before {
+	display: -webkit-box;
+	display: -ms-flexbox;
+	display: flex;
+	-webkit-box-pack: center;
+	-ms-flex-pack: center;
+	justify-content: center;
+	-webkit-box-align: center;
+	-ms-flex-align: center;
+	align-items: center;
+	height: 2.5rem;
+	-webkit-box-flex: 0;
+	-ms-flex: 0 0 2.5rem;
+	flex: 0 0 2.5rem;
+	border-radius: var(--cnvs-heading-numbered-border-radius);
+	background: var(--cnvs-heading-numbered-background);
+	color: var(--cnvs-heading-numbered-color);
+	counter-increment: h2;
+	content: counter(h2);
+}
+
+h3.is-style-cnvs-heading-numbered:before {
+	counter-increment: h3;
+	content: counter(h3);
+}
+
+h2.is-style-cnvs-heading-numbered ~ h3.is-style-cnvs-heading-numbered:before {
+	content: counter(h2) "." counter(h3);
+}
+
+h4.is-style-cnvs-heading-numbered:before {
+	counter-increment: h4;
+	content: counter(h4);
+}
+
+h3.is-style-cnvs-heading-numbered ~ h4.is-style-cnvs-heading-numbered:before {
+	content: counter(h3) "." counter(h4);
+}
+
+h2.is-style-cnvs-heading-numbered ~ h3.is-style-cnvs-heading-numbered ~ h4.is-style-cnvs-heading-numbered:before {
+	content: counter(h2) "." counter(h3) "." counter(h4);
+}
+
+h5.is-style-cnvs-heading-numbered:before {
+	counter-increment: h5;
+	content: counter(h5);
+}
+
+h4.is-style-cnvs-heading-numbered ~ h5.is-style-cnvs-heading-numbered:before {
+	content: counter(h4) "." counter(h5);
+}
+
+h3.is-style-cnvs-heading-numbered ~ h4.is-style-cnvs-heading-numbered ~ h5.is-style-cnvs-heading-numbered:before {
+	content: counter(h3) "." counter(h4) "." counter(h5);
+}
+
+h2.is-style-cnvs-heading-numbered ~ h3.is-style-cnvs-heading-numbered ~ h4.is-style-cnvs-heading-numbered ~ h5.is-style-cnvs-heading-numbered:before {
+	content: counter(h2) "." counter(h3) "." counter(h4) "." counter(h5);
+}
+
+h6.is-style-cnvs-heading-numbered:before {
+	counter-increment: h6;
+	content: counter(h6);
+}
+
+h5.is-style-cnvs-heading-numbered ~ h6.is-style-cnvs-heading-numbered:before {
+	content: counter(h5) "." counter(h6);
+}
+
+h4.is-style-cnvs-heading-numbered ~ h5.is-style-cnvs-heading-numbered ~ h6.is-style-cnvs-heading-numbered:before {
+	content: counter(h4) "." counter(h5) "." counter(h6);
+}
+
+h3.is-style-cnvs-heading-numbered ~ h4.is-style-cnvs-heading-numbered ~ h5.is-style-cnvs-heading-numbered ~ h6.is-style-cnvs-heading-numbered:before {
+	content: counter(h3) "." counter(h4) "." counter(h5) "." counter(h6);
+}
+
+h2.is-style-cnvs-heading-numbered ~ h3.is-style-cnvs-heading-numbered ~ h4.is-style-cnvs-heading-numbered ~ h5.is-style-cnvs-heading-numbered ~ h6.is-style-cnvs-heading-numbered:before {
+	content: counter(h2) "." counter(h3) "." counter(h4) "." counter(h5) "." counter(h6);
+}

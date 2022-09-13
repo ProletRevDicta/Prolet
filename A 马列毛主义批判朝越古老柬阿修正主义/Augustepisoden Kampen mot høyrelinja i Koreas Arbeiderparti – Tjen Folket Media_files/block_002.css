@@ -1,0 +1,115 @@
+/**
+ * All of the CSS for your block editor functionality should be
+ * included in this file.
+ */
+/**
+ * Environment for all styles (variables, additions, etc).
+ */
+/*--------------------------------------------------------------*/
+/*--------------------------------------------------------------*/
+.cnvs-block-progress {
+	--cnvs-progress-background: #f8f9fa;
+	--cnvs-progress-border-radius: .25rem;
+	--cnvs-progress-font-size: .75rem;
+	--cnvs-progress-bar-background: #007bff;
+	--cnvs-progress-bar-color: #fff;
+	--cnvs-progress-striped-bar-background-image: linear-gradient(45deg, rgba(255, 255, 255, .15) 25%, transparent 25%, transparent 50%, rgba(255, 255, 255, .15) 50%, rgba(255, 255, 255, .15) 75%, transparent 75%, transparent);
+}
+
+/*--------------------------------------------------------------*/
+.cnvs-block-progress {
+	display: -webkit-box;
+	display: -ms-flexbox;
+	display: flex;
+	height: 1rem;
+	overflow: hidden;
+	font-size: var(--cnvs-progress-font-size);
+	background-color: var(--cnvs-progress-background);
+	border-radius: var(--cnvs-progress-border-radius);
+}
+
+.cnvs-block-progress-bar {
+	display: -webkit-box;
+	display: -ms-flexbox;
+	display: flex;
+	-webkit-box-orient: vertical;
+	-webkit-box-direction: normal;
+	-ms-flex-direction: column;
+	flex-direction: column;
+	-webkit-box-pack: center;
+	-ms-flex-pack: center;
+	justify-content: center;
+	color: var(--cnvs-progress-bar-color);
+	text-align: center;
+	white-space: nowrap;
+	-webkit-transition: width .6s ease;
+	transition: width .6s ease;
+	background-color: var(--cnvs-progress-bar-background);
+}
+
+.is-style-cnvs-block-progress-primary .cnvs-block-progress-bar {
+	background-color: #007bff;
+}
+
+.is-style-cnvs-block-progress-secondary .cnvs-block-progress-bar {
+	background-color: #6c757d;
+}
+
+.is-style-cnvs-block-progress-success .cnvs-block-progress-bar {
+	background-color: #28a745;
+}
+
+.is-style-cnvs-block-progress-info .cnvs-block-progress-bar {
+	background-color: #17a2b8;
+}
+
+.is-style-cnvs-block-progress-warning .cnvs-block-progress-bar {
+	background-color: #ffc107;
+}
+
+.is-style-cnvs-block-progress-danger .cnvs-block-progress-bar {
+	background-color: #dc3545;
+}
+
+.is-style-cnvs-block-progress-light .cnvs-block-progress-bar {
+	background-color: #f8f9fa;
+}
+
+.is-style-cnvs-block-progress-dark .cnvs-block-progress-bar {
+	background-color: #343a40;
+}
+
+@media screen and (prefers-reduced-motion: reduce) {
+	.cnvs-block-progress-bar {
+		-webkit-transition: none;
+		transition: none;
+	}
+}
+
+.cnvs-block-progress-striped .cnvs-block-progress-bar {
+	background-image: var(--cnvs-progress-striped-bar-background-image);
+	background-size: 1rem 1rem;
+}
+
+.cnvs-block-progress-animated .cnvs-block-progress-bar {
+	-webkit-animation: cnvs-block-progress-stripes 1s linear infinite;
+	animation: cnvs-block-progress-stripes 1s linear infinite;
+}
+
+@-webkit-keyframes cnvs-block-progress-stripes {
+	from {
+		background-position: 1rem 0;
+	}
+	to {
+		background-position: 0 0;
+	}
+}
+
+@keyframes cnvs-block-progress-stripes {
+	from {
+		background-position: 1rem 0;
+	}
+	to {
+		background-position: 0 0;
+	}
+}

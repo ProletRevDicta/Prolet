@@ -1,0 +1,79 @@
+/**
+ * All of the CSS for your block editor functionality should be
+ * included in this file.
+ */
+/**
+ * Environment for all styles (variables, additions, etc).
+ */
+/*--------------------------------------------------------------*/
+/*--------------------------------------------------------------*/
+.cnvs-block-collapsible {
+	--cnvs-collapsible-border-top: 1px solid #e9ecef;
+	--cnvs-collapsible-a-color: #212529;
+	--cnvs-collapsible-a-hover-color: #adb5bd;
+}
+
+/*--------------------------------------------------------------*/
+.cnvs-block-collapsible {
+	position: relative;
+	display: -webkit-box;
+	display: -ms-flexbox;
+	display: flex;
+	-webkit-box-orient: vertical;
+	-webkit-box-direction: normal;
+	-ms-flex-direction: column;
+	flex-direction: column;
+	min-width: 0;
+	word-wrap: break-word;
+	margin-bottom: 0;
+	background-clip: border-box;
+}
+
+.cnvs-block-collapsible + .cnvs-block-collapsible {
+	border-top: var(--cnvs-collapsible-border-top);
+}
+
+.cnvs-block-collapsible .cnvs-block-collapsible-title h6 {
+	margin: 0;
+}
+
+.cnvs-block-collapsible .cnvs-block-collapsible-title h6 a {
+	display: -webkit-box;
+	display: -ms-flexbox;
+	display: flex;
+	-webkit-box-pack: justify;
+	-ms-flex-pack: justify;
+	justify-content: space-between;
+	padding: 0.75rem 0;
+	border: none;
+	color: var(--cnvs-collapsible-a-color);
+	-webkit-transition: 0.25s;
+	transition: 0.25s;
+	text-decoration: none !important;
+	-webkit-box-shadow: none !important;
+	box-shadow: none !important;
+}
+
+.cnvs-block-collapsible .cnvs-block-collapsible-title h6 a:hover {
+	color: var(--cnvs-collapsible-a-hover-color);
+}
+
+.cnvs-block-collapsible .cnvs-block-collapsible-title h6 a:after {
+	content: "\e914";
+	font-family: "canvas-icons";
+	-webkit-transition: 0.25s;
+	transition: 0.25s;
+}
+
+.cnvs-block-collapsible .cnvs-block-collapsible-content {
+	display: none;
+}
+
+.cnvs-block-collapsible.cnvs-block-collapsible-opened > .cnvs-block-collapsible-title h6 a:after {
+	-webkit-transform: rotate(90deg);
+	transform: rotate(90deg);
+}
+
+.cnvs-block-collapsible.cnvs-block-collapsible-opened > .cnvs-block-collapsible-content {
+	display: block;
+}
