@@ -5,7 +5,7 @@ t='''| TXT文件 | PDF文件 |
 l=[]
 for a in os.walk(sys.path[0]):
     for b in a[2]:
-        if b[-3:]in['txt','TXT']:
+        if(b[-3:]in['txt','TXT'])and(a[0].find('档案图')==-1):
             l.append([b,a[0]])
 l.sort()
 for b in l:
