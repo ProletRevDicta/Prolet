@@ -61,7 +61,7 @@ Historical documents (in Chinese) about the GPCR（The great proletarian cultura
 
 # Repo.惠赠资料者刋物——永不停更：https://mega.nz/folder/rWRHWIoC#6qCHgyh3DLwXpEJ9O54cfA https://mastodon.online/@NKRao
 
-## Repo.原始圖片數據備份：https://github.com/ProletRevDicta/Prolet/tree/96fbf76ef3de00aae26e035245ac84d48ee34db4 
+## Repo.原始圖片數據備份：https://github.com/ProletRevDicta/Prolet/tree/96fbf76ef3de00aae26e035245ac84d48ee34db4
 
 **网版“毛澤東全集”全52卷，较不全，部分文稿有严重删节，仅供研究参照，7.84GB：https://mega.nz/folder/6CwjTIib#wlYLoZLFfmazXNVtKYwiPg**
 
