@@ -1,7 +1,7 @@
 # Prolet
 Historical documents (in Chinese) about the GPCR（The great proletarian cultural revolution） (Thanks Comrade RC)
 
-### 目前TXT文件数量已经使README.md文件超越了GitHub的显示大小限制，因此A类目之外的TTXT文件暂不列表。
+### 目前TXT文件数量已经使README.md文件超越了GitHub的显示大小限制，因此A类目之外的TXT文件暂不列表。
 
 # **[ProletRevDicta/Prolet直链下载网站](https://hubred-rev.github.io/index.htm)**
 
