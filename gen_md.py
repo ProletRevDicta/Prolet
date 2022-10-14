@@ -5,7 +5,7 @@ t='''| TXT文件 | PDF文件 |
 l=[]
 for a in os.walk(sys.path[0]):
     for b in a[2]:
-        if(b[-3:]in['txt','TXT'])and(a[0].find('档案图')==-1):
+        if(b[-3:]in['txt','TXT'])and(a[0].find('档案图')==-1)and(a[0].find('马克思恩格斯全集1~50')==-1)and(a[0].find('列宁全集1~60')==-1)and(a[0].find('新编斯大林全集及档案附卷（简体横排本，诸夏怀斯社编）')==-1):
             l.append([b,a[0]])
 l.sort()
 for b in l:
