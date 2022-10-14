@@ -3,7 +3,7 @@ import os
 fo=[]
 for a in os.walk('/home/a/Prolet'):
     for b in a[2]:
-        if b[-3:]in['txt','TXT']:
+        if(b[-3:]in['txt','TXT'])and(a[0].find('档案图')==-1):
             if a[0]not in fo:fo.append(a[0])
 fo.sort()
 fo2=[a for a in fo if a.count('/')==4 and'MD5s'not in a]
@@ -44,7 +44,7 @@ for z in range(len(fo2)):
     fo=[]
     for a in os.walk('/home/a/Prolet'):
         for b in a[2]:
-            if b[-3:]in['txt','TXT']:
+            if(b[-3:]in['txt','TXT'])and(a[0].find('档案图')==-1):
                 if a[0]not in fo:fo.append(a[0])
     fo=[a for a in fo if a.find(fo2[z])==-1 and a.find(fo2[z].split('/')[-1:][0])==-1 and a]
     fo.sort()
@@ -56,7 +56,7 @@ for z in range(len(fo2)):
         lm=[]
         for a in os.walk(d):
             for b in a[2]:
-                if b[-3:]in['txt','TXT']:
+                if(b[-3:]in['txt','TXT'])and(a[0].find('档案图')==-1):
                     d=False
                     for c in fl:
                         if c in b:d=True;tk=True
