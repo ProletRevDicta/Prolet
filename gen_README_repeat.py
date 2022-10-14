@@ -5,8 +5,11 @@ for a in os.walk('/home/a/Prolet'):
     for b in a[2]:
         if b[-3:]in['txt','TXT']:
             if a[0]not in fo:fo.append(a[0])
+fo.sort()
 fo2=[a for a in fo if a.count('/')==4 and'MD5s'not in a]
+fo2.sort()
 fo3=[a.split(' ')[1].split('（')[0].split('、')for a in fo2]
+fo3.sort()
 fo4=[]
 for a in fo3:
     fo4.append([])
@@ -36,6 +39,7 @@ for a in fo3:
                     fo4[len(fo4)-1].append(c)
             else:fo4[len(fo4)-1].append(ap)
 fo3=fo4
+fo3.sort()
 for z in range(len(fo2)):
     fo=[]
     for a in os.walk('/home/a/Prolet'):
@@ -43,6 +47,7 @@ for z in range(len(fo2)):
             if b[-3:]in['txt','TXT']:
                 if a[0]not in fo:fo.append(a[0])
     fo=[a for a in fo if a.find(fo2[z])==-1 and a.find(fo2[z].split('/')[-1:][0])==-1 and a]
+    fo.sort()
     fl=fo3[z]
     for d in fo:
         t='''“[%s](%s)”下的复现文件：\n\n| 复现TXT文件 | 复现PDF文件 |

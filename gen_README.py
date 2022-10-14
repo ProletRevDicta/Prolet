@@ -6,6 +6,7 @@ for a in os.walk(sys.path[0]):
         if(b[-3:]in['txt','TXT'])and(a[0].find('档案图')==-1):
             if a[0]not in fo:fo.append(a[0])
 fo=[a for a in fo if a!='/home/a/Prolet']
+fo.sort()
 for d in fo:
     t='''| TXT文件 | PDF文件 |
 | ------- | ------- |\n'''
