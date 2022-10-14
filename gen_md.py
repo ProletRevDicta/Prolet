@@ -1,6 +1,8 @@
 from urllib.parse import quote
 import os,sys
-t=''
+t='''| TXT文件 | PDF文件 |
+| ------- | ------- |
+'''
 l=[]
 for a in os.walk(sys.path[0]):
     for b in a[2]:
@@ -8,7 +10,7 @@ for a in os.walk(sys.path[0]):
             l.append([b,a[0]])
 l.sort()
 for b in l:
-    t='%s[%s](%s) - %s\n\n'%(t,'.'.join(b[0].split('.')[:-1]),'%s/%s'%('/'.join([quote(c)for c in b[1].replace('/home/a/Prolet/','').replace('/home/a/Prolet','').split('/')]),quote(b[0])),'[PDF](%s)'%('%s/%s'%('/'.join([quote(c)for c in b[1].replace('/home/a/Prolet/','').replace('/home/a/Prolet','').split('/')]),quote('%s.pdf'%'.'.join(b[0].split('.')[:-1]))))if os.path.exists('%s/%s.pdf'%(b[1],'.'.join(b[0].split('.')[:-1])))else'暂无')
+    t='%s| [%s](%s) | %s |\n'%(t,'.'.join(b[0].split('.')[:-1]),'%s/%s'%('/'.join([quote(c)for c in b[1].replace('/home/a/Prolet/','').replace('/home/a/Prolet','').split('/')]),quote(b[0])),'[PDF](%s)'%('%s/%s'%('/'.join([quote(c)for c in b[1].replace('/home/a/Prolet/','').replace('/home/a/Prolet','').split('/')]),quote('%s.pdf'%'.'.join(b[0].split('.')[:-1]))))if os.path.exists('%s/%s.pdf'%(b[1],'.'.join(b[0].split('.')[:-1])))else'暂无')
 
 print('FIN1...')
 
