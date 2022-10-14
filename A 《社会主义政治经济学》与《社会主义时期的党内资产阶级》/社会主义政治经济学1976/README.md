@@ -1,6 +1,3 @@
-
-来自文字版pdf文件：[社会主义政治经济学（1976.9）粗校版 ConRev](https://github.com/ProletRevDicta/Prolet/blob/master/Socialist%20political%20economy%20社会主义政治经济学（1976.9）粗校版%20ConRev.pdf)
-
-本文件夹内，提供处理成markdown、epub、word格式的文件
-
-如需更多格式，可用pandoc，将markdown文件进行转换
+| TXT文件 | PDF文件 |
+| ------- | ------- |
+| [(重要文件)社会主义政治经济学1976 hyliang96](A%20%E3%80%8A%E7%A4%BE%E4%BC%9A%E4%B8%BB%E4%B9%89%E6%94%BF%E6%B2%BB%E7%BB%8F%E6%B5%8E%E5%AD%A6%E3%80%8B%E4%B8%8E%E3%80%8A%E7%A4%BE%E4%BC%9A%E4%B8%BB%E4%B9%89%E6%97%B6%E6%9C%9F%E7%9A%84%E5%85%9A%E5%86%85%E8%B5%84%E4%BA%A7%E9%98%B6%E7%BA%A7%E3%80%8B/%E7%A4%BE%E4%BC%9A%E4%B8%BB%E4%B9%89%E6%94%BF%E6%B2%BB%E7%BB%8F%E6%B5%8E%E5%AD%A61976/%28%E9%87%8D%E8%A6%81%E6%96%87%E4%BB%B6%29%E7%A4%BE%E4%BC%9A%E4%B8%BB%E4%B9%89%E6%94%BF%E6%B2%BB%E7%BB%8F%E6%B5%8E%E5%AD%A61976%20hyliang96.txt) | 暂无 |
