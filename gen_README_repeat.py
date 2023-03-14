@@ -1,12 +1,13 @@
 from urllib.parse import quote
-import os
+import os,sys
+app=sys.path[0]
 fo=[]
-for a in os.walk('/home/a/Prolet'):
+for a in os.walk(app):
     for b in a[2]:
         if(b[-3:]in['txt','TXT'])and(a[0].find('档案图')==-1):
             if a[0]not in fo:fo.append(a[0])
 fo.sort()
-fo2=[a for a in fo if a.count('/')==4 and'MD5s'not in a]
+fo2=[a for a in fo if a.count('/')>app.count('/') and'MD5s'not in a]
 fo2.sort()
 fo3=[a.split(' ')[1].split('（')[0].split('、')for a in fo2]
 fo3.sort()
@@ -42,7 +43,7 @@ fo3=fo4
 fo3.sort()
 for z in range(len(fo2)):
     fo=[]
-    for a in os.walk('/home/a/Prolet'):
+    for a in os.walk(app):
         for b in a[2]:
             if(b[-3:]in['txt','TXT'])and(a[0].find('档案图')==-1):
                 if a[0]not in fo:fo.append(a[0])
@@ -51,7 +52,7 @@ for z in range(len(fo2)):
     fl=fo3[z]
     for d in fo:
         t='''“[%s](%s)”下的复现文件：\n\n| 复现TXT文件 | 复现PDF文件 |
-| ------- | ------- |\n'''%(d.replace('/home/a/Prolet/','').replace('/home/a/Prolet',''),'../%s'%quote(d.replace('/home/a/Prolet/','').replace('/home/a/Prolet','')))
+| ------- | ------- |\n'''%(d.replace('%s/'%app,'').replace(app,''),'../%s'%quote(d.replace('%s/'%app,'').replace(app,'')))
         tk=False
         lm=[]
         for a in os.walk(d):
@@ -65,7 +66,7 @@ for z in range(len(fo2)):
         lm.sort(key=lambda x:x[2])
         for a in lm:
             b=a[2]
-            t='%s| [%s](%s) | %s |\n'%(t,'.'.join(b.split('.')[:-1]),'../%s/%s'%('/'.join([quote(c)for c in a[0].replace('/home/a/Prolet/','').replace('/home/a/Prolet','').split('/')]),quote(b)),'[下载](%s)'%('../%s/%s'%('/'.join([quote(c)for c in a[0].replace('/home/a/Prolet/','').replace('/home/a/Prolet','').split('/')]),quote('%s.pdf'%'.'.join(b.split('.')[:-1]))))if os.path.exists('%s/%s.pdf'%(a[0],'.'.join(b.split('.')[:-1])))else'暂无')
+            t='%s| [%s](%s) | %s |\n'%(t,'.'.join(b.split('.')[:-1]),'../%s/%s'%('/'.join([quote(c)for c in a[0].replace('%s/'%app,'').replace(app,'').split('/')]),quote(b)),'[下载](%s)'%('../%s/%s'%('/'.join([quote(c)for c in a[0].replace('%s/'%app,'').replace(app,'').split('/')]),quote('%s.pdf'%'.'.join(b.split('.')[:-1]))))if os.path.exists('%s/%s.pdf'%(a[0],'.'.join(b.split('.')[:-1])))else'暂无')
         if tk:
             if os.path.exists(pa:='%s/README.md'%fo2[z]):
                 print(t)
