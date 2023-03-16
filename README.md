@@ -3,7 +3,7 @@ Historical documents (in Chinese) about the GPCR（The great proletarian cultura
 
 ### 目前TXT文件数量已经使README.md文件超越了GitHub的显示大小限制，因此A类目之外的TXT文件暂不列表。
 
-# **[ProletRevDicta/Prolet直链下载网站](https://hubred-rev.github.io/index.htm)**
+# **[ProletRevDicta/Prolet直链下载网站](https://proletredirection.github.io/index.htm)**
 
 # **伟大的领袖和导师贡萨罗主席永垂不朽！**
 
