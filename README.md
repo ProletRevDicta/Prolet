@@ -63,7 +63,7 @@ Historical documents (in Chinese) about the GPCR（The great proletarian cultura
 
 # Repo.惠赠资料者《马列毛主义新闻》——永不停更：[https://ciangcing14.github.io/](https://ciangcing14.github.io/)
 
-# Repo.惠赠资料者《乌俄战争新闻》——[https://urwar2023.github.io/](https://urwar2023.github.io/)
+# Repo.惠赠资料者《乌俄战争新闻》——[https://urwar2024.github.io/](https://urwar2023.github.io/)
 
 ## Repo.原始圖片數據備份：
 
