@@ -1,14 +1,6 @@
 | TXT文件 | PDF文件 |
 | ------- | ------- |
-| [Lenin CW-Vol. 01](Lenin%20CW-Vol.%2001.txt) | 暂无 |
-| [Lenin CW-Vol. 02](Lenin%20CW-Vol.%2002.txt) | 暂无 |
-| [Lenin CW-Vol. 03](Lenin%20CW-Vol.%2003.txt) | 暂无 |
-| [Lenin CW-Vol. 04](Lenin%20CW-Vol.%2004.txt) | 暂无 |
-| [Lenin CW-Vol. 05](Lenin%20CW-Vol.%2005.txt) | 暂无 |
-| [Lenin CW-Vol. 06](Lenin%20CW-Vol.%2006.txt) | 暂无 |
-| [Lenin CW-Vol. 07](Lenin%20CW-Vol.%2007.txt) | 暂无 |
-| [Lenin CW-Vol. 08](Lenin%20CW-Vol.%2008.txt) | 暂无 |
-| [Lenin CW-Vol. 09](Lenin%20CW-Vol.%2009.txt) | 暂无 |
+| [Lenin CW-Vol. 1](Lenin%20CW-Vol.%201.txt) | 暂无 |
 | [Lenin CW-Vol. 10](Lenin%20CW-Vol.%2010.txt) | 暂无 |
 | [Lenin CW-Vol. 11](Lenin%20CW-Vol.%2011.txt) | 暂无 |
 | [Lenin CW-Vol. 12](Lenin%20CW-Vol.%2012.txt) | 暂无 |
@@ -19,6 +11,7 @@
 | [Lenin CW-Vol. 17](Lenin%20CW-Vol.%2017.txt) | 暂无 |
 | [Lenin CW-Vol. 18](Lenin%20CW-Vol.%2018.txt) | 暂无 |
 | [Lenin CW-Vol. 19](Lenin%20CW-Vol.%2019.txt) | 暂无 |
+| [Lenin CW-Vol. 2](Lenin%20CW-Vol.%202.txt) | 暂无 |
 | [Lenin CW-Vol. 20](Lenin%20CW-Vol.%2020.txt) | 暂无 |
 | [Lenin CW-Vol. 21](Lenin%20CW-Vol.%2021.txt) | 暂无 |
 | [Lenin CW-Vol. 22](Lenin%20CW-Vol.%2022.txt) | 暂无 |
@@ -29,6 +22,7 @@
 | [Lenin CW-Vol. 27](Lenin%20CW-Vol.%2027.txt) | 暂无 |
 | [Lenin CW-Vol. 28](Lenin%20CW-Vol.%2028.txt) | 暂无 |
 | [Lenin CW-Vol. 29](Lenin%20CW-Vol.%2029.txt) | 暂无 |
+| [Lenin CW-Vol. 3](Lenin%20CW-Vol.%203.txt) | 暂无 |
 | [Lenin CW-Vol. 30](Lenin%20CW-Vol.%2030.txt) | 暂无 |
 | [Lenin CW-Vol. 31](Lenin%20CW-Vol.%2031.txt) | 暂无 |
 | [Lenin CW-Vol. 32](Lenin%20CW-Vol.%2032.txt) | 暂无 |
@@ -39,12 +33,18 @@
 | [Lenin CW-Vol. 37](Lenin%20CW-Vol.%2037.txt) | 暂无 |
 | [Lenin CW-Vol. 38](Lenin%20CW-Vol.%2038.txt) | 暂无 |
 | [Lenin CW-Vol. 39](Lenin%20CW-Vol.%2039.txt) | 暂无 |
+| [Lenin CW-Vol. 4](Lenin%20CW-Vol.%204.txt) | 暂无 |
 | [Lenin CW-Vol. 40](Lenin%20CW-Vol.%2040.txt) | 暂无 |
 | [Lenin CW-Vol. 41](Lenin%20CW-Vol.%2041.txt) | 暂无 |
 | [Lenin CW-Vol. 42](Lenin%20CW-Vol.%2042.txt) | 暂无 |
 | [Lenin CW-Vol. 43](Lenin%20CW-Vol.%2043.txt) | 暂无 |
 | [Lenin CW-Vol. 44](Lenin%20CW-Vol.%2044.txt) | 暂无 |
 | [Lenin CW-Vol. 45](Lenin%20CW-Vol.%2045.txt) | 暂无 |
+| [Lenin CW-Vol. 5](Lenin%20CW-Vol.%205.txt) | 暂无 |
+| [Lenin CW-Vol. 6](Lenin%20CW-Vol.%206.txt) | 暂无 |
+| [Lenin CW-Vol. 7](Lenin%20CW-Vol.%207.txt) | 暂无 |
+| [Lenin CW-Vol. 8](Lenin%20CW-Vol.%208.txt) | 暂无 |
+| [Lenin CW-Vol. 9](Lenin%20CW-Vol.%209.txt) | 暂无 |
 
 “[A 《社会主义政治经济学》与《社会主义时期的党内资产阶级》](../A%20%E3%80%8A%E7%A4%BE%E4%BC%9A%E4%B8%BB%E4%B9%89%E6%94%BF%E6%B2%BB%E7%BB%8F%E6%B5%8E%E5%AD%A6%E3%80%8B%E4%B8%8E%E3%80%8A%E7%A4%BE%E4%BC%9A%E4%B8%BB%E4%B9%89%E6%97%B6%E6%9C%9F%E7%9A%84%E5%85%9A%E5%86%85%E8%B5%84%E4%BA%A7%E9%98%B6%E7%BA%A7%E3%80%8B)”下的复现文件：
 
