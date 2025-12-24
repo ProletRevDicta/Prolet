@@ -4,6 +4,8 @@
 | [Gonzalo Volume 2 1988-1990 Collected Works of Communist Party of Peru](Gonzalo%20Volume%202%201988-1990%20Collected%20Works%20of%20Communist%20Party%20of%20Peru.txt) | 暂无 |
 | [Gonzalo Volume 3 1991-1992 Collected Works of Communist Party of Peru](Gonzalo%20Volume%203%201991-1992%20Collected%20Works%20of%20Communist%20Party%20of%20Peru.txt) | 暂无 |
 | [Gonzalo Volume 4 1993-1999 Collected Works of Communist Party of Peru](Gonzalo%20Volume%204%201993-1999%20Collected%20Works%20of%20Communist%20Party%20of%20Peru.txt) | 暂无 |
+| [贡萨罗选集 Bandera Roja 第1卷](%E8%B4%A1%E8%90%A8%E7%BD%97%E9%80%89%E9%9B%86%20Bandera%20Roja%20%E7%AC%AC1%E5%8D%B7.txt) | 暂无 |
+| [贡萨罗选集 Bandera Roja 第2卷](%E8%B4%A1%E8%90%A8%E7%BD%97%E9%80%89%E9%9B%86%20Bandera%20Roja%20%E7%AC%AC2%E5%8D%B7.txt) | 暂无 |
 
 “[A3 新编斯大林全集及档案附卷（简体横排本，诸夏怀斯社编）（Paddle版）](../A3%20%E6%96%B0%E7%BC%96%E6%96%AF%E5%A4%A7%E6%9E%97%E5%85%A8%E9%9B%86%E5%8F%8A%E6%A1%A3%E6%A1%88%E9%99%84%E5%8D%B7%EF%BC%88%E7%AE%80%E4%BD%93%E6%A8%AA%E6%8E%92%E6%9C%AC%EF%BC%8C%E8%AF%B8%E5%A4%8F%E6%80%80%E6%96%AF%E7%A4%BE%E7%BC%96%EF%BC%89%EF%BC%88Paddle%E7%89%88%EF%BC%89)”下的复现文件：
 

@@ -1,5 +1,7 @@
 | TXT文件 | PDF文件 |
 | ------- | ------- |
+| [Abimael Guzmán Reinoso OBRAS ESCOGIDAS Tomo 1](Abimael%20Guzm%C3%A1n%20Reinoso%20OBRAS%20ESCOGIDAS%20Tomo%201.txt) | [下载](Abimael%20Guzm%C3%A1n%20Reinoso%20OBRAS%20ESCOGIDAS%20Tomo%201.pdf) |
+| [Abimael Guzmán Reinoso OBRAS ESCOGIDAS Tomo 2](Abimael%20Guzm%C3%A1n%20Reinoso%20OBRAS%20ESCOGIDAS%20Tomo%202.txt) | [下载](Abimael%20Guzm%C3%A1n%20Reinoso%20OBRAS%20ESCOGIDAS%20Tomo%202.pdf) |
 | [BL Gonzalo Volume 1 1968-1987 Collected Works of Communist Party of Peru](BL%20Gonzalo%20Volume%201%201968-1987%20Collected%20Works%20of%20Communist%20Party%20of%20Peru.txt) | 暂无 |
 | [BL Gonzalo Volume 2 1988-1990 Collected Works of Communist Party of Peru](BL%20Gonzalo%20Volume%202%201988-1990%20Collected%20Works%20of%20Communist%20Party%20of%20Peru.txt) | 暂无 |
 | [BL Gonzalo Volume 3 1991-1992 Collected Works of Communist Party of Peru](BL%20Gonzalo%20Volume%203%201991-1992%20Collected%20Works%20of%20Communist%20Party%20of%20Peru.txt) | 暂无 |
