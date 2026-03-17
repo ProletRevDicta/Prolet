@@ -45,7 +45,7 @@ for z in range(len(fo2)):
     fo=[]
     for a in os.walk(app):
         for b in a[2]:
-            if(b[-3:]in['txt','TXT'])and(a[0].find('档案图')==-1):
+            if(b[-3:]in['txt','TXT'])and(a[0].find('档案图')==-1)and(b.find('POv5')!=-1):
                 if a[0]not in fo:fo.append(a[0])
     fo=[a for a in fo if a.find(fo2[z])==-1 and a.find(fo2[z].split('/')[-1:][0])==-1 and a]
     fo.sort()
@@ -57,7 +57,7 @@ for z in range(len(fo2)):
         lm=[]
         for a in os.walk(d):
             for b in a[2]:
-                if(b[-3:]in['txt','TXT'])and(a[0].find('档案图')==-1):
+                if(b[-3:]in['txt','TXT'])and(a[0].find('档案图')==-1)and(b.find('POv5')!=-1):
                     d=False
                     for c in fl:
                         if c in b:d=True;tk=True
@@ -71,7 +71,7 @@ for z in range(len(fo2)):
                                        '../%s/%s'%('/'.join([quote(c)for c in a[0].replace('%s/'%app,'').replace(app,'').split('/')]),
                                        quote(b)),
                                        '[下载](%s)'%('../%s/%s'%('/'.join([quote(c)for c in a[0].replace('%s/'%app,'').replace(app,'').split('/')]),
-                                       quote('%s.pdf'%'.'.join(b.split('.')[:-1]))))if os.path.exists('%s/%s.pdf'%(a[0],'.'.join(b.split('.')[:-1])))else'暂无')
+                                           quote('%s.pdf'%'.'.join(b.split('.')[:-1])[:-5])))if os.path.exists('%s/%s.pdf'%(a[0],'.'.join(b.split('.')[:-1])[:-5]))else'暂无')
         if tk:
             if os.path.exists(pa:='%s/README.md'%fo2[z]):
                 print(t)
